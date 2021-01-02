@@ -1,0 +1,1168 @@
+#AREADATA
+Name Forbidden City II~
+Builders None~
+VNUMs 750 799
+Credits {60  90} Ahmad   Forbidden City II~
+Security 9
+End
+
+
+
+#MOBILES
+#750
+emperor~
+the Emperor~
+{1T{!he {%E{5mpe{%r{!o{1r{0 smirks as he sees his subjects grovelling before him.
+~
+This man has caused widespread suffering throughout the nation,
+imposing heavy taxes that the poor can barely afford.
+You can end the nation's misery now..
+~
+human~
+ABH 0 0 -600 0
+100 100 50d10+15000 50d50+29500 10d10+45 none
+-50 -50 -50 -50
+FIKN 0 0 Q
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#751
+eunuch~
+a eunuch~
+A eunuch is here, fanning the emperor with a long {#ba{3na{#na {2l{@ea{2f{0.
+~
+A eunuch is here, fanning the emperor with a long {#ba{3na{#na {2l{@ea{2f{0.
+He, or it, has sacrificed his (or its) {8pre{7cio{&us m{7anh{8ood{0 to serve the emperor,
+just for a better life.
+~
+human~
+AB 0 0 -50 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+FIKNR 0 0 Q
+stand stand none 600
+AHMV ABCDEFGHIJK medium unknown
+#752
+concubine~
+a concubine~
+A concubine is here, trying to charm the pants off the Emperor.
+~
+This girl looks small and dainty. You wonder if she can handle
+the Emperor's roughness.
+~
+human~
+AH 0 0 0 0
+85 85 40d10+10000 50d35+22000 10d3+60 none
+-58 -58 -58 -58
+EFIKN 0 0 0
+stand stand female 100
+AHMV ABCDEFGHIJK medium unknown
+#753
+palace servant~
+a palace servant~
+A palace servant is here, bustling about with an errand to run.
+~
+A servant turns to look at you, then continues on his daily bustle.
+~
+human~
+AGH 0 0 40 0
+40 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+FN 0 0 Q
+stand stand male 30
+AHMV ABCDEFGHIJK medium unknown
+#754
+palace cook~
+a palace cook~
+A palace cook is here, carving a woman out of an apple.
+~
+A cook stands here, painstakinly carving the shape of a woman
+out of an apple. You just have to admire this cook's skill and patience.
+~
+human~
+ABH 0 0 100 0
+38 38 10d10+1600 10d10+1600 5d6+12 chop
+-20 -20 -20 -20
+FIKN 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium unknown
+#755
+master cook~
+the master cook~
+The master cook is here, supervising the cooks under him.
+~
+The master cook is shouting at the cooks under him to hurry up.
+A hungry emperor is an angry emperor.
+~
+human~
+ABH 0 0 0 0
+50 50 50d10+4500 50d10+4500 5d8+20 cleave
+-30 -30 -30 -30
+EFIKNR 0 0 0
+stand stand male 50
+AHMV ABCDEFGHIJK medium unknown
+#756
+empress dowager mother~
+the emperor's mother~
+The Empress Dowager is here, practising tai chi.
+~
+The Emperor's mother is here, practising her monkey style kick.
+For an old woman, she's pretty nimble.
+~
+human~
+ABH 0 HN 400 0
+90 90 1d1+18000 50d40+24500 10d10+40 none
+-51 -51 -51 -51
+EFGIKN 0 0 Q
+stand stand female 200
+AHMV ABCDEFGHIJK medium unknown
+#757
+yang gui fei~
+Yang Guifei~
+Yang Guifei, the Emperor's favourite concubine, is admiring the pond.
+~
+Yang Guifei is the Emperor's favourite concubine. Actually she's
+not admiring the pond, she's contemplating whether to jump in
+and escape the Emperor's clutches once and for all.
+~
+human~
+ABH T HN 400 0
+50 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+FIN 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#758
+assassin~
+an assassin~
+An {7a{&s{!sass{&i{7n{0 is lurking in the shadows.
+~
+An assassin is lurking in the shadows, waiting for an opportune moment to kill the emperor.
+~
+human~
+ABH QV H 0 0
+80 80 50d30+19500 50d30+19500 8d9+59 none
+-54 -54 -54 -54
+EFGHIKNW 0 H Q
+stand stand female 10
+AHMV ABCDEFGHIJK medium unknown
+#759
+wizened old man~
+a wizened old man~
+A {8wi{7zen{8ed {8old{0 man is here, practising kungfu.
+~
+A {8wi{7zen{8ed {8old{^ man is here, practising kungfu. He could break
+your neck with one chop.  HEE-YAHH!
+~
+human~
+AB 0 DH 300 0
+86 90 50d40+24500 50d40+24500 5d8+40 divine
+-62 -62 -62 -62
+CEFHIKN 0 0 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#760
+jet li~
+Jet Li~
+Jet Li is here, honing his No-Shadow-Kick.
+~
+Careful, this guy is one tough cookie. His No-Shadow-Kick is actually
+a kick so fast there's no shadow. You've been warned.
+~
+human~
+AB V EH 600 0
+100 100 1d1+27000 50d50+29500 5d10+70 divine
+-90 -90 -90 -90
+CEFGIKN 0 HINQY 0
+stand stand male 30
+AHMV ABCDEFGHIJK medium unknown
+#761
+prime minister~
+the prime minister~
+The prime minister is here, studying some scrolls.
+~
+The prime minister is a man in his fifties, but looks around seventy.
+His dealings with the Emperor have all but driven him mad.
+~
+human~
+AB 0 H 400 0
+50 50 50d20+6000 50d10+4500 5d8+60 divine
+-30 -30 -30 -30
+FIKN 0 HI 0
+stand stand male 870
+AHMV ABCDEFGHIJK medium unknown
+#762
+concubine~
+a palace concubine~
+A concubine is here, playing poker with the other concubines.
+~
+This girl was plucked from her family at a tender age, and sent to
+serve the Emperor. Families which objected were subject
+to death, or worse still, chinese nipple torture.
+~
+human~
+ABH 0 0 0 0
+50 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+FIN 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#763
+emperor guard bodyguard~
+the emperor's bodyguard~
+An imposing man stands here, guarding the emperor.
+~
+A big hairy man stands here. Don't mess with him.
+~
+human~
+ABF 0 H 100 0
+80 80 50d30+19500 50d30+19500 10d10+80 none
+-54 -54 -54 -54
+CEFIKNR 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#764
+palace guard~
+a palace guard~
+A man stands here, guarding the palace from wild birds and other threats.
+~
+A man stands here, wielding a mean sabre. His purpose is to kill intruders
+like you.
+~
+human~
+ABF 0 H 0 0
+70 70 50d20+14500 50d20+14500 6d10+33 none
+-46 -46 -46 -46
+CEFIKNR 0 0 0
+stand stand male 20
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#750
+royal chair~
+{%Th{5e R{%oya{5l Ch{%air{0~
+{%Th{5e R{%oya{5l Ch{%air{0 is here, being sat on by {1t{!he {%E{5mp{%e{!ro{1r{0.~
+unknown~
+furniture 0 0
+1000 1000 EH 1000 1000
+0 0 0 P
+#751
+ancient fridge~
+an {8a{7n{&c{^ie{6nt {6f{^r{&i{7d{8ge{0~
+An {8a{7n{&c{^ie{6nt {6f{^r{&i{7d{8ge{0 lies here. These people have fridges?~
+unknown~
+container 0 0
+100 0 0 100 0
+0 10 0 P
+#752
+shrimp dumpling~
+a tasty {3sh{#ri{7m{&p d{7u{#mpl{3ing{0~
+A tasty {3sh{#ri{7m{&p d{7u{#mpl{3ing{0 is waiting to be eaten.~
+unknown~
+food 0 A
+2 2 0 0 0
+0 1 1 P
+#753
+jade hairpin pin~
+a {@ja{2d{7e {&ha{7i{2r{@pin{0~
+A standard object is lying here.~
+unknown~
+armor ABY AE
+14 15 15 15 0
+80 3 2123 P
+A
+3 1
+A
+4 1
+A
+20 -2
+A
+13 200
+A
+18 14
+A
+19 16
+#754
+gold earring~
+a {#g{3ol{#d{0 earring~
+A shiny {#g{3ol{#d{0 thing lies here.~
+unknown~
+armor ABK AU
+20 23 23 23 0
+78 2 1324 P
+A
+20 -1
+A
+18 20
+A
+2 1
+A
+19 18
+A
+12 120
+A
+13 175
+#755
+throne~
+the {^r{7o{&y{7a{^l t{7h{&ro{7n{^e{0~
+The {^r{7o{&y{7a{^l t{7h{&ro{7n{^e{0 is here, dazzling you with its {#g{3ol{#d{0 and {&j{@ewel{&s{0.~
+unknown~
+furniture 0 0
+2 10000 EH 0 0
+0 100 100000 P
+#756
+big bed~
+{&b{7i{&g b{7e{&d{0~
+The Emperor's {&b{7i{&g b{7e{&d{0 is here. Disgusting fella.~
+unknown~
+furniture 0 0
+100 100 EHK 30 30
+0 100 10000 P
+#757
+assassin dagger~
+an {7a{&s{!sass{&i{7n{0 dagger~
+A lethal dagger lies here.~
+unknown~
+weapon ABY AN
+dagger 11 12 silver ADH
+81 50 1000 P
+A
+18 17
+A
+19 19
+A
+20 -2
+A
+13 120
+A
+12 -100
+A
+2 1
+#758
+master chef apron~
+the master chef's apron~
+A smelly apron lies here.~
+unknown~
+armor SY AD
+15 15 15 15 0
+83 30 100 P
+A
+3 1
+A
+13 120
+A
+17 -10
+A
+18 14
+A
+19 15
+#759
+jet's shoes~
+jet's shoes~
+A pair of cloth shoes lie here.~
+unknown~
+armor ASY AG
+21 20 20 20 0
+89 40 100 P
+A
+18 19
+A
+19 17
+A
+13 90
+A
+14 300
+A
+2 2
+#760
+pork bao bun~
+a {&p{7o{#rk b{7a{&o{0~
+A tasty looking bun lies here~
+unknown~
+food 0 A
+3 3 0 0 0
+0 20 29 P
+#761
+fish noodles~
+a bowl of {#f{3is{#h {&no{7odl{&es{0~
+A bowl of noodles is here, waiting to be eaten.~
+unknown~
+food 0 A
+5 5 0 0 0
+0 20 20 P
+#762
+guard sabre~
+guard's sabre~
+A mean sabre lies here.~
+unknown~
+weapon ABY AN
+sword 11 11 iron DH
+79 90 1000 P
+A
+18 16
+A
+19 16
+A
+1 2
+#0
+
+
+
+#ROOMS
+#750
+The Palace Verandah~
+A light summer breeze blows through the verandah, playfully ruffling
+your hair. The sweet scent of summer lingers in the air, and you
+break out into a smile as you think about the summer.
+~
+0 0 0
+D0
+~
+~
+0 0 755
+D2
+~
+~
+0 0 897
+D3
+~
+~
+0 0 751
+S
+#751
+The Palace Verandah~
+A light summer breeze blows through the verandah, playfully ruffling
+your hair. The sweet scent of summer lingers in the air, and you
+break out into a smile as you think about the summer.
+~
+0 0 0
+D0
+~
+~
+0 0 754
+D1
+~
+~
+0 0 750
+D2
+~
+~
+0 0 896
+D3
+~
+~
+0 0 752
+S
+#752
+The Palace Verandah~
+A light summer breeze blows through the verandah, playfully ruffling
+your hair. The sweet scent of summer lingers in the air, and you
+break out into a smile as you think about the summer.
+~
+0 0 0
+D0
+~
+~
+0 0 753
+D1
+~
+~
+0 0 751
+D2
+~
+~
+0 0 895
+S
+#753
+The Palace Verandah~
+A light summer breeze blows through the verandah, playfully ruffling
+your hair. The sweet scent of summer lingers in the air, and you
+break out into a smile as you think about the summer.
+~
+0 0 0
+D1
+~
+~
+0 0 754
+D2
+~
+~
+0 0 752
+S
+#754
+The Palace Verandah~
+{!Th{1{5e {%Emp{5e{1r{!or{0 yawns and leans back on the royal chair, stretching as his
+concubine pops a {5g{%rap{5e{0 into his mouth. This emperor is a {&slothful, greedy, ruthless{0
+tyrant who has wasted the taxpayers' money on {3w{#ome{3n{0 and {3lavi{#sh luxu{3ries{0. Many a good
+man have been {!slain{0 trying to rid the country of this menace.
+~
+0 0 0
+D0
+~
+~
+0 0 756
+D1
+~
+~
+0 0 755
+D2
+~
+~
+0 0 751
+D3
+~
+~
+0 0 753
+S
+#755
+The Palace Verandah~
+A light summer breeze blows through the verandah, playfully ruffling
+your hair. The sweet scent of summer lingers in the air, and you
+break out into a smile as you think about the summer.
+~
+0 0 0
+D2
+~
+~
+0 0 750
+D3
+~
+~
+0 0 754
+S
+#756
+Sheltered Walkway~
+A nice roof covers this walkway, sheltering the people from rain and
+other elements. Willow trees line the walkway, and sway gently to
+the tune of the breeze.
+~
+0 0 0
+D0
+~
+~
+0 0 757
+D2
+~
+~
+0 0 754
+S
+#757
+Sheltered Walkway~
+A nice roof covers this walkway, sheltering the people from rain and
+other elements. Willow trees line the walkway, and sway gently to
+the tune of the breeze.
+~
+0 0 0
+D0
+~
+~
+0 0 771
+D1
+~
+~
+0 0 758
+D2
+~
+~
+0 0 756
+D3
+~
+~
+0 0 768
+S
+#758
+Sheltered Walkway~
+A nice roof covers this walkway, sheltering the people from rain and
+other elements. Willow trees line the walkway, and sway gently to
+the tune of the breeze.
+~
+0 0 0
+D1
+~
+~
+0 0 759
+D3
+~
+~
+0 0 757
+S
+#759
+A Beautiful Garden~
+Ahh..what a beautiful garden. Dainty {7w{8i{&ll{8o{7w{0 trees dance merrily,
+and hummingbirds nestled within the embrace of the trees hum happily.
+The {#su{3n {#sh{3in{#es{0 benignly, imparting a gentle glow to the place.
+~
+0 0 0
+D0
+~
+~
+0 0 764
+D1
+~
+~
+0 0 762
+D2
+~
+~
+0 0 760
+D3
+~
+~
+0 0 758
+S
+#760
+A Beautiful Garden~
+Ahh..what a beautiful garden. Dainty {7w{8i{&ll{8o{7w{0 trees dance merrily,
+and hummingbirds nestled within the embrace of the trees hum happily.
+The {#su{3n {#sh{3in{#es{0 benignly, imparting a gentle glow to the place.
+~
+0 0 0
+D0
+~
+~
+0 0 759
+D1
+~
+~
+0 0 761
+S
+#761
+A Beautiful Garden~
+Ahh..what a beautiful garden. Dainty {7w{8i{&ll{8o{7w{0 trees dance merrily,
+and hummingbirds nestled within the embrace of the trees hum happily.
+The {#su{3n {#sh{3in{#es{0 benignly, imparting a gentle glow to the place.
+~
+0 0 0
+D0
+~
+~
+0 0 762
+D1
+~
+~
+0 0 765
+D3
+~
+~
+0 0 760
+S
+#762
+A Pond in the middle of a Beautiful Garden~
+The {6p{^on{6d {6s{^pa{&rk{^le{6s{0 under the gentle sun's rays.  You can see little
+carp fishies playing in the pond.  Ohh, how you wish you could jump
+in for a nice {^swim{0.
+~
+0 0 0
+D0
+~
+~
+0 0 763
+D1
+~
+~
+0 0 766
+D2
+~
+~
+0 0 761
+D3
+~
+~
+0 0 759
+S
+#763
+A Beautiful Garden~
+Ahh..what a beautiful garden. Dainty {7w{8i{&ll{8o{7w{0 trees dance merrily,
+and hummingbirds nestled within the embrace of the trees hum happily.
+The {#su{3n {#sh{3in{#es{0 benignly, imparting a gentle glow to the place.
+~
+0 0 0
+D1
+~
+~
+0 0 767
+D2
+~
+~
+0 0 762
+D3
+~
+~
+0 0 764
+S
+#764
+A Beautiful Garden~
+Ahh..what a beautiful garden. Dainty {7w{8i{&ll{8o{7w{0 trees dance merrily,
+and hummingbirds nestled within the embrace of the trees hum happily.
+The {#su{3n {#sh{3in{#es{0 benignly, imparting a gentle glow to the place.
+~
+0 0 0
+D1
+~
+~
+0 0 763
+D2
+~
+~
+0 0 759
+S
+#765
+A Beautiful Garden~
+Ahh..what a beautiful garden. Dainty {7w{8i{&ll{8o{7w{0 trees dance merrily,
+and hummingbirds nestled within the embrace of the trees hum happily.
+The {#su{3n {#sh{3in{#es{0 benignly, imparting a gentle glow to the place.
+~
+0 0 0
+D0
+~
+~
+0 0 766
+D3
+~
+~
+0 0 761
+S
+#766
+A Beautiful Garden~
+Ahh..what a beautiful garden. Dainty {7w{8i{&ll{8o{7w{0 trees dance merrily,
+and hummingbirds nestled within the embrace of the trees hum happily.
+The {#su{3n {#sh{3in{#es{0 benignly, imparting a gentle glow to the place.
+~
+0 0 0
+D0
+~
+~
+0 0 767
+D2
+~
+~
+0 0 765
+D3
+~
+~
+0 0 762
+S
+#767
+A Beautiful Garden~
+Ahh..what a beautiful garden. Dainty {7w{8i{&ll{8o{7w{0 trees dance merrily,
+and hummingbirds nestled within the embrace of the trees hum happily.
+The {#su{3n {#sh{3in{#es{0 benignly, imparting a gentle glow to the place.
+~
+0 0 0
+D2
+~
+~
+0 0 766
+D3
+~
+~
+0 0 763
+S
+#768
+Palace Kitchen~
+{#YU{@M!{#!{0 Heavenly aromas fill your nose, and you realise
+you have entered the palace kitchen. Mrmmm..what's the emperor
+having for {#di{@nn{#er{0 today?
+~
+0 0 0
+D0
+~
+~
+0 0 769
+D1
+~
+~
+0 0 757
+D3
+~
+~
+0 0 772
+S
+#769
+Palace Kitchen~
+{#YU{@M!{#!{0 Heavenly aromas fill your nose, and you realise
+you have entered the palace kitchen. Mrmmm..what's the emperor
+having for {#di{@nn{#er{0 today?
+~
+0 0 0
+D2
+~
+~
+0 0 768
+D3
+~
+~
+0 0 770
+S
+#770
+Palace Kitchen~
+{#YU{@M!{#!{0 Heavenly aromas fill your nose, and you realise
+you have entered the palace kitchen. Mrmmm..what's the emperor
+having for {#di{@nn{#er{0 today?
+~
+0 0 0
+D1
+~
+~
+0 0 769
+D2
+~
+~
+0 0 772
+S
+#771
+Sheltered Walkway~
+A nice roof covers this walkway, sheltering the people from rain and
+other elements. Willow trees line the walkway, and sway gently to
+the tune of the breeze.
+~
+0 0 0
+D0
+~
+~
+0 0 773
+D2
+~
+~
+0 0 757
+S
+#772
+Palace Kitchen~
+{#YU{@M!{#!{0 Heavenly aromas fill your nose, and you realise
+you have entered the palace kitchen. Mrmmm..what's the emperor
+having for {#di{@nn{#er{0 today?
+~
+0 0 0
+D0
+~
+~
+0 0 770
+D1
+~
+~
+0 0 768
+S
+#773
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 776
+D1
+~
+~
+0 0 774
+D2
+~
+~
+0 0 771
+D3
+~
+~
+0 0 786
+S
+#774
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 775
+D3
+~
+~
+0 0 773
+S
+#775
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 780
+D2
+~
+~
+0 0 774
+D3
+~
+~
+0 0 776
+S
+#776
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 779
+D1
+~
+~
+0 0 775
+D2
+~
+~
+0 0 773
+D3
+~
+~
+0 0 777
+S
+#777
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 778
+D1
+~
+~
+0 0 776
+D2
+~
+~
+0 0 786
+S
+#778
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 783
+D1
+~
+~
+0 0 779
+D2
+~
+~
+0 0 777
+S
+#779
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 781
+D1
+~
+~
+0 0 780
+D2
+~
+~
+0 0 776
+D3
+~
+~
+0 0 778
+S
+#780
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 782
+D2
+~
+~
+0 0 775
+D3
+~
+~
+0 0 779
+S
+#781
+Throne Room~
+Before you lies the {^r{7o{&y{7a{^l t{7h{&ro{7n{^e{0, dazzling you with
+its {#g{3ol{#d{0 and {&j{@ewel{&s{0. The Emperor is not here at the moment, now's
+your moment to have a taste of what being an Emperor is like.
+~
+0 0 0
+D1
+~
+~
+0 0 782
+D2
+~
+~
+0 0 779
+D3
+~
+~
+0 0 783
+S
+#782
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D2
+~
+~
+0 0 780
+D3
+~
+~
+0 0 781
+S
+#783
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D1
+~
+~
+0 0 781
+D2
+~
+~
+0 0 778
+D3
+~
+~
+0 0 784
+S
+#784
+The Emperor's Bedroom~
+You find yourself in the Emperor's bedroom. The bed is exceedingly
+{&b{7i{&g{0, presumably for whatever nighttime activities the {3d{8irt{3y{0
+fella conducts. Those poor concubines..
+~
+0 0 0
+D1
+~
+~
+0 0 783
+S
+#786
+Throne Room~
+The room is lavishly decorated with fine carpets and handmade furniture,
+all made by the finest craftsmen in the country. Luxury is not an
+option, it's a must.
+~
+0 0 0
+D0
+~
+~
+0 0 777
+D1
+~
+~
+0 0 773
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 752 100 750 1
+M 0 752 100 751 1
+M 0 752 100 752 1
+M 0 752 100 753 1
+M 0 758 100 753 1
+E 0 757 0 16
+O 0 750 0 754
+M 0 750 100 754 1
+M 0 751 100 754 2
+M 0 752 100 754 1
+M 0 763 100 754 3
+M 0 752 100 755 1
+M 0 753 100 756 1
+M 0 753 100 757 2
+M 0 764 100 757 2
+M 0 753 100 758 1
+M 0 756 100 759 1
+E 0 754 0 24
+M 0 764 100 759 2
+M 0 759 100 761 1
+M 0 757 100 762 1
+E 0 753 0 6
+M 0 764 100 763 1
+M 0 759 100 764 1
+M 0 760 100 766 1
+E 0 759 0 8
+M 0 754 100 768 1
+M 0 754 100 769 1
+M 0 754 100 770 1
+M 0 755 100 770 1
+E 0 758 0 5
+M 0 753 100 771 1
+M 0 754 100 772 1
+O 0 751 0 772
+P 0 752 100 751 6
+P 0 760 100 751 6
+P 0 761 100 751 6
+M 0 764 100 773 2
+E 0 762 0 16
+M 0 762 100 775 2
+M 0 764 100 777 1
+O 0 755 0 781
+M 0 761 100 782 1
+O 0 756 0 784
+M 0 762 100 784 7
+M 0 758 100 786 1
+E 0 757 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

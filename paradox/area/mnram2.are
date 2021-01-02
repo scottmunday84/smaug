@@ -1,0 +1,454 @@
+#AREADATA
+Name Forest of M'nram II~
+Builders None~
+VNUMs 450 499
+Credits {20  40} Katja   Forest of M'nram II~
+Security 9
+End
+
+
+
+#MOBILES
+#451
+trapped elf~
+a trapped elf~
+An {@e{2l{@f {xis caught in a trap.
+~
+The elf originally entered this dark cavern in search of more berries, and to take a short nap.
+Despite her parents' warnings, she has now found herself in a tight spot.
+Crying for help to get any travellers' attention, it seems like she will be stuck here for a while.
+~
+elf~
+ABH J 0 200 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+EJN 0 B Z
+stand stand female 2000
+AHMV ABCDEFGHIJK small unknown
+#455
+bear~
+a bear~
+A bear is looming over you.
+~
+This huge, shaggy, bear towers over you. It lets out a loud roar as it charges towards you, wanting some breakfast.
+~
+bear~
+AG 0 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+DEO 0 EI 0
+stand stand none 500
+AGHMV ABCDEFGHIJKUV medium unknown
+#461
+bat~
+a bat~
+A {8bat{x swoops down at you.
+~
+Though these bats are not vampire bats, they still bite people, plaguing them with various diseases and poisons.
+Inhabiting only the darker and damper regions of the cave, the roofs, these bats only swoop down when they see their target.
+Small they might be, but their fangs can easily sting as much as a cobra's.
+~
+bat~
+AGT TZ 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 bite
+-14 -14 -14 -14
+FH 0 0 S
+stand stand none 2000
+AGHMV ABCDEFGHIJKP small unknown
+#462
+imprisoned elf~
+an imprisoned {@e{2l{@f{x~
+An imprisoned {@e{2l{@f {xis begging for mercy.
+~
+With the huge beast slobbering and drooling over his head, the {@e{2l{@f {^is desperately begging for mercy.{x
+~
+elf~
+AB J 0 1000 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 B Z
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#463
+aardwolf~
+the AaardWolf~
+The {8Aar{3dW{8olf{x tears apart a rotting carcass.
+~
+One of the most feared beasts within the caverns, this beast has been known for snatching the elves during sunset while they are picking berries, and devouring them alive.
+Safely hidden within its lair, even those who seek to rid this beast forever have faced difficulties locating the Aardwolf.
+And when they do, none have left its lair alive.
+~
+hobgoblin~
+ABFT JVa BH -500 0
+40 30 6d12+853 6d12+853 4d6+8 bite
+-14 -14 -14 -14
+CN 0 LQ 0
+stand stand none 2000
+AHMV ABCDEFGHIJKY medium unknown
+#0
+
+
+
+#OBJECTS
+#462
+sharp fangs~
+a set of sharp fangs~
+Sharp fangs prick your little finger.~
+unknown~
+armor B AR
+14 14 9 9 0
+30 20 1 P
+A
+13 30
+A
+19 5
+A
+18 5
+#463
+prison cage~
+the {7p{&riso{7n c{&ag{7e{x~
+A cage is here for trapping young elves.~
+unknown~
+armor ABG AD
+12 12 12 10 0
+25 50 100 P
+A
+14 25
+A
+12 25
+A
+13 25
+A
+1 2
+#0
+
+
+
+#ROOMS
+#450
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 451
+D2
+~
+~
+0 0 564
+S
+#451
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 458
+D2
+~
+~
+0 0 450
+D3
+~
+~
+0 0 452
+S
+#452
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 457
+D1
+~
+~
+0 0 451
+D3
+~
+~
+0 0 453
+S
+#453
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 456
+D1
+~
+~
+0 0 452
+D3
+~
+~
+0 0 454
+S
+#454
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 455
+D1
+~
+~
+0 0 453
+S
+#455
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 462
+D1
+~
+~
+0 0 456
+D2
+~
+~
+0 0 454
+S
+#456
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 461
+D1
+~
+~
+0 0 457
+D2
+~
+~
+0 0 453
+D3
+~
+~
+0 0 455
+S
+#457
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 460
+D1
+~
+~
+0 0 458
+D2
+~
+~
+0 0 452
+D3
+~
+~
+0 0 456
+S
+#458
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D0
+~
+~
+0 0 459
+D2
+~
+~
+0 0 451
+D3
+~
+~
+0 0 457
+S
+#459
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D2
+~
+~
+0 0 458
+D3
+~
+~
+0 0 460
+S
+#460
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D1
+~
+~
+0 0 459
+D2
+~
+~
+0 0 457
+D3
+~
+~
+0 0 461
+S
+#461
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D1
+~
+~
+0 0 460
+D2
+~
+~
+0 0 456
+D3
+~
+~
+0 0 462
+S
+#462
+The dark caverns~
+The caverns are dark and uninviting, with staglamites and staglatites
+blocking your way about the cavern.  The cave has a musty stink.  Gathered
+from centuries of darkness.  You can barely make out the outlines of the
+cave, as you stumble over a loose rock.  
+~
+0 1 5
+D1
+~
+~
+0 0 461
+D2
+~
+~
+0 0 455
+D3
+~
+~
+0 0 463
+S
+#463
+The lair of the Aardwolf~
+The room is dark, and you can hear crunching noises coming from around
+you.  The morbid stench of rotting and decaying meat, and the bone crunching
+sounds suddenly remind you that you might be in the wrong place.  As you try
+to walk around, you stumble over a human skull, before landing on a whole
+pile of bones.  
+~
+0 1 0
+D1
+~
+~
+0 0 462
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 461 100 450 1
+M 0 455 100 451 1
+M 0 451 100 451 1
+M 0 455 100 452 1
+M 0 461 100 453 2
+M 0 461 100 454 2
+M 0 451 100 454 1
+M 0 455 100 455 1
+M 0 461 100 456 2
+M 0 455 100 457 1
+M 0 455 100 458 1
+M 0 455 100 459 1
+M 0 451 100 459 1
+M 0 461 100 460 2
+M 0 455 100 461 1
+M 0 461 100 462 2
+M 0 451 100 462 1
+M 0 463 100 463 1
+E 0 462 0 20
+M 0 462 100 463 1
+E 0 463 0 5
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,1476 @@
+#AREADATA
+Name Forbidden City~
+Builders None~
+VNUMs 850 899
+Credits {60  90} Ahmad   Forbidden City~
+Security 9
+End
+
+
+
+#MOBILES
+#850
+forbidden city guard~
+a Forbidden City guard~
+A guard stands here, spear in hand.
+~
+A guard stands here, resolutely prepared to guard the Forbidden City with his life.
+He wields a mean sharp steel spear, and could poke you from 7 feet away.
+~
+human~
+ABT V 0 50 0
+80 80 50d30+8000 50d30+19500 8d9+36 none
+-54 -54 -54 -54
+CFK 0 F 0
+stand stand male 40
+AHMV ABCDEFGHIJK medium unknown
+#851
+minister~
+a minister~
+A minister lies prostrate here, in adoration of the "beloved" emperor.
+~
+A minister lies prostrate before the palace, trying to go as low as possible.
+If anyone is caught with his head up. he (or she) won't have any head left...
+~
+human~
+AG 0 0 100 0
+87 80 40d30+2500 50d30+19500 5d2+25 none
+-5 -5 -5 -5
+FIKR 0 0 Q
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#852
+gaudily dressed courtier~
+a courtier~
+A {1ga{!ud{@il{2y dre{@ss{1ed{0 courtier is here, bowed forward.
+~
+A {1ga{!ud{@il{2y dre{@ss{1ed{0 courtier is here, head bowed down in adulation
+of the emperor. One wrong move and his head comes off.
+~
+human~
+AG 0 0 100 0
+88 73 38d100+2800 50d25+16000 8d2+15 none
+-9 -9 -9 -9
+FIKU 0 0 Q
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#853
+eunuch~
+a eunuch~
+A eunuch stands here, head bowed before the emperor.
+~
+A eunuch stands here, head bowed before the emperor.
+He has sacrificed his {8pre{7cio{&us m{7anh{8ood{0 to serve the emperor. Poor guy.
+~
+human~
+AG 0 0 50 0
+90 50 30d3+3000 50d10+4500 5d3+18 none
+-19 -19 -19 -19
+FIKU 0 0 Q
+stand stand none 300
+AHMV ABCDEFGHIJK medium unknown
+#854
+emperor~
+the Emperor~
+{1T{!he {%E{5mp{%e{!ro{1r{0 smirks as he sees his subjects grovelling before him.
+~
+This man has caused widespread suffering throughout the nation,
+imposing heavy taxes that the poor can barely afford.
+You can end the nation's misery now..
+~
+human~
+ABH 0 0 -300 0
+100 100 50d10+15000 50d50+29500 10d10+45 none
+-50 -50 -50 -50
+FIKN 0 0 Q
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#850
+steel spear~
+a {8s{7tee{8l {0spear~
+A long {8s{7tee{8l {0spear rests on the ground.~
+unknown~
+weapon 0 AN
+staff 10 10 pierce H
+70 8 2059 P
+A
+19 10
+A
+18 10
+#851
+royal chair~
+{%Th{5e R{%oya{5l Ch{%air{0~
+{%Th{5e R{%oya{5l Ch{%air{0 is here, being sat on by {1t{!he {%E{5mp{%e{!ro{1r{0.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+#852
+portal shimmering shadun~
+a shimmering portal~
+A {Ms{mh{Wi{xm{Mm{me{Wr{xi{Mn{mg{x portal leads back to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#850
+Gates to the Forbidden City~
+You stand before two massive iron wrought gates.  An imposing guard
+stands at each side of the gates, wary of unwelcome intruders.  Beyond lies
+the great Forbidden City, a magnificent home for an Emperor and his harem of
+concubines.  
+~
+0 4 0
+D0
+~
+~
+0 0 851
+S
+#851
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 858
+D1
+~
+~
+0 0 852
+D2
+~
+~
+0 0 850
+D3
+~
+~
+0 0 864
+S
+#852
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 857
+D1
+~
+~
+0 0 853
+D3
+~
+~
+0 0 851
+S
+#853
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 856
+D1
+~
+~
+0 0 854
+D3
+~
+~
+0 0 852
+S
+#854
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 855
+D3
+~
+~
+0 0 853
+S
+#855
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 871
+D2
+~
+~
+0 0 854
+D3
+~
+~
+0 0 856
+S
+#856
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 870
+D1
+~
+~
+0 0 855
+D2
+~
+~
+0 0 853
+D3
+~
+~
+0 0 857
+S
+#857
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 869
+D1
+~
+~
+0 0 856
+D2
+~
+~
+0 0 852
+D3
+~
+~
+0 0 858
+S
+#858
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 868
+D1
+~
+~
+0 0 857
+D2
+~
+~
+0 0 851
+D3
+~
+~
+0 0 859
+S
+#859
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 867
+D1
+~
+~
+0 0 858
+D2
+~
+~
+0 0 864
+D3
+~
+~
+0 0 860
+S
+#860
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 866
+D1
+~
+~
+0 0 859
+D2
+~
+~
+0 0 863
+D3
+~
+~
+0 0 861
+S
+#861
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 865
+D1
+~
+~
+0 0 860
+D2
+~
+~
+0 0 862
+S
+#862
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 861
+D1
+~
+~
+0 0 863
+S
+#863
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 860
+D1
+~
+~
+0 0 864
+D3
+~
+~
+0 0 862
+S
+#864
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 859
+D1
+~
+~
+0 0 851
+D3
+~
+~
+0 0 863
+S
+#865
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 878
+D1
+~
+~
+0 0 866
+D2
+~
+~
+0 0 861
+S
+#866
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 877
+D1
+~
+~
+0 0 867
+D2
+~
+~
+0 0 860
+D3
+~
+~
+0 0 865
+S
+#867
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 876
+D1
+~
+~
+0 0 868
+D2
+~
+~
+0 0 859
+D3
+~
+~
+0 0 866
+S
+#868
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 875
+D1
+~
+~
+0 0 869
+D2
+~
+~
+0 0 858
+D3
+~
+~
+0 0 867
+S
+#869
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 874
+D1
+~
+~
+0 0 870
+D2
+~
+~
+0 0 857
+D3
+~
+~
+0 0 868
+S
+#870
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 873
+D1
+~
+~
+0 0 871
+D2
+~
+~
+0 0 856
+D3
+~
+~
+0 0 869
+S
+#871
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 872
+D2
+~
+~
+0 0 855
+D3
+~
+~
+0 0 870
+S
+#872
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 885
+D2
+~
+~
+0 0 871
+D3
+~
+~
+0 0 873
+S
+#873
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 884
+D1
+~
+~
+0 0 872
+D2
+~
+~
+0 0 870
+D3
+~
+~
+0 0 874
+S
+#874
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 883
+D1
+~
+~
+0 0 873
+D2
+~
+~
+0 0 869
+D3
+~
+~
+0 0 875
+S
+#875
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 882
+D1
+~
+~
+0 0 874
+D2
+~
+~
+0 0 868
+D3
+~
+~
+0 0 876
+S
+#876
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 881
+D1
+~
+~
+0 0 875
+D2
+~
+~
+0 0 867
+D3
+~
+~
+0 0 877
+S
+#877
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 880
+D1
+~
+~
+0 0 876
+D2
+~
+~
+0 0 866
+D3
+~
+~
+0 0 878
+S
+#878
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 879
+D1
+~
+~
+0 0 877
+D2
+~
+~
+0 0 865
+S
+#879
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 892
+D1
+~
+~
+0 0 880
+D2
+~
+~
+0 0 878
+S
+#880
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 891
+D1
+~
+~
+0 0 881
+D2
+~
+~
+0 0 877
+D3
+~
+~
+0 0 879
+S
+#881
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 890
+D1
+~
+~
+0 0 882
+D2
+~
+~
+0 0 876
+D3
+~
+~
+0 0 880
+S
+#882
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 889
+D1
+~
+~
+0 0 883
+D2
+~
+~
+0 0 875
+D3
+~
+~
+0 0 881
+S
+#883
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 888
+D1
+~
+~
+0 0 884
+D2
+~
+~
+0 0 874
+D3
+~
+~
+0 0 882
+S
+#884
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 887
+D1
+~
+~
+0 0 885
+D2
+~
+~
+0 0 873
+D3
+~
+~
+0 0 883
+S
+#885
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 886
+D2
+~
+~
+0 0 872
+D3
+~
+~
+0 0 884
+S
+#886
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 899
+D2
+~
+~
+0 0 885
+D3
+~
+~
+0 0 887
+S
+#887
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 898
+D1
+~
+~
+0 0 886
+D2
+~
+~
+0 0 884
+D3
+~
+~
+0 0 888
+S
+#888
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 897
+D1
+~
+~
+0 0 887
+D2
+~
+~
+0 0 883
+D3
+~
+~
+0 0 889
+S
+#889
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 896
+D1
+~
+~
+0 0 888
+D2
+~
+~
+0 0 882
+D3
+~
+~
+0 0 890
+S
+#890
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 895
+D1
+~
+~
+0 0 889
+D2
+~
+~
+0 0 881
+D3
+~
+~
+0 0 891
+S
+#891
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 894
+D1
+~
+~
+0 0 890
+D2
+~
+~
+0 0 880
+D3
+~
+~
+0 0 892
+S
+#892
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 893
+D1
+~
+~
+0 0 891
+D2
+~
+~
+0 0 879
+S
+#893
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D1
+~
+~
+0 0 894
+D2
+~
+~
+0 0 892
+S
+#894
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D1
+~
+~
+0 0 895
+D2
+~
+~
+0 0 891
+D3
+~
+~
+0 0 893
+S
+#895
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 752
+D1
+~
+~
+0 0 896
+D2
+~
+~
+0 0 890
+D3
+~
+~
+0 0 894
+S
+#896
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 751
+D1
+~
+~
+0 0 897
+D2
+~
+~
+0 0 889
+D3
+~
+~
+0 0 895
+S
+#897
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D0
+~
+~
+0 0 750
+D1
+~
+~
+0 0 898
+D2
+~
+~
+0 0 888
+D3
+~
+~
+0 0 896
+S
+#898
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D1
+~
+~
+0 0 899
+D2
+~
+~
+0 0 887
+D3
+~
+~
+0 0 897
+S
+#899
+The Imperial Courtyard~
+The Imperial Courtyard is a massive open air court, lined with painstakingly
+carved {8gra{7ni{&te{7 ti{8les{0. Banners flutter {1p{!re{#tt{!il{1y{0 in the cool breeze,
+as hundreds of ministers, courtiers, and servants come from all over
+the country to pay tribute to the emperor. It's his birthday today...
+better have a present or your head will {!roll{0..
+~
+0 0 0
+D2
+~
+~
+0 0 886
+D3
+~
+~
+0 0 898
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 850 100 850 2
+E 0 850 0 16
+O 0 852 0 850
+M 0 853 100 851 2
+M 0 852 100 851 2
+M 0 851 100 851 1
+M 0 851 100 852 1
+M 0 852 100 852 1
+M 0 853 100 852 1
+M 0 853 100 853 1
+M 0 852 100 853 2
+M 0 851 100 853 1
+M 0 853 100 854 3
+M 0 852 100 855 3
+M 0 851 100 856 3
+M 0 851 100 857 1
+M 0 852 100 857 1
+M 0 853 100 857 1
+M 0 853 100 858 1
+M 0 852 100 858 1
+M 0 851 100 858 1
+M 0 851 100 859 2
+M 0 852 100 859 1
+M 0 853 100 859 2
+M 0 853 100 860 2
+M 0 851 100 860 1
+M 0 852 100 861 3
+M 0 851 100 862 2
+M 0 852 100 862 2
+M 0 853 100 862 2
+M 0 851 100 863 1
+M 0 852 100 863 1
+M 0 853 100 863 1
+M 0 851 100 864 2
+M 0 852 100 864 2
+M 0 853 100 864 1
+M 0 851 100 865 1
+M 0 852 100 865 2
+M 0 853 100 865 1
+M 0 851 100 866 2
+M 0 853 100 866 2
+M 0 851 100 867 1
+M 0 852 100 867 1
+M 0 853 100 867 1
+M 0 851 100 868 1
+M 0 852 100 868 1
+M 0 853 100 868 1
+M 0 852 100 869 2
+M 0 851 100 869 1
+M 0 853 100 869 1
+M 0 853 100 870 2
+M 0 851 100 870 1
+M 0 851 100 871 2
+M 0 852 100 871 2
+M 0 851 100 872 1
+M 0 852 100 872 1
+M 0 853 100 872 1
+M 0 851 100 873 1
+M 0 852 100 873 1
+M 0 853 100 873 2
+M 0 851 100 874 2
+M 0 853 100 874 2
+M 0 851 100 875 2
+M 0 852 100 875 1
+M 0 853 100 875 1
+M 0 851 100 876 1
+M 0 852 100 876 1
+M 0 853 100 876 1
+M 0 851 100 877 1
+M 0 852 100 877 1
+M 0 853 100 877 1
+M 0 851 100 878 1
+M 0 852 100 878 1
+M 0 853 100 878 1
+M 0 851 100 879 1
+M 0 852 100 879 1
+M 0 853 100 879 1
+M 0 851 100 880 1
+M 0 852 100 880 1
+M 0 853 100 880 1
+M 0 851 100 881 1
+M 0 852 100 881 1
+M 0 853 100 881 1
+M 0 851 100 882 1
+M 0 852 100 882 1
+M 0 853 100 882 1
+M 0 851 100 883 1
+M 0 852 100 883 1
+M 0 853 100 883 1
+M 0 851 100 884 1
+M 0 852 100 884 1
+M 0 853 100 884 1
+M 0 851 100 885 1
+M 0 852 100 885 1
+M 0 853 100 885 1
+M 0 851 100 886 1
+M 0 852 100 886 1
+M 0 853 100 886 1
+M 0 851 100 887 1
+M 0 852 100 887 1
+M 0 853 100 887 1
+M 0 851 100 888 1
+M 0 852 100 888 1
+M 0 853 100 888 1
+M 0 851 100 889 1
+M 0 852 100 889 1
+M 0 853 100 889 1
+M 0 851 100 890 1
+M 0 852 100 890 1
+M 0 853 100 890 1
+M 0 851 100 891 1
+M 0 852 100 891 1
+M 0 853 100 891 1
+M 0 851 100 892 1
+M 0 852 100 892 1
+M 0 853 100 892 1
+M 0 851 100 893 1
+M 0 852 100 893 1
+M 0 853 100 893 1
+M 0 851 100 894 1
+M 0 852 100 894 1
+M 0 853 100 894 1
+M 0 851 100 895 1
+M 0 852 100 895 1
+M 0 853 100 895 1
+M 0 851 100 896 1
+M 0 852 100 896 1
+M 0 853 100 896 1
+M 0 851 100 897 1
+M 0 852 100 897 1
+M 0 853 100 897 1
+M 0 851 100 898 1
+M 0 852 100 898 1
+M 0 853 100 898 1
+M 0 851 100 899 1
+M 0 852 100 899 1
+M 0 853 100 899 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

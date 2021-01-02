@@ -1,0 +1,1554 @@
+#AREADATA
+Name Insane Asylum~
+Builders None~
+VNUMs 700 749
+Credits {50  70} Sha/Kat Insane Asylum~
+Security 9
+End
+
+
+
+#MOBILES
+#701
+receptionist~
+a receptionist~
+The receptionist sits behind her desk.
+~
+She has a bored look on her face, due to the long working hours here, from 8am to 10pm
+As you enter the room, she shoves a ticket into your hands and tells you to queue up.
+~
+human~
+AB 0 0 1000 0
+50 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand female 1250
+AHMV ABCDEFGHIJK medium unknown
+#703
+relative~
+a relative~
+A relative waits for her turn to visit a patient.
+~
+Laden with presents and fruit baskets, she has come to visit her 'deranged' mother.
+In her hand is a self-made 'Get well soon' card, bearing well-wishes from the rest of the family.
+~
+human~
+AG 0 0 0 0
+40 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+0 0 0 0
+stand stand female 800
+AHMV ABCDEFGHIJK medium unknown
+#704
+patient~
+a patient~
+A patient is nervously biting his fingernails.
+~
+What would be the outcome of the doctor's diagnosis? 
+As he prepares himself for the worst, he worriedly anticipates his turn to be called up.
+Drinking a cup of coffee from the vending machine, it helps soothe his senses.
+~
+human~
+AG 0 0 -1000 0
+40 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+0 0 0 0
+stand stand male 800
+AHMV ABCDEFGHIJK medium unknown
+#705
+doctor hyde~
+Doctor Hyde~
+{!Doc{1tor {1H{!y{1d{!e {xis giving wrong prescriptions to patients.
+~
+He is grinning evilly as he hands out the wrong medicine to the patients.
+The fiend is probably the cause of all the mentally unstable patients locked up in the asylum below.
+~
+human~
+AB 0 HN -1000 0
+55 55 50d10+7000 50d10+7000 10d4+23 none
+-34 -34 -34 -34
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#706
+doctor jekyll ~
+Doctor Jekyll~
+{&Do{7ct{&or {7J{&ek{7yl{&l {x has a kindly smile across his face.
+~
+He takes his job seriously, curing all ailments that hound the patients. 
+The joy of seeing a patient cured simply makes his day.
+~
+human~
+AB 0 HO 1000 0
+55 55 50d10+7000 50d10+7000 10d4+23 none
+-34 -34 -34 -34
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#708
+pissing man~
+a pissing man~
+A man is {#pissing {xall over the floor.
+~
+Unable to hold his bladder no more, the man has no choice but to relieve himself rather messily all over the floor.
+Its a good thing though no one else is in the toilet currently, sparing him from further embarrassment.
+~
+human~
+AB 0 0 -1000 0
+50 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+0 0 0 0
+stand stand male 800
+AHMV ABCDEFGHIJK medium unknown
+#710
+nurse~
+a nurse~
+The nurse is looking after the patients.
+~
+Clad in a white uniform with a red cross, this nurse is bored of taking care of the deranged patients.
+~
+human~
+AG 0 0 1000 0
+45 45 25d10+3000 25d10+3000 8d4+16 none
+-26 -26 -26 -26
+0 0 0 0
+stand stand female 900
+AHMV ABCDEFGHIJK small unknown
+#711
+matron~
+the matron~
+The matron is bossing the nurses around.
+~
+The harried nurses rush out of the room as the matron enters.
+Her voice resounds throughout the room, awakening the resting nurses.
+GET BACK TO WORK!!
+~
+human~
+AB V H 1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium unknown
+#714
+Fiolon~
+Fiolon~
+The loony patient charges recklessly about.
+~
+Unable to control her primitive instincts, she charges blindly at imaginary targets.
+Even the nurses' recent dosage of tranquilizers have failed to keep this hyperactive patient at bay.
+~
+human~
+ABF Va H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium unknown
+#715
+jaheria~
+Jaheria~
+A patient is bound to the wall in iron chains.
+~
+She looks very much sedated as compared to the other patients.
+Bound firmly onto the walls in thick iron chains, she has a wide grinning smile resembling that of the Joker's.
+In her eyes, all you can see is a blank look staring back at you.
+~
+human~
+AB d H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium unknown
+#717
+faylen~
+Faylen, the cook~
+The cook slices the mouldy carrots for dinner tonight.
+~
+Faylen looks very tired.
+She has been dicing potatoes, slicing carrots, and chopping meat since dawn broke.
+~
+human~
+AB V H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium unknown
+#718
+anarus~
+Anarus~
+A patient is munching on the hidden delicacies.
+~
+He has never feasted on food of this kind before!
+They have kept this food hidden from the patients, but he has stumbled onto this storage room by accident.
+He is digging into the food with relish.
+He wants it all for himself, stay away stranger!
+~
+human~
+ABF 0 H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+CD 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#720
+Xilch~
+Xilch~
+A mad patient is bonking his brains out.
+~
+He is running across the floors of the confined room, trying to get out.
+Smashing his head against the door, he wails for someone to free him from this nightmare.
+~
+human~
+AB V H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#721
+jeran~
+Jeran~
+The patient laughs insanely at his own joke.
+~
+His mind in a state of confusion and loss, he has loss all common sense and sense of reasoning that separate humans from animals.
+Reduced to the mental state of that of the primitive caveman, he relies on the daily supply of food from the kitchen for survival.
+~
+human~
+AB 0 H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#723
+Fein~
+Fein~
+The delirious patient is swallowing a live rat.
+~
+As a rat scurries across the room, he grabs the rat and swallows it alive.
+For some reason, he has actually not noticed the food from the kitchen on his bed.
+As sores and blisters erupt from his skin from indigestion and poison, he giggles mischeiviously.
+~
+human~
+AB MX H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#724
+Kalida~
+Kalida~
+The crazy patient claws at the floor beneath her.
+~
+Driven mad by the inhumane small room area allocated to each patient, she claws desperately at the concrete floor beneath, hoping to find an escape route.
+Her nails are all cracked and worn out, and loud ear-piercing noises are emitted each time she claws at the floor.
+~
+human~
+AB V H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium unknown
+#726
+guard~
+a guard~
+A guard is vigilantly patrolling the hallway.
+~
+One of the many guards is going about the area, ensuring that it is safe.
+He glances at you warily, remembering the order given from above that no intruders must be spared.
+~
+human~
+AG 0 0 0 0
+55 55 50d10+7000 50d10+7000 10d4+23 none
+-34 -34 -34 -34
+0 0 0 0
+stand stand male 1350
+AHMV ABCDEFGHIJK large unknown
+#727
+Kestrel~
+Kestrel~
+The tall figure lashes his whip about. *CRACK!*
+~
+Oblivious to your entrance, he continues lashing his whip sadistically at a poor patient.
+The grinning smile on his inhumane face reminds you that of a savege beast.
+~
+human~
+ABT V H -1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#728
+Rae~
+Rae~
+Evil cackling can be heard from the shadowy figure.
+~
+She tortures the patients in a way you have never seen before.
+Fascinated yet repulsed by the sight, you shun away in utter disgust.
+~
+human~
+ABS Va H -1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium unknown
+#730
+Garnet~
+Garnet~
+A hooded figure looms over you.
+~
+Wielding a strange weapon never seen before, she masterfully manipulates it to its most inhumane extent.
+As she slowly inflicts pain on the patient, the patient can be heard screaming for mercy, yet she does not stop.
+Pain is her friend.
+~
+human~
+ABF U H -1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK small unknown
+#731
+Kashiva~
+Kashiva~
+The robed figure twirls his weapon around his finger.
+~
+He sticks his electric prod deep into the patients skin, sending high voltage of electric current across the almost-lifeless patients body.
+Searing the patients flesh and leaving burn marks over, it is no wonder why he is one of the most feared figures within the asylum.
+~
+human~
+ABF 0 H -1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK large unknown
+#733
+Mishra~
+Mishra~
+The forlorn figure sits on her chair, back facing you.
+~
+As you observe her closely, you notice that she exudes a strange aura of loneliness, a feeling of despair and helplessness.
+Yet, when she tortures her victims, she leaves no mercy, and spares no blood.
+Her inner sadistic streak somehow manifests its ugly side, at the sight of a helpless patient
+~
+human~
+ABF Va H 0 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand female 1500
+AHMV ABCDEFGHIJK medium unknown
+#734
+Dren~
+Dren~
+The mysterious cloaked man arranges his torture tools.
+~
+The scar on his face was previously caused by his own self-infliction. 
+Sadistic. Masochistic. He is a real sicko.
+He can find all ways and means to torture you until you break down and go insane.
+~
+human~
+ABF V H -1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#736
+Shador~
+Shador~
+The beast rumbles about blindly, looking for its next victim.
+~
+This hirstute beast groans and moans in boredom.
+A real beast, this animal is devoid of even the slightest trace of humanity and benevolence. A real monster.
+It is said that no one has ever survived his horrendous tortures before...
+~
+human~
+ABFT V H -1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand none 1500
+AHMV ABCDEFGHIJK large unknown
+#737
+Volar~
+Volar~
+The magician uses sorcery to brutalize the patients.
+~
+Different from all the other torturers, Volar does not believe in using physical tools to torment his victims.
+Through the dark magic and sorcery he has practiced since young, Volar is able to torture a victim far more effectively than normal means.
+His most fearful spell, 'death's claw', has left no sane man, sane.
+~
+human~
+ABFR Va H -1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#738
+Insaine~
+Lord Insaine~
+The lord of the asylum resides in his office.
+~
+Cleverly, Lord Insaine has diagnosed every sane man as insane, and brought them for torture to render them really insane.
+Hence, while he rakes in the profits through medical costs and prescribed medicine, he gains pleasure from seeing victims tortured.
+Yet, no one knows about the real truth behind the Insane Asylum, and probably no one ever will.
+~
+centipede~
+ABF VZa CH -1000 0
+65 65 50d15+12000 50d15+12000 6d9+30 none
+-42 -42 -42 -42
+0 0 FI E
+stand stand male 1500
+ABGHMOV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#705
+face terror~
+face of {1te{!rr{1o{!r{x~
+A glowing mask is here, omitting an evil aura.~
+unknown~
+armor E AR
+18 18 18 18 0
+55 4 1000 P
+A
+18 7
+A
+13 100
+A
+17 -20
+A
+20 -3
+#706
+sash aquamarine~
+an {6aq{^ua{6m{^ar{6in{^e {7s{&as{7h{x~
+A faintly glowing sash is here, with a stunning {6b{^lu{6e{x colour.~
+unknown~
+armor I AL
+18 18 18 18 0
+55 4 1000 P
+A
+12 80
+A
+19 7
+A
+3 1
+A
+4 1
+#708
+toilet paper roll~
+a {&roll{x of {&toilet paper {x~
+A mess of toilet paper has been rolled into a ball.~
+unknown~
+armor A AO
+18 18 18 18 0
+55 4 1000 P
+A
+18 5
+A
+19 5
+A
+13 100
+A
+20 -5
+#709
+crazy looking portal shadun~
+a crazy looking portal~
+A {Cc{RR{ra{GZ{gy{x looking portal leads to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#711
+bandages medicated oil~
+some {7ba{&nd{&a{7ge{&s {8applied {xwith {3me{#di{3ca{#te{3d {#oil{x~
+A pile of stinky bandages have become unwrapped.~
+unknown~
+armor I AS
+19 17 18 18 0
+60 5 1000 P
+A
+13 100
+A
+20 -3
+A
+3 1
+A
+4 1
+#714
+imaginary invisible leggings~
+a pair of {7im{&ag{7in{&ar{7y i{&nv{7is{&ib{7le {^le{6gg{^i{6ng{^s{x~
+Some imaginary leggings are here, just a figment of the imagination.~
+unknown~
+armor EF AF
+18 18 18 18 0
+60 5 1000 P
+S 'invisibility'
+A
+2 1
+A
+19 10
+A
+18 10
+A
+13 75
+#715
+iron ball chain~
+{8iron ball {xwith a {7c{&ha{7in. {x~
+A heavy iron ball is attached to a metallic chain.~
+unknown~
+armor E AV
+20 18 19 18 0
+60 5 1000 P
+A
+13 80
+A
+18 7
+A
+19 7
+A
+5 1
+#717
+soup ladel~
+{^S{7ou{^P {7L{^ad{7eL{x~
+A ladel for scooping soup has been carelessly misplaced.~
+unknown~
+weapon I AN
+mace 5 19 drowning BH
+60 6 1000 P
+A
+1 1
+A
+19 15
+A
+18 15
+#718
+sausages string~
+a string of {1sau{!sa{1ges{x~
+A necklace has been fashioned out of pork sausages.~
+unknown~
+armor I AC
+18 18 18 18 0
+60 4 1000 P
+A
+13 50
+A
+19 10
+A
+18 10
+A
+1 2
+#720
+straitjacket~
+a {8st{^ra{8itja{^cke{8t{x~
+Someone must have freed himself from this straitjacket and left it here.~
+unknown~
+armor E AD
+19 19 19 16 0
+60 5 1000 P
+A
+14 70
+A
+19 8
+A
+18 8
+A
+5 2
+#721
+deranged laughter~
+{5de{%ra{5n{%ge{5d {5la{%u{5gh{%te{5r{X~
+A madman's crazy laughter can be heard from a distance.~
+unknown~
+armor E AQ
+19 20 18 18 0
+60 6 1000 P
+A
+17 -20
+A
+14 100
+A
+12 100
+A
+13 100
+#723
+insane asylum ID tag~
+an {8In{^sa{8ne {8As{^yl{8um {7I{&D {8tag{x~
+An ID tag must have been misplaced by one of the patients.~
+unknown~
+armor E AM
+19 18 20 18 0
+60 5 1000 P
+A
+18 7
+A
+19 7
+A
+13 50
+A
+20 -1
+#724
+crusty dirty fingernails~
+{3c{#ru{3st{#y {3d{#ir{3ty {1f{!i{1n{!g{1e{!r{1n{!a{1i{!l{1s{x~
+A fingernail has broken off someone's finger and is lying here.~
+unknown~
+armor E AB
+19 19 18 20 0
+60 5 1000 P
+A
+12 80
+A
+13 80
+A
+20 -2
+#727
+dreamshatterer~
+{6D{^re{6a{^m{8({7-{8){6sh{^at{6t{^er{6eR{x~
+Pleasant dreams have been shattered by the glowing whip.~
+unknown~
+weapon E AN
+whip 5 19 screech AC
+60 6 1000 P
+A
+12 100
+A
+20 -2
+A
+18 10
+A
+19 10
+#728
+sword loony~
+-{3L{&o{3o{&n{3y{x-{3s{&w{3o{&r{3D{x-~
+A sword is here omitting an evil aura.~
+unknown~
+weapon E AN
+sword 5 19 divine J
+60 5 1000 P
+A
+19 15
+A
+18 15
+A
+13 100
+#730
+mindflayer~
+{8++{%M{5in{%D{8+{5F{%la{5ye{%R {8++{x~
+Countless lives have been taken by this cruel weapon.~
+unknown~
+weapon E AN
+flail 5 19 drain EI
+60 6 1000 P
+A
+19 13
+A
+18 13
+A
+20 -2
+#731
+soul corrupted~
+a {#**{!C{1o{!r{1r{!u{1p{!t{1e{!d{x{#*{!s{1o{!u{1l{#**{x~
+Someone's corrupted mind has been left here.~
+unknown~
+weapon E AN
+dagger 5 19 shbite GH
+60 5 1000 P
+A
+18 12
+A
+19 12
+A
+13 100
+#733
+essence insanity~
+..-={8Es{&s{8en{&ce{x-{8o{&f{x-{8I{&ns{8an{&it{8y{x=-..~
+The few shreds of sanity lie on the floor.~
+unknown~
+weapon E AN
+staff 5 19 chill BD
+60 6 1000 P
+A
+19 14
+A
+18 14
+A
+20 -2
+A
+13 45
+#734
+the defiler~
+{7T{8h{7e {!/\{1D{&efiLe{1R{!/\{x~
+A standard object is lying here.~
+unknown~
+weapon E AN
+axe 5 19 rend AH
+60 6 1000 P
+A
+18 16
+A
+19 16
+A
+13 110
+A
+20 -1
+#736
+claw shador~
+{8--{3Sh{#a{3do{#R's{8--{3C{#la{3W{8--{x~
+A claw has been ripped off a savage beast.~
+unknown~
+weapon E AN
+exotic 5 19 flame ACI
+60 6 1000 P
+A
+18 15
+A
+19 15
+A
+20 -3
+A
+13 45
+#737
+lunacy staff~
+{!`{@St{2a{@f{2f{x^{2o{@f^{2L{@un{2ac{@y{!`{x~
+A madman has dropped his magical staff.~
+unknown~
+weapon E AN
+polearm 5 19 mblast DFGJ
+60 7 1000 P
+A
+13 150
+A
+18 15
+A
+19 15
+#738
+shield white gleaming~
+{7g{&le{7a{&min{7g {&w{7hi{&te {7sh{&i{7el{&d{x~
+A snow-white shield is here gleaming brightly.~
+unknown~
+armor E AJ
+20 20 20 20 0
+60 7 1000 P
+A
+13 120
+S 'bless'
+A
+18 15
+A
+19 15
+A
+1 1
+#0
+
+
+
+#ROOMS
+#700
+Entrance to Insane Asylum~
+~
+0 0 0
+D0
+~
+~
+0 0 701
+S
+#701
+Reception Lobby~
+The hospital for the mentally disabled has a pale white coat of paint
+around it.  Upon entrance, the entire area exudes a sickly feeling, and a
+very hostile environment.  A large wooden desk sits by the hallway, littered
+with piles of files and folders.  Against the walls are several file
+cabinets, all filled to the brim.  
+~
+0 0 0
+D1
+~
+~
+0 0 703
+D2
+~
+~
+0 0 700
+D3
+~
+~
+0 0 702
+S
+#702
+Staircase leading to Second Floor~
+This stairway descends to the second floor, taking people to the wards of
+the patients.  Few though, have been allowed to access the area below.  
+~
+0 0 0
+D1
+~
+~
+0 0 701
+D5
+~
+~
+0 0 709
+S
+#703
+Visitor's Lobby~
+The relatives of all the hospitalized patients are here eagerly waiting
+for their turn to visit them.  They have yet to visit their own mentally
+deranged relatives since they were hospitalized, and have brought along
+baksets of fruits and bouquets of flowers.  The wooden benches are hard and
+uncomfortable, and insufficient for the massive amount of visitors in the
+hospital.  
+~
+0 0 0
+D1
+~
+~
+0 0 704
+D3
+~
+~
+0 0 701
+S
+#704
+Waiting room~
+A few patients are waiting nervously on the seats provided.  They are
+twitching and shivering in anxiety and wondering what the doctor will say. 
+There is a vending machine for the patients to have a drink to calm their
+nerves.  
+~
+0 0 0
+D0
+~
+~
+0 0 706
+D1
+~
+~
+0 0 707
+D2
+~
+~
+0 0 705
+D3
+~
+~
+0 0 703
+S
+#705
+Checkup room~
+You are inside the checkup room of the Insane Asylum.  The doctor is here
+prescribing medicine and carrying out diagnostic tests for the patients. 
+The doctor's desks are also heavily piled with medical case yet to be
+completed.  It is a wonder how the doctors actually remain sane themselves. 
+~
+0 0 0
+D0
+~
+~
+0 0 704
+S
+#706
+Checkup room~
+You are inside the checkup room of the Insane Asylum.  The doctor is here
+prescribing medicine and carrying out diagnostic tests for the patients. 
+The doctor's desks are also heavily piled with medical case yet to be
+completed.  It is a wonder how the doctors actually remain sane themselves. 
+~
+0 0 0
+D2
+~
+~
+0 0 704
+S
+#707
+Hallway~
+The long hallway leads to the washrooms at the end.  On the walls, bright
+murals and beautiful pictures are hung on the wall, in an attempt to liven
+and cheer up patients here.  The certificates of the doctors and their
+acheivements have also been boldly listed out on plagues hung on the wall.  
+~
+0 0 0
+D1
+~
+~
+0 0 708
+D3
+~
+~
+0 0 704
+S
+#708
+Toilets~
+This is the washroom.  Both males and females have to use the same
+cubicles due to the shortage of space within the hospital.  The floor is wet
+and slipperly, and a repulsive smells wavers about the room.  The toilet has
+definitely not been cleaned for a long time.  
+~
+0 0 0
+D3
+~
+~
+0 0 707
+S
+#709
+Second storey of Insane Asylum~
+You are in the stairwell on the second floor.  You can either continue
+east down the hallway into the patient ward rooms, or down the stairs to the
+third level.  
+~
+0 0 0
+D1
+~
+~
+0 0 710
+D4
+~
+~
+0 0 702
+D5
+~
+~
+0 0 725
+S
+#710
+The long hallway~
+The long hallway continues eastwards.  You can see doors to the north and
+south leading to the patient's private ward rooms.  The doors are heavily
+padded and locked in a state of the art security system.  You can hear faint
+laughter and soft thumping sounds coming from the ward rooms, as a shudder
+wrenches its way up your back.  You wonder what you were doing in this mad
+area in the first place 
+~
+0 0 0
+D1
+~
+~
+0 0 712
+D2
+~
+~
+0 0 711
+D3
+~
+~
+0 0 709
+S
+#711
+Nurses' lounge~
+This is where all the nurses gather in between working hours, where they
+can lie on comfortable sofas watching television, or just even reading
+magazines.  This is also the makeshift office of the head nurse, where she
+delegates all her work to the newer nurses, shedding all responsibility.  By
+the side, the radio can be heard playing the latest pop song, much to the
+nurses' delight.  
+~
+0 0 0
+D0
+~
+~
+0 0 710
+S
+#712
+The long hallway~
+The long hallway continues eastwards.  You can see doors to the north and
+south leading to the patient's private ward rooms.  The doors are heavily
+padded and locked in a state of the art security system.  You can hear faint
+laughter and soft thumping sounds coming from the ward rooms, as a shudder
+wrenches its way up your back.  You wonder what you were doing in this mad
+area in the first place 
+~
+0 0 0
+D0
+~
+~
+1 0 720
+D1
+~
+~
+0 0 713
+D2
+~
+~
+1 0 721
+D3
+~
+~
+0 0 710
+S
+#713
+The long hallway~
+The long hallway continues eastwards.  You can see doors to the north and
+south leading to the patient's private ward rooms.  The doors are heavily
+padded and locked in a state of the art security system.  You can hear faint
+laughter and soft thumping sounds coming from the ward rooms, as a shudder
+wrenches its way up your back.  You wonder what you were doing in this mad
+area in the first place 
+~
+0 0 0
+D0
+~
+~
+1 0 714
+D1
+~
+~
+0 0 716
+D2
+~
+~
+1 0 715
+D3
+~
+~
+0 0 712
+S
+#714
+Private ward~
+The room is small and cramp, barely enough for just one patient alone. 
+The walls are thickly padded with soft foam cushioning, to lessen the impact
+when patients senselessly ram themselves against the wall.  The basic
+amenities are present, a toilet bowl by the side, a sink, and a wooden plank
+used as a bed with no pillows or blankets.  As you examine the ward closely,
+you wonder whether the patients' insanity was caused by the asylum itself.  
+~
+0 0 0
+D2
+~
+~
+1 0 713
+S
+#715
+Private ward~
+The room is small and cramp, barely enough for just one patient alone. 
+The walls are thickly padded with soft foam cushioning, to lessen the impact
+when patients senselessly ram themselves against the wall.  The basic
+amenities are present, a toilet bowl by the side, a sink, and a wooden plank
+used as a bed with no pillows or blankets.  As you examine the ward closely,
+you wonder whether the patients' insanity was caused by the asylum itself.  
+~
+0 0 0
+D0
+~
+~
+1 0 713
+S
+#716
+The long hallway~
+The long hallway continues eastwards.  You can see doors to the north and
+south leading to the patient's private ward rooms.  The doors are heavily
+padded and locked in a state of the art security system.  You can hear faint
+laughter and soft thumping sounds coming from the ward rooms, as a shudder
+wrenches its way up your back.  You wonder what you were doing in this mad
+area in the first place 
+~
+0 0 0
+D0
+~
+~
+1 0 723
+D1
+~
+~
+0 0 717
+D2
+~
+~
+1 0 724
+D3
+~
+~
+0 0 713
+S
+#717
+The kitchen~
+Cooks and chefs bustle about for dinner which they have to prepare for
+the patients.  Disgusting and revolting smells emanate from the oven and
+from every corner in this room.  Huge piles of rotting vegetation and
+decomposing meat lie in a corner of the room.  Its a wonder how the patients
+actually manage to stay alive with this quality of food provided.  
+~
+0 0 0
+D1
+~
+~
+1 0 718
+D3
+~
+~
+0 0 716
+S
+#718
+The kitchen cupboard~
+Various food products are stacked neatly in a pile in the wooden
+cupboard.  Bags of flour and rice, and various fresh fruits and food are
+hidden here away from the patients.  The food here is for the administrative
+staff's own consumption only.  Someone could live here in this closet for
+years without ever worrying about food.  It is a good thing that the
+patients don't know about this hidden storage of food...  Or do they?  
+~
+0 0 0
+D3
+~
+~
+1 0 717
+S
+#719
+Standard room~
+~
+0 0 0
+D2
+~
+~
+0 0 712
+S
+#720
+Private ward~
+The room is small and cramp, barely enough for just one patient alone. 
+The walls are thickly padded with soft foam cushioning, to lessen the impact
+when patients senselessly ram themselves against the wall.  The basic
+amenities are present, a toilet bowl by the side, a sink, and a wooden plank
+used as a bed with no pillows or blankets.  As you examine the ward closely,
+you wonder whether the patients' insanity was caused by the asylum itself.  
+~
+0 0 0
+D2
+~
+~
+1 0 712
+S
+#721
+Private ward~
+The room is small and cramp, barely enough for just one patient alone. 
+The walls are thickly padded with soft foam cushioning, to lessen the impact
+when patients senselessly ram themselves against the wall.  The basic
+amenities are present, a toilet bowl by the side, a sink, and a wooden plank
+used as a bed with no pillows or blankets.  As you examine the ward closely,
+you wonder whether the patients' insanity was caused by the asylum itself.  
+~
+0 0 0
+D0
+~
+~
+1 0 712
+S
+#722
+Standard room~
+~
+0 0 0
+D2
+~
+~
+0 0 716
+S
+#723
+Private ward~
+The room is small and cramp, barely enough for just one patient alone. 
+The walls are thickly padded with soft foam cushioning, to lessen the impact
+when patients senselessly ram themselves against the wall.  The basic
+amenities are present, a toilet bowl by the side, a sink, and a wooden plank
+used as a bed with no pillows or blankets.  As you examine the ward closely,
+you wonder whether the patients' insanity was caused by the asylum itself.  
+~
+0 0 0
+D2
+~
+~
+1 0 716
+S
+#724
+Private ward~
+The room is small and cramp, barely enough for just one patient alone. 
+The walls are thickly padded with soft foam cushioning, to lessen the impact
+when patients senselessly ram themselves against the wall.  The basic
+amenities are present, a toilet bowl by the side, a sink, and a wooden plank
+used as a bed with no pillows or blankets.  As you examine the ward closely,
+you wonder whether the patients' insanity was caused by the asylum itself.  
+~
+0 0 0
+D0
+~
+~
+1 0 716
+S
+#725
+Third storey of Insane Asylum~
+You are at the deepest level of the asylum.  High security access is
+required before you can enter the rest of the level.  You can either
+continue east down the hallway into the unknown, or back up to the second
+floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 726
+D4
+~
+~
+0 0 709
+S
+#726
+The long dark hallway~
+The long hallway continues eastwards into the unknown.  You can see doors
+leading to the north and the south into offices of the administrative staff.
+The doors are closed to ensure privacy, and prevent the public from knowing
+the truth behind the Insane Asylum.  Guards can be seen patrolling about the
+hallway, ensuring no intruders tresspass.  
+~
+0 0 0
+D0
+~
+~
+1 0 727
+D1
+~
+~
+0 0 729
+D2
+~
+~
+1 0 728
+D3
+~
+~
+0 0 725
+S
+#727
+Private office~
+The offices is plain and simple, though much larger than the ward rooms
+upstairs.  There are charts and schedules pasted on the white walls, as well
+as grey file cabinets aligned against the walls.  However, this rather
+innocent looking room, is actually a disguise for the torture rooms for the
+patients.  The patients constantly enter the torture chambers for inhumane
+acts to be performed on them, to ensure that they remain insane.  Thus
+hospitalized for virtually, forever.  
+~
+0 0 0
+D2
+~
+~
+1 0 726
+S
+#728
+Private office~
+The offices is plain and simple, though much larger than the ward rooms
+upstairs.  There are charts and schedules pasted on the white walls, as well
+as grey file cabinets aligned against the walls.  However, this rather
+innocent looking room, is actually a disguise for the torture rooms for the
+patients.  The patients constantly enter the torture chambers for inhumane
+acts to be performed on them, to ensure that they remain insane.  Thus
+hospitalized for virtually, forever.  
+~
+0 0 0
+D0
+~
+~
+1 0 726
+S
+#729
+The long dark hallway~
+The long hallway continues eastwards into the unknown.  You can see doors
+leading to the north and the south into offices of the administrative staff.
+The doors are closed to ensure privacy, and prevent the public from knowing
+the truth behind the Insane Asylum.  Guards can be seen patrolling about the
+hallway, ensuring no intruders tresspass.  
+~
+0 0 0
+D0
+~
+~
+1 0 730
+D1
+~
+~
+0 0 732
+D2
+~
+~
+1 0 731
+D3
+~
+~
+0 0 726
+S
+#730
+Private office~
+The offices is plain and simple, though much larger than the ward rooms
+upstairs.  There are charts and schedules pasted on the white walls, as well
+as grey file cabinets aligned against the walls.  However, this rather
+innocent looking room, is actually a disguise for the torture rooms for the
+patients.  The patients constantly enter the torture chambers for inhumane
+acts to be performed on them, to ensure that they remain insane.  Thus
+hospitalized for virtually, forever.  
+~
+0 0 0
+D2
+~
+~
+1 0 729
+S
+#731
+Private office~
+The offices is plain and simple, though much larger than the ward rooms
+upstairs.  There are charts and schedules pasted on the white walls, as well
+as grey file cabinets aligned against the walls.  However, this rather
+innocent looking room, is actually a disguise for the torture rooms for the
+patients.  The patients constantly enter the torture chambers for inhumane
+acts to be performed on them, to ensure that they remain insane.  Thus
+hospitalized for virtually, forever.  
+~
+0 0 0
+D0
+~
+~
+1 0 729
+S
+#732
+The long dark hallway~
+The long hallway continues eastwards into the unknown.  You can see doors
+leading to the north and the south into offices of the administrative staff.
+The doors are closed to ensure privacy, and prevent the public from knowing
+the truth behind the Insane Asylum.  Guards can be seen patrolling about the
+hallway, ensuring no intruders tresspass.  
+~
+0 0 0
+D0
+~
+~
+1 0 733
+D1
+~
+~
+0 0 735
+D2
+~
+~
+1 0 734
+D3
+~
+~
+0 0 729
+S
+#733
+Private office~
+The offices is plain and simple, though much larger than the ward rooms
+upstairs.  There are charts and schedules pasted on the white walls, as well
+as grey file cabinets aligned against the walls.  However, this rather
+innocent looking room, is actually a disguise for the torture rooms for the
+patients.  The patients constantly enter the torture chambers for inhumane
+acts to be performed on them, to ensure that they remain insane.  Thus
+hospitalized for virtually, forever.  
+~
+0 0 0
+D2
+~
+~
+1 0 732
+S
+#734
+Private office~
+The offices is plain and simple, though much larger than the ward rooms
+upstairs.  There are charts and schedules pasted on the white walls, as well
+as grey file cabinets aligned against the walls.  However, this rather
+innocent looking room, is actually a disguise for the torture rooms for the
+patients.  The patients constantly enter the torture chambers for inhumane
+acts to be performed on them, to ensure that they remain insane.  Thus
+hospitalized for virtually, forever.  
+~
+0 0 0
+D0
+~
+~
+1 0 732
+S
+#735
+The long dark hallway~
+The long hallway continues eastwards into the unknown.  You can see doors
+leading to the north and the south into offices of the administrative staff.
+The doors are closed to ensure privacy, and prevent the public from knowing
+the truth behind the Insane Asylum.  Guards can be seen patrolling about the
+hallway, ensuring no intruders tresspass.  
+~
+0 0 0
+D0
+~
+~
+1 0 736
+D1
+~
+~
+1 0 738
+D2
+~
+~
+1 0 737
+D3
+~
+~
+0 0 732
+S
+#736
+Private office~
+The offices is plain and simple, though much larger than the ward rooms
+upstairs.  There are charts and schedules pasted on the white walls, as well
+as grey file cabinets aligned against the walls.  However, this rather
+innocent looking room, is actually a disguise for the torture rooms for the
+patients.  The patients constantly enter the torture chambers for inhumane
+acts to be performed on them, to ensure that they remain insane.  Thus
+hospitalized for virtually, forever.  
+~
+0 0 0
+D2
+~
+~
+1 0 735
+S
+#737
+Private office~
+The offices is plain and simple, though much larger than the ward rooms
+upstairs.  There are charts and schedules pasted on the white walls, as well
+as grey file cabinets aligned against the walls.  However, this rather
+innocent looking room, is actually a disguise for the torture rooms for the
+patients.  The patients constantly enter the torture chambers for inhumane
+acts to be performed on them, to ensure that they remain insane.  Thus
+hospitalized for virtually, forever.  
+~
+0 0 0
+D0
+~
+~
+1 0 735
+S
+#738
+Head office ~
+This large spacious office is the main office where most of the
+administration duties are carried out in.  This is also the office of the
+chief doctor of the asylum.  The cool air-conditioning, the luxury of a
+spacious office, and bright lightning are all a stark constrast as compared
+with the living conditions in the ward rooms above.  
+~
+0 0 0
+D3
+~
+~
+1 0 735
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 712 0 1
+D 0 712 2 1
+D 0 713 0 1
+D 0 713 2 1
+D 0 714 2 1
+D 0 715 0 1
+D 0 716 0 1
+D 0 716 2 1
+D 0 717 1 1
+D 0 718 3 1
+D 0 720 2 1
+D 0 721 0 1
+D 0 723 2 1
+D 0 724 0 1
+D 0 726 0 1
+D 0 726 2 1
+D 0 727 2 1
+D 0 728 0 1
+D 0 729 0 1
+D 0 729 2 1
+D 0 730 2 1
+D 0 731 0 1
+D 0 732 0 1
+D 0 732 2 1
+D 0 733 2 1
+D 0 734 0 1
+D 0 735 0 1
+D 0 735 1 1
+D 0 735 2 1
+D 0 736 2 1
+D 0 737 0 1
+D 0 738 3 1
+O 0 709 0 700
+M 0 701 100 701 1
+M 0 703 100 703 4
+M 0 704 100 704 4
+M 0 705 100 705 1
+E 0 705 0 20
+M 0 706 100 706 1
+E 0 706 0 13
+M 0 708 100 708 1
+E 0 708 0 17
+M 0 710 100 710 2
+M 0 711 100 711 1
+E 0 711 0 21
+M 0 710 100 712 2
+M 0 710 100 713 2
+M 0 714 100 714 1
+E 0 714 0 7
+M 0 715 100 715 1
+E 0 715 0 26
+M 0 710 100 716 2
+M 0 717 100 717 1
+E 0 717 0 16
+M 0 718 100 718 1
+E 0 718 0 3
+M 0 720 100 720 1
+E 0 720 0 5
+M 0 721 100 721 1
+E 0 721 0 18
+M 0 723 100 723 1
+E 0 723 0 15
+M 0 724 100 724 1
+E 0 724 0 2
+M 0 726 100 726 2
+M 0 727 100 727 1
+E 0 727 0 16
+M 0 728 100 728 1
+E 0 728 0 16
+M 0 726 100 729 2
+M 0 730 100 730 1
+E 0 730 0 16
+M 0 731 100 731 1
+E 0 731 0 16
+M 0 726 100 732 2
+M 0 733 100 733 1
+E 0 733 0 16
+M 0 734 100 734 1
+E 0 734 0 16
+M 0 726 100 735 2
+M 0 736 100 736 1
+E 0 736 0 16
+M 0 737 100 737 1
+E 0 737 0 16
+M 0 738 100 738 1
+E 0 738 0 11
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,2223 @@
+#AREADATA
+Name Atlantis~
+Builders None~
+VNUMs 2600 2699
+Credits {60  80} Baeyn   Atlantis~
+Security 9
+End
+
+
+
+#MOBILES
+#2600
+bass~
+A bass~
+A bass is swimming freely in the water.
+~
+With {3brown {^stripes running across its body, this fish is both tasty and nice to look at.
+It flicks its tail once, twice, then swims off into the murky darkness.
+~
+shador~
+AG Tb CP 100 0
+65 105 50d50+2500 50d15+12000 10d10+50 whip
+-42 -42 -42 -42
+CFGH 0 BR S
+stand stand none 1825
+AGHMVW ABCDEFGHIJKP large unknown
+#2601
+electric eel~
+An electric eel~
+An eel is sending spurts of electricity into the water.
+~
+Wriggling silently into the rocks and waiting for its prey, this animal kills others by sending blasts of deadly lightning into their enemies.
+Be warned, approach this creature with caution and only when necessary.
+~
+sivah~
+AG UV C 100 0
+55 102 50d50+2000 50d10+7000 10d4+23 mblast
+-34 -34 -34 -34
+NOP 0 0 a
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#2602
+trout~
+A trout~
+A trout is lying on the sea bed.
+~
+This fat lazy creature lies on the shallow part of the sea day by day, waiting for someone to capture it.
+Gazing up at you with large lazy eyes, it realizes that you pose no threat to it and goes back to sleep.
+~
+efrit~
+AG LV BC 100 0
+70 102 50d50+5000 50d20+14500 6d10+33 shock
+-46 -46 -46 -46
+FJKOP 0 IJ FG
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+#2603
+pirahna~
+A pirahna~
+A pirahna swims around looking for prey.
+~
+This creature uses its razor-sharp teeth to bite into anything, and works best in a group.
+It enjoys privacy and bares its teeth at you.
+~
+vixta~
+AI JPSV CEH 100 0
+50 50 50d10+4500 50d10+4500 5d8+20 drowning
+-30 -30 -30 -30
+CDFJKV 0 BM NS
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#2604
+Desimus~
+Desimus~
+Desimus is forging a piece of armor.
+~
+Desimus possesses the most muscular body you have ever seen.
+Holding a large hammer, he bangs it on the anvil, hard at work.
+Rivulets of sweat stream down his forehead
+~
+human~
+AB 0 CDEH 1000 0
+102 102 12d584+2860 12d584+2860 5d20+51 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK giant unknown
+#2608
+citizen atlantis~
+Citizen of Atlantis~
+A citizen of Atlantis is strolling around.
+~
+With a happy smile on his face, this citizen seems to be unaware of the fact that Atlantis has sunken.
+He depends on the bubble keeping the air in for survival.
+~
+revada~
+AG Vc CE 100 0
+75 75 50d20+5000 50d25+17000 6d11+35 slash
+-50 -50 -50 -50
+FGHJKP 0 M N
+stand stand none 3600
+AHMV ABCDEFGHIJK large unknown
+#2615
+atlantis guard~
+An Atlantis Guard~
+An Atlantis Guard raises his sword threateningly.
+~
+With a huge sharp-bladed sword and a gigantic bulk, this man instills respect and fear in everything he meets.
+Although possible of doing so, he does not like killing and hates violence.
+~
+cylith~
+AB Va CH 100 0
+80 80 100d10+7000 50d30+19500 10d10+100 slash
+-54 -54 -54 -54
+FKNP 0 E K
+stand stand male 2500
+AHMV ABCDEFGHIJK large unknown
+#2620
+baker~
+the baker~
+The baker proudly presents you different types of food.
+~
+The fresh smell of baked food wafts into your nose, tempting you enormously.
+The baker's hands are still free of callouses, suggesting that he has not been in this trade for long.
+~
+human~
+AB 0 0 0 0
+1 1 2d6+10 2d6+10 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#2622
+Cythan~
+Cythan~
+Cythan offers you his jewellery.
+~
+This man is truly business-minded.
+He does not care about anything else except making money, and is ruthless at his game.
+~
+human~
+AB 0 CDEH 100 0
+102 102 12d584+2860 12d584+2860 5d20+51 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand none 6000
+AHMV ABCDEFGHIJK medium unknown
+#2623
+grocer~
+the grocer~
+The grocer stands behind the counter, waiting for customers.
+~
+Clad in a home-made apron and a leather tunic, the grocer welcomes you with a friendly smile on his face.
+Offering his carefully crafted wares to you, he is in great need of business.
+~
+human~
+AB 0 0 0 0
+1 1 2d6+10 2d6+10 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#2624
+Carioca~
+Carioca~
+Carioca is welcoming you with a broad smile on her face.
+~
+Neatly dressed in flowing white robes, she has not seen customers for days, even months.
+Spreading her arms wide to show her assortment of goods, she asks,
+What would you like?
+~
+human~
+AB LUVc CDEHNO 1000 0
+102 102 12d584+2860 12d584+2860 5d20+51 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand female 6000
+AHMV ABCDEFGHIJK medium unknown
+#2625
+lylith~
+Lylith~
+Lylith is attending to her pets' needs.
+~
+This woman is indeed business-minded and money-faced.
+To earn more money, she has actually decided to lock the animals up and make customers feel pity and buy them.
+~
+human~
+AB 0 CDEH 1000 0
+102 102 12d584+2860 12d584+2860 5d20+51 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand none 6000
+AHMV ABCDEFGHIJK medium unknown
+#2626
+black bear~
+A black bear~
+A {8black {xbear rears up angrily!
+~
+Using its razor-sharp gleaming claws to tear any type of flesh, this is one of the most feared creatures.
+Shaking its hairy head, it stares at you, telling you to leave now.
+~
+cylith~
+AI SVZa 0 100 0
+75 50 50d10+4500 50d10+4500 5d8+20 claw
+-30 -30 -30 -30
+CFK 0 E K
+stand stand none 5000
+AHMV ABCDEFGHIJK giant unknown
+#2627
+Xeo~
+Xeo~
+Xeo has a big hammer in his hand.
+~
+Dressed in a blacksmith's apron, this huge man snatches up his heavy hammer and begins to work.
+Although large in size, this man is gentle at heart and has the mind of a child.
+~
+human~
+AB UVc CDEH 100 0
+102 102 12d584+2860 12d584+2860 5d20+51 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#2628
+baby dragon~
+A baby dragon~
+A fire-breathing dragon growls angrily.
+~
+Its face narrowed into a narrow sharp angle, the dragon breathes fire angrily at you.
+Its eyes angle into narrow slits, and you sense that beneath that fierce expression it is still a child.
+~
+dragon~
+AI JS DH 100 0
+75 50 50d10+4500 50d10+4500 5d8+20 flbite
+-30 -30 -30 -30
+FIK 0 BEH FI
+stand stand none 5000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+F aff T
+#2629
+Rathe~
+Rathe~
+Rathe is offering his scrolls to you.
+~
+With a long, grey beard and a wizened wise face, this man wears a long blue flowing robe.
+Eager to please you with his magical wares, he smiles politely at you.
+~
+human~
+AB Vc CDEH 100 0
+102 102 12d584+2860 12d584+2860 5d20+51 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand male 6000
+AHMV ABCDEFGHIJK medium unknown
+#2630
+flatfish~
+a flatfish~
+A flatfish is camouflaged in the sand.
+~
+With a large, flattened body, it is lying hidden in the sand, minding its own business.
+Sensing danger, it does not make a move.
+~
+efrit~
+AG LVa C 200 0
+70 70 500d10+1000 2d6+10 50d2+50 bite
+9 9 9 9
+DFKP 0 IJ FG
+stand stand none 2500
+AHMV ABCDEFGHIJK large unknown
+#2635
+fish angler~
+an angler fish~
+An angler fish is wandering around aimlessly.
+~
+With a light to show the way, this angler fish is easy to spot.
+Its light also serves as a must-get for travellers.
+~
+sivah~
+AG UV CE 23 0
+75 68 500d10+1000 2d6+10 30d5+50 none
+9 9 9 9
+AEKP 0 0 0
+stand stand none 1500
+AHMV ABCDEFGHIJK medium unknown
+#2641
+gardener~
+an Atlantean gardener~
+An Atlantean gardener is busy watering the plants.
+~
+Looking up from his work in irritation as he busily waters the thriving plants, you sense an air of violence about him. He is not just a mere gardener, he is also a guard for the king.
+~
+human~
+AB Vc CS 200 0
+65 80 500d10+2000 2d6+10 100d2+10 crush
+9 9 9 9
+CEF 0 0 0
+stand stand male 1650
+AHMV ABCDEFGHIJK medium unknown
+#2649
+watchful atlantean~
+a watchful Atlantean~
+A watchful Atlantean stands at attention.
+~
+Surveying the area alertly, he does not allow strangers to pass beyond this point.
+~
+cylith~
+ABF Va HS 200 0
+70 80 500d10+2500 2d6+10 20d10+50 slash
+9 9 9 9
+CEIP 0 E K
+stand stand male 1650
+AHMV ABCDEFGHIJK large unknown
+#2653
+waiter~
+a waiter~
+A waiter is running around with food on his platter.
+~
+With trays balanced carefully balanced on his hands, this man is a work of art.
+Using precision and concentration, he is able to balance many objects on his arms.
+~
+elf~
+AG JV PQ 100 0
+65 65 500d10+2000 2d6+10 10d15+50 crush
+9 9 9 9
+CKW 0 B Z
+stand stand male 1650
+AHMV ABCDEFGHIJK medium unknown
+#2654
+chef~
+a chef~
+A chef is chopping up vegetables.
+~
+With a cleaver in his hands, the chef closes his eyes to concentrate, then begins chopping up vegetables in furious dexterity.
+~
+rahmat~
+AB TVc CE 50 0
+65 65 500d10+2000 2d6+10 10d10+100 cleave
+9 9 9 9
+FNOPV 0 J E
+stand stand female 1650
+AHMV ABCDEFGHIJK medium unknown
+#2655
+head chef~
+the Head Chef~
+The Head Chef is yelling orders to everyone.
+~
+With a cross expression on his face, he begins yelling orders to waiters and chefs alike.
+~
+efrit~
+AB LV CHS -100 0
+70 70 500d10+3000 50d20+14500 50d5+1 scratch
+-46 -46 -46 -46
+CFGKPV 0 IJ FG
+stand stand male 1700
+AHMV ABCDEFGHIJK medium unknown
+#2657
+sleeping servant~
+a sleeping servant~
+A servant is having a rest.
+~
+Sleeping like a log, this man looks very comfortable.
+You do not wish to disturb him.
+~
+drezil~
+AB DFLV CT 100 0
+65 65 500d10+2000 2d6+10 50d50+1 slash
+9 9 9 9
+EFNP 0 Xa HLQ
+stand stand male 1650
+AHMV ABCDEFGHIJK medium unknown
+#2662
+king atlantis~
+the King of Atlantis~
+The King of Atlantis is sitting majestically on his golden throne.
+~
+The ruler of Atlantis and worshipped by many Atlanteans, this King has become very haughty due to all the pampering.
+Eyebrows furrowing in annoyment, he motions you out.
+~
+bakali~
+AB Vc DEHS -100 0
+75 75 500d10+4000 50d25+17000 20d20+200 whip
+-50 -50 -50 -50
+EFIKPW 0 H I
+stand stand male 2250
+AHMV ABCDEFGHIJK giant unknown
+#2670
+guest~
+a guest~
+A guest is mixing along with the others.
+~
+He is chatting animatedly to other guests.
+Waving impatiently, he shows that he does not want to be disturbed.
+~
+bakali~
+AG V D 0 0
+65 65 50d15+7000 50d15+12000 6d9+30 none
+-42 -42 -42 -42
+0 0 H I
+stand stand male 1650
+AHMV ABCDEFGHIJK medium unknown
+#2671
+queen atlantis~
+The Queen of Atlantis~
+The Queen of Atlantis is admiring herself in the mirror.
+~
+The Queen is looking at her reflection in the mirror, touching-up her makeup.
+She notices you and yells, "Guards!! Guards!!! Get this stranger out of here!!"
+~
+human~
+ABR V CDEH 0 0
+70 70 50d20+8000 50d20+14500 6d10+33 none
+-46 -46 -46 -46
+0 0 0 I
+stand stand none 1700
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#2600
+atlantis brew translucence~
+{8At{^la{8n{^ti{8s' {7B{&re{8w {xof {8Tr{7an{3slu{7ce{8nce{x~
+A potent brew glows faintly.~
+unknown~
+potion 0 A
+80 'pass door' 'invisibility' 'reserved' 'reserved'
+80 20 7500 P
+#2601
+fish nuggets~
+{6f{^is{6h {3nu{#gge{3ts{x~
+Nuggets made out of fishes are in a box.~
+unknown~
+food 0 A
+5 3 0 0 0
+0 10 550 P
+#2602
+lobster chowder~
+{!lobster {5ch{%owd{5er{x~
+Lobster mashed into chowder is lying here.~
+unknown~
+food 0 A
+5 3 0 0 0
+0 10 550 P
+#2604
+seaweed~
+fresh {2se{@a{2w{@e{2ed{x~
+The {2se{@a{2w{@e{2ed{x tickles your feet as you swim past.~
+unknown~
+food 0 A
+10 5 0 0 0
+0 0 0 P
+#2605
+stealthy atlantis boots~
+{3Ste{7al{3thy {8At{^la{8n{^ti{8s {8B{7o{3o{7t{8s{x~
+Intricately designed boots are still glowing-hot.~
+unknown~
+armor HS AG
+21 23 20 22 0
+70 50 50000 P
+A
+13 250
+A
+18 7
+A
+19 7
+A
+14 100
+S 'invisibility'
+#2606
+durable atlantis headgear~
+{3Du{7rab{3le {8At{^la{8n{^ti{8s {8H{&e{3ad{7ge{8ar{x~
+Intricately designed headgear is glowing-hot.~
+unknown~
+armor HS AE
+24 23 20 22 0
+70 50 50000 P
+A
+19 7
+A
+18 7
+A
+14 100
+A
+13 250
+#2607
+atlantis freezing axe~
+{8At{^la{8n{^ti{8s {7Fr{&ee{8zin{7g {3A{#x{3e{x~
+An axe made out of Atlantis steel is lying here.~
+unknown~
+weapon HS AN
+axe 10 12 frbite BHK
+75 60 50000 P
+A
+19 12
+A
+18 12
+A
+13 70
+A
+5 1
+#2608
+atlantis shocking mace~
+{8At{^la{8n{^ti{8s {7S{&ho{8ck{7in{8g {3M{#ac{3e{x~
+A electrical mace made from Atlantis steel pulses with energy.~
+unknown~
+weapon HS AN
+mace 10 12 shbite GJ
+75 60 50000 P
+A
+2 1
+A
+13 70
+A
+19 11
+A
+18 11
+#2609
+wand magic missile~
+{3W{#an{3d {xof {5M{%agi{5c M{%issi{5le{x~
+A wand pulses with energy.~
+unknown~
+wand 0 AO
+60 15 15 'magic missile' 0
+60 30 25000 P
+#2610
+atlantis haversack~
+{8At{^la{8n{^ti{8s {3ha{#ve{3rsa{#ck{x~
+A durable haversack lies here.~
+unknown~
+container 0 AD
+20 A 0 100 25
+50 40 27500 P
+A
+13 100
+A
+2 2
+A
+5 2
+#2611
+fountain~
+a fountain~
+A fountain is gushing {^cr{&ys{^tal-{^cl{&ea{^r {^water {xout.~
+?~
+fountain 0 0
+-1 1 'icewine' 0 0
+0 10000 0 P
+#2612
+atlantis water bottle~
+{8At{^la{8n{^ti{8s {6wa{^t{6e{^r {3bottle{x~
+A water bottle filled with fresh clean water lies on the floor.~
+unknown~
+drink 0 A
+30 30 'water' 0 0
+1 10 5000 P
+#2613
+dark blue sapphire~
+a {$dark-blue {xsapphire{x~
+A gem shines in the darkness.~
+unknown~
+jewelry 0 A
+0 0 0 0 0
+0 10 10000 P
+#2614
+atlantis brew healing~
+{8At{^la{*n{^ti{8s' {7B{&re{8w {xof {8He{7a{3li{7n{8g{x~
+A potent brew glows faintly.~
+unknown~
+potion 0 A
+80 'cure wounds' 'cure wounds' 'cure wounds' 'cure wounds'
+80 20 12000 P
+#2615
+clam stick~
+{7c{&la{7m{x-on-a-{#stick{x~
+A string of fresh clams are skewered on a stick.~
+unknown~
+food 0 A
+5 5 0 0 0
+0 10 1500 P
+#2616
+green emerald~
+a {@green {xemerald~
+A gem shines in the darkness.~
+unknown~
+jewelry 0 A
+0 0 0 0 0
+0 10 15000 P
+#2617
+steel broadsword~
+a {8S{7te{8el {3broadsword{x~
+A sharp object is glinting in the sun.~
+unknown~
+weapon 0 AN
+sword 5 19 cleave BK
+60 6 10000 P
+A
+19 15
+A
+1 1
+A
+14 30
+#2620
+seaweed cake~
+a {@s{2e{@aw{2ee{@d {3c{#ak{3e {x~
+A cake made out of seaweed is here.~
+unknown~
+food 0 A
+24 3 0 0 0
+0 10 750 P
+#2622
+red ruby~
+a {!red {xruby~
+A glittering ruby shines in the darkness.~
+unknown~
+jewelry 0 A
+0 0 0 0 0
+0 10 10000 P
+#2623
+shimmering flame~
+a shimmering flame~
+A burning flame shimmers in the darkness.~
+unknown~
+light A A
+0 0 999 0 0
+60 40 30000 P
+#2624
+atlantis detection brew~
+{8At{^la{8n{^ti{8s' {7B{&re{8w {xof {8De{7te{3ct{7io{8n{x~
+This potent brew glows faintly.~
+unknown~
+potion 0 A
+80 'true sight' 'reserved' 'reserved' 'reserved'
+80 20 13500 P
+#2627
+atlantis steel dagger~
+{8At{^la{8n{^ti{8s {7S{&te{8el {3Da{#gg{3er{x~
+A sharp dagger made from Atlantis steel is lying here.~
+unknown~
+weapon HS AN
+dagger 10 12 iron BK
+75 50 50000 P
+A
+1 1
+A
+18 10
+A
+19 10
+A
+12 70
+#2628
+ornate atlantis breastplate~
+{3Or{7na{3te {8At{^la{8n{^ti{8s {8B{7re{3as{8tp{7la{8te{x~
+An intricately designed piece of armor is still glowing-hot.~
+unknown~
+armor HS AK
+21 22 21 20 0
+70 60 50000 P
+A
+14 100
+A
+13 250
+A
+19 7
+A
+18 7
+#2629
+staff of fire breath~
+{3Staff {xof {!Fire {3Br{#ea{3th{x~
+A burning staff glows softly.~
+unknown~
+staff 0 AO
+30 20 20 'fire breath' 0
+60 40 25000 P
+#2630
+shield polished~
+a {7polished {7shield{x~
+A shield is gleaming in the sun.~
+unknown~
+armor 0 AJ
+25 20 23 27 0
+60 5 10000 P
+A
+13 50
+A
+18 10
+A
+5 1
+#2635
+anglers light~
+an {8an{#gle{8r's {3li{!gh{3t{x~
+A bright light is glowing in the murky darkness.~
+unknown~
+light 0 A
+0 0 999 0 0
+70 3 2000 P
+A
+20 -2
+A
+18 16
+A
+19 17
+A
+14 20
+#2641
+overalls gardening~
+some {3ga{#rden{3ing {3overalls{x~
+A pair of large overalls are on the floor.~
+unknown~
+armor 0 AF
+25 25 26 24 0
+64 4 10000 P
+A
+19 17
+A
+18 20
+A
+13 120
+#2653
+stone tray~
+a {8stone tray{x~
+A hard tray is lying on the floor.~
+unknown~
+armor T AO
+25 26 25 27 0
+62 6 10000 P
+A
+2 1
+A
+13 70
+A
+18 20
+A
+19 12
+#2655
+cleaver chef~
+{7c{&he{7f's {8cl{7e{&av{8er{x~
+A razor sharp blade used for cutting vegetables is here.~
+unknown~
+weapon T AN
+axe 10 11 chill AJK
+70 4 10000 P
+A
+19 23
+A
+18 23
+A
+17 -12
+A
+13 75
+#2657
+bed luxurious~
+a luxurious bed~
+A comfortable bed is waiting for someone to sleep on it.~
+unknown~
+furniture 0 0
+100 1000000 HIKL 2000 2000
+0 -13824 0 P
+#2662
+jewel-studded crown~
+{3<{!J{5e{%w{1e{!l{8-studded {3C{#ro{8w{3n{3>{x~
+A glittering crown shines in the darkness.~
+unknown~
+armor 0 AE
+23 20 21 24 0
+70 4 10000 P
+A
+13 150
+A
+20 -2
+A
+19 16
+A
+18 20
+A
+17 -12
+#2671
+sparkling seashell necklace~
+a {3sparkling {6se{^a{5s{%h{6el{^l {7n{&ec{7klac{&e{x~
+A necklace made from different multicolored shells has been carelessly misplaced.~
+unknown~
+armor 0 AC
+22 23 20 21 0
+68 3 10000 P
+A
+3 1
+A
+4 1
+A
+20 -1
+A
+19 18
+A
+12 70
+#2673
+iron safe~
+an iron safe~
+A heavy safe is resting in the corner~
+unknown~
+container 0 A
+1000 A 0 200 25
+0 5 1000 P
+#2674
+shimmering portal shadun~
+a shimmering portal~
+A {Ys{yh{Yi{ym{Ym{ye{Yr{yi{Yn{yg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2600
+Underwater Path~
+Brightly-coloured fishes of all shapes and sizes are swimming freely in
+the {^sky-blue{x sea.  Underwater {@plants{x seemingly wave at you, swaying
+in time to a hidden music.  As you swim deeper into the {^sea{x, the sea
+seems to draw into itself, as if hiding some secret.  The sea grows
+{8darker{x and colder, and it feels very {&uninviting{x...  
+~
+0 0 6
+D0
+~
+~
+0 0 2601
+S
+#2601
+Underwater Path~
+Brightly-coloured fishes of all shapes and sizes are swimming freely in
+the {^sky-blue{x sea.  Underwater {@plants{x seemingly wave at you, swaying
+in time to a hidden music.  As you swim deeper into the {^sea{x, the sea
+seems to draw into itself, as if hiding some secret.  The sea grows
+{8darker{x and colder, and it feels very {&uninviting{x...  
+~
+0 0 6
+D0
+~
+~
+0 0 2602
+D2
+~
+~
+0 0 2600
+S
+#2602
+Underwater Path~
+Brightly-coloured fishes of all shapes and sizes are swimming freely in
+the {^sky-blue{x sea.  Underwater {@plants{x seemingly wave at you, swaying
+in time to a hidden music.  As you swim deeper into the {^sea{x, the sea
+seems to draw into itself, as if hiding some secret.  The sea grows
+{8darker{x and colder, and it feels very {&uninviting{x...  
+~
+0 0 6
+D2
+~
+~
+0 0 2601
+D5
+~
+~
+0 0 2603
+S
+#2603
+Whirlpool!~
+A deadly whirlpool is drawing you further and further down, and you
+wonder if this is the end.  Around you, much debris and other fish can be
+seen being sucked into the whirlpool.  You desperately try to grab hold of a
+large object, but to no avail.  
+~
+0 1 6
+D5
+~
+~
+0 0 2604
+S
+#2604
+The Bottom of the Whirlpool~
+You are amazed that you have survived that deadly whirlpool without even
+being injured.  Even though you are so far below, the sun is still shining
+brightly.  In the distance, a large {3dome {xof a building is faintly
+visible.  
+~
+0 0 6
+D0
+~
+~
+0 0 2605
+S
+#2605
+Path to Atlantis~
+As you near the dome, you realise that it is some sort of shield
+protecting a city from outside contact!  The water is stranger much quieter
+and still, where the torrents and crashing tides above seem to have died
+down.  As you notice the sunken city busting with life, you begin to wonder
+if you have actually stumbled upon the fabled lost city of Atlantis!  
+~
+0 0 6
+D0
+~
+~
+0 0 2606
+D2
+~
+~
+0 0 2604
+S
+#2606
+Path to Atlantis~
+As you near the dome, you realise that it is some sort of shield
+protecting a city from outside contact!  The water is stranger much quieter
+and still, where the torrents and crashing tides above seem to have died
+down.  As you notice the sunken city busting with life, you begin to wonder
+if you have actually stumbled upon the fabled lost city of Atlantis!  
+~
+0 0 6
+D0
+~
+~
+0 0 2607
+D2
+~
+~
+0 0 2605
+S
+#2607
+The Lost City of Atlantis~
+Ruined buildings of all sizes are to your east and west.  The buildings
+are filled with water, and the water is still and silent.  Seaweed litters
+the sea bed and rare types of plants grow beside the walls.  Only one or two
+fish venture into the darkness, as if they are scared of something.  
+~
+0 0 6
+D0
+~
+~
+0 0 2610
+D1
+~
+~
+0 0 2608
+D2
+~
+~
+0 0 2606
+D3
+~
+~
+0 0 2609
+S
+#2608
+Ruined house~
+The water pressure has crushed most of the building, and only parts of
+the walls are remaining.  Healthy-looking citizens are strolling around
+here, as if nothing has happened.  A large, shimmering bubble is surrounding
+the city, and it keeps all the air in, leaving its citizens safe and
+healthy.  This is the work of some great sorcerer.  
+~
+0 0 0
+D3
+~
+~
+0 0 2607
+S
+#2609
+Ruined house~
+The water pressure has crushed most of the building, and only parts of
+the walls are remaining.  Healthy-looking citizens are strolling around
+here, as if nothing has happened.  A large, shimmering bubble is surrounding
+the city, and it keeps all the air in, leaving its citizens safe and
+healthy.  This is the work of some great sorcerer.  
+~
+0 0 0
+D1
+~
+~
+0 0 2607
+S
+#2610
+Atlantis Street~
+To the north is the hustle and bustle of the Market Square.  This pathway
+is lined with exotic kinds of water plants, and many citizens are walking to
+and fro.  Amazingly, even at this great depth, some sunlight still manages
+to penetrate the murky water.  
+~
+0 0 0
+D0
+~
+~
+0 0 2611
+D1
+~
+~
+0 0 2612
+D2
+~
+~
+0 0 2607
+D3
+~
+~
+0 0 2613
+S
+#2611
+Market Square~
+The Market Square is noisy with the sounds of barter trade.  Everywhere
+you look, stalls selling different goods can be seen.  In the centre of the
+Market Square, a large fountain gushing colored water out is the center of
+attraction.  
+~
+0 0 0
+D0
+~
+~
+0 0 2638
+D1
+~
+~
+0 0 2614
+D2
+~
+~
+0 0 2610
+D3
+~
+~
+0 0 2615
+S
+#2612
+Ruined house~
+The water pressure has crushed most of the building, and only parts of
+the walls are remaining.  Healthy-looking citizens are strolling around
+here, as if nothing has happened.  A large, shimmering bubble is surrounding
+the city, and it keeps all the air in, leaving its citizens safe and
+healthy.  This is the work of some great sorcerer.  
+~
+0 0 0
+D3
+~
+~
+0 0 2610
+S
+#2613
+Ruined house~
+The water pressure has crushed most of the building, and only parts of
+the walls are remaining.  Healthy-looking citizens are strolling around
+here, as if nothing has happened.  A large, shimmering bubble is surrounding
+the city, and it keeps all the air in, leaving its citizens safe and
+healthy.  This is the work of some great sorcerer.  
+~
+0 0 0
+D1
+~
+~
+0 0 2610
+S
+#2614
+Terop Street~
+This is where the main shops are located.  A few fish swim close, and in
+between the water plants.  The citizens of Atlantis seem to have an affinity
+for jewels, for the pathways are gem-studded.  Many citizens walk around
+aimlessly, looking bored.  
+~
+0 0 0
+D0
+~
+~
+0 0 2624
+D1
+~
+~
+0 0 2616
+D2
+~
+~
+0 0 2625
+D3
+~
+~
+0 0 2611
+S
+#2615
+Terop Street~
+This is where the main shops are located.  A few fish swim close, and in
+between the water plants.  The citizens of Atlantis seem to have an affinity
+for jewels, for the pathways are gem-studded.  Many citizens walk around
+aimlessly, looking bored.  
+~
+0 0 0
+D0
+~
+~
+0 0 2620
+D1
+~
+~
+0 0 2611
+D2
+~
+~
+0 0 2629
+D3
+~
+~
+0 0 2618
+S
+#2616
+Terop Street~
+This is where the main shops are located.  A few fish swim close, and in
+between the water plants.  The citizens of Atlantis seem to have an affinity
+for jewels, for the pathways are gem-studded.  Many citizens walk around
+aimlessly, looking bored.  
+~
+0 0 0
+D0
+~
+~
+0 0 2628
+D1
+~
+~
+0 0 2617
+D2
+~
+~
+0 0 2627
+D3
+~
+~
+0 0 2614
+S
+#2617
+Easten Gate of Atlantis~
+This is the gate that connects Atlantis to the rest of the sea.  All
+around it seaweed and different kinds of plants grow, and fish swim merrily
+outside Atlantis.  The gate is heavily guarded, and anyone who wishes to
+leave Atlantis must have a pass.  
+~
+0 0 0
+D1
+~
+~
+0 0 2630
+D3
+~
+~
+0 0 2616
+S
+#2618
+Terop Street~
+This is where the main shops are located.  A few fish swim close, and in
+between the water plants.  The citizens of Atlantis seem to have an affinity
+for jewels, for the pathways are gem-studded.  Many citizens walk around
+aimlessly, looking bored.  
+~
+0 0 0
+D0
+~
+~
+0 0 2623
+D1
+~
+~
+0 0 2615
+D2
+~
+~
+0 0 2622
+D3
+~
+~
+0 0 2619
+S
+#2619
+Western Gate of Atlantis~
+This is the gate that connects Atlantis to the rest of the sea.  All
+around it seaweed and different kinds of plants grow, and fish swim merrily
+outside Atlantis.  The gate is heavily guarded, and anyone who wishes to
+leave Atlantis must have a pass.  
+~
+0 0 0
+D1
+~
+~
+0 0 2618
+D3
+~
+~
+0 0 2634
+S
+#2620
+The bakery~
+Customers shuffle around, bartering for lower prices on the different
+types of delicacies.  There is a sign on the left wall, reminding the baker
+that no matter how rude or unreasonable customers might be, they are always
+right!  
+~
+0 0 0
+D2
+~
+~
+0 0 2615
+S
+#2621
+Standard room~
+~
+0 0 0
+D0
+~
+~
+0 0 2615
+S
+#2622
+Cythan's Jewellery~
+Glittering jewellery of all kinds are stacked in glass cabinets, for
+customers to admire.  Rubies, emeralds and sapphires are the object of
+desire for most citizens of Atlantis, and this store does very good
+business.  
+~
+0 0 0
+D0
+~
+~
+0 0 2618
+S
+#2623
+General store~
+You have entered the general store of Atlantis.  Here, assorted items for
+the use of travellers are kept safely out of your reach.  The great wealth
+of the citizens is apparent in the amount of exotic items on display here. 
+A small note is pinned on the wall notifying customers that if they want a
+list of items, just type list.  
+~
+0 0 0
+D2
+~
+~
+0 0 2618
+S
+#2624
+Carioca's Potions~
+Foul-smelling potions are stacked neatly on shelves, and Carioca herself
+welcomes you with a wide smile on her face.  Judging by the colour of these
+potent brews, they may range from being healing potions to self-damaging
+spells.  
+~
+0 0 0
+D2
+~
+~
+0 0 2614
+S
+#2625
+Lylith's Pets~
+The animals sold here are indeed different from others.  They range from
+meek little cats and dogs to great elephants and baby fire-breathing
+dragons.  The owner, Lylith, has cruelly locked them up in tiny cages, so as
+to save space.  
+~
+0 4096 0
+D0
+~
+~
+0 0 2614
+S
+#2626
+Standard room~
+~
+0 4100 0
+S
+#2627
+Xeo's Forge~
+Weaponry of all sorts are stacked up neatly in one corner, and in the
+next room Xeo himself is designing a new weapon.  In the next room, great
+bursts of heat can be felt even from outside.  A small sign hangs next to
+the door, showing that the shop is now still open.  
+~
+0 0 0
+D0
+~
+~
+0 0 2616
+S
+#2628
+Desimus' Armory~
+As you enter the armory, you feel the room temperature increase greatly. 
+Loud clanging noises come from everywhere, and you realize that Desimus is
+busy forging more pieces of armor.  Different sizes and materials of armor
+are hanging on the wall for display, proving Desimus' prowess as a armorer. 
+~
+0 0 0
+D2
+~
+~
+0 0 2616
+S
+#2629
+Rathe's Magical Wares~
+Wands made from all sorts of materials are stacked neatly in one corner,
+and scrolls containing potent spells are in the other.  Dividing the room
+into two is a large desk, and behind it are shelves crammed with jars,
+scrolls, and many different magical items.  
+~
+0 0 0
+D0
+~
+~
+0 0 2615
+S
+#2630
+Seabed~
+Even the golden rays of the sun cannot penetrate the murky depths of the
+seabed.  Specially adapted fish swim around, some with lanterns hanging in
+front of them.  This darkness is a contrast to the happiness and contentment
+of the citizens in nearby Atlantis.  
+~
+0 1 0
+D0
+~
+~
+0 0 2631
+D1
+~
+~
+0 0 2633
+D3
+~
+~
+0 0 2617
+S
+#2631
+Seabed~
+Even the golden rays of the sun cannot penetrate the murky depths of the
+seabed.  Specially adapted fish swim around, some with lanterns hanging in
+front of them.  This darkness is a contrast to the happiness and contentment
+of the citizens in nearby Atlantis.  
+~
+0 1 0
+D1
+~
+~
+0 0 2632
+D2
+~
+~
+0 0 2630
+S
+#2632
+Seabed~
+Even the golden rays of the sun cannot penetrate the murky depths of the
+seabed.  Specially adapted fish swim around, some with lanterns hanging in
+front of them.  This darkness is a contrast to the happiness and contentment
+of the citizens in nearby Atlantis.  
+~
+0 1 0
+D2
+~
+~
+0 0 2633
+D3
+~
+~
+0 0 2631
+S
+#2633
+Seabed~
+Even the golden rays of the sun cannot penetrate the murky depths of the
+seabed.  Specially adapted fish swim around, some with lanterns hanging in
+front of them.  This darkness is a contrast to the happiness and contentment
+of the citizens in nearby Atlantis.  
+~
+0 1 0
+D0
+~
+~
+0 0 2632
+D3
+~
+~
+0 0 2630
+S
+#2634
+Seabed~
+Even the golden rays of the sun cannot penetrate the murky depths of the
+seabed.  Specially adapted fish swim around, some with lanterns hanging in
+front of them.  This darkness is a contrast to the happiness and contentment
+of the citizens in nearby Atlantis.  
+~
+0 1 0
+D0
+~
+~
+0 0 2636
+D1
+~
+~
+0 0 2619
+D3
+~
+~
+0 0 2635
+S
+#2635
+Seabed~
+Even the golden rays of the sun cannot penetrate the murky depths of the
+seabed.  Specially adapted fish swim around, some with lanterns hanging in
+front of them.  This darkness is a contrast to the happiness and contentment
+of the citizens in nearby Atlantis.  
+~
+0 1 0
+D0
+~
+~
+0 0 2637
+D1
+~
+~
+0 0 2634
+S
+#2636
+Seabed~
+Even the golden rays of the sun cannot penetrate the murky depths of the
+seabed.  Specially adapted fish swim around, some with lanterns hanging in
+front of them.  This darkness is a contrast to the happiness and contentment
+of the citizens in nearby Atlantis.  
+~
+0 1 0
+D2
+~
+~
+0 0 2634
+D3
+~
+~
+0 0 2637
+S
+#2637
+Seabed~
+Even the golden rays of the sun cannot penetrate the murky depths of the
+seabed.  Specially adapted fish swim around, some with lanterns hanging in
+front of them.  This darkness is a contrast to the happiness and contentment
+of the citizens in nearby Atlantis.  
+~
+0 1 0
+D1
+~
+~
+0 0 2636
+D2
+~
+~
+0 0 2635
+S
+#2638
+Path to the Castle~
+This worn path leads to the castle of Atlantis.  The mighty sorcerer who
+cast the spell upon Atlantis resides there.  Some aquatic plants have been
+planted here, to provide decoration for the people visiting.  
+~
+0 0 0
+D0
+~
+~
+0 0 2639
+D2
+~
+~
+0 0 2611
+S
+#2639
+Path to the Castle~
+This worn path leads to the castle of Atlantis.  The mighty sorcerer who
+cast the spell upon Atlantis resides there.  Some aquatic plants have been
+planted here, to provide decoration for the people visiting.  
+~
+0 0 0
+D0
+~
+~
+0 0 2640
+D2
+~
+~
+0 0 2638
+S
+#2640
+The Castle Gates~
+Majestic, towering gates rise over you.  In such a magnificent palace as
+this, only the most influential royalty may reside here.  Twin towers are on
+either side of the gates, adding to the awe-inspiring scene.  
+~
+0 0 0
+D0
+~
+~
+0 0 2641
+D2
+~
+~
+0 0 2639
+S
+#2641
+Courtyard~
+A lush green garden full of plants and animals sparkles with life.  There
+is a long winding pathway which the sorceror likes to stroll on, while
+enjoying the beautiful surroundings.  Tall sturdy trees are on every side of
+the pathway.  
+~
+0 0 1
+D0
+~
+~
+0 0 2646
+D1
+~
+~
+0 0 2642
+D2
+~
+~
+0 0 2640
+D3
+~
+~
+0 0 2643
+S
+#2642
+Courtyard~
+A lush green garden full of plants and animals sparkles with life.  There
+is a long winding pathway which the sorceror likes to stroll on, while
+enjoying the beautiful surroundings.  Tall sturdy trees are on every side of
+the pathway.  
+~
+0 0 1
+D0
+~
+~
+0 0 2645
+D3
+~
+~
+0 0 2641
+S
+#2643
+Courtyard~
+A lush green garden full of plants and animals sparkles with life.  There
+is a long winding pathway which the sorceror likes to stroll on, while
+enjoying the beautiful surroundings.  Tall sturdy trees are on every side of
+the pathway.  
+~
+0 0 1
+D0
+~
+~
+0 0 2644
+D1
+~
+~
+0 0 2641
+D3
+~
+~
+0 0 2648
+S
+#2644
+Courtyard~
+A lush green garden full of plants and animals sparkles with life.  There
+is a long winding pathway which the sorceror likes to stroll on, while
+enjoying the beautiful surroundings.  Tall sturdy trees are on every side of
+the pathway.  
+~
+0 0 1
+D1
+~
+~
+0 0 2646
+D2
+~
+~
+0 0 2643
+D3
+~
+~
+0 0 2647
+S
+#2645
+Courtyard~
+A lush green garden full of plants and animals sparkles with life.  There
+is a long winding pathway which the sorceror likes to stroll on, while
+enjoying the beautiful surroundings.  Tall sturdy trees are on every side of
+the pathway.  
+~
+0 0 1
+D2
+~
+~
+0 0 2642
+D3
+~
+~
+0 0 2646
+S
+#2646
+Courtyard~
+A lush green garden full of plants and animals sparkles with life.  There
+is a long winding pathway which the sorceror likes to stroll on, while
+enjoying the beautiful surroundings.  Tall sturdy trees are on every side of
+the pathway.  
+~
+0 0 1
+D0
+~
+~
+0 0 2649
+D1
+~
+~
+0 0 2645
+D2
+~
+~
+0 0 2641
+D3
+~
+~
+0 0 2644
+S
+#2647
+Courtyard~
+A lush green garden full of plants and animals sparkles with life.  There
+is a long winding pathway which the sorceror likes to stroll on, while
+enjoying the beautiful surroundings.  Tall sturdy trees are on every side of
+the pathway.  
+~
+0 0 1
+D1
+~
+~
+0 0 2644
+D2
+~
+~
+0 0 2648
+S
+#2648
+Courtyard~
+A lush green garden full of plants and animals sparkles with life.  There
+is a long winding pathway which the sorceror likes to stroll on, while
+enjoying the beautiful surroundings.  Tall sturdy trees are on every side of
+the pathway.  
+~
+0 0 1
+D0
+~
+~
+0 0 2647
+D1
+~
+~
+0 0 2643
+S
+#2649
+Castle Hallway~
+Brightly lit torches bathe this pathway in a luminous gold.  This hallway
+is large and wide and has a welcoming atmosphere.  However, the guards at
+the entrance discourage commoners to enter.  
+~
+0 0 0
+D0
+~
+~
+0 0 2650
+D2
+~
+~
+0 0 2646
+S
+#2650
+Castle Hallway~
+Brightly lit torches bathe this pathway in a luminous gold.  This hallway
+is large and wide and has a welcoming atmosphere.  However, the guards at
+the entrance discourage commoners to enter.  
+~
+0 0 0
+D0
+~
+~
+0 0 2651
+D2
+~
+~
+0 0 2649
+S
+#2651
+Castle Hallway~
+Brightly lit torches bathe this pathway in a luminous gold.  This hallway
+is large and wide and has a welcoming atmosphere.  However, the guards at
+the entrance discourage commoners to enter.  
+~
+0 0 0
+D1
+~
+~
+0 0 2653
+D2
+~
+~
+0 0 2650
+D3
+~
+~
+0 0 2657
+D4
+~
+~
+0 0 2652
+S
+#2652
+Stairwell~
+The winding stairwell ends here.  To the north is the throne room, while
+the fabled king sits.  While to the other cardinal directions are living
+chambers.  The stairwell is large and well decorated, as the royalty live in
+the lap of luxury.  
+~
+0 0 0
+D0
+~
+~
+0 0 2672
+D1
+~
+~
+0 0 2671
+D2
+~
+~
+0 0 2670
+D3
+~
+~
+0 0 2673
+D5
+~
+~
+0 0 2651
+S
+#2653
+Kitchen~
+An aromatic smell fills the air.  You have entered the kitchen, and a
+bustling sight greets you.  Chefs run around everywhere, yelling orders and
+looking fustrated.  Food sizzles, looking very delicious and waiting to be
+consumed.  
+~
+0 0 0
+D1
+~
+~
+0 0 2655
+D2
+~
+~
+0 0 2654
+D3
+~
+~
+0 0 2651
+S
+#2654
+Kitchen~
+An aromatic smell fills the air.  You have entered the kitchen, and a
+bustling sight greets you.  Chefs run around everywhere, yelling orders and
+looking fustrated.  Food sizzles, looking very delicious and waiting to be
+consumed.  
+~
+0 0 0
+D0
+~
+~
+0 0 2653
+D1
+~
+~
+0 0 2656
+S
+#2655
+Kitchen~
+An aromatic smell fills the air.  You have entered the kitchen, and a
+bustling sight greets you.  Chefs run around everywhere, yelling orders and
+looking fustrated.  Food sizzles, looking very delicious and waiting to be
+consumed.  
+~
+0 0 0
+D2
+~
+~
+0 0 2656
+D3
+~
+~
+0 0 2653
+S
+#2656
+Kitchen~
+An aromatic smell fills the air.  You have entered the kitchen, and a
+bustling sight greets you.  Chefs run around everywhere, yelling orders and
+looking fustrated.  Food sizzles, looking very delicious and waiting to be
+consumed.  
+~
+0 0 0
+D0
+~
+~
+0 0 2655
+D3
+~
+~
+0 0 2654
+S
+#2657
+Servant's Quarters~
+Even the servants in this luxurious palace live better than the commoners
+outside.  Soft bouncy beds lie next to the walls, welcoming one to sleep
+there.  Other basic neccesities are located all around the quarters.  
+~
+0 0 0
+D0
+~
+~
+0 0 2658
+D1
+~
+~
+0 0 2651
+D3
+~
+~
+0 0 2659
+S
+#2658
+Servant's Quarters~
+Even the servants in this luxurious palace live better than the commoners
+outside.  Soft bouncy beds lie next to the walls, welcoming one to sleep
+there.  Other basic neccesities are located all around the quarters.  
+~
+0 0 0
+D2
+~
+~
+0 0 2657
+D3
+~
+~
+0 0 2661
+S
+#2659
+Servant's Quarters~
+Even the servants in this luxurious palace live better than the commoners
+outside.  Soft bouncy beds lie next to the walls, welcoming one to sleep
+there.  Other basic neccesities are located all around the quarters.  
+~
+0 0 0
+D0
+~
+~
+0 0 2661
+D1
+~
+~
+0 0 2657
+S
+#2660
+Standard room~
+~
+0 4 0
+S
+#2661
+Servant's Quarters~
+Even the servants in this luxurious palace live better than the commoners
+outside.  Soft bouncy beds lie next to the walls, welcoming one to sleep
+there.  Other basic neccesities are located all around the quarters.  
+~
+0 0 0
+D1
+~
+~
+0 0 2658
+D2
+~
+~
+0 0 2659
+S
+#2662
+Throne Room~
+This is the fabled throne room of Atlantis.  A great, golden chair sits
+in the middle of the room, probably the throne of the sorceror.  Many guards
+stand at alert at any entrance of the throne room, making sure that no thief
+steals the bejewelled crown of Atlantis.  
+~
+0 0 0
+D2
+~
+~
+0 0 2672
+S
+#2670
+Guests room~
+This is where the guests reside.  Only the noblest and wealthiest
+Atlanteans can even think of entering the castle, let alone staying in it. 
+Luxurious king-sized beds line the wall, fluffy pillows and all.  A
+chandelier hangs from the ceiling, lighting the room up in brilliant golden
+hues.  
+~
+0 0 0
+D0
+~
+~
+0 0 2652
+D1
+~
+~
+0 0 2674
+D2
+~
+~
+0 0 2676
+D3
+~
+~
+0 0 2675
+S
+#2671
+Queen's Chambers~
+This is the beautiful Queen of Atlantis's bedroom.  Pictures of herself
+are framed on the wall, expressing her vanity.  She does not do anything but
+stay in her room and lie in luxury all day.  
+~
+0 0 0
+D3
+~
+~
+0 0 2652
+S
+#2672
+Castle Hallway~
+This hallway leads to the throne room.  A lavish carpet is on the floor
+for the whole hallway, and pictures are framed on the wall.  Countless
+chandeliers hang from the ceiling, bathing the room in blue light.  
+~
+0 0 0
+D0
+~
+~
+0 0 2662
+D2
+~
+~
+0 0 2652
+S
+#2673
+Sorceror's Chambers~
+The king, or sorceror of Atlantis has ordered this room to be built as a
+sleeping room for him.  It is guarded so well that even an insect will be
+noticed, proving the sorceror's paranoia.  Shelves stuffed with magic books
+and spells, scrolls are beside his bed, while the wands are left lying on
+the floor.  
+~
+0 0 0
+D1
+~
+~
+0 0 2652
+S
+#2674
+Guests room~
+This is where the guests reside.  Only the noblest and wealthiest
+Atlanteans can even think of entering the castle, let alone staying in it. 
+Luxurious king-sized beds line the wall, fluffy pillows and all.  A
+chandelier hangs from the ceiling, lighting the room up in brilliant golden
+hues.  
+~
+0 0 0
+D2
+~
+~
+0 0 2677
+D3
+~
+~
+0 0 2670
+S
+#2675
+Guests room~
+This is where the guests reside.  Only the noblest and wealthiest
+Atlanteans can even think of entering the castle, let alone staying in it. 
+Luxurious king-sized beds line the wall, fluffy pillows and all.  A
+chandelier hangs from the ceiling, lighting the room up in brilliant golden
+hues.  
+~
+0 0 0
+D1
+~
+~
+0 0 2670
+D2
+~
+~
+0 0 2678
+S
+#2676
+Guests room~
+This is where the guests reside.  Only the noblest and wealthiest
+Atlanteans can even think of entering the castle, let alone staying in it. 
+Luxurious king-sized beds line the wall, fluffy pillows and all.  A
+chandelier hangs from the ceiling, lighting the room up in brilliant golden
+hues.  
+~
+0 0 0
+D0
+~
+~
+0 0 2670
+D1
+~
+~
+0 0 2677
+D3
+~
+~
+0 0 2678
+S
+#2677
+Guests room~
+This is where the guests reside.  Only the noblest and wealthiest
+Atlanteans can even think of entering the castle, let alone staying in it. 
+Luxurious king-sized beds line the wall, fluffy pillows and all.  A
+chandelier hangs from the ceiling, lighting the room up in brilliant golden
+hues.  
+~
+0 0 0
+D0
+~
+~
+0 0 2674
+D3
+~
+~
+0 0 2676
+S
+#2678
+Guests room~
+This is where the guests reside.  Only the noblest and wealthiest
+Atlanteans can even think of entering the castle, let alone staying in it. 
+Luxurious king-sized beds line the wall, fluffy pillows and all.  A
+chandelier hangs from the ceiling, lighting the room up in brilliant golden
+hues.  
+~
+0 0 0
+D0
+~
+~
+0 0 2675
+D1
+~
+~
+0 0 2676
+S
+#0
+
+
+
+#SPECIALS
+M 2603 spec_breath_frost
+M 2608 spec_breath_any
+S
+
+
+
+#RESETS
+M 0 2600 100 2600 1
+M 0 2602 100 2600 1
+O 0 2674 0 2600
+M 0 2600 100 2601 1
+M 0 2601 100 2601 1
+M 0 2600 100 2602 1
+M 0 2601 100 2602 1
+M 0 2601 100 2603 1
+O 0 2604 0 2604
+M 0 2600 100 2604 1
+M 0 2602 100 2604 1
+O 0 2604 0 2605
+M 0 2601 100 2605 1
+M 0 2602 100 2605 1
+M 0 2600 100 2606 1
+M 0 2601 100 2606 1
+M 0 2602 100 2606 1
+M 0 2601 100 2607 1
+M 0 2602 100 2607 1
+M 0 2615 100 2607 2
+E 0 2630 0 11
+E 0 2617 0 16
+M 0 2608 100 2608 1
+M 0 2608 100 2609 1
+M 0 2608 100 2610 1
+O 0 2611 0 2611
+M 0 2608 100 2611 1
+M 0 2608 100 2612 2
+M 0 2608 100 2613 2
+M 0 2608 100 2614 1
+M 0 2608 100 2615 1
+M 0 2615 100 2617 2
+E 0 2630 0 11
+E 0 2617 0 16
+M 0 2608 100 2617 1
+M 0 2608 100 2618 1
+M 0 2615 100 2619 2
+E 0 2617 0 16
+E 0 2630 0 11
+M 0 2620 100 2620 1
+G 0 2602 0
+G 0 2601 0
+G 0 2615 0
+G 0 2620 0
+M 0 2622 100 2622 1
+G 0 2616 0
+G 0 2613 0
+G 0 2622 0
+M 0 2623 100 2623 1
+G 0 2612 0
+G 0 2610 0
+G 0 2623 0
+M 0 2624 100 2624 1
+G 0 2600 0
+G 0 2614 0
+G 0 2624 0
+M 0 2625 100 2625 1
+M 0 2628 100 2626 1
+M 0 2626 100 2626 1
+M 0 2603 100 2626 1
+M 0 2627 100 2627 1
+G 0 2608 0
+G 0 2607 0
+G 0 2627 0
+M 0 2604 100 2628 1
+G 0 2606 0
+G 0 2605 0
+G 0 2628 0
+M 0 2629 100 2629 1
+G 0 2609 0
+G 0 2629 0
+M 0 2630 100 2630 1
+M 0 2635 100 2630 1
+M 0 2630 100 2631 1
+M 0 2635 100 2631 1
+M 0 2630 100 2633 1
+M 0 2635 100 2633 1
+M 0 2630 100 2634 1
+M 0 2635 100 2634 1
+M 0 2630 100 2635 1
+M 0 2635 100 2635 1
+E 0 2635 0 0
+M 0 2630 100 2637 1
+M 0 2615 100 2640 2
+E 0 2630 0 11
+E 0 2617 0 16
+M 0 2641 100 2641 1
+E 0 2641 0 7
+M 0 2641 100 2642 1
+M 0 2641 100 2644 1
+M 0 2641 100 2646 1
+M 0 2641 100 2648 1
+M 0 2649 100 2649 2
+M 0 2649 100 2652 2
+M 0 2653 100 2653 1
+E 0 2653 0 17
+M 0 2654 100 2653 1
+M 0 2654 100 2654 1
+M 0 2655 100 2655 1
+E 0 2655 0 16
+M 0 2653 100 2656 1
+O 0 2657 0 2657
+M 0 2657 100 2657 1
+O 0 2657 0 2658
+O 0 2657 0 2659
+M 0 2657 100 2659 1
+O 0 2657 0 2661
+M 0 2657 100 2661 1
+M 0 2662 100 2662 1
+E 0 2662 0 6
+M 0 2649 100 2662 4
+M 0 2670 100 2670 1
+M 0 2671 100 2671 1
+E 0 2671 0 3
+M 0 2649 100 2671 4
+M 0 2649 100 2672 2
+O 0 2673 0 2673
+M 0 2649 100 2673 2
+M 0 2670 100 2674 1
+M 0 2670 100 2675 1
+M 0 2670 100 2676 1
+M 0 2670 100 2677 1
+M 0 2670 100 2678 1
+S
+
+
+
+#SHOPS
+2604 9 0 0 0 0 100 10 0 24
+2620 19 0 0 0 0 100 10 0 24
+2622 33 0 0 0 0 100 10 0 24
+2623 1 15 0 0 0 100 10 0 24
+2624 10 0 0 0 0 100 10 1 24
+2625 0 0 0 0 0 100 10 0 24
+2627 5 0 0 0 0 100 10 0 24
+2629 3 2 0 0 0 100 10 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,23 @@
+   Paradox MUD is a RoT based, PK centered MUD. We want to provide you,
+   the players, with a high quality environment to play in while not
+   forgetting that you visit our MUD to have fun. We, the immortal staff,
+   do not run Paradox MUD to have a place to boost our egos by punishing
+   immature players but we are all part of a community working together
+   to make this game enjoyable for everyone who feels that testing his/her
+   strength and skill against other players is more fun and more challenging
+   than playing in a non PK environment.
+
+   Some features currently available:
+    *18 classes on two tiers
+    *10 original races
+    *+/-10 PK range
+    *original concept of changing gamestates which have different
+     rules for gating, safe rooms, ganging, looting, etc.
+    *autoquests and immortal run quests
+    *player and immortal run clans
+    *copyover on crash for increased stability
+    *extensive and well organized help system
+    *arena, auction system, banks, avatar mode for immortals,
+     statistics and pk points, portals to most areas, original
+     hometown and many more original areas (16 at the moment),
+     class/clan equipment, etc.     

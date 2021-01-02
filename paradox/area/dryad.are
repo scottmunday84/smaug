@@ -1,0 +1,764 @@
+#AREADATA
+Name Dryad Castle~
+Builders Famine Unlinked~
+VNUMs 4400 4499
+Credits {01 101} Famine   Dryad Castle~
+Security 6
+End
+
+
+
+#MOBILES
+#4400
+dryad guard~
+A Dryard Guard~
+A {RD{rr{Ry{ra{Rd {DG{wu{Da{wr{Dd{x stands here.
+~
+A standard mob is here.
+Grunts as his face turns red. The armor he wears shines at your eyes. His skin is darker than most and seems to be protected by some kind of magical power.
+~
+dragon~
+AFR JTa HR -1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 slash
+-38 -38 -38 -38
+0 0 BEH FI
+stand stand male 1000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#4403
+dryad warrior~
+A Dryad Warrior~
+A {RD{rr{Ry{ra{Rd {DWar{xri{Dor{x stands here like a rock.
+~
+Looks very mean, dont piss this dryad off.
+~
+dragon~
+AB JT 0 -1000 0
+80 60 50d10+9500 50d10+9500 8d6+27 bite
+-38 -38 -38 -38
+0 0 BEH FI
+stand stand none 500
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#4436
+britania~
+Britania~
+{FB{wr{Witan{wi{Fa{x, sits here with a rose in here hand. 
+~
+Britania has a face of an angel.  
+~
+dragon~
+A JT H -1000 0
+70 70 50d20+14500 50d20+14500 6d10+33 slap
+-46 -46 -46 -46
+0 0 BEH FI
+stand stand female 1000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#4437
+huntra~
+Huntra~
+{wH{Du{intr{wa{x, is sleeping here.
+~
+Very sleepy face, she never wakes but only to kill her next victom.  
+~
+dragon~
+A JT H -1000 0
+70 70 50d20+14500 50d20+14500 6d10+33 slap
+-46 -46 -46 -46
+0 0 BEH FI
+stand stand female 2000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#0
+
+
+
+#OBJECTS
+#4400
+bone flail~
+{WB{won{We {DF{wl{Wa{wi{Dl{x~
+A bone shape object is on the ground here.~
+bone~
+weapon G AN
+flail 5 19 smash A
+60 5 2000 P
+A
+13 100
+A
+18 7
+A
+19 7
+#0
+
+
+
+#ROOMS
+#4400
+{RE{rntrance to the Castl{Re{x~
+{iThe entrance of the castle has two metal gates that lead inside of this
+dark cold place.  Standing in front of these metal gates are two guards that
+are armed with weapons of destruction.  Many torchs line the walls of the
+entrance.  They seem to stretch along and around the sides of the castle
+walls.  Many screams can be herd from the towers above and around the back. 
+{x The ground is coverd with old stones and many blood stains...  
+~
+0 0 0
+D0
+~
+~
+0 0 4401
+S
+#4401
+{RT{rhe Hallwa{Ry{x~
+{iThe torchs along the walls light as you pass and the blood drips from
+the many holes in the walls.  The stench of rotten flesh can be smelled from
+all directions of this room.  {x {iThe ground is slippery from the moist
+water spots that drip from the cracked celling.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 4402
+D2
+~
+~
+0 0 4400
+S
+#4402
+{RT{rhe Hallwa{Ry{x~
+{iThe torchs along the walls light as you pass and the blood drips from
+the many holes in the walls.  The stench of rotten flesh can be smelled from
+all directions of this room.  {x {iThe ground is slippery from the moist
+water spots that drip from the cracked celling.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 4405
+D1
+~
+~
+0 0 4404
+D2
+~
+~
+0 0 4401
+D3
+~
+~
+0 0 4403
+S
+#4403
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 4402
+S
+#4404
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D3
+~
+~
+0 0 4402
+S
+#4405
+{RT{rhe Hallwa{Ry{x~
+{iThe torchs along the walls light as you pass and the blood drips from
+the many holes in the walls.  The stench of rotten flesh can be smelled from
+all directions of this room.  {x {iThe ground is slippery from the moist
+water spots that drip from the cracked celling.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 4408
+D1
+~
+~
+0 0 4407
+D2
+~
+~
+0 0 4402
+D3
+~
+~
+0 0 4406
+S
+#4406
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 4405
+S
+#4407
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D3
+~
+~
+0 0 4405
+S
+#4408
+{RT{rhe Hallwa{Ry{x~
+{iThe torchs along the walls light as you pass and the blood drips from
+the many holes in the walls.  The stench of rotten flesh can be smelled from
+all directions of this room.  {x {iThe ground is slippery from the moist
+water spots that drip from the cracked celling.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 4411
+D1
+~
+~
+0 0 4409
+D2
+~
+~
+0 0 4405
+D3
+~
+~
+0 0 4410
+S
+#4409
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D3
+~
+~
+0 0 4408
+S
+#4410
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 4408
+S
+#4411
+{RT{rhe Hallwa{Ry{x~
+{iThe torchs along the walls light as you pass and the blood drips from
+the many holes in the walls.  The stench of rotten flesh can be smelled from
+all directions of this room.  {x {iThe ground is slippery from the moist
+water spots that drip from the cracked celling.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 4414
+D1
+~
+~
+0 0 4413
+D2
+~
+~
+0 0 4408
+D3
+~
+~
+0 0 4412
+S
+#4412
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 4411
+S
+#4413
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D3
+~
+~
+0 0 4411
+S
+#4414
+{RT{rhe En{Rd{x~
+{iThe torchs along the walls light as you pass and the blood drips from
+the many holes in the walls.  The stench of rotten flesh can be smelled from
+all directions of this room.  {x {iThe ground is slippery from the moist
+water spots that drip from the cracked celling.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 4415
+D2
+~
+~
+0 0 4411
+D3
+~
+~
+0 0 4416
+D5
+~
+~
+0 0 4417
+S
+#4415
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D3
+~
+~
+0 0 4414
+S
+#4416
+{RS{rmall lit roo{Rm{x~
+{iMist covers the floor here as some warriors stand with evil looks on
+there bony faces.  The ground seems to sink and slush as it turns red and
+boils from the last deaths of many who tried to kill these warriors.  {x
+{iSmell gets awful as you stand here waiting to run for your life.  The
+walls burn with lighted skulls and bones.  Screams are heard off in the
+distant rooms across from this one.  Spiders crawl the cellings as they drop
+off to land on there new victoms{x {ifor there new lunch and shelter.  {x 
+~
+0 0 0
+D1
+~
+~
+0 0 4414
+S
+#4417
+{RD{rark Pits of the lower Chamber{Rs{x~
+{iMany open doors lead east and west here.  Marks of "Fade" are on the
+walls here for protection.  The ground is coverd in a thick layer of dust
+and gunk.  The air seems to be real thin and stale down in the lower pit of
+this dark and old castle.  {x 
+~
+0 4 0
+D0
+~
+~
+0 0 4418
+D1
+~
+~
+0 0 4423
+D3
+~
+~
+0 0 4424
+D4
+~
+~
+0 0 4414
+S
+#4418
+{RD{rark Pits of the lower Chamber{Rs{x~
+{iMany open doors lead east and west here.  Marks of "Fade" are on the
+walls here for protection.  The ground is coverd in a thick layer of dust
+and gunk.  The air seems to be real thin and stale down in the lower pit of
+this dark and old castle.  {x {iThere seems to be some mushrooms growing in
+the corner here.  It shines from the only hole from a wall where there seems
+to be light.  {x 
+~
+0 4 0
+D0
+~
+~
+0 0 4419
+D1
+~
+~
+0 0 4426
+D2
+~
+~
+0 0 4417
+D3
+~
+~
+0 0 4425
+S
+#4419
+{RD{rark Pits of the lower Chamber{Rs{x~
+{iMany open doors lead east and west here.  Marks of "Fade" are on the
+walls here for protection.  The ground is coverd in a thick layer of dust
+and gunk.  The air seems to be real thin and stale down in the lower pit of
+this dark and old castle.  {x 
+~
+0 4 0
+D0
+~
+~
+0 0 4420
+D1
+~
+~
+0 0 4428
+D2
+~
+~
+0 0 4418
+D3
+~
+~
+0 0 4427
+S
+#4420
+{RD{rark Pits of the lower Chamber{Rs{x~
+{iMany open doors lead east and west here.  Marks of "Fade" are on the
+walls here for protection.  The ground is coverd in a thick layer of dust
+and gunk.  The air seems to be real thin and stale down in the lower pit of
+this dark and old castle.  {x 
+~
+0 4 0
+D0
+~
+~
+0 0 4421
+D1
+~
+~
+0 0 4430
+D2
+~
+~
+0 0 4419
+D3
+~
+~
+0 0 4429
+S
+#4421
+{RD{rark Pits of the lower Chamber{Rs{x~
+{iMany open doors lead east and west here.  Marks of "Fade" are on the
+walls here for protection.  The ground is coverd in a thick layer of dust
+and gunk.  The air seems to be real thin and stale down in the lower pit of
+this dark and old castle.  {x 
+~
+0 4 0
+D0
+~
+~
+0 0 4422
+D1
+~
+~
+0 0 4433
+D2
+~
+~
+0 0 4420
+D3
+~
+~
+0 0 4432
+S
+#4422
+{RD{rark Pits of the lower Chamber{Rs{x~
+{iMany open doors lead east and west here.  Marks of "Fade" are on the
+walls here for protection.  The ground is coverd in a thick layer of dust
+and gunk.  The air seems to be real thin and stale down in the lower pit of
+this dark and old castle.  {x 
+~
+0 4 0
+D1
+~
+~
+0 0 4435
+D2
+~
+~
+0 0 4421
+D3
+~
+~
+0 0 4434
+S
+#4423
+Standard room~
+~
+0 4 0
+D3
+~
+~
+0 0 4417
+D5
+~
+~
+0 0 4437
+S
+#4424
+Standard room~
+~
+0 4 0
+D1
+~
+~
+0 0 4417
+D5
+~
+~
+1 0 4436
+S
+#4425
+Standard room~
+~
+0 4 0
+D1
+~
+~
+0 0 4418
+D5
+~
+~
+0 0 4438
+S
+#4426
+Standard room~
+~
+0 4 0
+D3
+~
+~
+0 0 4418
+S
+#4427
+Standard room~
+~
+0 4 0
+D1
+~
+~
+0 0 4419
+S
+#4428
+Standard room~
+~
+0 4 0
+D3
+~
+~
+0 0 4419
+S
+#4429
+Standard room~
+~
+0 4 0
+D1
+~
+~
+0 0 4420
+S
+#4430
+Standard room~
+~
+0 4 0
+D3
+~
+~
+0 0 4420
+S
+#4431
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4440
+S
+#4432
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4421
+S
+#4433
+Standard room~
+~
+0 0 0
+D3
+~
+~
+0 0 4421
+S
+#4434
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4422
+S
+#4435
+Standard room~
+~
+0 0 0
+D3
+~
+~
+0 0 4422
+S
+#4436
+Standard room~
+~
+0 8196 0
+D4
+~
+~
+1 0 4424
+S
+#4437
+Standard room~
+~
+0 4 0
+D4
+~
+~
+0 0 4423
+S
+#4438
+Standard room~
+~
+0 4 0
+D4
+~
+~
+0 0 4425
+S
+#4439
+Standard room~
+~
+0 4 0
+S
+#4440
+Standard room~
+~
+0 0 0
+D3
+~
+~
+0 0 4431
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4400 2 4400 2
+E 0 4400 0 16
+M 0 4403 100 4403 3
+M 0 4403 100 4404 3
+M 0 4403 100 4406 3
+M 0 4403 100 4407 3
+M 0 4403 100 4409 3
+M 0 4403 100 4410 3
+M 0 4403 100 4412 3
+M 0 4403 100 4413 3
+M 0 4403 100 4415 3
+M 0 4403 100 4416 3
+M 0 4436 1 4436 1
+M 0 4437 1 4437 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,421 @@
+#AREADATA
+Name Inferno~
+Builders Unlinked~
+VNUMs 4800 4899
+Credits (null)~
+Security 6
+End
+
+
+
+#MOBILES
+#4800
+radioactive zombie~
+radioactive zombie~
+A {@Radioactive{x Zombie is here.
+~
+~
+human~
+AGO V 0 -1000 0
+120 120 12d808+3640 12d808+3640 6d20+60 drain
+-85 -85 -85 -85
+C AB CD 0
+stand stand none 10000
+AHMV ABCDEFGHIJK huge unknown
+#4802
+skeleton warrior~
+Skeletal Warrior~
+A {&Skeletal{x {*Warrior{x is here.
+~
+Piles of Bones make this warrior come to life.
+~
+human~
+ABFG DFV HP 0 0
+130 900 10d10+15000 10d10+17000 10d10+100 drain
+-50 -50 -50 -50
+KNV AB CD 0
+stand stand none 300
+AHMV ABCDEFGHIJK large unknown
+#4803
+a huge tree~
+a Huge Tree~
+A {3Huge{x {2Tree{x seems lifeless here.
+~
+~
+human~
+ABFG DFV T 0 0
+130 800 10d10+10000 13d1166+5190 6d25+75 sliver
+-103 -103 -103 -103
+CEFKNV ABX CD 0
+stand stand none 5000
+AHMV ABCDEFGHIJK huge unknown
+#4804
+iron golem~
+Iron Golem~
+An {8Iron{x {7Golem{x stands here doing watch.
+~
+~
+human~
+ABG FV Q 0 0
+125 200 10d10+12000 12d877+3885 6d21+62 iron
+-88 -88 -88 -88
+CFK AB 0 0
+stand stand none 7000
+AHMV ABCDEFGHIJK huge unknown
+#4805
+crystal golem~
+Crystal Golem~
+A {^Crystal{x {8Golem{x stands here doing watch.
+~
+~
+human~
+ABG DFV CS 0 0
+125 125 10d10+12000 12d877+3885 6d21+62 chill
+-88 -88 -88 -88
+CFK AB 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK huge unknown
+#4806
+silver golem~
+Silver Golem~
+A {*S{x{^i{x{*l{x{!v{x{*e{x{&r{x {8Golem{x is here doing guard.
+~
+~
+human~
+ABG DFV R 0 0
+125 125 10d10+12000 12d877+3885 6d21+62 silver
+-88 -88 -88 -88
+CFKW AB 0 0
+stand stand none 5000
+AHMV ABCDEFGHIJK huge unknown
+#4810
+higher necromancer~
+a Higher Necromancer~
+A Higher Necromancer stands here draining your life.
+~
+~
+human~
+ABFG DFV HP 0 0
+150 850 10d10+20000 10d10+15000 10d10+200 drain
+-103 -103 -103 -103
+FKV AB CDM 0
+stand stand none 50000
+AHMV ABCDEFGHIJK huge unknown
+#4811
+master sorceror~
+a Master Sorceror~
+A Master Sorceror stands here casting spells.
+~
+~
+human~
+ABFG DFV HS 0 0
+150 750 10d10+20000 10d10+20000 10d10+200 magic
+-103 -103 -103 -103
+FK B CDHMO 0
+stand stand none 5000
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#4800
+bone shard~
+{&Bone{x {8Shard{x~
+A bone shard is here~
+unknown~
+weapon ABM AN
+exotic 10 14 shard KL
+85 10 3000 P
+A
+19 19
+A
+18 19
+A
+4 3
+A
+20 -5
+#4802
+necromancer ring~
+{8Ne{x{7cro{x{7man{x{8cer{x {3Ri{x{#ng{x~
+A life draining ring lies here.~
+unknown~
+armor BS AB
+20 20 20 20 0
+101 2 0 P
+A
+19 17
+A
+18 17
+A
+13 350
+A
+12 400
+A
+20 -2
+G
+necromancer~
+#0
+
+
+
+#ROOMS
+#4800
+{*Entrance to the{x {!Fi{x{1re{x~
+All around you are surrounded by blazing {!  Flames{x.  Screams and loud
+painful cries can be heard from far away.  The sky looks red like blood the
+path to the south leads to unspeakable things not spoken off.  
+~
+0 0 0
+D2
+~
+~
+0 0 4801
+S
+#4801
+{@Toxic{x Waste Dump~
+The place glows with a strange light and awfull smells surround the
+place.  You hear loud growns and moans as if someone or something was close
+by.  Strange green liquid flows through the ground.  Wonder what it is.  
+~
+0 0 0
+D0
+~
+~
+0 0 4800
+D2
+~
+~
+0 0 4802
+S
+#4802
+Along the Path~
+The path presses on to different directions it seems you have arrived at
+a crossroads.  All around its dark and the sky seems dead.  You begin to
+wonder if theres a way out of this place.  
+~
+0 0 0
+D0
+~
+~
+0 0 4801
+D1
+~
+~
+0 0 4803
+D2
+~
+~
+0 0 4808
+S
+#4803
+Dark Path~
+All around darkness and despair.  The path is a simple path of dark rocks
+on the ground.  Not much can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 4805
+D3
+~
+~
+0 0 4802
+S
+#4805
+Dark Path~
+All around darkness and despair.  The path is a simple path of dark rocks
+on the ground.  Not much can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 4806
+D3
+~
+~
+0 0 4803
+S
+#4806
+Dark Path~
+All around darkness and despair.  The path is a simple path of dark rocks
+on the ground.  
+~
+0 0 0
+D3
+~
+~
+0 0 4805
+D5
+~
+~
+0 0 4807
+S
+#4807
+Skeleton Cave~
+Piles of bone seems to come to life as they reach out for you.  YOu are
+surrounded there is no way out.  
+~
+0 0 0
+D4
+~
+~
+0 0 4806
+S
+#4808
+Tiwsted Path~
+The road is twisted and oddly out of shape.  Huge trees cast there shadow
+over you as you past by almost seems as if they reached out to get you.  
+~
+0 0 0
+D0
+~
+~
+0 0 4802
+D2
+~
+~
+0 0 4809
+S
+#4809
+Cavern~
+The dark cave is damp and cold you here some hard thumps coming from
+below.  You squint your eyes to see but its to dark to tell.  
+~
+0 0 0
+D0
+~
+~
+0 0 4808
+D5
+~
+~
+0 0 4810
+S
+#4810
+Golem Fort~
+Huge golems pear at you and stand tall at your sigh.  The cave streches
+to different directions all guarded by golems.  
+~
+0 0 0
+D1
+~
+~
+0 0 4811
+D3
+~
+~
+0 0 4812
+D4
+~
+~
+0 0 4809
+D5
+~
+~
+0 0 4813
+S
+#4811
+Crystal Cavern~
+The cave is extremly bright.  You can see your image on the walls.  You
+notice some movement close to you.  
+~
+0 0 0
+D3
+~
+~
+0 0 4810
+S
+#4812
+Silver Mine~
+The cave is large and has pieces of silver all around it.  It can be seen
+that the silver has been mined.  Greed takes over you as you decide to take
+some.  Someone whaps you upside the head.  
+~
+0 0 0
+D1
+~
+~
+0 0 4810
+S
+#4813
+Dark Hallway~
+You can hear different sounds coming from all the rooms around.  Dim lights
+glow as you walk by.  The hallway streches out to all possible directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 4814
+D2
+~
+~
+0 0 4815
+D4
+~
+~
+0 0 4810
+S
+#4814
+Chamber of Death~
+All around you see dead bodies and a stench fills the air.  Swifting
+shadows move all around you.  Two peering eyes stare at you.  
+~
+0 0 0
+D2
+~
+~
+0 0 4813
+S
+#4815
+Chamber of Magic~
+Magic surrounds the air as you walk in.  Powerfull spells are being
+written in this room.  Before you stands a great room filled with books of
+magic and endless rows of magical items.  
+~
+0 0 0
+D0
+~
+~
+0 0 4813
+S
+#0
+
+
+
+#SPECIALS
+M 4810 spec_cast_undead
+M 4811 spec_cast_mage
+S
+
+
+
+#RESETS
+M 0 4800 5 4801 5
+M 0 4800 5 4802 5
+M 0 4800 5 4805 5
+M 0 4802 1 4807 1
+E 0 4800 0 16
+M 0 4803 3 4808 3
+M 0 4804 5 4810 5
+M 0 4805 5 4811 5
+M 0 4806 10 4812 5
+M 0 4810 1 4814 1
+E 0 4802 0 1
+M 0 4811 1 4815 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

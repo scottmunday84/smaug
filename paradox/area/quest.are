@@ -1,0 +1,1124 @@
+#AREADATA
+Name Quest area~
+Builders Unlinked~
+VNUMs 4500 4599
+Credits {01 101} Fade   Quest area~
+Security 9
+End
+
+
+
+#MOBILES
+#4500
+slimy snail~
+A slimy snail~
+A snail is here waiting for his fate!
+~
+You shouldn't be looking at me KILL ME!
+~
+human~
+AB 0 0 0 0
+1 1 1d1+1 2d6+10 1d4+0 slice
+9 9 9 9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4501
+slimy snail~
+A slimy snail~
+A snail is here waiting for his fate!
+~
+You shouldn't be looking at me, KILL ME!!!
+~
+human~
+AB 0 0 0 0
+1 1 1d1+1 2d6+10 1d4+0 slice
+9 9 9 9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4503
+slimy snail~
+A slimy snail~
+A snail is here waiting for his fate!
+~
+You shouldn't be looking at me, KILL ME!!!
+~
+human~
+AB 0 0 0 0
+1 1 1d1+1 2d6+10 1d4+0 slice
+9 9 9 9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#4504
+slimy snail~
+A slimy snail~
+A snail is here waiting for his fate!
+~
+You shouldn't be looking at me, KILL ME!
+ 
+~
+human~
+AB 0 0 0 0
+1 1 1d1+1 2d6+10 1d4+0 slice
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4505
+A slimy snail~
+A slimy snail~
+A snail is here waiting for his fate!
+~
+You shouldn't be looking at me, KILL ME!!!
+~
+human~
+AB 0 0 0 0
+1 1 1d1+1 2d6+10 1d4+0 slice
+9 9 9 9
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#4500
+slimy snail~
+{GS{Wl{gi{xm{Gy {WS{xn{ga{Gi{Wl{x~
+A {GS{Wl{gi{xm{Gy {WS{xn{ga{Gi{Wl{x is here.~
+unknown~
+treasure AOT A
+0 0 0 0 0
+0 1 0 P
+#4502
+snail token~
+a {Gs{gnail {Gt{goken{x~
+A {Gs{gnail {Gt{goken is lying here.{x~
+unknown~
+treasure Y A
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4500
+Quest room~
+This is a room in the quest area.  Marble tiles cover the floor and the
+walls have been smoothly polished to a bright white.  The air is fresh and
+clean and everything makes you feel comfortable.  You can still feel a
+certain tension lying in the air.  
+~
+0 8192 0
+D0
+~
+~
+0 0 4506
+D1
+~
+~
+0 0 4501
+S
+#4501
+Quest room~
+This is a room in the quest area.  Marble tiles cover the floor and the
+walls have been smoothly polished to a bright white.  The air is fresh and
+clean and everything makes you feel comfortable.  You can still feel a
+certain tension lying in the air.  
+~
+0 8192 0
+D1
+~
+~
+0 0 4502
+D3
+~
+~
+0 0 4500
+S
+#4502
+Quest room~
+This is a room in the quest area.  Marble tiles cover the floor and the
+walls have been smoothly polished to a bright white.  The air is fresh and
+clean and everything makes you feel comfortable.  You can still feel a
+certain tension lying in the air.  
+~
+0 8192 0
+D0
+~
+~
+0 0 4503
+D3
+~
+~
+0 0 4501
+S
+#4503
+Quest room~
+This is a room in the quest area.  Marble tiles cover the floor and the
+walls have been smoothly polished to a bright white.  The air is fresh and
+clean and everything makes you feel comfortable.  You can still feel a
+certain tension lying in the air.  
+~
+0 8192 0
+D2
+~
+~
+0 0 4502
+D3
+~
+~
+0 0 4504
+S
+#4504
+Quest room~
+This is a room in the quest area.  Marble tiles cover the floor and the
+walls have been smoothly polished to a bright white.  The air is fresh and
+clean and everything makes you feel comfortable.  You can still feel a
+certain tension lying in the air.  
+~
+0 8192 0
+D1
+~
+~
+0 0 4503
+D3
+~
+~
+0 0 4505
+S
+#4505
+Quest room~
+This is a room in the quest area.  Marble tiles cover the floor and the
+walls have been smoothly polished to a bright white.  The air is fresh and
+clean and everything makes you feel comfortable.  You can still feel a
+certain tension lying in the air.  
+~
+0 8192 0
+D1
+~
+~
+0 0 4504
+D3
+~
+~
+0 0 4506
+S
+#4506
+Quest room~
+This is a room in the quest area.  Marble tiles cover the floor and the
+walls have been smoothly polished to a bright white.  The air is fresh and
+clean and everything makes you feel comfortable.  You can still feel a
+certain tension lying in the air.  
+~
+0 8192 0
+D1
+~
+~
+0 0 4505
+D2
+~
+~
+0 0 4500
+S
+#4507
+Start Of The Slimy Snail Quest!.~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 4 0
+D0
+~
+~
+0 0 4511
+D1
+~
+~
+0 0 4508
+S
+#4508
+Slimy Snail Quest Room!.~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 4 0
+D1
+~
+~
+0 0 4525
+D2
+~
+~
+0 0 4510
+D3
+~
+~
+0 0 4507
+D4
+~
+~
+0 0 4512
+S
+#4509
+Slimy Snail Quest Room!.~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D2
+~
+~
+0 0 4508
+S
+#4510
+Slimy Snail Quest Room!.~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4508
+D1
+~
+~
+0 0 4523
+D2
+~
+~
+0 0 4508
+D3
+~
+~
+0 0 4524
+S
+#4511
+Slimy Snail Quest Room!.~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D2
+~
+~
+0 0 4507
+S
+#4512
+Slimy Snail Quest Room!.~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4515
+D1
+~
+~
+0 0 4513
+D3
+~
+~
+0 0 4514
+D4
+~
+~
+0 0 4516
+D5
+~
+~
+0 0 4508
+S
+#4513
+Slimy Snail Quest Room!.~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D3
+~
+~
+0 0 4512
+S
+#4514
+Slimy Snail Quest Room!.~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D1
+~
+~
+0 0 4512
+S
+#4515
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D2
+~
+~
+0 0 4512
+S
+#4516
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4519
+D1
+~
+~
+0 0 4518
+D3
+~
+~
+0 0 4517
+D5
+~
+~
+0 0 4512
+S
+#4517
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D1
+~
+~
+0 0 4516
+S
+#4518
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D3
+~
+~
+0 0 4516
+S
+#4519
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4520
+D2
+~
+~
+0 0 4516
+S
+#4520
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4521
+D2
+~
+~
+0 0 4519
+S
+#4521
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D2
+~
+~
+0 0 4520
+D4
+~
+~
+0 0 4522
+S
+#4522
+Slimy Snail Quest Room!~
+You look around seeing yourself at a dead end and the only way back is
+the way you came.  You better not stay here long because you might lose!  
+~
+0 0 0
+D5
+~
+~
+0 0 4521
+S
+#4523
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D3
+~
+~
+0 0 4510
+S
+#4524
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D1
+~
+~
+0 0 4510
+S
+#4525
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4526
+D1
+~
+~
+0 0 4528
+D2
+~
+~
+0 0 4527
+D3
+~
+~
+0 0 4508
+S
+#4526
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D2
+~
+~
+0 0 4525
+S
+#4527
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4525
+S
+#4528
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4529
+D3
+~
+~
+0 0 4525
+D4
+~
+~
+0 0 4530
+S
+#4529
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D2
+~
+~
+0 0 4528
+S
+#4530
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4532
+D1
+~
+~
+0 0 4531
+D3
+~
+~
+0 0 4530
+D5
+~
+~
+0 0 4528
+S
+#4531
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D3
+~
+~
+0 0 4530
+S
+#4532
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4533
+D2
+~
+~
+0 0 4530
+D4
+~
+~
+0 0 4534
+S
+#4533
+Slimy Snail Gallery~
+In this room you notice a pack of slimy snails all sitting in a straight
+line.  They see you ever the room and scatter all around get them before
+they get away!.  
+~
+0 0 0
+D2
+~
+~
+0 0 4532
+S
+#4534
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D0
+~
+~
+0 0 4535
+D5
+~
+~
+0 0 4532
+S
+#4535
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D1
+~
+~
+0 0 4536
+D2
+~
+~
+0 0 4534
+S
+#4536
+Slimy Snail Quest Room!~
+You are in a room with alot of exits leading in all directions.  There
+are marks of blood and guts from the innocent slimy snails.  Back behind you
+see more players killing snails YOU BETTER HURRY UP!  
+~
+0 0 0
+D1
+~
+~
+0 0 4537
+D3
+~
+~
+0 0 4535
+S
+#4537
+The End!!!~
+You look around seeing 3 walls and a roof around you.  Only way back is
+the way you came.  A few snails sleep here,dreaming of a peaceful life!.  
+~
+0 0 0
+D3
+~
+~
+0 0 4536
+S
+#4540
+A small arena~
+{DYou are standing in a small arena, probably not much larger than three
+or four rooms.  A sense of dread fills you as you stare at dark, dull walls
+enclosing the arena.  You wonder if there is any way out here.  Probably
+not, so you better fight for your life and hope for mercy if you are
+victorious.  {x 
+~
+0 8192 0
+D2
+~
+~
+0 0 4542
+D3
+~
+~
+0 0 4541
+S
+#4541
+A small arena~
+{DYou are standing in a small arena, probably not much larger than three
+or four rooms.  A sense of dread fills you as you stare at dark, dull walls
+enclosing the arena.  You wonder if there is any way out here.  Probably
+not, so you better fight for your life and hope for mercy if you are
+victorious.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 4540
+D2
+~
+~
+0 0 4543
+S
+#4542
+A small arena~
+{DYou are standing in a small arena, probably not much larger than three
+or four rooms.  A sense of dread fills you as you stare at dark, dull walls
+enclosing the arena.  You wonder if there is any way out here.  Probably
+not, so you better fight for your life and hope for mercy if you are
+victorious.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 4540
+D3
+~
+~
+0 0 4543
+S
+#4543
+A small arena~
+{DYou are standing in a small arena, probably not much larger than three
+or four rooms.  A sense of dread fills you as you stare at dark, dull walls
+enclosing the arena.  You wonder if there is any way out here.  Probably
+not, so you better fight for your life and hope for mercy if you are
+victorious.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 4541
+D1
+~
+~
+0 0 4542
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4500 150 4507 1
+G 0 4502 0
+G 0 4502 0
+G 0 4502 0
+M 0 4500 150 4507 1
+G 0 4502 0
+M 0 4501 150 4507 1
+G 0 4502 0
+M 0 4503 150 4507 1
+G 0 4502 0
+M 0 4504 150 4507 1
+M 0 4505 150 4507 1
+M 0 4500 150 4508 1
+G 0 4502 0
+M 0 4501 150 4508 1
+G 0 4502 0
+M 0 4503 150 4508 1
+G 0 4502 0
+M 0 4504 150 4508 1
+G 0 4502 0
+M 0 4505 150 4508 1
+G 0 4502 0
+M 0 4500 150 4509 1
+G 0 4502 0
+M 0 4501 150 4509 1
+G 0 4502 0
+M 0 4503 150 4509 1
+G 0 4502 0
+M 0 4504 150 4509 1
+G 0 4502 0
+M 0 4505 150 4509 1
+G 0 4502 0
+M 0 4500 150 4510 1
+G 0 4502 0
+M 0 4501 150 4510 1
+G 0 4502 0
+M 0 4503 150 4510 1
+G 0 4502 0
+M 0 4504 150 4510 1
+G 0 4502 0
+M 0 4505 150 4510 1
+G 0 4502 0
+M 0 4500 150 4511 1
+G 0 4502 0
+M 0 4501 150 4511 1
+G 0 4502 0
+M 0 4503 150 4511 1
+G 0 4502 0
+M 0 4504 150 4511 1
+G 0 4502 0
+M 0 4505 150 4511 1
+G 0 4502 0
+M 0 4500 150 4512 1
+G 0 4502 0
+M 0 4501 150 4512 1
+G 0 4502 0
+M 0 4503 150 4512 1
+G 0 4502 0
+M 0 4504 150 4512 1
+G 0 4502 0
+M 0 4505 150 4512 1
+G 0 4502 0
+M 0 4500 150 4513 1
+G 0 4502 0
+M 0 4501 150 4513 1
+G 0 4502 0
+M 0 4503 150 4513 1
+G 0 4502 0
+M 0 4504 150 4513 1
+G 0 4502 0
+M 0 4505 150 4513 1
+G 0 4502 0
+M 0 4500 150 4514 1
+G 0 4502 0
+M 0 4503 150 4514 1
+G 0 4502 0
+M 0 4504 150 4514 1
+G 0 4502 0
+M 0 4505 150 4514 1
+G 0 4502 0
+M 0 4501 150 4514 1
+G 0 4502 0
+M 0 4500 150 4515 1
+G 0 4502 0
+M 0 4501 150 4515 1
+G 0 4502 0
+M 0 4503 150 4515 1
+G 0 4502 0
+M 0 4504 150 4515 1
+G 0 4502 0
+M 0 4505 150 4515 1
+G 0 4502 0
+M 0 4500 150 4516 1
+G 0 4502 0
+M 0 4501 150 4516 1
+G 0 4502 0
+M 0 4503 150 4516 1
+G 0 4502 0
+M 0 4504 150 4516 1
+G 0 4502 0
+M 0 4505 150 4516 1
+G 0 4502 0
+M 0 4500 150 4517 1
+G 0 4502 0
+M 0 4501 150 4517 1
+G 0 4502 0
+M 0 4503 150 4517 1
+G 0 4502 0
+M 0 4504 150 4517 1
+G 0 4502 0
+M 0 4505 150 4517 1
+G 0 4502 0
+M 0 4500 150 4518 1
+G 0 4502 0
+M 0 4501 150 4518 1
+G 0 4502 0
+M 0 4503 150 4518 1
+G 0 4502 0
+M 0 4504 150 4518 1
+G 0 4502 0
+M 0 4505 150 4518 1
+G 0 4502 0
+M 0 4500 150 4519 1
+G 0 4502 0
+M 0 4501 150 4519 1
+G 0 4502 0
+M 0 4503 150 4519 1
+G 0 4502 0
+M 0 4504 150 4519 1
+G 0 4502 0
+M 0 4505 150 4519 1
+G 0 4502 0
+M 0 4500 150 4520 1
+G 0 4502 0
+M 0 4501 150 4520 1
+G 0 4502 0
+M 0 4503 150 4520 1
+G 0 4502 0
+M 0 4504 150 4520 1
+G 0 4502 0
+M 0 4505 150 4520 1
+G 0 4502 0
+M 0 4500 150 4521 1
+G 0 4502 0
+M 0 4501 150 4521 1
+G 0 4502 0
+M 0 4503 150 4521 1
+G 0 4502 0
+M 0 4504 150 4521 1
+G 0 4502 0
+M 0 4505 150 4521 1
+G 0 4502 0
+M 0 4500 150 4522 1
+G 0 4502 0
+M 0 4501 150 4522 1
+G 0 4502 0
+M 0 4503 150 4522 1
+G 0 4502 0
+M 0 4504 150 4522 1
+G 0 4502 0
+M 0 4505 150 4522 1
+G 0 4502 0
+M 0 4500 150 4523 1
+G 0 4502 0
+M 0 4501 150 4523 1
+G 0 4502 0
+M 0 4503 150 4523 1
+G 0 4502 0
+M 0 4504 150 4523 1
+G 0 4502 0
+M 0 4505 150 4523 1
+G 0 4502 0
+M 0 4500 150 4524 1
+G 0 4502 0
+M 0 4501 150 4524 1
+G 0 4502 0
+M 0 4503 150 4524 1
+G 0 4502 0
+M 0 4504 150 4524 1
+G 0 4502 0
+M 0 4505 150 4524 1
+G 0 4502 0
+M 0 4500 150 4525 1
+G 0 4502 0
+M 0 4501 150 4525 1
+G 0 4502 0
+M 0 4503 150 4525 1
+G 0 4502 0
+M 0 4504 150 4525 1
+G 0 4502 0
+M 0 4505 150 4525 1
+G 0 4502 0
+M 0 4500 150 4526 1
+G 0 4502 0
+M 0 4501 150 4526 1
+G 0 4502 0
+M 0 4503 150 4526 1
+G 0 4502 0
+M 0 4504 150 4526 1
+G 0 4502 0
+M 0 4505 150 4526 1
+G 0 4502 0
+M 0 4500 150 4527 1
+G 0 4502 0
+M 0 4501 150 4527 1
+G 0 4502 0
+M 0 4503 150 4527 1
+G 0 4502 0
+M 0 4504 150 4527 1
+G 0 4502 0
+M 0 4505 150 4527 1
+G 0 4502 0
+M 0 4500 150 4528 1
+G 0 4502 0
+M 0 4501 150 4528 1
+G 0 4502 0
+M 0 4503 150 4528 1
+G 0 4502 0
+M 0 4504 150 4528 1
+G 0 4502 0
+M 0 4505 150 4528 1
+G 0 4502 0
+M 0 4500 150 4529 1
+G 0 4502 0
+M 0 4501 150 4529 1
+G 0 4502 0
+M 0 4503 150 4529 1
+G 0 4502 0
+M 0 4504 150 4529 1
+G 0 4502 0
+M 0 4505 150 4529 1
+G 0 4502 0
+M 0 4500 150 4530 1
+G 0 4502 0
+M 0 4501 150 4530 1
+G 0 4502 0
+M 0 4503 150 4530 1
+G 0 4502 0
+M 0 4504 150 4530 1
+G 0 4502 0
+M 0 4505 150 4530 1
+G 0 4502 0
+M 0 4500 150 4531 1
+G 0 4502 0
+M 0 4501 150 4531 1
+G 0 4502 0
+M 0 4503 150 4531 1
+G 0 4502 0
+M 0 4504 150 4531 1
+G 0 4502 0
+M 0 4505 150 4531 1
+G 0 4502 0
+M 0 4500 150 4532 1
+G 0 4502 0
+M 0 4501 150 4532 1
+G 0 4502 0
+M 0 4503 150 4532 1
+G 0 4502 0
+M 0 4504 150 4532 1
+G 0 4502 0
+M 0 4505 150 4532 1
+G 0 4502 0
+M 0 4500 150 4533 1
+G 0 4502 0
+M 0 4501 150 4533 1
+G 0 4502 0
+M 0 4503 150 4533 1
+G 0 4502 0
+M 0 4504 150 4533 1
+G 0 4502 0
+M 0 4505 150 4533 1
+G 0 4502 0
+M 0 4500 150 4534 1
+G 0 4502 0
+M 0 4501 150 4534 1
+G 0 4502 0
+M 0 4503 150 4534 1
+G 0 4502 0
+M 0 4504 150 4534 1
+G 0 4502 0
+M 0 4505 150 4534 1
+G 0 4502 0
+M 0 4500 150 4535 1
+G 0 4502 0
+M 0 4501 150 4535 1
+G 0 4502 0
+M 0 4503 150 4535 1
+G 0 4502 0
+M 0 4504 150 4535 1
+G 0 4502 0
+M 0 4505 150 4535 1
+G 0 4502 0
+M 0 4500 150 4536 1
+G 0 4502 0
+M 0 4501 150 4536 1
+G 0 4502 0
+M 0 4503 150 4536 1
+G 0 4502 0
+M 0 4504 150 4536 1
+G 0 4502 0
+M 0 4505 150 4536 1
+G 0 4502 0
+M 0 4500 150 4537 1
+G 0 4502 0
+M 0 4501 150 4537 1
+G 0 4502 0
+M 0 4503 150 4537 1
+G 0 4502 0
+M 0 4504 150 4537 1
+G 0 4502 0
+M 0 4505 150 4537 1
+G 0 4502 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

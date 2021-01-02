@@ -1,0 +1,376 @@
+#AREADATA
+Name Arena~
+Builders Unlinked~
+VNUMs 500 549
+Credits { NONE } Fade    Arena~
+Security 9
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#500
+The Arena - Central Room~
+This is the central room of the arena and the place where the combatants
+usually initiate battle.  The ground is a mixture of sand and dirt, soaked
+with the blood of many brave warriors who entered this arena to find out
+whether their battle prowess was great enough to beat their -mostly worthy-
+opponent.  
+~
+0 16785412 0
+D0
+~
+~
+0 0 511
+D1
+~
+~
+0 0 512
+D2
+~
+~
+0 0 513
+D3
+~
+~
+0 0 514
+D4
+~
+~
+0 0 501
+D5
+~
+~
+0 0 506
+S
+#501
+The Arena - Upper Floor~
+This is the upper floor of the arena.  The ground is a bit smoother here
+and so are the walls.  Some holes in the rough walls provide a spectacular
+view on the surrounding landscape.  Hopefully not spectacular enough to
+distract anyone from the battle which is raging here.  
+~
+0 16785412 0
+D0
+~
+~
+0 0 502
+D1
+~
+~
+0 0 503
+D2
+~
+~
+0 0 504
+D3
+~
+~
+0 0 505
+D5
+~
+~
+0 0 500
+S
+#502
+The Arena - Upper Floor~
+This is the upper floor of the arena.  The ground is a bit smoother here
+and so are the walls.  Some holes in the rough walls provide a spectacular
+view on the surrounding landscape.  Hopefully not spectacular enough to
+distract anyone from the battle which is raging here.  
+~
+0 16785412 0
+D2
+~
+~
+0 0 501
+D5
+~
+~
+0 0 511
+S
+#503
+The Arena - Upper Floor~
+This is the upper floor of the arena.  The ground is a bit smoother here
+and so are the walls.  Some holes in the rough walls provide a spectacular
+view on the surrounding landscape.  Hopefully not spectacular enough to
+distract anyone from the battle which is raging here.  
+~
+0 16785412 0
+D3
+~
+~
+0 0 501
+D5
+~
+~
+0 0 512
+S
+#504
+The Arena - Upper Floor~
+This is the upper floor of the arena.  The ground is a bit smoother here
+and so are the walls.  Some holes in the rough walls provide a spectacular
+view on the surrounding landscape.  Hopefully not spectacular enough to
+distract anyone from the battle which is raging here.  
+~
+0 16785412 0
+D0
+~
+~
+0 0 501
+D5
+~
+~
+0 0 513
+S
+#505
+The Arena - Upper Floor~
+This is the upper floor of the arena.  The ground is a bit smoother here
+and so are the walls.  Some holes in the rough walls provide a spectacular
+view on the surrounding landscape.  Hopefully not spectacular enough to
+distract anyone from the battle which is raging here.  
+~
+0 16785412 0
+D1
+~
+~
+0 0 501
+D5
+~
+~
+0 0 514
+S
+#506
+The Arena - Lower Floor~
+This is the lower floor of the arena.  The ground is covered by strange
+algae and makes moving quickly pretty hard.  The danger of slipping is great
+and the air is quite humid here, a sweaty smell lingering everywhere. 
+Actually not the best conditions to fight.  
+~
+0 16785412 0
+D0
+~
+~
+0 0 507
+D1
+~
+~
+0 0 508
+D2
+~
+~
+0 0 509
+D3
+~
+~
+0 0 510
+D4
+~
+~
+0 0 500
+S
+#507
+The Arena - Lower Floor~
+This is the lower floor of the arena.  The ground is covered by strange
+algae and makes moving quickly pretty hard.  The danger of slipping is great
+and the air is quite humid here, a sweaty smell lingering everywhere. 
+Actually not the best conditions to fight.  
+~
+0 16785412 0
+D2
+~
+~
+0 0 506
+D4
+~
+~
+0 0 511
+S
+#508
+The Arena - Lower Floor~
+This is the lower floor of the arena.  The ground is covered by strange
+algae and makes moving quickly pretty hard.  The danger of slipping is great
+and the air is quite humid here, a sweaty smell lingering everywhere. 
+Actually not the best conditions to fight.  
+~
+0 16785412 0
+D3
+~
+~
+0 0 506
+D4
+~
+~
+0 0 512
+S
+#509
+The Arena - Lower Floor~
+This is the lower floor of the arena.  The ground is covered by strange
+algae and makes moving quickly pretty hard.  The danger of slipping is great
+and the air is quite humid here, a sweaty smell lingering everywhere. 
+Actually not the best conditions to fight.  
+~
+0 16785412 0
+D0
+~
+~
+0 0 506
+D4
+~
+~
+0 0 513
+S
+#510
+The Arena - Lower Floor~
+This is the lower floor of the arena.  The ground is covered by strange
+algae and makes moving quickly pretty hard.  The danger of slipping is great
+and the air is quite humid here, a sweaty smell lingering everywhere. 
+Actually not the best conditions to fight.  
+~
+0 16785412 0
+D1
+~
+~
+0 0 506
+D4
+~
+~
+0 0 514
+S
+#511
+The Arena~
+This is a part of the arena.  The ground is a mixture of sand, dirt and
+blood.  And if you're not careful, your blood will be part of it soon.  This
+is a place for experienced warriors to show off their skill.  If you can't
+hack it, better leave.  
+~
+0 16785412 0
+D2
+~
+~
+0 0 500
+D4
+~
+~
+0 0 502
+D5
+~
+~
+0 0 507
+S
+#512
+The Arena~
+This is a part of the arena.  The ground is a mixture of sand, dirt and
+blood.  And if you're not careful, your blood will be part of it soon.  This
+is a place for experienced warriors to show off their skill.  If you can't
+hack it, better leave.  
+~
+0 16785412 0
+D3
+~
+~
+0 0 500
+D4
+~
+~
+0 0 503
+D5
+~
+~
+0 0 508
+S
+#513
+The Arena~
+This is a part of the arena.  The ground is a mixture of sand, dirt and
+blood.  And if you're not careful, your blood will be part of it soon.  This
+is a place for experienced warriors to show off their skill.  If you can't
+hack it, better leave.  
+~
+0 16785412 0
+D0
+~
+~
+0 0 500
+D4
+~
+~
+0 0 504
+D5
+~
+~
+0 0 509
+S
+#514
+The Arena~
+This is a part of the arena.  The ground is a mixture of sand, dirt and
+blood.  And if you're not careful, your blood will be part of it soon.  This
+is a place for experienced warriors to show off their skill.  If you can't
+hack it, better leave.  
+~
+0 16785412 0
+D1
+~
+~
+0 0 500
+D4
+~
+~
+0 0 505
+D5
+~
+~
+0 0 510
+S
+#515
+The Winner's room~
+You are the {WWINNER{x!  Congratulations.  
+~
+0 0 0
+D5
+~
+~
+0 0 20101
+S
+#516
+The Loser's room~
+{WLoser{x!  Better luck next time.  
+~
+0 0 0
+D5
+~
+~
+0 0 20101
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

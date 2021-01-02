@@ -1,0 +1,1382 @@
+#AREADATA
+Name Mostly Harmless~
+Builders None~
+VNUMs 20000 20099
+Credits { HERO } Fade    Mostly Harmless~
+Security 9
+End
+
+
+
+#MOBILES
+#20000
+swarm fireflies~
+a swarm of fireflies~
+A swarm of {Rf{ri{Yr{ye{Rf{rl{Yi{ye{Rs{x is here.
+~
+A swarm of fireflies is here, swirring around in distractive patterns.
+~
+draconian~
+ABF DFT H 0 0
+110 110 12d679+3175 12d679+3175 10d18+70 sting
+-78 -78 -78 -78
+EFHK LQ HI FGJ
+stand stand none 1400
+AHMV ACDEFKP medium unknown
+F par BGHIJQ
+#20001
+huge bear~
+a huge bear~
+A huge bear is lunging at you!
+~
+A huge bear is lunging at you!
+~
+bear~
+ABFT 0 H 0 0
+102 101 12d573+5000 12d573+2775 30d10+100 none
+-73 -73 -73 -73
+CDEFHKO 0 EI 0
+stand stand male 200
+AGHMV ABCDEFGHIJKUV huge unknown
+#20002
+titan wounded~
+a wounded titan~
+A wounded {YT{yi{Dt{ya{Yn{x is resting here.
+~
+A wounded titan is resting here, leaning against the huge rock in the middle of the clearing.
+~
+titan~
+ABT Da H 1000 0
+110 110 10d500+12000 12d679+3175 15d20+175 crush
+-78 -78 -78 -78
+CEFHK B D 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#20003
+Long dead necromancer~
+Necromancer~
+A long dead necromancer.
+~
+This is a long dead necromancer, the embodiment of pure evil.
+~
+human~
+AO T 0 -1000 0
+101 101 12d573+2775 12d573+2775 5d20+50 none
+-73 -73 -73 -73
+DFIKN 0 0 N
+stand stand male 1245
+I ABCEFGHK large unknown
+F for AHMV
+F par DIJ
+#20004
+crazed ranger figure~
+the crazed ranger~
+A tall figure is lurking in the shadows here.
+~
+A tall, imposing figure is lurking in the shadows here, clad in some forest green clothings. Madness dangerously glints in his eyes.
+~
+human~
+ABFT DF HP -750 0
+120 120 12d808+3640 12d808+3640 6d20+60 none
+-85 -85 -85 -85
+CDEFHIKNW 0 M S
+stand stand male 1000
+AHMV ABCDEFGHIJK large unknown
+#20005
+short stocky dwarf~
+the short, stocky dwarf~
+The short, stocky dwarf is standing here.
+~
+The short, stocky dwarf is standing here, staring at you, the intruder.
+~
+dwarf~
+ABT J HT 0 0
+135 135 12d1023+4390 12d1023+4390 6d23+67 none
+-94 -94 -94 -94
+CDEFHIKNR 0 LQ R
+stand stand male 750
+AHMV ABCDEFGHIJK medium unknown
+#20006
+smelly grumpy dwarf~
+the smelly, grumpy dwarf~
+The smelly, grumpy dwarf is leaning against the wall.
+~
+The smelly, grumpy dwarf is leaning against the wall here, looking at you and chewing on something nasty.
+~
+dwarf~
+ABS J H 0 0
+115 115 12d743+3405 12d743+3405 6d19+57 none
+-81 -81 -81 -81
+FHJKNRW 0 LQ R
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#20007
+strange ice creature~
+a strange creature~
+A strange creature is cowering here.
+~
+A strange creature is cowering on the floor here. It's covered with ice and snow and you can't decice whether it looks peaceful or dangerous.
+~
+efrit~
+ABRT LV CHR 0 0
+140 140 13d1015+4650 13d1015+4650 6d30+75 none
+-97 -97 -97 -97
+DFHIKN 0 IJT FGX
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#20008
+huge ancient dragon~
+a huge, ancient dragon~
+A huge, ancient dragon is resting here.
+~
+A huge, ancient dragon is resting here.
+~
+dragon~
+ABRT JT DH -1000 0
+138 138 13d987+4545 13d987+4545 8d25+75 none
+-96 -96 -96 -96
+CDEFHIKN 0 BEH FI
+rest stand male 1000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#20009
+the warrior~
+the warrior~
+The {xW{Wa{Dr{rr{Ri{Do{Wr{x swings at you!
+~
+The Warrior swings at you!
+~
+cylith~
+ABFT a HQ 0 0
+140 140 13d1015+4650 13d1015+4650 10d23+70 slice
+-97 -97 -97 -97
+CDEFHJKN 0 E K
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#20010
+the blacksmith~
+the blacksmith~
+The blacksmith is pounding away at a piece of metal.
+~
+The blacksmith is pounding away at a piece of metal.
+~
+sareef~
+ABT 0 DHR -250 0
+135 135 12d1023+4390 12d1023+4390 10d23+80 pound
+-94 -94 -94 -94
+CEFHIK 0 T X
+stand stand male 750
+AHMV ABCDEFGHIJK medium unknown
+#20011
+ugly witch~
+an ugly witch~
+An ugly witch is laughing at you madly.
+~
+An ugly witch is laughing at you madly.
+~
+efrit~
+ABFP LV CH 0 0
+135 135 12d1023+4390 12d1023+4390 10d20+90 suction
+-94 -94 -94 -94
+FIJKNUV 0 IJ FG
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#20012
+paladin~
+the paladin~
+The {yP{Ya{Wl{xa{Yd{yi{Wn{x is praying here.
+~
+The Paladin is praying here with an absent-minded look on his face.
+~
+drezil~
+ABQT DFL HT 1000 0
+143 143 13d1059+4810 13d1059+4810 10d25+90 divine
+-99 -99 -99 -99
+CDEFHKN 0 Xa HLQ
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#20013
+even uglier witch~
+an even uglier witch~
+An even uglier witch is cowering here.
+~
+An even uglier witch is cowering here.
+~
+efrit~
+ABFP LV CH -1000 0
+130 130 12d949+4135 12d949+4135 10d22+80 bite
+-91 -91 -91 -91
+FIJKNV 0 IJ FG
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#20014
+phantasmal beast~
+a phantasmal beast~
+A {Dph{Wan{xta{Dsm{Wal {xbe{Das{Wt{x is lurking in the shadows.
+~
+A phantasmal beast is lurking in the shadows.
+~
+draconian~
+ABFT DFTa HP -1000 0
+135 135 12d1023+4390 12d1023+4390 10d23+60 none
+-94 -94 -94 -94
+CDEFHKN BLQ DHI FGJ
+stand stand none 250
+AHMV ABCDEFGHIJKPQ medium unknown
+#20015
+strange force~
+a strange force~
+A {xs{gt{Gr{ya{Rn{rge {Rf{yo{Gr{gc{xe is throbbing here.
+~
+A strange force is throbbing here.
+~
+modron~
+ABT J H 0 0
+126 126 12d891+3935 12d891+3935 10d21+60 mblast
+-88 -88 -88 -88
+DEFHKNQR BMNPQ HIK 0
+stand stand none 500
+AHMV ABCDEFGHIJK medium unknown
+#20016
+huge rat~
+a huge rat~
+A huge and disgusting rat is sniffing around here.
+~
+A huge and disgusting rat is sniffing around here.
+~
+dog~
+ABFT DFJ HT -250 0
+133 133 12d993+4265 12d993+4265 10d22+70 bite
+-93 -93 -93 -93
+DFHKV 0 LQ R
+stand stand none 100
+AGHMV ABCDEFGHIJKUV medium unknown
+#20017
+old wizard~
+an old wizard~
+An old wizard is standing here.
+~
+An old wizard is standing here.
+~
+efrit~
+ABRT LV CDEH 0 0
+135 135 12d1023+4390 12d1023+4390 10d23+67 blast
+-94 -94 -94 -94
+FHIKN 0 IJ FG
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#20018
+assassin~
+the assassin~
+The assassin is about to behead the corpse.
+~
+The assassin is about to behead the corpse.
+~
+shador~
+ABFS DF H -1000 0
+140 140 13d1015+4650 13d1015+4650 15d23+90 pierce
+-97 -97 -97 -97
+CDEFHKNW 0 B S
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+F shd P
+#0
+
+
+
+#OBJECTS
+#20000
+firefly light~
+{RF{ri{Yr{ye{Rf{rl{Yy {WL{xi{Yg{xh{Wt{x~
+A {RF{ri{Yr{ye{Rf{rl{Yy {WL{xi{Yg{xh{Wt{x is lying here.~
+unknown~
+light AGQ A
+0 0 999 0 0
+101 30 7500 P
+S 'protection good'
+A
+19 27
+A
+18 27
+A
+13 375
+A
+2 3
+A
+20 -3
+#20002
+red ruby earring~
+{RR{red {RR{ruby {RE{rarring{x~
+A {RR{red {RR{ruby {RE{rarring{x is lying here.~
+unknown~
+armor ABIMY AU
+31 31 31 31 0
+101 5 50000 P
+A
+13 200
+A
+18 30
+A
+19 30
+A
+20 -3
+#20004
+helmet destruction~
+{GH{ge{Dl{Cm{ce{Dt {Wof {Dd{Ye{ys{Dtr{Ru{rc{Dti{go{Gn{x~
+A strange helmet lies here.~
+unknown~
+armor AIY AE
+27 27 27 27 0
+101 5 5600 P
+A
+19 55
+A
+13 350
+A
+20 -1
+#20005
+mithril bracer~
+{WM{Yi{yt{Dh{yr{Yi{Wl {DBracer{x~
+{xA {Wm{Yi{yt{Dh{yr{Yi{Wl{x bracer is lying here.{x~
+unknown~
+armor ABIS AM
+33 33 33 33 0
+101 10 100000 P
+A
+13 400
+A
+12 125
+A
+19 25
+A
+18 25
+A
+20 -2
+#20006
+arms dragon~
+{WT{xh{We {RD{Yr{Wag{Yo{Rn's {CA{Drm{cs{x~
+A strange looking arm protection rests on the ground.~
+unknown~
+armor HY AI
+19 19 19 19 0
+101 7 3500 P
+A
+1 1
+A
+20 -2
+A
+13 200
+A
+19 43
+A
+18 33
+#20007
+caged god~
+{xA {Cc{ga{cg{Ge{xd {Yg{Ro{xd{x~
+{xA {Cc{ga{cg{Ge{xd {Yg{Ro{xd{x floats here.~
+unknown~
+armor ABIY AQ
+35 35 35 35 0
+101 10 70000 P
+A
+20 -5
+A
+19 30
+A
+18 33
+A
+12 400
+A
+13 225
+A
+17 -50
+#20008
+ring unknown god~
+{DA ring of an {Yu{yn{xk{rn{xo{yw{Yn {Dgod{x~
+A fine ring lies here, engraved with the symbol of an unknown god.~
+unknown~
+armor AS AB
+15 15 15 15 0
+101 5 25000 P
+A
+17 -25
+A
+20 -2
+A
+13 250
+A
+19 27
+A
+18 27
+#20009
+swirling heart vortex~
+{xThe swirling heart of a vortex{x~
+{xThe swirling heart of a vortex is here.{x~
+unknown~
+container IY AK
+1000 0 0 100 25
+101 5 2700 P
+A
+20 -3
+A
+13 275
+A
+19 25
+A
+18 35
+#20010
+light hope~
+{xL{Wi{Dght of Ho{Wp{xe~
+A shining light of hope glows here.~
+unknown~
+light ABY A
+0 0 999 0 0
+101 10 89000 P
+A
+18 27
+A
+19 22
+A
+12 250
+A
+13 250
+A
+20 -3
+#20011
+gauntlets divine fury~
+{DT{Rh{re {WG{xa{Duntlets of Divin{xe {WF{ru{Rr{Dy{x~
+{DT{Rh{re {WG{xa{Duntlets of Divin{xe {WF{ru{Rr{Dy{x are resting on the ground here.~
+unknown~
+armor Y AH
+50 50 50 50 0
+110 9 57000 P
+A
+18 600
+A
+19 600
+#20012
+sapphire face~
+{cS{Cap{Wp{xh{Wi{Cr{ce {CF{ca{xc{We{x~
+A sapphire face lies here.~
+unknown~
+armor S AR
+31 31 31 31 0
+101 10 10000 P
+A
+13 375
+A
+19 25
+A
+18 25
+#20014
+ice tattoo~
+{CI{Bc{ce {CT{Wa{ct{Bt{Wo{Co{x~
+A frosty patch lies on the ground here.~
+unknown~
+armor MY AS
+13 13 13 13 0
+101 5 390000 P
+A
+4 2
+A
+1 5
+A
+20 -2
+A
+19 65
+#20015
+plain dagger~
+{DA plain dagger{x~
+A plain dagger rests on the ground here.~
+unknown~
+weapon CY AN
+dagger 13 13 shbite DEG
+101 7 10000 P
+A
+19 27
+A
+18 27
+A
+1 5
+A
+2 5
+A
+20 -3
+A
+17 -15
+A
+13 275
+#20016
+infernal cloak~
+{YI{Rn{rfern{Ra{Yl {DC{cl{Co{ca{Dk{x~
+An {Yi{Rn{rfern{Ra{Yl{x cloak rests on the ground here.~
+unknown~
+armor AGIY AC
+22 22 22 22 0
+101 30 24000 P
+S 'haste'
+A
+13 350
+A
+20 -4
+A
+19 29
+A
+18 29
+A
+4 2
+A
+1 3
+#20017
+eyes divine vision~
+{GE{gy{Ge{gs {Dof {YD{yi{Yv{yi{Yn{ye {WV{xi{Ws{xi{Wo{xn{x~
+A pair of eyes lies here.~
+unknown~
+armor AGIMS AT
+24 24 24 24 0
+101 25 8950 P
+S 'detect invis'
+S 'detect hidden'
+S 'detect evil'
+S 'detect good'
+S 'detect magic'
+A
+20 -5
+A
+17 -30
+A
+13 200
+A
+18 25
+A
+19 25
+#20018
+silver ankle cuff~
+silver ankle cuff~
+A silver ankle cuff lies here.~
+unknown~
+armor Y AV
+25 25 25 25 0
+101 30 10000 P
+A
+18 40
+A
+19 40
+A
+1 2
+A
+5 2
+A
+20 -3
+A
+13 200
+#20019
+belt titan~
+{YB{Ge{Wl{Dt o{Wf {Dt{Gh{De {YT{yi{Dt{ya{Yn{x~
+A belt belonging to a titan lies here.~
+unknown~
+armor A AL
+19 19 19 19 0
+101 30 27000 P
+A
+20 -3
+A
+19 45
+A
+1 4
+A
+13 450
+#20020
+dwarven chain leggings~
+{RD{rw{Ya{yrv{re{Rn {CC{Dh{Ca{ci{Cn {D{yLe{Dg{xg{Di{Yn{yg{Ys{x~
+A pair of dwarven chain leggings rests here.~
+unknown~
+armor AI AF
+25 25 25 25 0
+101 50 5000 P
+A
+13 375
+A
+20 -4
+A
+19 27
+A
+18 27
+A
+1 2
+A
+5 2
+#20021
+dwarven war shield~
+{RD{rw{Ya{yrv{re{Rn {CW{Da{Cr {yS{Dh{xi{De{Yl{yd{x~
+A dwarven war shield is lying here.~
+unknown~
+armor A AJ
+25 25 25 25 0
+101 30 2390 P
+A
+5 4
+A
+18 27
+A
+19 27
+A
+20 -3
+A
+13 375
+#20022
+ancient tome~
+{DA{Wn{xc{yi{Ye{rn{Rt {CT{Go{gm{Ce{x~
+An ancient tome has been forgotten here.~
+unknown~
+treasure ABIY AO
+0 0 0 0 0
+101 30 100000 P
+A
+19 40
+A
+18 40
+A
+20 -5
+A
+13 275
+A
+12 450
+A
+3 4
+A
+4 4
+#20023
+bear paws~
+{yB{We{xa{yr {yP{Da{xw{ys{x~
+{yB{We{xa{yr {yP{Da{xw{ys{x are lying here.~
+unknown~
+armor A AH
+25 25 25 25 0
+101 50 6000 P
+A
+1 4
+A
+18 30
+A
+19 30
+A
+13 250
+#20024
+finely balanced axe~
+{YF{gi{W{xn{Ge{gl{Yy {yB{ga{Wl{xa{Gn{gc{Ye{yd{x {yA{gx{We{x~
+A {YF{gi{W{xn{Ge{gl{Yy {yB{ga{Wl{xa{Gn{gc{Ye{yd{x {yA{gx{We{x is lying here.~
+unknown~
+weapon AH AN
+axe 13 13 cleave DEG
+101 90 7800 P
+A
+13 250
+A
+1 4
+#20025
+small key~
+a small key~
+A small key is lying here.~
+unknown~
+key AY A
+0 0 0 0 0
+0 1 0 P
+#20026
+huge crate~
+a huge crate~
+A {yhuge crate{x is sitting on the ground here.~
+unknown~
+container O 0
+100 ABCD 20025 100 10
+0 0 0 P
+#20027
+shimmering portal shadun~
+a shimmering portal~
+A {Ys{yh{Yi{ym{Ym{ye{Yr{yi{Yn{yg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20101 0
+0 0 0 P
+#20028
+fresh corpse~
+a fresh corpse~
+A fresh corpse is lying here, blood oozing from many wounds.~
+unknown~
+npc_corpse 0 0
+0 0 0 0 0
+0 0 0 P
+#20029
+many tailed whip many-tailed~
+{DA {RM{ra{xn{ry{D-{RT{rail{xe{rd {DWhip{x~
+A many-tailed whip is lying here.~
+unknown~
+weapon AGHZ AN
+whip 13 13 shard ADGL
+101 80 10000 P
+A
+2 2
+A
+20 -1
+A
+19 29
+A
+18 29
+#0
+
+
+
+#ROOMS
+#20000
+A dark path~
+The dark path continues here, although the forest seems to grow a little
+bit lighter.  The silhouette of an ancient ruin is visible to the north. 
+Swarms of fireflies are swirring about in distractive patterns.  
+~
+0 8192 3
+D0
+~
+~
+0 0 20013
+D2
+~
+~
+0 0 20001
+D3
+~
+~
+0 0 20014
+S
+#20001
+A dark path~
+This is the beginning of a dark path, surrounded by a gloomy forest. 
+Tall shadows seem to change shape every other moment and the air is filled
+with a strange, sickening scent.  
+~
+0 0 3
+D0
+~
+~
+0 0 20000
+S
+#20002
+Shady forest~
+You're walking through a part of particulary dark and shady forest. 
+Nothing but the occasional chatter of birds is to be heard.  Even they sound
+anxious and nervous.  A small cabin is to the west.  
+~
+0 8192 3
+D0
+~
+~
+0 0 20005
+D1
+~
+~
+0 0 20013
+D3
+~
+~
+0 0 20003
+S
+#20003
+A small cabin~
+This is a small cabin in the middle of the forest.  Both walls and
+furniture look very plain, almost disturbingly so.  The floor is covered
+with old leaves and remains of...  Something.  You can just make out some
+bones and rotting pieces of meat.  
+~
+0 8192 0
+D1
+~
+~
+0 0 20002
+S
+#20004
+Inside the hole~
+You are standing inside the hole now.  The walls are covered by soot and
+moss, the floor is slippery and wet and covered by treacherous algae.  To
+the north, the smell is getting worse.  
+~
+0 8192 0
+D0
+~
+~
+0 0 20032
+D4
+~
+~
+0 0 20013
+S
+#20005
+Shady forest~
+You're walking through a part of particularly dark and shady forest. 
+Nothing but the occasional chatter of birds is to be heard.  Even they sound
+anxious and nervous.  A clearing is to the east and you think you have just
+heard a low wail coming from that direction.  
+~
+0 8192 3
+D1
+~
+~
+0 0 20006
+D2
+~
+~
+0 0 20002
+S
+#20006
+A small clearing~
+This is a small clearing in the middle of the forest.  The shadows don't
+look that menacing here and the ground is covered by grass, in turn covered
+by dew.  Tall, majestic trees are surrounding this idyllic place.  A huge
+rock is lying in the middle of the clearing.  
+~
+0 8192 3
+D3
+~
+~
+0 0 20005
+S
+#20007
+A dark path~
+A dark path is winding through the forest here, leading towards a
+mountain in the east.  The ground is covered by thick moss, swallowing the
+sound of your movements.  An eerie silence fills the forest all around you. 
+~
+0 8192 3
+D1
+~
+~
+0 0 20008
+D3
+~
+~
+0 0 20013
+S
+#20008
+At the mountain~
+You stand right below a gigantic cliff which could probably be climbed
+with some effort.  A dark hole in the rocks seems to be some sort of a cave
+entrance.  The ground is slippery and wet here and a small brook is winding
+through the dark forest nearby.  
+~
+0 8192 3
+D1
+~
+~
+0 0 20010
+D2
+~
+~
+0 0 20009
+D3
+~
+~
+0 0 20007
+D4
+~
+~
+0 0 20011
+S
+#20009
+A shadowy clearing~
+This small, shadowy clearing is surrounded by tall, moss-covered trees
+which seem to swallow every sound, beside the occasional chatter of an
+anxious bird.  Fine slivers of light filter through the thick foliage
+overhead, dancing on the overgrown floor beneath your feet.  A small brook
+is winding through the dark forest nearby.  
+~
+0 8192 3
+D0
+~
+~
+0 0 20008
+S
+#20010
+A dark cave~
+You stand in a dark cave and claustrophobia seizes your mind as the walls
+seem to cave in on you.  The air is dank and filled with a rancid stench,
+almost making you choke.  It's very dark in here, in fact so dark that you
+can hardly see your own hands.  Bones are lying on the floor, but they don't
+look even vaguely humanoid.  
+~
+0 8192 0
+D3
+~
+~
+0 0 20008
+S
+#20011
+Icefields~
+It's getting colder and colder and the rocks are occasionally covered by
+ice and snow, making it even more dangerous to climb them.  An icy breeze
+blows from the north, ruffling your hair and making you shiver.  
+~
+0 8192 0
+D5
+~
+~
+0 0 20008
+S
+#20013
+In front of the ruin~
+A huge ruin, overgrown by moss and vines is here.  It might have been a
+mighty castle once, home to a royal family probably, but now there is not
+much left of it.  Right at your feet is a deep hole and it seems to be the
+origin of the strange odor filling the air.  
+~
+0 8192 3
+D1
+~
+~
+0 0 20007
+D2
+~
+~
+0 0 20000
+D3
+~
+~
+0 0 20002
+D5
+~
+~
+0 0 20004
+S
+#20014
+Entrance to The Maze~
+You stand at the entrance to The Maze.  There is just one exit to the
+north here, but you have the strange feeling that you will not be able to
+turn back once you decide to tread that path.  
+~
+0 8192 0
+D0
+~
+~
+0 0 20015
+D1
+~
+~
+0 0 20000
+S
+#20015
+Inside the maze~
+You have no idea where to go, every direction looks the same.  The air is
+stale and you feel like choking.  Something at the back of your mind urges
+you to get out of here as soon as possible.  
+~
+0 8192 0
+D0
+~
+~
+0 0 20015
+D1
+~
+~
+0 0 20016
+D2
+~
+~
+0 0 20015
+D3
+~
+~
+0 0 20015
+D4
+~
+~
+0 0 20024
+S
+#20016
+Inside the maze~
+You have no idea where to go, every direction looks the same.  The air is
+stale and you feel like choking.  Something at the back of your mind urges
+you to get out of here as soon as possible.  
+~
+0 8196 0
+D0
+~
+~
+0 0 20016
+D1
+~
+~
+0 0 20016
+D2
+~
+~
+0 0 20017
+D3
+~
+~
+0 0 20016
+D4
+~
+~
+0 0 20025
+S
+#20017
+Inside the maze~
+You have no idea where to go, every direction looks the same.  The air is
+stale and you feel like choking.  Something at the back of your mind urges
+you to get out of here as soon as possible.  
+~
+0 8196 0
+D0
+~
+~
+0 0 20017
+D1
+~
+~
+0 0 20017
+D2
+~
+~
+0 0 20017
+D3
+~
+~
+0 0 20018
+D4
+~
+~
+0 0 20026
+S
+#20018
+Inside the maze~
+You have no idea where to go, every direction looks the same.  The air is
+stale and you feel like choking.  Something at the back of your mind urges
+you to get out of here as soon as possible.  
+~
+0 8196 0
+D0
+~
+~
+0 0 20019
+D1
+~
+~
+0 0 20018
+D2
+~
+~
+0 0 20018
+D3
+~
+~
+0 0 20018
+D4
+~
+~
+0 0 20027
+S
+#20019
+Inside the maze~
+You have no idea where to go, every direction looks the same.  The air is
+stale and you feel like choking.  Something at the back of your mind urges
+you to get out of here as soon as possible.  
+~
+0 8196 0
+D0
+~
+~
+0 0 20019
+D1
+~
+~
+0 0 20020
+D2
+~
+~
+0 0 20019
+D3
+~
+~
+0 0 20019
+D4
+~
+~
+0 0 20028
+S
+#20020
+Inside the maze~
+You have no idea where to go, every direction looks the same.  The air is
+stale and you feel like choking.  Something at the back of your mind urges
+you to get out of here as soon as possible.  
+~
+0 8196 0
+D0
+~
+~
+0 0 20020
+D1
+~
+~
+0 0 20020
+D2
+~
+~
+0 0 20021
+D3
+~
+~
+0 0 20020
+D4
+~
+~
+0 0 20029
+S
+#20021
+Inside the maze~
+You have no idea where to go, every direction looks the same.  The air is
+stale and you feel like choking.  Something at the back of your mind urges
+you to get out of here as soon as possible.  
+~
+0 8196 0
+D0
+~
+~
+0 0 20021
+D1
+~
+~
+0 0 20021
+D2
+~
+~
+0 0 20021
+D3
+~
+~
+0 0 20022
+D5
+~
+~
+0 0 20030
+S
+#20022
+Inside the maze~
+You have no idea where to go, every direction looks the same.  The air is
+stale and you feel like choking.  Something at the back of your mind urges
+you to get out of here as soon as possible.  
+~
+0 8196 0
+D0
+~
+~
+0 0 20023
+D1
+~
+~
+0 0 20022
+D2
+~
+~
+0 0 20022
+D3
+~
+~
+0 0 20022
+D4
+~
+~
+0 0 20031
+S
+#20023
+The End~
+You take a deep breath as you have eventually found a way out of the
+maze, away from its dangers and deadly threats.  You heave a deep sigh of
+relief as you discover a portal leading to Shadun.  
+~
+0 4 0
+S
+#20024
+Dragon Chamber~
+This is the dwelling of a real dragon.  The floor is covered with
+treasures and heaps of platinum and expensive looking jewels.  Everything
+you would expect to find in the cave of a dragon.  Just that the dragon
+himself doesn't look very friendly.  
+~
+0 8192 0
+D5
+~
+~
+0 0 20015
+S
+#20025
+The Warrior's Room~
+This is the home of The Warrior.  The room is almost bare, the smooth
+walls are polished and the marble floor is covered with a thin layer of
+dust.  A huge chandelier is hanging from the ceiling.  
+~
+0 8192 0
+D5
+~
+~
+0 0 20016
+S
+#20026
+The Smithy~
+This is the smithy, the working place of the local smith.  How he decided
+to start working here is a complete riddle to you.  He can impossibly have
+many customers.  
+~
+0 8192 0
+D5
+~
+~
+0 0 20017
+S
+#20027
+Dark Room~
+This seems to be the home of two especially ugly creatures.  They almost
+look like two sisters, only vaguely humanoid though.  A rancid stench fills
+the air and you feel like running, far, far away.  
+~
+0 8192 0
+D5
+~
+~
+0 0 20018
+S
+#20028
+A small church~
+You stand in a small church. A serene silence fills the room and you start to feel relaxed. Slivers of light filter through the painted windows and the smooth marble floor is shining brightly.
+~
+0 8192 0
+D5
+~
+~
+0 0 20019
+S
+#20029
+The Void~
+You are floating in the void.  You gasp for air and feel totally
+disorientated.  Panic grasps your very being as a strange force invades your
+body, distorting and altering your perception of reality.  
+~
+0 8192 0
+D5
+~
+~
+0 0 20020
+S
+#20030
+A dusty room~
+You are standing in a dusty room, quite obiously a storeroom.  Crates and
+boxes are everywhere and you think you just heard a faint noise.  Rats,
+probably.  Hopefully they are not as big as the other creatures running
+around here.  
+~
+0 8192 0
+D4
+~
+~
+0 0 20021
+S
+#20031
+A small library~
+You are standing inside a small library.  It is quite plain actually and
+only a few books are to be found here, mostly old and dusty tomes.  An old
+and wrinkled figure stands near one of the shelves and looks at you
+thoughtfully.  
+~
+0 8192 0
+D5
+~
+~
+0 0 20022
+S
+#20032
+Blood and Gore~
+The entire room is covered with blood and gore, entrails and ripped out
+hearts, lungs, and other delicacies.  You are quite sure that this room is
+the origin of the terrible stench.  And you are also sure that you have just
+heart a noise.  An unnerving noise, too be more exact.  
+~
+0 8192 0
+D2
+~
+~
+0 0 20004
+S
+#0
+
+
+
+#SPECIALS
+M 20003 spec_cast_undead
+M 20007 spec_breath_frost
+M 20008 spec_breath_fire
+M 20011 spec_cast_undead
+M 20013 spec_cast_undead
+M 20017 spec_breath_any
+S
+
+
+
+#RESETS
+M 0 20000 1 20000 1
+E 0 20000 0 0
+O 0 20027 0 20001
+M 0 20001 1 20003 1
+E 0 20023 0 9
+M 0 20002 1 20006 1
+E 0 20019 0 13
+M 0 20004 1 20009 1
+E 0 20015 0 16
+M 0 20005 1 20010 1
+E 0 20020 0 7
+M 0 20006 1 20010 1
+E 0 20021 0 11
+M 0 20007 1 20011 1
+E 0 20012 0 20
+E 0 20014 0 21
+M 0 20014 10 20015 1
+M 0 20014 10 20016 1
+M 0 20014 10 20017 1
+M 0 20014 10 20018 1
+M 0 20014 10 20019 1
+M 0 20014 10 20020 1
+M 0 20014 10 20021 1
+M 0 20014 10 20022 1
+O 0 20027 0 20023
+M 0 20008 1 20024 1
+E 0 20006 0 10
+M 0 20009 1 20025 1
+E 0 20004 0 6
+E 0 20024 0 16
+M 0 20010 1 20026 1
+E 0 20005 0 15
+M 0 20013 1 20027 1
+M 0 20011 2 20027 1
+G 0 20007 0
+E 0 20008 0 2
+M 0 20012 1 20028 1
+E 0 20010 0 0
+E 0 20017 0 22
+M 0 20015 1 20029 1
+E 0 20009 0 12
+M 0 20016 2 20030 2
+E 0 20018 0 25
+M 0 20017 1 20031 1
+E 0 20022 0 17
+E 0 20016 0 3
+M 0 20018 1 20032 1
+E 0 20002 0 24
+E 0 20029 0 16
+O 0 20028 0 20032
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

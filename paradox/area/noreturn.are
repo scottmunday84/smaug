@@ -1,0 +1,1993 @@
+#AREADATA
+Name Ancient Ruins~
+Builders None~
+VNUMs 200 299
+Credits { HERO } Sha/Kat Ancient Ruins~
+Security 9
+End
+
+
+
+#MOBILES
+#204
+wraith~
+a wraith~
+A wraith floats aimlessly about.
+~
+Ghostly white in appearance, you can see right through its transparent form.
+It floats around the anicent ruins, searching for an answer.
+~
+efrit~
+AFG LV C 0 0
+101 500 500d3+10000 50d40+24500 100d5+200 none
+-62 -62 -62 -62
+R 0 EIJ FGK
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#206
+Arbalest~
+an arbalest~
+An {7arb{&al{7est{x grins wickedly at you.
+~
+Their haunting appearance, devoid of any essence of humanity, is enough to send chills tingling down your spine.
+As the drift in and out of the shadows, you can never be sure where the arbalest will attack from next.
+~
+cylith~
+ABFT Va H 0 0
+101 500 50d50+10000 12d573+2775 50d5+350 blast
+-73 -73 -73 -73
+CR 0 E K
+stand stand none 2000
+AHMV ABCDEFGHIJK huge unknown
+#207
+a saprophyte~
+a saprophyte~
+A {8saprophyte{x feeds on the rotting carcasses.
+~
+Slighly hunched, the saprophyte look rather diminuitive and cowardly.
+However, when in a swarm of about five, the saprophytes virtually become savage monsters, pouncing on prey and tearing the flesh apart, before feeding on the rotting flesh.
+~
+dragon~
+ABFS JT DH -200 0
+101 500 10000d1+5000 12d573+2775 5d100+300 claw
+-73 -73 -73 -73
+RW 0 BEH FI
+stand stand none 5050
+AHMVZ ABCDEFGHIJKPQUVX large unknown
+#208
+skeleton warrior~
+a skeleton warrior~
+A {&skeleton {8warrior{x protects its land with its life.
+~
+Previously slain in a great war and battle, the dead bodies have now decomposed and arisen as skeletons.
+Despite their lack of flesh as compared with before, the skeletons are equally, if not even more dangerous and powerful than before.
+The lack of any human emotions instantly makes the skeletons a deadly foe.
+~
+kenku~
+AFGT FJLTa D -500 0
+101 101 100d5+10000 12d573+2775 100d5+200 pierce
+-73 -73 -73 -73
+CEN 0 GIM FN
+stand stand none 5050
+AHMV ABCDEFGHIJKP large unknown
+#210
+vampire~
+a vampire~
+A {1v{!a{1m{!p{1i{!r{1e{x draws blood from a live female!
+~
+Unable to survive without fresh blood from a living source, it will inevitably vapourize into thin air.
+Drawing the blood from a viciously impaled young female victim, the vampire leeches off its host, quenching its insatiable thirst for blood.
+~
+revada~
+AGOP Vc B 0 0
+101 500 5000d1+10000 12d573+2775 50d10+200 bite
+-73 -73 -73 -73
+PV 0 M N
+stand stand none 5050
+AHMV ABCDEFGHIJK large unknown
+#211
+dark knight~
+a dark knight~
+A {8dark knight {xbrandishes his sword menancingly.
+~
+Before you stands an elusive shadowy figure, fleeting in and out of the shadows.
+Clad in a full set of black plate armor, he draws his huge scimitar, poised ready for the attack.
+~
+wyvern~
+ABFP DFT H 0 0
+101 500 50d100+10000 12d573+2775 25d12+200 cleave
+-73 -73 -73 -73
+CFHRV L 0 S
+stand stand none 2000
+ABGHMVZ ABCDEFGHIJKQVX huge unknown
+#212
+medusa~
+a medusa~
+A {2me{@du{2sa's {xsnakes swivel around at your prescence.
+~
+In the place of her hair, medusa has a pack of snakes hissing viciously at all intruders.
+Her deadly gaze is said to be able to petrify anyone who stares into her eyes.
+~
+draconian~
+ABFLO TV H 0 0
+101 500 1000d7+10000 12d573+2775 25d12+200 sting
+-73 -73 -73 -73
+EFKR LQ HI FGJ
+stand stand none 200
+AHMV ABCDEFGHIJKPQ large unknown
+#215
+apparation~
+an apparation~
+A {7gho{&st{7ly {7wh{&i{7te {xform floats near you.
+~
+With large haunting eyes and a sunken mouth, this creature is the harbringer of fear.
+It floats aimlessly around the ruins, searching its friends and family it had in its previous life.
+Wailing sorrowfully, its only hope is to reunite itself with its kin.
+~
+vixta~
+AFGO JP 0 0 0
+101 500 500d1+10000 12d573+2775 50d10+200 suction
+-73 -73 -73 -73
+PR 0 BM NS
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#216
+mutant~
+a mutant~
+A mutant having noticed you, scurries off quickly.
+~
+Something dreadful must have happened to this creature, causing it to mutate.
+Having identified you as an intruder, it scurries off to report to its master.
+~
+vixta~
+AB JPUV 0 0 0
+90 90 50d40+24500 50d40+24500 5d8+40 none
+-62 -62 -62 -62
+0 0 BM NS
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#217
+holy guardian~
+the holy guardian~
+The {#H{&ol{#y {#Gu{&ardi{#an{x guards the jail with his life.
+~
+Appointed from the gods above, the guardian has been assigned with the important task of ensuring that all incarnates of the devil have been sealed off safely in their cells.
+Even after the city was destroyed by the volcanic eruption, and inhabited by the evil, demonic spirits, the guardian still carries his duty faithfully, never giving the Evils the slightest chance at escape.
+~
+drezil~
+ABOT DFJLZ CDEHNT 1000 0
+120 120 12d808+3640 12d808+3640 100d8+200 none
+-85 -85 -85 -85
+CEFJKNW B DNSX LMQ
+stand stand none 7500
+AHMV ABCDEFGHIJKP giant unknown
+F res a
+F vul H
+#218
+lich~
+a lich~
+A {%l{3ic{%h{x rests in meditation.
+~
+Deep in concentration, the lich focuses all its inner negative energy into the art of dark magic.
+Chanting incoherantly and under its breath, the lich mumbles a few words before huge balls of toxic gas gather and form before the lich.
+Master of poison and diseases, the lich knows the most torturous way to end a human's life.
+~
+revada~
+AFGP c O -500 0
+101 500 5000d1+10000 12d573+2775 50d10+200 drain
+-73 -73 -73 -73
+NP 0 M N
+stand stand none 5050
+AHMV ABCDEFGHIJK medium unknown
+#222
+kurei~
+Kurei~
+{7K{8ure{7i{x, incarnate of {1W{!r{1a{!t{1h{x, claws at your face!
+~
+Filled with rage after being enclosed for centuries, Kurei struggles vehemently, attempting to tear the magical chains that bind him captive.
+Now that the Holy Guardian has been foolishly slain, Kurei can once again reign terror over the world with his other brothers.
+~
+human~
+ABFT Zac CDEH -500 0
+120 750 1000d8+10000 12d808+3640 15d28+200 slash
+-85 -85 -85 -85
+DEFK M OP NS
+stand stand none 10000
+AHMV ABCDEFGHIJK large unknown
+#223
+abrion~
+Abrion~
+{7A{8brio{7n{x, incarnate of {1L{!u{1s{!t{x, claws at your face!
+~
+Filled with thirst for revenge back on the world, Abrion attempts to break free of the magical chains that hold him captive.
+After years of being at the mercy of the Guardian, Abrion is finally freed and lusts for his reign of terror alongside his other brothers.
+~
+dragon~
+ABFT JTVac CDEH -500 0
+120 750 1000d8+10000 12d808+3640 15d28+210 flame
+-85 -85 -85 -85
+CDFN 0 BEH FI
+stand stand none 10000
+ABHMVZ ABCDEFGHIJKPQUVX huge unknown
+#224
+volar~
+Volar~
+{7V{8ola{7r{x, incarnate of {1G{!l{1u{!t{1t{!o{1n{!y{x, claws at your face!
+~
+Filled with yearning to exact back revenge on the world, Volar struggles to pull free off the magical chains grips.
+After years of tortourus suffering under the Guardians watchful eye, Volar has finally tasted freedom again, and seeks his time to torture the world yet again.
+~
+titan~
+ABFT DVc CDEH -500 0
+120 750 1000d8+10000 12d808+3640 16d28+210 crush
+-85 -85 -85 -85
+CEFKW B D J
+stand stand none 10000
+AHMV ABCDEFGHIJK large unknown
+F aff a
+#225
+thrayn~
+Thrayn~
+{7T{8hray{7n{x, incarnate of {1P{!r{1i{!d{1e{x, claws at your face!
+~
+After painful centuries of enclosure within this small capsule, Thrayn has finally regained his freedom that he has so dearly longed for.
+Now with no one left to restrain his reign of terror, it will only be a matter of time before the world succumbs to this evil tyrant and his brothers.
+~
+minotaur~
+ABFS LVac CDEH -500 0
+120 750 1000d8+10000 12d808+3640 16d29+199 pound
+-85 -85 -85 -85
+EFIKW L J EI
+stand stand none 10000
+AHMV ABCDEFGHIJKW large unknown
+#227
+apokolips~
+Apokolips~
+{7A{8pokolip{7s{x, harbringer of doom, laughs mercilessly at you.
+~
+The epitome of evil and satan, Apokolips is undoubtedly the strongest, and most diabolical amongst his brothers.
+With his sadistic and inhumane desire for bloodlust and chaos, Apokolips can easily bring about the collapse of the world.
+Especially now with his freedom from the Holy Guardian, chaos will run amok inevitably in only a matter of time. 
+~
+human~
+AFPQRT TVac CDEHNO -1000 0
+150 850 2000d5+20000 13d1166+5190 40d30+150 smash
+-103 -103 -103 -103
+CDEFJKNW 0 0 I
+stand stand none 100000
+AHMV ABCDEFGHIJK giant unknown
+#228
+swarm vampire bats~
+a swarm of vampire bats~
+A swarm of {8vampire bats{x circle above its target...... YOU!
+~
+Vampire bats often are found residing within damp moist and dark caverns of such sort.
+Equally bloodthirsty as their 'human-like' counterparts, these bats though small, pose a large threat to many.
+With fangs as sharp as daggers, these bats are known for completely draining its victim of all blood.
+~
+heucuva~
+AFGP TZ 0 0 0
+101 500 5000d1+10000 12d573+2775 50d10+200 bite
+-73 -73 -73 -73
+HPRV LMQ D NSY
+stand stand none 5050
+AHMV ABCDEFGHIJK small unknown
+#229
+zombie~
+a zombie~
+A zombie lumbers along aimlessly.
+~
+One of the slowest of the creatures within the realms, the zombie compensates with its lack of speed for its immense strength.
+Armed with its stone hammer, the zombie has the capability of smashing its foes skulls into pulp, and breaking all bones.
+Tempted by the deserted ruins, the zombie has made this area its home.
+~
+troll~
+AFGT FJacd E 0 0
+101 500 5000d1+10000 12d573+2775 50d10+200 beating
+-73 -73 -73 -73
+DENP 0 BE HK
+stand stand none 5050
+ABHMV ABCDEFGHIJKUV large unknown
+#237
+suffering soul~
+a suffering soul~
+A {7s{8ufferin{7g {7s{8ou{7l{x moans in agony.
+~
+The spirits of the villagers that were so brutally eradicated by the intensely incinerating magma have managed to arise again and live as spirits.
+Their death was a wrongful one, and they now trust no one, to prevent anyone for ever taking their lives away again.
+~
+shador~
+AFGT PT BP 500 0
+101 500 500d10+10000 12d573+2775 50d5+550 digestion
+-73 -73 -73 -73
+0 0 B S
+stand stand female 5050
+AHMV ABCDEFGHIJK medium unknown
+#238
+grieving soul~
+a grieving soul~
+A {7g{8rievin{7g s{8ou{7l{x weeps over the loss of its kin.
+~
+The spirits of the villagers that were so brutally eradicated by the intensely incinerating magma have managed to arise again and live as spirits.
+Their death was a wrongful one, and they now trust no one, to prevent anyone for ever taking their lives away again.
+~
+shador~
+AFGT PT BP 500 0
+101 500 500d10+10000 12d573+2775 50d5+550 digestion
+-73 -73 -73 -73
+0 0 B S
+stand stand none 5050
+AHMV ABCDEFGHIJK medium unknown
+#241
+syarul~
+Syarul~
+{8Syarul{x cowers in the corner in fear.
+~
+Apparently a lost adventurer, Syraul has been trapped down beneath the trap door.
+Though the spirits and demons have yet to find him, it will only be a matter of time before he eventually gets discovered.
+~
+human~
+AB V CDEH 1000 0
+101 101 12d573+2775 12d573+2775 5d20+50 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand none 500000
+AHMV ABCDEFGHIJK large unknown
+#243
+possessed blacksmith~
+a blacksmith~
+The {8blacksmith{x has been possessed by wandering spirits!
+~
+Now possessed by a couple of wandering spirits, he has a hate-filled glare in his eyes that befits his muscular build.
+Armed with high quality weapons that he himself has forged, the blacksmith seeks to destroy anyone that comes near him.
+Without doubt, he has become a total war machine.
+~
+orc~
+ABFT JV CDEHN 1000 0
+110 101 10000d1+10000 12d573+2775 10d30+250 pound
+-73 -73 -73 -73
+CEFIJKP 0 LQa RS
+stand stand male 5500
+AHMV ABCDEFGHIJK huge unknown
+#244
+young helper~
+a young helper~
+The blacksmith's young helper learns studiously.
+~
+Adopted by the blacksmith a few years ago, these young helpers have been learning quickly what their blacksmith teacher has been teaching them.
+Although they are not as skilled or experienced as their teacher, they are undyingly loyal to their teacher and will assist him in any way possible.
+~
+orc~
+ABFT JV CDEH 1000 0
+101 101 12d573+2775 12d573+2775 5d20+50 pound
+-73 -73 -73 -73
+CFJKNPVW 0 LQa RS
+stand stand none 5050
+AHMV ABCDEFGHIJK large unknown
+#245
+Galmok red dragon~
+Galmok, the red dragon~
+Galmok, the {1r{!e{1d{x dragon breathes fire at you!
+~
+The first of the many guardians that protect what lies behind, a sacred temple, the red dragon Galmok assumes the important role.
+The piles of skulls in the corner, flesh incinerated into ash and cinders, display the sheer might that this dragon possesses.
+~
+dragon~
+ABFRT JTVa CDEH -200 0
+110 600 1000d5+15000 12d679+3175 15d30+150 flbite
+-78 -78 -78 -78
+CEFJKN 0 BEH I
+stand stand male 5500
+AHMVZ ABCDEFGHIJKPQUVX huge unknown
+F vul F
+#246
+nuada blue dragon~
+Nuada, the blue dragon~
+Nuada, the {$b{^lu{$e{x dragon breathes frost at you!
+~
+Born and bred within the iciest valleys in the tundra, the blue dragon has managed to breath frost down a victims spine, paralysing him with the numbing cold.
+The presence of ice shards with traces of solidified human flesh gives proof to its beastly carnage it possesses.
+~
+dragon~
+ABFRT JTVa CDEH 200 0
+110 600 1000d5+15000 12d679+3175 15d30+150 frbite
+-78 -78 -78 -78
+CEFKN 0 BEI FH
+stand stand male 5500
+AHMVZ ABCDEFGHIJKPQUVX huge unknown
+F res H
+F vul I
+#247
+zorak green dragon~
+Zorak, the green dragon~
+Zorak, the {2gr{@e{2en{x dragon breathes acid at you!
+~
+With the ability to breath acid that can corrode anything in its path, it is best to steer clear of Zorak as often as possible.
+On the walls, you can see vague stains of rotting melting human skin, peeled off the human body by the acidic breath.
+~
+dragon~
+ABFRT JTVa CDEH -200 0
+110 600 1000d5+15000 2d6+10 15d32+160 acbite
+9 9 9 9
+CEFKN 0 BEK Fa
+stand stand male 5500
+AHMVZ ABCDEFGHIJKPQUVX huge unknown
+F res H
+F vul I
+#248
+saiyun gold dragon~
+Saiyun, the gold dragon~
+Saiyun, the {3g{#ol{3d {xdragon breathes lightning at you!
+~
+Apparently a goddess from above that served Zeus loyally, Saiyun made a huge mistake and was sent down as a dragon within the ruins as punishment
+She has the capability of breathing lightning at her foes, causing their muscles to stop responding, and heart to fail.
+~
+dragon~
+ABFRT JTVa CDEH 350 0
+110 600 1000d5+15000 12d679+3175 16d32+175 shbite
+-78 -78 -78 -78
+CEFKN 0 BEJ FR
+stand stand female 5500
+AHMVZ ABCDEFGHIJKPQUVX huge unknown
+F res H
+F vul I
+#251
+raishin bone dragon~
+Raishin, the bone dragon~
+Raishin, the {8b{7on{8e{x dragon breathes gas at you!
+~
+The bone dragon guardian Raishin had perished during the volcanic eruption trying to save some of the villagers from the wrath of the volcano.
+Despite being burnt alive by the magma, its will to live and protect its home was so strong that it breathed a new life into it.
+As the guardian of the town, it will not let anyone who hounds the town leave alive.
+~
+dragon~
+ABFQRT JVac CDEH 1000 0
+125 750 10000d1+15000 12d877+3885 16d34+190 drain
+-88 -88 -88 -88
+CEFJKN LQ BEM FN
+stand stand none 10000
+AHMVZ ABCDEFGHIJKPQUVX giant unknown
+F aff T
+F res H
+F vul I
+#0
+
+
+
+#OBJECTS
+#206
+light despair~
+{DL{Ci{cg{Dht {Do{Cf {DDe{Cs{cp{ca{Dir{x~
+You feel your happiness being drawn away.~
+unknown~
+light IT A
+0 0 999 0 0
+101 6 5050 P
+S 'protection evil'
+A
+19 20
+A
+18 20
+A
+13 400
+A
+20 -3
+#207
+decaying claws saprophyte~
+{3D{#ec{3ay{#in{3g {3C{#law{3s{x of the {8Saprophyte{x~
+Claws stained with blood are decaying quickly.~
+unknown~
+armor MST AH
+33 32 34 30 0
+101 6 5050 P
+A
+3 2
+A
+20 -5
+A
+19 20
+A
+18 20
+A
+13 200
+#211
+medusa's stony gaze~
+{8-{@Me{2du{@sa{2'{@S{8- {8Stony {!/{7G{&az{7e{!\{x~
+A deadly gaze turns all into stone.~
+unknown~
+armor MST AT
+32 32 33 34 0
+101 5 5050 P
+A
+18 35
+A
+19 35
+A
+13 100
+A
+17 -50
+#212
+rune sword decay~
+{DA {gr{Gu{Dn{ye {xs{yw{Do{Gr{gd {Dna{Wm{xe{Dd '{gD{Ge{Dc{Ga{gy{D'{x~
+A pitted longsword is lying here.~
+unknown~
+weapon IST AN
+sword 13 13 rend CH
+101 4 5000 P
+A
+14 200
+A
+13 150
+A
+19 30
+A
+18 30
+#217
+devil key~
+a {1de{!vi{1li{!s{1h {xlooking key~
+The engraved devil on the key seems to come alive!~
+unknown~
+key QT A
+0 0 0 0 0
+0 20 1 P
+#222
+mask endless fury~
+{!M{1as{!k {8of endless {!F{1ur{!y{x~
+The wrath of Kurei can be felt from a distance.~
+unknown~
+armor MSTY AR
+30 30 30 35 0
+101 50 10000 P
+A
+13 450
+A
+1 2
+A
+18 20
+A
+19 20
+A
+20 -3
+#223
+binding wraps lust~
+{8several {!B{1indin{!g V{1ine{!s {8of {!L{1us{!t{x~
+You feel yourself engulfed by an overwhelming feeling of lust.~
+unknown~
+armor MSY AL
+20 25 25 20 0
+101 70 100000 P
+A
+17 -20
+A
+20 -2
+A
+19 30
+A
+18 35
+A
+13 350
+#224
+blistered feet~
+{8a pair of {!B{1listere{!d {8feet{x~
+Volar's gluttony exudes an evil aura.~
+unknown~
+armor MSY AG
+23 20 19 27 0
+101 40 100000 P
+A
+20 -1
+A
+13 375
+A
+19 45
+A
+18 45
+A
+17 -30
+#225
+tattered sleeves pride~
+{8tattered sleeves of {!P{1rid{!e{x~
+A great sense of pride swarms the room.~
+unknown~
+armor MSTY AI
+19 23 19 25 0
+101 70 100000 P
+A
+18 25
+A
+19 30
+A
+20 -4
+A
+13 300
+#226
+portal stone glowing~
+a {3gl{#owi{3ng{x portal stone~
+A small object {yg{Ylow{ys{x brightly at your eyes.~
+unknown~
+portal 0 0
+0 0 0 227 0
+0 0 0 P
+#227
+inevitable apocalypse~
+{8the {8ine{7vita{8ble apoc{7al{8ypse{x~
+Chaos will befall eventually.~
+unknown~
+armor MSTY AE
+35 35 35 35 0
+101 100 100000 P
+A
+13 400
+A
+17 -35
+A
+20 -2
+A
+19 37
+A
+18 37
+#234
+deathswing flail~
+{8D{3e{#a{3t{8hs{3w{#i{3n{8g{x~
+A bloodstained flail has been left stuck on the ground.~
+unknown~
+weapon IT AN
+flail 13 13 acbite EHIJ
+101 60 1000 P
+A
+17 -25
+A
+18 25
+A
+19 20
+A
+2 3
+A
+13 150
+#235
+bonebreaker mace~
+the {8B{7on{&EB{7reake{8R{x~
+This mace looks capable of crushing bones.~
+unknown~
+weapon ST AN
+mace 13 13 crush ADE
+101 50 1000 P
+#236
+lifestealer whip~
+{8L{7i{&F{6eS{^t{6Ea{&L{7e{8R{x~
+A whip looks capable of drawing life away.~
+unknown~
+weapon ST AN
+whip 13 13 drain CH
+101 70 10000 P
+A
+20 -3
+A
+13 200
+A
+18 30
+A
+19 30
+A
+1 -2
+#237
+wooden shelf~
+a {3wooden {xshelf~
+A {3wooden {xshelf is covered with {8dust{x and {8cobwebs{x.~
+unknown~
+container 0 0
+10000 0 0 0 0
+0 1000 0 P
+#238
+ancient curse eternal damnation~
+{3Anc{#i{3ent {3cu{#r{3se {8of Eternal {!Dam{1nat{!ion{x~
+A witch's curse plagues the tortured soul.~
+unknown~
+armor MST AQ
+25 25 25 25 0
+101 60 1000 P
+A
+17 0
+A
+20 5
+A
+18 35
+A
+19 35
+A
+13 400
+S 'invisibility'
+#239
+set shiny silver legplates~
+a set of {7S{&hin{7y {7Silver {8L{7egplate{8s{x~
+A brand new set of legplates sparkle under the sunlight.~
+unknown~
+armor ST AF
+27 23 27 23 0
+101 110 100000 P
+A
+12 200
+A
+14 200
+A
+20 -3
+A
+17 0
+A
+3 2
+#240
+pair jade earrings~
+a pair of {2j{@ad{2e {3ea{#rrin{3gs{x~
+A green pair of jade earrings glisten in the sun.~
+unknown~
+armor ST AU
+22 22 18 20 0
+101 30 100000 P
+A
+12 300
+A
+1 3
+A
+18 30
+A
+19 30
+A
+20 -1
+#241
+shroud moonlit night~
+{^Sh{6ro{^ud{x of a {3Mo{#onl{3it {8Night{x~
+Something seems to be blocking off the moonlight.~
+unknown~
+armor ST AK
+25 25 25 20 0
+101 100 100000 P
+A
+13 200
+A
+20 -1
+A
+19 25
+A
+18 25
+A
+12 200
+#242
+undying spirit~
+the {8Un{^dyi{8Ng Sp{^ir{8iT{x~
+The blacksmith's unfallable spirit still echoes in the room.~
+unknown~
+armor MST AJ
+23 23 23 19 0
+101 50 100000 P
+A
+13 100
+A
+18 30
+A
+19 30
+A
+20 -3
+A
+17 -20
+A
+4 -2
+A
+3 -2
+#243
+small silver key~
+a small {7s{&ilve{7r {xkey~
+A blacksmith has misplaced his key to the forge.~
+unknown~
+key H A
+0 0 0 0 0
+0 0 0 P
+#244
+weaponsrack~
+a weaponsrack~
+A small weaponsrack holds various forged weapons.~
+unknown~
+container T 0
+10000 0 0 0 0
+0 1000 0 P
+#245
+red dragonscale patch~
+a {1r{!e{1d{x {8Dra{^Go{8nS{^ca{8Le{x patch~
+A dragonscale from the red dragon has been fashioned into a patch.~
+unknown~
+armor ST AS
+24 24 24 20 0
+101 30 10000 P
+A
+20 -2
+A
+19 25
+A
+18 30
+A
+4 2
+A
+13 350
+#246
+teeth ice dragon~
+{&The teeth of an {^I{7c{^e {$D{6r{7a{6g{$o{6n{x~
+Someone has extracted the sharp teeth of the ice dragon. ~
+unknown~
+armor STY AC
+25 24 27 21 0
+101 40 5000 P
+A
+2 2
+A
+19 30
+A
+18 30
+A
+20 -4
+A
+12 200
+A
+13 200
+#247
+greendragon wrist cufflink~
+a {@G{2r{@e{2e{@n{2D{@r{2a{@g{2o{@n{x {7Wrist {7Cufflink{x~
+The wrist of the slain greendragon lies on the ground.~
+unknown~
+armor GHYZ AM
+25 25 25 25 0
+101 10 10000 P
+A
+18 25
+A
+19 25
+A
+13 500
+A
+20 -1
+#248
+lashing tail gold dragon~
+{7The {x{3Las{#h{3ing T{#ai{3l {7of the {3G{#ol{3d Dr{#ag{3on{x~
+The tail of the slain golden dragon wiggles about slowly.~
+unknown~
+armor CFY AD
+1 45 1 45 0
+101 100 7500 P
+A
+2 -4
+A
+19 20
+A
+18 25
+A
+13 400
+A
+20 -4
+#250
+bone dragon warcry~
+{&the {8B{7on{8e D{7ragon{8's {&warcry{x~
+The battlesong of the bonedragon can be heard echoing in the room.~
+unknown~
+weapon ABCGH AN
+mace 13 13 screech ADGH
+101 30 10000 P
+A
+12 400
+A
+13 200
+A
+18 35
+A
+19 35
+#251
+bone dragon dying love~
+{&the {8B{7on{8e D{7ragon{8's {&dying love{x~
+The eternal love of the dying bonedragon sweeps through the room.~
+unknown~
+armor ABGI AO
+30 30 30 30 0
+101 10 100000 P
+A
+12 -50
+A
+13 50
+A
+18 65
+A
+19 65
+A
+20 -3
+#252
+shimmering portal shadun~
+a shimmering portal~
+A {Cs{ch{Ri{rm{Cm{ce{Rr{ri{Cn{cg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#200
+Path to the Volcano~
+Blocking your progress, a huge volcano lies before you.  Now dormant, the
+once feared volcano which buried a whole city, spewing lava of intense heat,
+now a mere mountain.  It is rumoured that remants of the city can still be
+found amongst the debris.  
+~
+0 0 5
+D4
+~
+~
+0 0 201
+S
+#201
+Volcano's Rim~
+A strong smell of sulphur and soot can be smelt amidst the dizzying
+breeze.  The lines of the volcano walls are now thickened after layers and
+layers of lava solidifiying.  The fertile soils and the mineral deposits
+brought by the volcanic eruptions were probably what prompted the
+development of settlenments near the volcano.  
+~
+0 0 5
+D0
+~
+~
+0 0 202
+D5
+~
+~
+0 0 200
+S
+#202
+Volcano's Rim~
+A strong smell of sulphur and soot can be smelt amidst the dizzying
+breeze.  The lines of the volcano walls are now thickened after layers and
+layers of lava solidifiying.  The fertile soils and the mineral deposits
+brought by the volcanic eruptions were probably what prompted the
+development of settlenments near the volcano.  
+~
+0 0 5
+D2
+~
+~
+0 0 201
+D5
+~
+~
+0 0 203
+S
+#203
+Ruined pathway~
+Fortunately, a pathway of old stones and pebbles have created a safe
+walkway for adventurers.  As you walk along the pathway, you notice the
+barren plains that are around you, any signs of life, absent.  Evidently,
+the viciousness and brutalness of the volcano has left everything dead and
+destroyed in its wake many years ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 204
+D4
+~
+~
+0 0 202
+S
+#204
+Further down the pathway~
+Fortunately, a pathway of old stones and pebbles have created a safe
+walkway for adventurers.  As you walk along the pathway, you notice the
+barren plains that are around you, any signs of life, absent.  Evidently,
+the viciousness and brutalness of the volcano has left everything dead and
+destroyed in its wake many years ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 205
+D2
+~
+~
+0 0 203
+S
+#205
+Deeper down the pathway~
+Fortunately, a pathway of old stones and pebbles have created a safe
+walkway for adventurers.  As you walk along the pathway, you notice the
+barren plains that are around you, any signs of life, absent.  Evidently,
+the viciousness and brutalness of the volcano has left everything dead and
+destroyed in its wake many years ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 208
+D1
+~
+~
+0 0 206
+D2
+~
+~
+0 0 204
+D3
+~
+~
+0 0 207
+S
+#206
+Fallen debris~
+The buildings must have collasped and been destoryed during the volcanic
+eruption, and all that is left is just fallen rubble caused from the
+earthquake.  Wooden planks, large boulders can all be seen lying messily
+about the ruins.  However, it is not adivisable to tread within areas like
+this.  
+~
+0 8192 1
+D3
+~
+~
+0 0 205
+S
+#207
+Fallen debris~
+The buildings must have collasped and been destoryed during the volcanic
+eruption, and all that is left is just fallen rubble caused from the
+earthquake.  Wooden planks, large boulders can all be seen lying messily
+about the ruins.  However, it is not adivisable to tread within areas like
+this.  
+~
+0 8192 1
+D1
+~
+~
+0 0 205
+S
+#208
+Deeper down the pathway~
+Fortunately, a pathway of old stones and pebbles have created a safe
+walkway for adventurers.  As you walk along the pathway, you notice the
+barren plains that are around you, any signs of life, absent.  Evidently,
+the viciousness and brutalness of the volcano has left everything dead and
+destroyed in its wake many years ago.  
+~
+0 0 1
+D0
+~
+~
+0 0 213
+D1
+~
+~
+0 0 210
+D2
+~
+~
+0 0 205
+D3
+~
+~
+0 0 209
+S
+#209
+Fallen debris~
+The buildings must have collasped and been destoryed during the volcanic
+eruption, and all that is left is just fallen rubble caused from the
+earthquake.  Wooden planks, large boulders can all be seen lying messily
+about the ruins.  However, it is not adivisable to tread within areas like
+this.  
+~
+0 8192 1
+D1
+~
+~
+0 0 208
+D3
+~
+~
+0 0 212
+S
+#210
+Fallen debris~
+The buildings must have collasped and been destoryed during the volcanic
+eruption, and all that is left is just fallen rubble caused from the
+earthquake.  Wooden planks, large boulders can all be seen lying messily
+about the ruins.  However, it is not adivisable to tread within areas like
+this.  
+~
+0 8192 1
+D1
+~
+~
+0 0 211
+D3
+~
+~
+0 0 208
+S
+#211
+Fallen debris~
+The buildings must have collasped and been destoryed during the volcanic
+eruption, and all that is left is just fallen rubble caused from the
+earthquake.  Wooden planks, large boulders can all be seen lying messily
+about the ruins.  However, it is not adivisable to tread within areas like
+this.  
+~
+0 8192 1
+D3
+~
+~
+0 0 210
+S
+#212
+Fallen debris~
+The buildings must have collasped and been destoryed during the volcanic
+eruption, and all that is left is just fallen rubble caused from the
+earthquake.  Wooden planks, large boulders can all be seen lying messily
+about the ruins.  However, it is not adivisable to tread within areas like
+this.  
+~
+0 8192 1
+D1
+~
+~
+0 0 209
+S
+#213
+The well~
+This well has served as the village's water source before it was
+destroyed.  Now, years later, moss and algae are growing on it.  You notice
+the well, though now half-buried in rubble, has small, narrow ledges leading
+into the darkness below.  
+~
+0 0 0
+D0
+~
+~
+0 0 232
+D2
+~
+~
+0 0 208
+D5
+~
+~
+0 0 214
+S
+#214
+Inside the well~
+Taking a slight few falls, and suffering a few cuts and bruises, you have
+finally made your way down below the well.  It is not sure what may reside
+beneath the well, although a large cavernous cove, completely empty and
+devoid of any noise can be seen.  Above you, you notice a few bats flying
+overhead, and upon closer observation, you notice this does not look like a
+typical below-the-well scene.  
+~
+0 8192 6
+D0
+~
+~
+0 0 215
+S
+#215
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D0
+~
+~
+0 0 216
+S
+#216
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D0
+~
+~
+0 0 217
+D1
+~
+~
+0 0 215
+D2
+~
+~
+0 0 215
+D3
+~
+~
+0 0 219
+D4
+~
+~
+0 0 219
+D5
+~
+~
+0 0 216
+S
+#217
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D0
+~
+~
+0 0 216
+D1
+~
+~
+0 0 218
+D2
+~
+~
+0 0 217
+D3
+~
+~
+0 0 215
+D4
+~
+~
+0 0 217
+D5
+~
+~
+0 0 217
+S
+#218
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D0
+~
+~
+0 0 215
+D1
+~
+~
+0 0 218
+D2
+~
+~
+0 0 219
+D3
+~
+~
+0 0 218
+D4
+~
+~
+0 0 218
+D5
+~
+~
+0 0 217
+S
+#219
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D0
+~
+~
+0 0 219
+D1
+~
+~
+0 0 216
+D2
+~
+~
+0 0 219
+D3
+~
+~
+0 0 228
+D5
+~
+~
+0 0 216
+S
+#220
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D5
+~
+~
+0 0 221
+S
+#221
+The dungeons~
+As you carelessly stumble upon this makeshift prison, you notice an
+archangel standing at attention, guarding his post vigilantly.  Apparently,
+though the city above was entirely wiped out by the volcanic eruption, this
+guard has been on duty for centuries.  The cells are pure energy force
+fields that cripples all hopes of escaping that the prisoners habour.  There
+is definately no way past the intense shields of energy without its magical
+key.  Exits lie in all four cardinal directions.  
+~
+0 8192 0
+D0
+~
+energy~
+3 217 224
+D1
+~
+energy~
+3 217 222
+D2
+~
+energy~
+3 217 225
+D3
+~
+energy~
+3 217 223
+D4
+~
+~
+0 0 220
+S
+#222
+Cell~
+The cell is dark, damp and musty, unfit for any creature or human to
+reside in.  Guarded by the holy guardian outside, the Evils that aptly
+reside within here, have practically no chance of escaping.  It is only
+through the imprisonment of the Evils that the world has not been engulfed
+in total darkness yet.  
+~
+0 8192 0
+D3
+~
+~
+0 0 226
+S
+#223
+Cell~
+The cell is dark, damp and musty, unfit for any creature or human to
+reside in.  Guarded by the holy guardian outside, the Evils that aptly
+reside within here, have practically no chance of escaping.  It is only
+through the imprisonment of the Evils that the world has not been engulfed
+in total darkness yet.  
+~
+0 8192 0
+D1
+~
+~
+0 0 226
+S
+#224
+Cell~
+The cell is dark, damp and musty, unfit for any creature or human to
+reside in.  Guarded by the holy guardian outside, the Evils that aptly
+reside within here, have practically no chance of escaping.  It is only
+through the imprisonment of the Evils that the world has not been engulfed
+in total darkness yet.  
+~
+0 8192 0
+D2
+~
+~
+0 0 226
+S
+#225
+Cell~
+The cell is dark, damp and musty, unfit for any creature or human to
+reside in.  Guarded by the holy guardian outside, the Evils that aptly
+reside within here, have practically no chance of escaping.  It is only
+through the imprisonment of the Evils that the world has not been engulfed
+in total darkness yet.  
+~
+0 8192 0
+D0
+~
+~
+0 0 226
+S
+#226
+The empty cell~
+For some reason, the prisoner here has gone missing, even under the
+watchful eyes of the guardian.  In the place of a mad tyrant binded captive
+by the magical chains, a small portal stone can be seen lying on the corner
+of the floor.  The presence of cobwebs covering the small stone, could only
+mean that the prisoner here has been missing for a very long time already.  
+~
+0 5 0
+S
+#227
+Stasis~
+Somehow, entering the portal stone has teleported you into stasis,
+suspended in limbo where time comes to a standstill.  Apparently, the
+previous owner of the portal stone must have also accidentally entered the
+portal into this different dimension.  There is no way back out of here.  
+~
+0 4 0
+S
+#228
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D0
+~
+~
+0 0 218
+D1
+~
+~
+0 0 228
+D2
+~
+~
+0 0 215
+D3
+~
+~
+0 0 228
+D4
+~
+~
+0 0 216
+D5
+~
+~
+0 0 229
+S
+#229
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D1
+~
+~
+0 0 228
+D2
+~
+~
+0 0 219
+D3
+~
+~
+0 0 217
+D4
+~
+~
+0 0 230
+D5
+~
+~
+0 0 229
+S
+#230
+A cracked pathway~
+Taking one step at a time amidst the complete darkness and unknown, u
+tread waryingly on a small cracked path that apparently leads to nowhere. 
+The flapping of bats wings, droplets of rainwater falling from the roof of
+the cavern onto the pathway, and strange moaning noises completely surround
+you.  With no where else to go, continuing with the pathway seems the only
+option.  
+~
+0 8193 0
+D0
+~
+~
+0 0 231
+D5
+~
+~
+0 0 221
+S
+#231
+The dungeons~
+Apparently, the dungeons here have been evacuated and is now just a mere
+dilpidated cell.  Even the steel grills that held prisoners captive before,
+have turned rusty and all dusty.  The absence of monsters here could be due
+to the fact that the living conditions are so terribly poor.  Just as you
+are about to return, the roof caves in, trapping you in this room.  
+~
+0 4 0
+S
+#232
+The city square~
+This used to be where the centre of all commercial activities were
+carried out, where people could be often seen rushing along the streets. 
+Now that the eruption has practically wiped out all life here, the city
+square still remains, although a far cry from its original state.  Molten
+cinder and ash have layered the square unevenly, causing the presence of
+many bumps, and the various personal items that the citizens had all also
+all strewn over the place.  
+~
+0 0 1
+D0
+~
+~
+0 0 235
+D1
+~
+~
+0 0 234
+D2
+~
+~
+0 0 213
+D3
+~
+~
+0 0 233
+S
+#233
+Eerie pathway~
+{8The absence of any light source causes the entire street to be dark and
+very unwelcoming to visitors.  {8 In the distance, an owl can be heard
+hooting, and wolves howling, and a pang of uneasiness sets in as if it was
+ominious regarding your outcome here.  {x 
+~
+0 0 1
+D0
+~
+~
+0 0 237
+D1
+~
+~
+0 0 232
+D2
+~
+~
+0 0 238
+D3
+~
+~
+0 0 239
+S
+#234
+Deserted pathway~
+The pathway is deserted and empty.  Not even a single monster or figure
+can be seen at all.  Large boulders and small pools of half-solidified lava
+are splattered across the entire pathway, obstructing your walkway.  There
+are a few abandoned shacks around, but there are completely no signs of life
+at all here.  
+~
+0 0 1
+D1
+~
+~
+0 0 242
+D3
+~
+~
+0 0 232
+S
+#235
+A forsaken path~
+The pathway is littered with even more wandering souls who seek to haunt
+all that enter.  There is no return for each segment of the pathway, and the
+only way to continue is to walk north up the treacherous pathway.  Certain
+warlocks and creatures can be seen guarding their positions with their life,
+protecting what lies behind them at all cost.  
+~
+0 8193 1
+D0
+~
+~
+0 0 245
+D2
+~
+~
+0 0 232
+S
+#237
+A dilapidated shack~
+Formerly one of the wealthier and busier stores within the region, the
+past scene of customers haggling over prices has now become forgotten. 
+Run-down and shabby now, the shack has now been uninhabited for almost
+centuries already.  Piles of rubble and fallen debris block all other exits,
+and south leads back to the street.  
+~
+0 0 1
+D2
+~
+~
+0 0 233
+S
+#238
+A dilapidated shack~
+Formerly one of the wealthier and busier stores within the region, the
+past scene of customers haggling over prices has now become forgotten. 
+Run-down and shabby now, the shack has now been uninhabited for almost
+centuries already.  Piles of rubble and fallen debris block all other exits,
+and north leads back to the street.  
+~
+0 0 1
+D0
+~
+~
+0 0 233
+S
+#239
+Eerie pathway~
+{8The absence of any light source causes the entire street to be dark and
+very unwelcoming to visitors.  {8 In the distance, an owl can be heard
+hooting, and wolves howling, and a pang of uneasiness sets in as if it was
+ominious regarding your outcome here.  {x 
+~
+0 0 1
+D0
+~
+~
+0 0 240
+D1
+~
+~
+0 0 233
+S
+#240
+A dilapidated shack~
+Formerly one of the wealthier and busier stores within the region, the
+past scene of customers haggling over prices has now become forgotten. 
+Run-down and shabby now, the shack has now been uninhabited for almost
+centuries already.  Piles of rubble and fallen debris block all other exits,
+and south leads back to the street.  
+~
+0 0 1
+D2
+~
+~
+0 0 239
+D5
+~
+trapdoor~
+1 0 241
+S
+#241
+Hidden storeroom~
+Rather safely hidden from the chaos and unwanted spirits above, this
+small storeroom has become the makeshift house of a merchant.  The goods are
+neatly displayed alongside the wall, and talismans are stuck all over the
+walls hoping to repel any evil spirits.  
+~
+0 0 0
+D4
+~
+~
+1 0 240
+S
+#242
+Deserted pathway~
+The pathway is deserted and empty.  Not even a single monster or figure
+can be seen at all.  Large boulders and small pools of half-solidified lava
+are splattered across the entire pathway, obstructing your walkway.  There
+are a few abandoned shacks around, but there are completely no signs of life
+at all here.  
+~
+0 0 1
+D1
+~
+~
+0 0 243
+D3
+~
+~
+0 0 234
+S
+#243
+The blacksmith's forge~
+The temperature is much higher than that of the other rooms, noticeable
+because of the fiery blaze that the blacksmith skilfully manipulates to
+forge his weapons.  On the blacksmith's table, many tools of all sorts lie
+in a neat arrangement, ready for the blacksmith's use.  However, for some
+reason or another, the blacksmith's forge exudes a rather sinister feeling
+upon entering, rather unusual for a typical forge...  
+~
+0 8192 0
+D1
+~
+~
+3 243 244
+D3
+~
+~
+3 243 242
+S
+#244
+The forge~
+This is where the blacksmith stores all his completed masterpieces,
+displayed proudly on a weaponsrack for all to see.  There is a large variety
+of weapons, each catered to the usage of different customers.  However, no
+one is allowed into his private room without his permission.  
+~
+0 0 0
+D3
+~
+~
+3 0 243
+S
+#245
+A forsaken path~
+The pathway is littered with even more wandering souls who seek to haunt
+all that enter.  There is no return for each segment of the pathway, and the
+only way to continue is to walk north up the treacherous pathway.  Certain
+warlocks and creatures can be seen guarding their positions with their life,
+protecting what lies behind them at all cost.  
+~
+0 8197 1
+D0
+~
+~
+0 0 246
+S
+#246
+A forsaken path~
+The pathway is littered with even more wandering souls who seek to haunt
+all that enter.  There is no return for each segment of the pathway, and the
+only way to continue is to walk north up the treacherous pathway.  Certain
+warlocks and creatures can be seen guarding their positions with their life,
+protecting what lies behind them at all cost.  
+~
+0 8197 1
+D0
+~
+~
+0 0 247
+S
+#247
+A forsaken path~
+The pathway is littered with even more wandering souls who seek to haunt
+all that enter.  There is no return for each segment of the pathway, and the
+only way to continue is to walk north up the treacherous pathway.  Certain
+warlocks and creatures can be seen guarding their positions with their life,
+protecting what lies behind them at all cost.  
+~
+0 8197 1
+D0
+~
+~
+0 0 248
+S
+#248
+A forsaken path~
+The pathway is littered with even more wandering souls who seek to haunt
+all that enter.  There is no return for each segment of the pathway, and the
+only way to continue is to walk north up the treacherous pathway.  Certain
+warlocks and creatures can be seen guarding their positions with their life,
+protecting what lies behind them at all cost.  
+~
+0 8197 1
+D4
+~
+~
+0 0 249
+S
+#249
+Rocky mountains~
+The mountains here are very rocky, with rocks jutting out of the edges
+awkwardly, making it a difficult and treacherous climb to the top.  What
+lies above though, is still a relative unknown, although legends say that
+the dragons have been guarding a sacred temple above.  The air is slowly
+getting thinner, and harder to breathe.  
+~
+0 0 9
+D4
+~
+~
+0 0 250
+D5
+~
+~
+0 0 248
+S
+#250
+Rocky mountains~
+The mountains here are very rocky, with rocks jutting out of the edges
+awkwardly, making it a difficult and treacherous climb to the top.  What
+lies above though, is still a relative unknown, although legends say that
+the dragons have been guarding a sacred temple above.  The air is slowly
+getting thinner, and harder to breathe.  
+~
+0 0 9
+D4
+~
+~
+0 0 251
+D5
+~
+~
+0 0 249
+S
+#251
+The forgotten temple~
+At the top of the mountain, resides a huge magnificent temple that has
+managed to escape the destruction that befell the village below.  Laid
+painstakingly with marble and granite tiles, the temple is a sight to
+behold.  However, the entrance to the temple has been blocked off by
+boulders and large crevases, leaving no possible way to enter the temple.  
+~
+0 1 0
+D5
+~
+~
+0 0 250
+S
+#0
+
+
+
+#SPECIALS
+M 222 spec_breath_acid
+M 223 spec_breath_fire
+M 224 spec_breath_frost
+M 225 spec_breath_lightning
+M 227 spec_breath_any
+M 229 spec_poison
+M 245 spec_breath_fire
+M 247 spec_breath_acid
+M 248 spec_breath_lightning
+M 251 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 221 0 2
+D 0 221 1 2
+D 0 221 2 2
+D 0 221 3 2
+D 0 240 5 1
+D 0 241 4 1
+D 0 243 1 2
+D 0 243 3 2
+D 0 244 3 2
+O 0 252 0 200
+M 0 204 30 204 4
+M 0 204 30 205 4
+M 0 206 100 206 5
+E 0 206 0 0
+M 0 207 100 207 5
+E 0 207 0 9
+M 0 208 30 208 4
+M 0 204 100 209 3
+M 0 204 30 210 3
+M 0 211 100 211 5
+E 0 212 0 16
+M 0 212 100 212 5
+E 0 211 0 22
+M 0 238 20 213 2
+M 0 237 20 213 2
+M 0 215 20 215 2
+M 0 210 20 216 2
+M 0 215 20 216 2
+M 0 228 20 217 2
+M 0 210 20 217 2
+M 0 228 20 218 2
+M 0 218 20 218 2
+M 0 210 20 219 2
+M 0 215 20 219 2
+M 0 218 20 219 2
+M 0 215 20 220 2
+M 0 210 20 220 2
+M 0 218 20 220 2
+M 0 217 100 221 1
+G 0 217 0
+M 0 222 100 222 1
+E 0 222 0 20
+M 0 223 100 223 1
+E 0 223 0 13
+M 0 224 100 224 1
+E 0 224 0 8
+M 0 225 100 225 1
+E 0 225 0 10
+O 0 226 0 226
+M 0 227 100 227 1
+E 0 227 0 6
+M 0 229 20 228 2
+M 0 228 20 228 2
+M 0 218 20 229 2
+M 0 228 20 229 2
+M 0 229 20 229 2
+M 0 238 20 232 2
+M 0 237 20 232 2
+M 0 238 20 233 3
+M 0 238 100 233 3
+M 0 237 20 234 2
+M 0 238 20 234 2
+M 0 237 20 235 2
+M 0 238 20 235 2
+O 0 237 0 237
+P 0 238 100 237 1
+M 0 237 20 237 3
+O 0 237 0 238
+P 0 238 100 237 1
+M 0 237 20 238 3
+M 0 238 20 239 3
+M 0 237 20 240 3
+M 0 241 100 241 1
+G 0 239 0
+G 0 240 0
+G 0 241 0
+M 0 243 100 243 1
+E 0 242 0 11
+G 0 243 0
+M 0 244 100 243 2
+O 0 244 0 244
+P 0 234 100 244 1
+P 0 235 100 244 1
+P 0 236 100 244 1
+M 0 245 100 245 1
+E 0 245 0 21
+M 0 246 100 246 1
+E 0 246 0 3
+M 0 247 100 247 1
+E 0 247 0 15
+M 0 248 100 248 1
+E 0 248 0 5
+M 0 251 100 251 1
+E 0 250 0 16
+E 0 251 0 17
+S
+
+
+
+#SHOPS
+241 9 0 0 0 0 100 10 1 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

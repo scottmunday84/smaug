@@ -1,0 +1,1728 @@
+#AREADATA
+Name Shadun~
+Builders None~
+VNUMs 20100 20599
+Credits {01 101} Fade    Shadun~
+Security 9
+End
+
+
+
+#MOBILES
+#20100
+shadun shadow guard~
+Shadow Guard~
+A {DShadun {DS{Wh{xa{Wd{xo{Dw{x Guard is standing here.
+~
+This is one of the feared Shadowguards, patrolling the streets of Shadun.
+~
+human~
+AGT DFJVZ H 0 1
+101 120 12d808+3640 12d808+3640 6d20+60 none
+-85 -85 -85 -85
+CDEFHKNW 0 M JS
+stand stand none 1000
+AHMV ABCDEFGHIJK large unknown
+#20101
+shopkeeper~
+the baker~
+The local baker is selling her products here.
+~
+This is the local baker. She is a pretty but depressive looking young woman.
+~
+human~
+AV 0 H 0 0
+101 101 12d573+2775 12d573+2775 5d20+50 none
+-73 -73 -73 -73
+0 CD 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#20102
+shopkeeper~
+the shopkeeper~
+The shopkeeper is standing here.
+~
+This is the shopkeeper running the general store of Shadun. He looks a little bit winded and weary.
+~
+human~
+AB 0 H 0 0
+150 150 13d1166+5190 13d1166+5190 6d25+75 none
+-103 -103 -103 -103
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#20110
+An old woman~
+An old woman~
+An old woman is here, selling potions.
+~
+This old woman tries to earn a living by producing and selling potions here.
+~
+human~
+ABV DFZ H -1000 0
+101 50 30d30+1000 0d0+0 1d1+10 bite
+0 0 0 0
+0 ACD 0 0
+stand stand female 0
+HM ABCDEFGHIJK medium unknown
+F for AV
+#20115
+trainer~
+Trainer~
+A trainer is working here.
+~
+This is one of the local trainers who work here.
+~
+human~
+ABJKVb DFZ 0 -1000 0
+101 30 30d30+1000 0d0+0 10d1+40 thrust
+0 0 0 0
+0 ACD 0 0
+stand stand male 0
+H ABCDEFGHK medium unknown
+F for AMV
+F par IJ
+#20116
+priest~
+Priest~
+A priest worshipping an unknown god is here.
+~
+This priest works as a healer for the local population and adventurers.
+Type 'heal' to learn more about his services.
+~
+human~
+ABVa DFZ H -1000 0
+101 30 30d30+1000 0d0+0 10d1+40 bite
+0 0 0 0
+0 ACD 0 0
+stand stand male 0
+0 AJ medium unknown
+F for AHMV
+F par BCDEFGHIK
+#20119
+huge dragon old~
+A huge dragon~
+A huge {RD{rr{Ya{rg{Ro{rn {Ro{Yf {RO{Yl{rd{x is here.
+~
+An old, huge dragon is here.
+~
+dragon~
+ABT JT DH 0 0
+150 150 13d1166+5190 13d1166+5190 40d40+300 flame
+-103 -103 -103 -103
+CEHKNV 0 BEH FI
+stand stand none 0
+AHZ ACDEFGHIJKPQUVX medium unknown
+#20120
+questmaster~
+the questmaster~
+The questmaster, a dirty old fellow, is here.
+~
+The questmaster, a dirty old fellow, is here.
+~
+human~
+ABV 0 0 0 0
+150 150 13d1166+5190 13d1166+5190 6d25+75 none
+-103 -103 -103 -103
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#20111
+potion sanctuary~
+{WA potion of {Cs{ca{Dnctua{cr{Cy{x~
+A potion of sanctuary lies here.~
+unknown~
+potion 0 AO
+101 'sanctuary' '' '' ''
+20 1 5000 P
+#20112
+potion cleansing~
+{WA potion of {Dc{xl{We{Da{Wn{xs{Wi{Dn{xg{x~
+A potion of cleansing lies here.~
+unknown~
+potion 0 AO
+101 'cure blindness' 'cure disease' 'cure poison' ''
+90 1 4000 P
+#20113
+potion haste~
+{WA potion of {Dh{Ca{cs{Ct{De{x~
+A potion of haste lies here.~
+unknown~
+potion 0 AO
+101 'haste' '' '' ''
+20 1 4000 P
+#20114
+potion regeneration~
+{WA potion of {Rr{Ye{Wg{ye{rn{We{yr{ta{Wt{yi{ro{Wn{x~
+A potion of regeneration lies here.~
+unknown~
+potion 0 AO
+101 'cure wounds' 'cure wounds' 'cure wounds' 'cure wounds'
+91 1 10000 P
+#20115
+potion cure blindness~
+{WA potion of cure {Yb{yl{Dindne{ys{Ys{x~
+A potion which cures blindness lies here.~
+unknown~
+potion 0 AO
+101 'cure blindness' '' '' ''
+1 1 3000 P
+#20116
+potion remove curse~
+{WA potion of {Rr{re{Wm{xo{Dve c{xu{Wr{rs{Re{x~
+A potion which removes curses lies here.~
+unknown~
+potion 0 AO
+101 'remove curse' '' '' ''
+90 1 4000 P
+#20117
+portal plains~
+a strange portal~
+A strange portal is leading to the {GP{gl{Ga{gi{Gn{gs{x.~
+unknown~
+portal AO 0
+0 0 0 300 0
+0 0 0 P
+#20118
+strange pool~
+{YS{yt{Cr{ca{Gn{gg{We {DP{xo{Wo{Yl{x~
+A {YS{yt{Cr{ca{Gn{gg{We {DP{xo{Wo{Yl{x bubbles here.~
+unknown~
+furniture O 0
+1000 30000 CFIL 2000 2000
+0 0 0 P
+#20119
+portal high tower sorcery~
+a strange portal~
+A strange portal is leading to the {DHigh Tower of {CS{co{Drce{cr{Cy{x.~
+unknown~
+portal AO 0
+0 0 0 1312 0
+0 0 0 P
+#20120
+crystalline fountain~
+{CC{cr{Wy{xs{Dtal{Wl{xi{cn{Ce{x {WF{xo{Dunta{xi{Wn{x~
+A {Cc{cr{Wy{xs{Dtal{Wl{xi{cn{Ce{x {Wf{xo{Dunta{xi{Wn{x is here, filled with sparkling water.{x~
+unknown~
+fountain O 0
+0 0 'water' 0 0
+0 0 0 P
+#20121
+portal elven academy~
+a shimmering portal~
+A shimmering portal is leading to the {RE{rl{Gv{ge{Wn {WA{Dc{xa{gd{Ge{rm{Ry{x.~
+unknown~
+portal AO 0
+0 0 0 100 0
+0 0 0 P
+#20122
+potion healing~
+{WA potion of {Rh{re{Wa{Rl{ring{x~
+A potion of healing is lying here.~
+unknown~
+potion 0 AO
+101 'heal' '' '' ''
+20 1 5000 P
+#20123
+potion of restore mana~
+{WA potion of {Dr{Ce{cs{Dtore m{Ra{rn{Da{x~
+A potion of restore mana is lying here.~
+unknown~
+potion 0 AO
+101 'restore mana' 'restore mana' '' ''
+20 1 2500 P
+#20124
+ancient portal garden eden~
+an ancient portal~
+An ancient portal is leading to the {rGa{Rr{rde{Rn {Wof {yE{Yd{yen{x.~
+unknown~
+portal AO 0
+0 0 0 400 0
+0 0 0 P
+#20125
+fresh pot pie~
+{YF{yr{Ye{ys{Yh {MP{mo{Mt {CP{ci{Ce{x~
+A fresh pot pie is lying here.~
+unknown~
+food 0 A
+24 12 0 0 0
+0 1 150 P
+#20126
+chocolate chip cookie~
+{WCh{yo{Yc{Wo{xl{Wa{Yt{We {WCh{yi{Yp {WCo{yo{Yk{Wi{xe{x~
+A chocolate chip cookie is lying here.~
+unknown~
+food 0 A
+12 6 0 0 0
+0 0 75 P
+#20127
+fruit tart~
+{WA {Gf{gr{Ru{ri{Yt {Ct{Wa{xr{Rt{x~
+A standard object is lying here.~
+unknown~
+food 0 A
+24 12 0 0 0
+0 1 225 P
+#20128
+shimmering portal shire~
+a shimmering portal~
+A shimmering portal is here, leading to the {GS{ghi{Gr{ge{x.{x~
+unknown~
+portal AO 0
+0 0 0 1100 0
+0 0 0 P
+#20129
+dusty portal new ofcol~
+a dusty portal~
+A {Dd{xu{Ds{xt{Dy{x portal is leading to {YN{ye{Dw O{yf{Yc{Wo{Dl{x.~
+unknown~
+portal AO 0
+0 0 0 601 0
+0 0 0 P
+#20130
+potion true sight~
+{WA potion of {Ct{Wr{Du{Ce {Cs{Wi{Dg{ch{Ct{x~
+A potion of true sight is lying here.~
+unknown~
+potion 0 AO
+101 'true sight' '' '' ''
+1 1 4000 P
+#20131
+tiny portal gnome village~
+a tiny portal~
+A tiny portal is leading to the {YG{Dn{xo{Wm{Ye {YV{Di{xl{Wl{Ya{Dg{xe.~
+unknown~
+portal AO 0
+0 0 0 1501 0
+0 0 0 P
+#20132
+tasty muffin~
+{WA {Wt{Ya{Rs{rt{Yy {Wm{xu{rf{Rf{yi{Yn{x~
+A tasty muffin is lying here.~
+unknown~
+food 0 A
+12 6 0 0 0
+0 1 75 P
+#20133
+pizza~
+{YP{Wi{GZ{Yz{RA{x~
+Some pizza is lying here.~
+unknown~
+food 0 A
+24 12 0 0 0
+0 1 250 P
+#20134
+crazy looking portal insane asylum~
+a crazy looking portal~
+A {Cc{RR{ra{GZ{gy{x looking portal leads to the {WI{Rn{rsa{Rn{We {WA{rs{Ry{rlu{Wm{x.~
+unknown~
+portal AO 0
+0 0 0 700 0
+0 0 0 P
+#20135
+necromancer's cloak~
+{DT{Wh{xe {DNe{Wcr{xo{Dma{xn{Wce{Dr's {DC{Wl{xo{Da{xk~
+{DT{Wh{xe {DNe{Wcr{xo{Dma{xn{Wce{Dr's {DC{Wl{xo{Da{xk is lying here in a heap.~
+unknown~
+armor Ia AK
+39 39 39 39 0
+101 60 100000 P
+A
+12 450
+A
+13 450
+A
+4 6
+A
+18 45
+A
+19 45
+A
+20 -5
+#20136
+arms hydra~
+{YA{yr{Cm{cs {Yo{yf {Ca {cH{Yy{yd{Cr{ca{x~
+The {YA{yr{Cm{cs {Yo{yf {Ca {cH{Yy{yd{Cr{ca{x are lying here.~
+unknown~
+armor ABa AI
+41 41 41 41 0
+101 40 100000 P
+A
+13 600
+A
+1 6
+A
+19 50
+A
+18 50
+A
+17 -70
+#20137
+ornate dagger~
+{RA{rn {Wo{xrnat{We {Rd{ragg{re{Rr{x~
+{RA{rn {Wo{xrnat{We {Rd{ragg{re{Rr{x is lying here.~
+unknown~
+weapon a AN
+dagger 9 24 sting ADI
+101 70 100000 P
+A
+18 55
+A
+19 55
+A
+13 150
+#20138
+shimmering portal forbidden city~
+a shimmering portal~
+A {Dh{xi{Wd{xd{De{xn portal leads to the {DForbidden City{x.~
+unknown~
+portal AO 0
+0 0 0 850 0
+0 0 0 P
+#20139
+overgrown portal forest m'nram~
+an overgrown portal~
+An {Go{gv{De{gr{Gg{gr{Do{gw{Gn{x portal is leading to the {GF{go{Yr{yes{Yt {Go{yf {GM{g'{Yn{yra{Ym{x.~
+unknown~
+portal AO 0
+0 0 0 550 0
+0 0 0 P
+#20140
+shimmering portal ancient ruins~
+a shimmering portal~
+A {Cs{ch{Ri{rm{Cm{ce{Cr{ci{Rn{rg{x portal is leading to the {RA{rnci{Re{Cn{ct {CR{cu{Ci{Rn{rs{x.~
+unknown~
+portal AO 0
+0 0 0 200 0
+0 0 0 P
+#20141
+portal pirate ship~
+a wavy portal~
+A {Ww{Ca{Wv{Cy{x portal is leading to the {WP{xi{Cr{ca{Wt{xe {CS{ch{Wi{xp.~
+unknown~
+portal AO 0
+0 0 0 16000 0
+0 0 0 P
+#20142
+wrecked portal tempest~
+a wrecked portal~
+A {Dw{xr{We{xc{Dk{xe{Wd{x portal is leading to the {yT{re{Rmpe{rs{yt{x.~
+unknown~
+portal AO 0
+0 0 0 2400 0
+0 0 0 P
+#20143
+potion flying~
+{WA potion of {gf{Gl{Wyi{Gn{gg{x~
+A potion of flying is lying here.~
+unknown~
+potion 0 AO
+101 'fly' '' '' ''
+1 1 2000 P
+#20144
+potion invisibility~
+{WA potion of {cin{Cvi{Ds{xi{Wb{Di{Cli{cty{x~
+A potion of invisibility is lying here.~
+unknown~
+potion 0 AO
+101 'invisibility' '' '' ''
+1 1 2000 P
+#20145
+dark portal tomb shar'kan~
+a dark portal~
+{xA {Dd{xa{Dr{xk portal leads to the {DT{Wo{xmb of Shar'k{Wa{Dn{x.~
+unknown~
+portal AO 0
+0 0 0 2500 0
+0 0 0 P
+#20146
+sandy portal desert~
+a sandy portal~
+A {Ys{yan{Yd{yy{x portal is leading to the {YD{xe{ys{Ye{xr{yt{x.~
+unknown~
+portal AO 0
+0 0 0 4200 0
+0 0 0 P
+#20147
+floating portal olympus~
+a floating portal~
+A {Cf{cl{Co{ca{Ct{ci{Cn{cg{x portal leads to {WO{xl{cy{Cmp{xu{Ws{x.~
+unknown~
+portal AO 0
+0 0 0 901 0
+0 0 0 P
+#20148
+dark portal catacombs~
+a dark portal~
+A {Ddark{x portal leads to the {DCa{Rt{raco{Dmbs{x.~
+unknown~
+portal AO 0
+0 0 0 2001 0
+0 0 0 P
+#20149
+green portal marshes~
+a green portal~
+A {gg{Gree{gn{x portal is leading to the {GM{Ya{yr{gs{yh{Ye{Gs{x.~
+unknown~
+portal AO 0
+0 0 0 8301 0
+0 0 0 P
+#20150
+mostly harmless looking portal~
+a harmless portal~
+A {Ym{yo{Ws{xt{Yl{yy {Dh{Wa{xr{Dmle{xs{Ws{x looking portal is leading somewhere.~
+unknown~
+portal AO 0
+0 0 0 20001 0
+0 0 0 P
+#20151
+seablue sea-blue portal atlantis~
+a sea-blue portal~
+A {Cs{ce{Ca{D-{Wb{cl{Cu{xe portal is leading to {DAt{cl{Ca{Dnt{Ci{cs{x.~
+unknown~
+portal AO 0
+0 0 0 2600 0
+0 0 0 P
+#20152
+glowing portal holy grove~
+a glowing portal~
+A {Wg{xl{Yo{yw{Wi{xn{Yg{x portal is leading to the {rH{Rol{ry {yG{Yrov{ye{x.~
+unknown~
+portal AO 0
+0 0 0 8900 0
+0 0 0 P
+#20153
+potion refresh~
+{WA potion of {cr{xe{Cf{xr{We{xs{ch{x~
+A potion of refresh is lying here.~
+unknown~
+potion 0 A
+101 'refresh' '' '' ''
+1 1 2500 P
+#20200
+ancient artefact~
+{GA{gn{Wci{xe{gn{Gt {GA{gr{Wte{xfa{gc{Gt{x~
+An {GA{gn{Wci{xe{gn{Gt {GA{gr{Wte{xfa{gc{Gt{x is lying here.~
+unknown~
+treasure T A
+0 0 0 0 0
+0 0 0 P
+#20201
+golden crown~
+{YG{yo{Wld{ye{Yn {YC{yr{Wo{xw{Yn{x~
+A {YG{yo{Wld{ye{Yn {YC{yr{Wo{xw{Yn{x is lying here.~
+unknown~
+treasure T A
+0 0 0 0 0
+0 0 0 P
+#20202
+blood stone~
+{RB{rl{Wo{xo{Rd {RS{rt{Wo{xn{Re{x~
+A {RB{rl{Wo{xo{Rd {RS{rt{Wo{xn{Re{x is lying here.~
+unknown~
+treasure T A
+0 0 0 0 0
+0 0 0 P
+#20203
+robe shadows~
+{DR{xo{Wb{De {Do{Wf {WS{Dh{xa{Wd{Do{xw{Ds{x~
+A {DR{xo{Wb{De {Do{Wf {WS{Dh{xa{Wd{Do{xw{Ds{x is lying here.~
+unknown~
+treasure T A
+0 0 0 0 0
+0 0 0 P
+#20204
+heart ice~
+{CH{ce{Wa{xr{Ct {Co{Wf {CI{cc{We{x~
+A {CH{ce{Wa{xr{Ct {Co{Wf {CI{cc{We{x is lying here.~
+unknown~
+treasure T A
+0 0 0 0 0
+0 0 0 P
+#20205
+shimmering portal astral plane~
+a shimmering portal~
+A {Ys{yh{Wi{xm{Ym{ye{Wr{xi{Yn{yg{x portal leads to the {DA{Cs{ct{Dr{xa{Wl {DP{cl{Ca{xn{We{x.~
+unknown~
+portal AO 0
+0 0 0 7705 0
+0 0 0 P
+#20206
+orb of levitation~
+{DO{Yr{xb {Do{xf {YL{ce{Cv{ri{Rta{rt{Ci{co{Yn{x~
+The {DO{Yr{xb {Do{xf {YL{ce{Cv{ri{Rta{rt{Ci{co{Yn{x is floating here.~
+unknown~
+light ABIa A
+0 0 999 0 0
+101 30 100000 P
+A
+20 -6
+A
+18 45
+A
+19 45
+A
+13 550
+A
+3 4
+A
+4 4
+S 'fly'
+#20207
+divine aura~
+{mD{Mi{Dv{xi{Mn{me {mA{Du{xr{Ma{x~
+A {mD{Mi{Dv{xi{Mn{me {mA{Du{xr{Ma{x is floating here.~
+unknown~
+armor Aa AQ
+40 40 40 40 0
+101 50 100000 P
+A
+20 -4
+A
+19 40
+A
+18 40
+A
+13 500
+A
+12 500
+A
+17 -60
+#20208
+ray light~
+{YR{ya{Wy {Dof Li{Wg{yh{Yt{x~
+A {YR{ya{Wy {Dof Li{Wg{yh{Yt{x is flashing around the room.~
+unknown~
+weapon Aa AN
+sword 9 24 ray CDJ
+101 70 100000 P
+A
+1 6
+A
+18 25
+A
+19 25
+A
+20 -1
+A
+13 150
+#20209
+glowing helmet~
+{WG{xl{yo{Yw{yi{xn{Wg {YH{ye{Wl{xm{ye{Yt{x~
+The {WG{xl{yo{Yw{yi{xn{Wg {YH{ye{Wl{xm{ye{Yt{x is lying here.~
+unknown~
+armor Aa AE
+35 35 35 35 0
+101 40 100000 P
+A
+13 400
+A
+19 40
+A
+18 40
+A
+20 -3
+A
+4 6
+#20210
+despairing soul~
+{cD{Ce{rs{Rp{Da{Wi{Rr{ri{Cn{cg {CS{ro{Du{cl{x~
+A {cD{Ce{rs{Rp{Da{Wi{Rr{ri{Cn{cg {CS{ro{Du{cl{x is floating here.~
+unknown~
+armor Ia AU
+42 42 42 42 0
+101 40 100000 P
+A
+13 400
+A
+20 -4
+A
+17 -50
+A
+19 35
+A
+18 35
+#20211
+dwarven visor~
+{RD{rw{Ya{yrv{re{Rn {RV{ri{Ys{yo{Rr{x~
+A {RD{rw{Ya{yrv{re{Rn {RV{ri{Ys{yo{Rr{x is lying here.~
+unknown~
+armor a AT
+40 40 40 40 0
+101 35 100000 P
+A
+1 6
+A
+5 6
+A
+13 550
+A
+19 55
+A
+18 55
+#20212
+deathmask hardened steel~
+{DH{Wa{xr{rd{Re{Dn{xe{Wd {DS{ct{Ce{De{Wl {WD{xe{Da{Wt{ch{Cm{Da{rs{Rk{x~
+The {DH{Wa{xr{rd{Re{Dn{xe{Wd {DS{ct{Ce{De{Wl {WD{xe{Da{Wt{ch{Cm{Da{rs{Rk{x is resting on the ground here.~
+unknown~
+armor Ia AR
+39 39 39 39 0
+101 60 100000 P
+A
+13 400
+A
+12 400
+A
+20 -5
+A
+17 -50
+A
+19 40
+A
+18 40
+A
+2 6
+#20213
+ornate silk cloak~
+{WO{xr{Dn{ya{Wt{De {YS{xi{Dl{yk {WC{xl{Do{ya{Yk{x~
+An {WO{xr{Dn{ya{Wt{De {YS{xi{Dl{yk {WC{xl{Do{ya{Yk{x is resting on the ground here.~
+unknown~
+armor AIa AC
+44 44 44 44 0
+101 55 100000 P
+A
+3 6
+A
+19 40
+A
+18 40
+A
+12 575
+A
+13 575
+A
+20 -5
+#20214
+translucent patch~
+{cT{Cr{Wa{xn{Ds{Wl{Du{xc{We{Cn{ct{x {cP{Ca{Wt{Cc{ch{x~
+A {cT{Cr{Wa{xn{Ds{Wl{Du{xc{We{Cn{ct{x {cP{Ca{Wt{Cc{ch{x is lying here.~
+unknown~
+armor a AS
+35 35 35 35 0
+101 50 100000 P
+S 'haste'
+A
+18 40
+A
+19 40
+A
+20 -2
+A
+13 400
+A
+17 -70
+#20215
+chainmail gods~
+{xT{Wh{De Ch{Ya{yi{xn{Wma{Wi{xl {yo{Yf {DGod{Ws{x~
+{xT{Wh{De Ch{Ya{yi{xn{Wma{Wi{xl {yo{Yf {DGod{Ws{x is resting on the ground here.~
+unknown~
+armor AIa AD
+45 45 45 45 0
+101 100 100000 P
+S 'sanctuary'
+A
+20 -6
+A
+5 6
+A
+18 60
+A
+19 60
+A
+13 750
+#20216
+huge portal valley titans~
+a huge portal~
+A huge portal leads to the {GV{ga{Wl{xl{Ge{gy {Wo{xf {Gt{gh{We {GT{gi{Wt{xa{Gn{gs{x.~
+unknown~
+portal AO 0
+0 0 0 800 0
+0 0 0 P
+#20217
+glittering portal waterfalls~
+a glittering portal~
+A {Wg{xl{Yi{yt{Wt{xe{Yr{yi{Wn{xg{x portal is leading to the {CW{ca{Wt{xe{Br{bf{xa{Wl{Cl{cs{x.~
+unknown~
+portal AO 0
+0 0 0 1050 0
+0 0 0 P
+#20218
+shimmering portal avalanche~
+a shimmering portal~
+A {Ws{xh{Wi{xm{Wm{xe{Wr{xi{Wn{xg portal is leading to the {CA{cv{Ca{cl{Ca{cn{Cc{ch{Ce{x.~
+unknown~
+portal AO 0
+0 0 0 1000 0
+0 0 0 P
+#20219
+donation pit~
+the donation pit~
+The donation pit of {DShadun{x is here.~
+unknown~
+pit O 0
+10000 0 0 10000 0
+0 0 0 P
+#20220
+cash dispenser~
+{YC{Wa{Ds{xh {DD{Wi{Ys{yp{We{xn{Dse{Wr{x~
+An automatic {YC{Wa{Ds{xh {DD{Wi{Ys{yp{We{xn{Dse{Wr{x is here.~
+unknown~
+trash O 0
+0 0 0 0 0
+0 0 0 P
+#20221
+silver plated ruby bracer~
+{xA {xs{yi{Wl{Dv{xer-{xp{Wl{Da{xt{We{xd {Rr{rub{Ry {cb{Cr{Dac{Ce{cr{x~
+{xA {xs{yi{Wl{Dv{xer-{xp{Wl{Da{xt{We{xd {Rr{rub{Ry {cb{Cr{Dac{Ce{cr{x is lying here.~
+unknown~
+armor Aa AM
+41 41 41 41 0
+101 30 100000 P
+A
+13 450
+A
+19 45
+A
+18 45
+A
+17 -50
+A
+20 -4
+A
+1 6
+#20222
+runed wooden spear~
+{yR{Du{rn{Re{yd {YW{yoo{Yd{ye{yn {WS{xp{We{xa{Wr{x~
+The {yR{Du{rn{Re{yd {YW{yoo{Yd{ye{yn {WS{xp{We{xa{Wr{x is lying here.~
+unknown~
+weapon a AN
+staff 9 24 sliver EHI
+101 60 100000 P
+A
+13 250
+A
+19 25
+A
+18 25
+A
+2 4
+#20223
+clan token~
+{DC{Wl{xa{Dn {DTo{Wk{xe{Dn{x~
+A {DC{Wl{xa{Dn {DTo{Wk{xe{Dn{x is lying here.~
+unknown~
+treasure OTY A
+0 0 0 0 0
+0 3 100000 P
+#20224
+restring token~
+{DRe{Wst{xri{Dng {DTo{Wk{xe{Dn{x~
+A {DRe{Wst{xri{Dng {DTo{Wk{xe{Dn{x is lying here.~
+unknown~
+treasure OTY A
+0 0 0 0 0
+0 3 100000 P
+#20225
+the bone mace~
+{WT{yh{Ye {xB{Wo{yn{Ye {xM{Wa{yc{Ye{x~
+{WT{yh{Ye {xB{Wo{yn{Ye {xM{Wa{yc{Ye{x is lying here.~
+unknown~
+weapon a AN
+mace 9 24 crush DHL
+101 70 100000 P
+A
+2 4
+A
+20 -3
+A
+18 45
+A
+19 45
+A
+13 300
+#20226
+gloves veracity~
+{cG{xl{Wov{xe{cs {xof {WV{xe{cr{Wa{xc{Wi{ct{Wy{x~
+{xThe {cG{xl{Wov{xe{cs {xof {WV{xe{cr{Wa{xc{Wi{ct{Wy{x are lying here.~
+unknown~
+armor a AH
+35 35 35 35 0
+101 40 100000 P
+A
+19 50
+A
+18 50
+A
+13 400
+A
+20 -4
+S 'farsight'
+A
+3 4
+#20227
+plain silver ring~
+{yP{xl{Wa{xi{yn {yS{xi{Wl{Dv{xe{yr {yR{xi{Wn{yg{x~
+A {yP{xl{Wa{xi{yn {yS{xi{Wl{Dv{xe{yr {yR{xi{Wn{yg{x is lying here.~
+unknown~
+armor a AB
+30 30 30 30 0
+101 30 100000 P
+A
+20 -6
+A
+17 -30
+A
+4 4
+A
+19 40
+A
+18 40
+A
+13 400
+#20228
+wrought steel ring~
+{gW{Gr{Wo{Du{gg{Gh{xt {gS{Gt{We{De{gl {gR{Gi{Wn{gg{x~
+A {gW{Gr{Wo{Du{gg{Gh{xt {gS{Gt{We{De{gl {gR{Gi{Wn{gg{x is lying here.~
+unknown~
+armor a AB
+33 33 33 33 0
+101 40 100000 P
+A
+19 55
+A
+18 55
+A
+13 500
+A
+1 4
+A
+5 4
+#20250
+shrunken head~
+a shrunken head~
+A shrunken head is lying here.~
+unknown~
+treasure 0 AO
+0 0 0 0 0
+0 20 0 P
+#20251
+glowing feather~
+a {Wg{xl{Yo{yw{Wi{xn{Yg{x feather~
+A {Wg{xl{Yo{yw{Wi{xn{Yg{x feather is lying here.~
+unknown~
+component AY A
+0 0 0 0 0
+101 1 10000 P
+#20252
+small bag~
+{xA {Cs{cmall {Cb{cag{x~
+{xA {Cs{cmall {Cb{cag{x is lying here.~
+unknown~
+container Y AO
+100 A 0 100 20
+1 4 500 P
+#20253
+small torch~
+{xA small {Yt{yo{Wr{yc{Yh{x~
+{xA small {Yt{yo{Wr{yc{Yh{x is lying here.~
+unknown~
+light AY A
+0 0 999 0 0
+1 10 250 P
+#20254
+forged weapon~
+forged weapon~
+A forged weapon is lying here.~
+unknown~
+weapon a AN
+exotic 9 24 none 0
+101 90 100000 P
+A
+13 150
+A
+19 25
+A
+18 25
+A
+20 -1
+#20255
+huge anvil~
+a huge anvil~
+A huge anvil is here.~
+unknown~
+trash O 0
+0 0 0 0 0
+0 0 0 P
+#20256
+polished stone~
+a polished stone~
+A polished stone is lying here.~
+unknown~
+component Yd A
+0 0 0 0 0
+50 1 500 P
+#0
+
+
+
+#ROOMS
+#20100
+The Temple Square~
+Dark shadows lurk everywhere.  The air is damp and makes breathing
+difficult.  A faint light flickers to the north, probably one of the torches
+in the inner sanctum of the temple.  A shop selling potions is to the east. 
+To the south is another square, the local market square.  A huge building to
+the west is where most of the local trainers and guildmasters offer their
+service.  
+~
+0 0 1
+D0
+~
+~
+0 0 20101
+D1
+~
+~
+0 0 20108
+D2
+~
+~
+0 0 20109
+D3
+~
+~
+0 0 20102
+S
+#20101
+The Inner Sanctum~
+Beside some flickering torches and a huge slab of stone, the inner
+sanctum of the temple looks pretty empty.  The shadows are not all that dark
+in here, although the mood is still very oppressive.  Shadun is no place for
+the weak at heart.  
+~
+0 1028 0
+D2
+~
+~
+0 0 20100
+D4
+~
+~
+0 0 20112
+S
+#20102
+Hall of Guilds~
+This is a corridor in the hall of guilds.  The walls are smoothly
+polished and the air smells almost fresh and clean.  Brightly blazing lights
+are hanging from the ceiling.  This must be the home of the local
+guildmasters and trainers.  An exit to the temple square is east.  
+~
+0 0 0
+D0
+~
+~
+0 0 20103
+D1
+~
+~
+0 0 20100
+D2
+~
+~
+0 0 20104
+D3
+~
+~
+0 0 20106
+S
+#20103
+Hall of Guilds~
+This is a corridor in the hall of guilds.  The walls are smoothly
+polished and the air smells almost fresh and clean.  Brightly blazing lights
+are hanging from the ceiling.  This must be the home of the local
+guildmasters and trainers.  
+~
+0 0 0
+D2
+~
+~
+0 0 20102
+D3
+~
+~
+0 0 20105
+S
+#20104
+Hall of Guilds~
+This is a corridor in the hall of guilds.  The walls are smoothly
+polished and the air smells almost fresh and clean.  Brightly blazing lights
+are hanging from the ceiling.  This must be the home of the local
+guildmasters and trainers.  
+~
+0 0 0
+D0
+~
+~
+0 0 20102
+D3
+~
+~
+0 0 20107
+S
+#20105
+Training Room~
+One of the trainers works in this simple room.  Some torches are fixed to
+the plain walls.  A small window in the west wall gives a view on the gloomy
+landscape surrounding Shadun.  It's pretty cold in here but the trainer
+looks as if he would make his disciples sweat anyway.  
+~
+0 1024 0
+D1
+~
+~
+0 0 20103
+S
+#20106
+Training Room~
+One of the trainers works in this simple room.  Some torches are fixed to
+the plain walls.  A small window in the west wall gives a view on the gloomy
+landscape surrounding Shadun.  It's pretty cold in here but the trainer
+looks as if he would make his disciples sweat anyway.  
+~
+0 1024 0
+D1
+~
+~
+0 0 20102
+S
+#20107
+Training Room~
+One of the trainers works in this simple room.  Some torches are fixed to
+the plain walls.  A small window in the west wall gives a view on the gloomy
+landscape surrounding Shadun.  It's pretty cold in here but the trainer
+looks as if he would make his disciples sweat anyway.  
+~
+0 1024 0
+D1
+~
+~
+0 0 20104
+S
+#20108
+The Potion Shop~
+An old woman, pretty much looking like a {Dwitch{x, at least with some
+imagination is selling potions here.  The room is very dark and it's hard to
+make out whether the potions are what the old hag claims them to be.  Those
+strange {Cflasks{x could probably contain anything, from the deadliest
+{Yvenom{x to the most potent {Rhealing{x potions.  
+~
+0 0 0
+D3
+~
+~
+0 0 20100
+D5
+~
+~
+0 0 20121
+S
+#20109
+The Market Square~
+The shadows seem to grow darker here.  It's hard to distinguish between
+harmless peddlers praising their wares and deadly assassins waiting for
+prey.  Such is Shadun, where hope and despair coexist and struggle in the
+{Dshadows{x.  The temple square is to the north, while a gate to the castle
+of Shadun is to the south.  
+~
+0 4 1
+D0
+~
+~
+0 0 20100
+D1
+~
+~
+0 0 20122
+D2
+~
+~
+0 0 20110
+D3
+~
+~
+0 0 20116
+S
+#20110
+Below the Castle~
+You stand right below the castle of {DShadun{x, which towers above you. 
+With its many turrets and high walls built of a strangely light-absorbing,
+dull-looking material, it looks quite impressive.  Although one might add
+that the days of past glory are over since the shadows grew darker and most
+of the local population left the castle and the surrounding lands.  Such is
+the fate of {DShadun{x.  
+~
+0 0 1
+D0
+~
+~
+0 0 20109
+D4
+~
+~
+0 0 20113
+S
+#20111
+The Arena~
+This is the arena, a place where people come to test their combat prowess
+against their worthy opponents.  The arena is nothing but a huge steel cage
+with no apparent exits.  This is where you shall meet your {Dfate{x!  
+~
+0 17301508 1
+S
+#20112
+The Sparring Place~
+This is the local sparring place, a place both young and old visit to
+test their fighting skills against friend and foe.  Usually the fights end
+with one of the combatants fleeing down to the safety of the Inner Sanctum,
+but rumour has it that many a hero who thought too much of himself died a
+sudden death here, spilling {Rb{rl{Ro{ro{Rd{x and entrails over the polished
+marble floor.  
+~
+0 4 0
+D5
+~
+~
+0 0 20101
+S
+#20113
+The Castle of Shadun~
+This is the mighty castle of {DShadun{x, or what is left of it.  A huge
+hall stretches to the north, other halls and chambers lying east and west. 
+The floor is covered by ornate carpets and the walls are smoothly polished. 
+Quite contrary to the oppressive mood outside the castle, these old halls
+look quite friendly.  Huge chandeliers are hanging from the ceiling and
+provide a warm and bright light.  
+~
+0 0 0
+D1
+~
+~
+0 0 20115
+D2
+~
+~
+0 0 20118
+D3
+~
+~
+0 0 20114
+D5
+~
+~
+0 0 20110
+S
+#20114
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D1
+~
+~
+0 0 20113
+S
+#20115
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D3
+~
+~
+0 0 20113
+S
+#20116
+The Bakery~
+This is the local bakery of {DShadun{x.  Your heart lifts as you sense
+the smell of fresh bread...  And lo and behold: some {Yf{yr{Ye{ys{Yh{x
+{Mp{mo{Mt {Cp{ci{Ce{x is sold here, too.  You can't wait to try and taste
+all the goodies you see.  Unfortunately the prices are rather high, no
+wonder if you consider the current shortage.  Luxury items certainly have
+their price.  Although you are all too willing to pay any price for some of
+those cakes and cookies.  Ah, what a mouth-watering smell!  
+~
+0 0 0
+D1
+~
+~
+0 0 20109
+S
+#20117
+The Bank~
+The is the local bank of {DShadun{x.  People come here to deposit and
+withdraw money or to simply check the balance of their account.  Not that
+they have much money anyway.  
+~
+0 0 0
+D2
+~
+~
+0 0 20122
+S
+#20118
+The Castle of Shadun~
+This is the mighty castle of {DShadun{x, or what is left of it.  A huge
+hall stretches to the north, other halls and chambers lying east and west. 
+The floor is covered by ornate carpets and the walls are smoothly polished. 
+Quite contrary to the oppressive mood outside the castle, these old halls
+look quite friendly.  Huge chandeliers are hanging from the ceiling and
+provide a warm and bright light.  
+~
+0 0 0
+D0
+~
+~
+0 0 20113
+D1
+~
+~
+0 0 20120
+D2
+~
+~
+0 0 20125
+D3
+~
+~
+0 0 20119
+S
+#20119
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D1
+~
+~
+0 0 20118
+S
+#20120
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D3
+~
+~
+0 0 20118
+S
+#20121
+Shadowy cellar~
+This is the cellar of the potion shop.  Shadows waver in the light of the
+few torches fixed to the rough stone walls.  The floor is bare rock and the
+air is damp yet cold.  A disgusting smell lingers in the air and something
+is moving in the corner.  Rats probably.  
+~
+0 0 0
+D4
+~
+~
+0 0 20108
+S
+#20122
+Main Street~
+This is one of the small streets running through {DShadun{x.  Small
+lanterns hanging on high poles provide a ghostly light.  The air tastes
+metallic and beads of a sickly {Gg{gr{Ge{ge{Gn{x mass cover the floor.  The
+forms of the shadows waver and it's hard to see what is waiting around the
+next corner.  
+~
+0 0 1
+D0
+~
+~
+0 0 20117
+D1
+~
+~
+0 0 20123
+D2
+~
+~
+0 0 20128
+D3
+~
+~
+0 0 20109
+S
+#20123
+Main Street~
+This is one of the small streets running through {DShadun{x.  Small
+lanterns hanging on high poles provide a ghostly light.  The air tastes
+metallic and beads of a sickly {Gg{gr{Ge{ge{Gn{x mass cover the floor.  The
+forms of the shadows waver and it's hard to see what is waiting around the
+next corner.  
+~
+0 0 1
+D0
+~
+~
+0 0 20133
+D1
+~
+~
+0 0 20124
+D2
+~
+~
+0 0 20132
+D3
+~
+~
+0 0 20122
+S
+#20124
+Garbage & Co.~
+This is where the people of Shadun come to get rid of old, unused or
+otherwisely unwanted stuff.  Some beggars are sniffing around, searching for
+hidden treasures or maybe a place to sleep.  
+~
+0 0 1
+D3
+~
+~
+0 0 20123
+S
+#20125
+The Castle of Shadun~
+This is the mighty castle of {DShadun{x, or what is left of it.  A huge
+hall stretches to the north, other halls and chambers lying east and west. 
+The floor is covered by ornate carpets and the walls are smoothly polished. 
+Quite contrary to the oppressive mood outside the castle, these old halls
+look quite friendly.  Huge chandeliers are hanging from the ceiling and
+provide a warm and bright light.  
+~
+0 0 0
+D0
+~
+~
+0 0 20118
+D1
+~
+~
+0 0 20126
+D2
+~
+~
+0 0 20131
+D3
+~
+~
+0 0 20127
+S
+#20126
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D3
+~
+~
+0 0 20125
+S
+#20127
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D1
+~
+~
+0 0 20125
+S
+#20128
+The Morgue~
+This is the morgue of {DShadun{x, a cold and unfriendly place, much like
+the rest of the city but probably good enough for the dead.  Both floor and
+walls consist of intricately carved marble, depicting strangely distorted
+figures and blooy rituals.  (Type 'crecover' to recover your corpse.)  
+~
+0 0 0
+D0
+~
+~
+0 0 20122
+S
+#20129
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D1
+~
+~
+0 0 20131
+S
+#20130
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D3
+~
+~
+0 0 20131
+S
+#20131
+The Castle of Shadun~
+This is the mighty castle of {DShadun{x, or what is left of it.  A huge
+hall stretches to the north, other halls and chambers lying east and west. 
+The floor is covered by ornate carpets and the walls are smoothly polished. 
+Quite contrary to the oppressive mood outside the castle, these old halls
+look quite friendly.  Huge chandeliers are hanging from the ceiling and
+provide a warm and bright light.  
+~
+0 0 0
+D0
+~
+~
+0 0 20125
+D1
+~
+~
+0 0 20130
+D2
+~
+~
+0 0 20134
+D3
+~
+~
+0 0 20129
+S
+#20132
+General Store~
+This is the general store of {DShadun{x.  Both commoners and nobles come
+here to buy what is necessary for their daily lives.  Even some adventurers
+are found bartering for some supplies here.  The store looks pretty chaotic,
+boxes and racks are standing everywhere, some filled, most empty.  
+~
+0 0 0
+D0
+~
+~
+0 0 20123
+S
+#20133
+The Smithy~
+This is the smithy of Shadun.  The room is stacked with various tools and
+utensils necessary for forging different products.  A glowing hot forge is
+burning in one corner of the room, an oversized anvil is standing in another
+corner.  The floor is covered with neatly stacked bars of metal in various
+sorts and qualities.  (Type 'forge' to create your own, customized quest
+weapon.)  
+~
+0 0 0
+D2
+~
+~
+0 0 20123
+S
+#20134
+The Castle of Shadun~
+This is the mighty castle of {DShadun{x, or what is left of it.  A huge
+hall stretches to the north, other halls and chambers lying east and west. 
+The floor is covered by ornate carpets and the walls are smoothly polished. 
+Quite contrary to the oppressive mood outside the castle, these old halls
+look quite friendly.  Huge chandeliers are hanging from the ceiling and
+provide a warm and bright light.  
+~
+0 0 0
+D0
+~
+~
+0 0 20131
+D1
+~
+~
+0 0 20136
+D3
+~
+~
+0 0 20135
+S
+#20135
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D1
+~
+~
+0 0 20134
+S
+#20136
+The Hall of Portals~
+This is the hall of portals, one of the many halls in the castle of
+Shadun.  It houses a strange collection of ancient portals, leading to the
+different parts of the world.  Some are said to be defunct, others lead to
+certain death but most of them work just like they are supposed to.  This is
+certainly a good place to start adventuring and exploring.  
+~
+0 0 0
+D3
+~
+~
+0 0 20134
+S
+#20137
+Fade's hideout~
+This is Fade's hideout, nothing more, nothing less.  This is where he
+hides when he wants to spend a few moments in peace.  The room is bare, the
+walls painted in a bright white.  
+~
+0 540672 0
+D5
+~
+~
+0 0 20101
+S
+#0
+
+
+
+#SPECIALS
+M 20100 spec_guard
+M 20116 spec_cast_adept
+M 20119 spec_breath_any
+M 20120 spec_questmaster
+S
+
+
+
+#RESETS
+M 0 20100 4 20100 2
+M 0 20116 1 20101 1
+O 0 20118 0 20101
+M 0 20115 3 20105 1
+M 0 20115 3 20106 1
+M 0 20115 3 20107 1
+M 0 20110 1 20108 1
+G 0 20111 0
+G 0 20113 0
+G 0 20114 0
+G 0 20123 0
+G 0 20122 0
+G 0 20115 0
+G 0 20130 0
+G 0 20143 0
+G 0 20144 0
+G 0 20153 0
+O 0 20256 0 20109
+O 0 20120 0 20110
+M 0 20100 4 20110 2
+O 0 20117 0 20114
+O 0 20119 0 20114
+O 0 20121 0 20114
+O 0 20124 0 20115
+O 0 20128 0 20115
+O 0 20129 0 20115
+M 0 20101 1 20116 1
+G 0 20125 0
+G 0 20126 0
+G 0 20127 0
+G 0 20132 0
+G 0 20133 0
+O 0 20220 0 20117
+O 0 20131 0 20119
+O 0 20134 0 20119
+O 0 20205 0 20119
+O 0 20216 0 20120
+O 0 20217 0 20120
+O 0 20218 0 20120
+M 0 20120 1 20121 1
+O 0 20219 0 20124
+O 0 20141 0 20126
+O 0 20142 0 20126
+O 0 20145 0 20126
+O 0 20138 0 20127
+O 0 20139 0 20127
+O 0 20140 0 20127
+O 0 20146 0 20129
+O 0 20147 0 20129
+O 0 20148 0 20129
+O 0 20149 0 20130
+O 0 20150 0 20130
+O 0 20151 0 20130
+M 0 20102 1 20132 1
+G 0 20252 0
+G 0 20253 0
+O 0 20255 0 20133
+O 0 20152 0 20135
+S
+
+
+
+#SHOPS
+20101 19 0 0 0 0 100 10 0 24
+20102 1 15 0 0 0 100 50 0 24
+20110 10 0 0 0 0 100 10 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

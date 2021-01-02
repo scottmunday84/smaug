@@ -1,0 +1,1823 @@
+#AREADATA
+Name The Tempest~
+Builders None~
+VNUMs 2400 2499
+Credits {40  90} Ahmad   The Tempest~
+Security 9
+End
+
+
+
+#MOBILES
+#2420
+tempest spirit~
+a Tempest spirit~
+A {3T{1e{!mpe{1s{3t{0 spirit is here, conjuring up gales and winds.
+~
+A spirit is here conjuring up gales and winds, overturning boats
+and drowning sailors.
+~
+sprite~
+AG DFT 0 -300 0
+65 52 50d10+3500 50d10+5500 6d7+20 drowning
+-31 -31 -31 -31
+EFGHNR R LP J
+stand stand none 0
+AGHMVWXYc ABCDEFGHIJKLPQVX small unknown
+#2421
+tempest deity~
+a Tempest deity~
+A {3T{1e{!mpe{1s{3t{0 deity is here, conjuring up storms.
+~
+A little sprite deity is here, conjuring up little storms of lightning
+and harassing sailors and fishermen.
+~
+sprite~
+AB DFT 0 -300 0
+62 50 50d10+4500 50d10+4500 5d8+20 drowning
+-30 -30 -30 -30
+FHNR J PR 0
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+F vul J
+#2422
+sailor~
+a sailor~
+A {&sa{$il{&or{0 is drifting here, hoping for rescue.
+~
+This {&sa{$il{&or{^'s boat was sunk by a huge wave, and he had no choice but
+to jump overboard.  He's been drifting for days now, he looks very dehydrated.
+~
+human~
+AGH 0 N 30 0
+63 48 25d10+3750 25d10+3750 6d6+18 none
+-28 -28 -28 -28
+FHIN 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2423
+loch ness monster~
+the loch ness monster~
+A big green monster is here, heading your way..
+~
+A big green monster is swimming your way at a frighteningly rapid pace.
+You freeze in fear, as you realize it wants to eat you. Hey, wasn't
+the loch ness monster vegetarian?
+~
+draconian~
+ABF T H 0 0
+70 50 10d10+10000 50d10+4500 30d5+40 none
+-30 -30 -30 -30
+CFIKNOV LQR HI J
+stand stand none 0
+AHMV ABCDEFGHIJKPQ giant unknown
+F vul FG
+#2424
+great white shark~
+a great white shark~
+A great {&white {8shark{0 has found its lunch, and is swimming your way.
+~
+A great {&white {8shark{^ smells you from a long distance away, and thinks
+you'd make a tasty lunch. Better run, those {&teeth{^ look like rows of daggers.
+~
+water fowl~
+AFG JTb H -100 0
+70 50 50d10+6800 50d10+4500 6d10+38 chomp
+-30 -30 -30 -30
+CFHKMN 0 LR C
+stand stand none 0
+ABGHMXbc ADEFKOQV large unknown
+F for W
+F par CHP
+#2425
+fisherman~
+a fisherman~
+A fisherman is here, stranded in the sea.
+~
+This man was thrown overboard when winds overturned his boat.
+He has survived sharks and dehydration, and is clinging on to dear hope.
+~
+human~
+AGH 0 0 100 0
+50 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+FHIK 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2426
+fisherman~
+a fisherman~
+A fisherman is here, bewildered.
+~
+A fisherman is here, looking around and scratching his head.  He doesn't know how
+he got here.
+~
+human~
+ABH Tb 0 1 0
+40 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+FHIK 0 0 0
+stand stand male 20
+AGHMV ABCDEFGHIJK medium unknown
+#2427
+god tempest~
+the God of the {3T{1e{!mpe{1s{3t{0~
+The God of the {3T{1e{!mpe{1s{3t{0 is here, directing the spirits and deities under him.
+~
+A large elemental stands before you, directing little sprites and deities
+to cause havoc in the sea.
+~
+sprite~
+ABFH DFT H -400 0
+60 60 50d10+9500 50d10+9500 10d10+30 none
+-38 -38 -38 -38
+CEFHIKN 0 JPR 0
+stand stand none 300
+AHMV ABCDEFGHIJKP large unknown
+F vul J
+#2428
+tempest advisor~
+a Tempest advisor~
+An advisor to the God of the {3T{1e{!mpe{1s{3t{0 is here.
+~
+An elemental stands here, advising the God of the {3T{1e{!mpe{1s{3t{^ on how to create
+the maximum amount of chaos and destruction with the minimum effort.
+~
+sprite~
+ABFH DFT H -400 0
+50 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+FHIKN 0 PR J
+stand stand none 1000
+AHMV ABCDEFGHIJK large unknown
+F par P
+#2429
+leo~
+Leo~
+Leo is here, enjoying the sea breeze with his lover Kate.
+~
+Oblivious to the ship rocking, Leo is astride the bow of the ship,
+ecstatically saying "I am king of the world!!"
+~
+human~
+AB 0 0 300 0
+43 43 25d10+2500 25d10+2500 3d12+15 none
+-24 -24 -24 -24
+FHINR 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#2430
+Kate~
+Kate~
+Kate is here, thinking she can fly.
+~
+Kate is with here lover Leo, and is astride the very end of the ship.
+Oblivious to the danger surrounding, she feels as though she is flying.
+Screaming in delight, she says "Leo!! I can fly!!"
+~
+human~
+AB 0 0 300 0
+43 43 25d10+2500 25d10+2500 3d12+15 none
+-24 -24 -24 -24
+FHIKNR 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#2431
+elderly man~
+an elderly man~
+An elderly man is making out with his wife.
+~
+An elderly man is making out with his wife one last time, before
+the ship goes down.
+~
+human~
+AB 0 0 0 0
+40 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+FINR 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2432
+elderly woman~
+an elderly woman~
+An elderly woman is making out with her husband.
+~
+An elderly woman is making love to her husband.  Evidently they love
+each other well enough to die together with the Titanik.
+~
+human~
+AB 0 0 200 0
+40 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+FKNR 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#2433
+A little girl~
+a little girl~
+A little girl is here, lonely and crying.
+~
+A little girl is here, clutching on to her doll and crying.
+She feels very lonely, sad and angry, for she thinks her
+parents have abandoned her. Have they?
+~
+human~
+ABH 0 0 200 0
+40 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+FIR 0 0 0
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#2434
+A worried father~
+a worried father~
+A father is searching around for his lost daughter.
+~
+This man's eyebrows are furrowed with worry, and he prays dearly in his
+heart to be able to find his lost daughter.
+~
+human~
+AB 0 0 400 0
+45 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+EFIKNR 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#2435
+A drunken man~
+a drunken man~
+A drunken man lies here, intoxicated.
+~
+A man lies here, knocked out by one drink too many. Just as well,
+he won't be conscious when the Titanik sinks.
+~
+human~
+ABH 0 0 10 0
+40 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+FKN 0 0 0
+sleep sleep male 1000
+AHMV ABCDEFGHIJK medium unknown
+#2436
+An engine room worker~
+an engine room worker~
+A man is here, busy dumping coal into the furnaces.
+~
+Sweating from the sweltering heat of the furnaces, this man
+struggles to shove as much coal into the furnaces as his hands
+can handle.  He mops away his sweat, and spotting you, says,
+Hey laddie, cmere giv-us a hand will ya?
+~
+human~
+AB 0 0 300 0
+40 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+FHIKR 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#2437
+the Captain~
+the Captain of the Titanik~
+A tall, wiry man stands here, steering the Titanik.
+~
+This man, the captain of the ill-fated Titanik, has sworn to go
+down with her. This was ironically supposed to be the Captain's last
+voyage before he retired.. now this will really be his last voyage.
+~
+human~
+AB 0 H 450 0
+50 58 50d10+8500 50d10+8500 5d10+25 none
+-36 -36 -36 -36
+CEFHIKNR 0 0 0
+stand stand male 2000
+AHMV ABCDEFGHIJK medium unknown
+#2438
+Titanik band~
+the Titanik band~
+The band is here, playing music while the ship goes down.
+~
+The band is here, sworn to go down with the Titanik doing what they love
+best : playing music.
+~
+human~
+AB 0 0 0 0
+45 53 50d10+6000 50d10+6000 6d7+21 none
+-32 -32 -32 -32
+CEFHIKN 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#2439
+male passenger~
+a male passenger~
+A man is here, pushing and shoving.
+~
+A refined looking man is here, pushing and shoving for a spot
+on a lifeboat. What a despicable scum.
+~
+human~
+ABH 0 0 -100 0
+40 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+FHIKN 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#2440
+female passenger~
+a female passenger~
+A woman is here, stomping on other passengers' toes.
+~
+What has the world come to? Can't these people queue up for a spot on
+a lifeboat? You sigh at the ugly side of the human race.
+~
+human~
+ABH 0 0 -100 0
+40 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+CEFIKN 0 0 0
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#2420
+fisherman's friend~
+a {&f{7is{&her{7ma{&n's {&f{7r{&ie{7n{&d{0 sweet~
+A little sweet lies here.~
+unknown~
+food 0 A
+3 2 0 0 0
+0 20 10 P
+#2421
+sailor's cap~
+a {&sa{$il{&or{0's cap~
+A {$blue{0 and {&white{0 striped cap lies here.~
+unknown~
+armor 0 AE
+5 5 5 5 0
+40 30 30 P
+A
+5 2
+A
+13 20
+#2422
+tail loch ness~
+tail of the loch ness monster~
+A long tail lies here.~
+unknown~
+armor SY AL
+9 9 9 9 0
+45 50 10 P
+A
+13 40
+A
+14 -50
+A
+5 1
+A
+2 -2
+A
+1 1
+A
+19 12
+A
+18 11
+#2423
+standard object~
+a {3T{1e{!mpe{1s{3t{0 key~
+A key lies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 20 0 P
+#2424
+Tempest trident~
+{3T{1e{!mpe{1s{3t{0 trident~
+A trident is here.~
+unknown~
+weapon BY AN
+staff 5 12 drowning BC
+40 50 100 P
+A
+12 100
+A
+1 2
+A
+19 8
+A
+18 8
+#2425
+skull necklace~
+a {&s{7kul{&l{0 necklace~
+A string of skulls is lying here.~
+unknown~
+armor SY AC
+9 9 9 9 0
+46 30 100 P
+A
+13 80
+A
+19 6
+A
+18 7
+A
+20 -1
+#2426
+fisherman's hat~
+a {3fisherman{0's hat~
+A straw hat lies here.~
+unknown~
+armor 0 AE
+17 17 17 17 0
+41 30 0 P
+A
+4 1
+A
+5 1
+A
+19 5
+A
+18 4
+A
+20 -1
+A
+13 100
+#2427
+sinking ship~
+ship~
+A huge ship is here, struggling to stay afloat.~
+unknown~
+portal 0 0
+0 0 0 2406 0
+0 10000 0 P
+#2428
+barbie doll~
+a barbie doll~
+A doll lies here, waiting to be stepped on.~
+unknown~
+armor SY AO
+17 17 17 17 0
+42 30 100 P
+A
+20 -1
+A
+3 -1
+A
+13 100
+A
+12 50
+#2429
+grimy overalls~
+{8grimy {3overalls{0~
+A pair of {8grimy {3overalls{0 lies here.~
+unknown~
+armor 0 AK
+19 19 19 19 0
+42 0 0 P
+A
+13 130
+A
+1 1
+A
+5 2
+A
+18 6
+A
+18 5
+#2430
+captain's boots~
+captain's {#boots{0~
+A pair of rubber {#boots{0 is lying here.~
+unknown~
+armor SY AG
+16 16 16 16 0
+42 30 100 P
+A
+13 135
+A
+18 5
+A
+19 4
+A
+5 2
+#2431
+shimmering portal shadun~
+a shimmering portal~
+A {Ws{xh{Ci{cm{Wm{xe{Cr{ci{Wn{xg portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#2432
+small bone~
+a small bone~
+A small bone is lying here.~
+unknown~
+component 0 A
+0 0 0 0 0
+50 2 100 P
+#0
+
+
+
+#ROOMS
+#2400
+The Calm Before the Storm~
+A {&de{!ad{&ly{0 calm permeates the area, with barely a wave on the {6cool blue sea{0.
+Yet your instincts sense an incoming {1d{!ange{1r{0, a lethal force heading
+your way.
+~
+0 0 7
+D2
+~
+~
+0 0 2401
+S
+#2401
+Incoming Storm~
+The sky is {8s{7ton{8e g{7re{8y{0, gloomy and treacherous. {#Lig{&htn{#ing{0 streaks across
+the sky, illuminating it for a brief second.  Be warned, the {3T{1e{!mpe{1s{3t{0 shall
+befall us.
+~
+0 0 7
+D0
+~
+~
+0 0 2400
+D2
+~
+~
+0 0 2404
+D3
+~
+~
+0 0 2402
+S
+#2402
+Incoming Storm~
+The sky is {8s{7ton{8e g{7re{8y{0, gloomy and treacherous. {#Lig{&htn{#ing{0 streaks across
+the sky, illuminating it for a brief second.  Be warned, the {3T{1e{!mpe{1s{3t{0 shall
+befall us.
+~
+0 0 7
+D1
+~
+~
+0 0 2401
+D2
+~
+~
+0 0 2403
+S
+#2403
+Incoming Storm~
+The sky is {8s{7ton{8e g{7re{8y{0, gloomy and treacherous. {#Lig{&htn{#ing{0 streaks across
+the sky, illuminating it for a brief second.  Be warned, the {3T{1e{!mpe{1s{3t{0 shall
+befall us.
+~
+0 0 7
+D0
+~
+~
+0 0 2402
+D1
+~
+~
+0 0 2404
+D3
+~
+~
+0 0 2405
+S
+#2404
+Incoming Storm~
+The sky is {8s{7ton{8e g{7re{8y{0, gloomy and treacherous. {#Lig{&htn{#ing{0 streaks across
+the sky, illuminating it for a brief second.  Be warned, the {3T{1e{!mpe{1s{3t{0 shall
+befall us.
+~
+0 0 7
+D0
+~
+~
+0 0 2401
+D3
+~
+~
+0 0 2403
+S
+#2405
+Incoming Storm~
+The sky is {8s{7ton{8e g{7re{8y{0, gloomy and treacherous. {#Lig{&htn{#ing{0 streaks across
+the sky, illuminating it for a brief second.  Be warned, the {3T{1e{!mpe{1s{3t{0 shall
+befall us.
+~
+0 0 7
+D1
+~
+~
+0 0 2403
+D2
+~
+~
+0 0 2444
+S
+#2406
+Astride the Stern~
+You are astride the stern of the ship, struggling to maintain your balance
+as huge waves rock the ship about. Whooa.. you nearly fall off the ship,
+thank god you hang on to the steel railing. Better find a lifeboat
+and hop on.
+~
+0 0 7
+D1
+~
+~
+0 0 2407
+D2
+~
+~
+0 0 2420
+S
+#2407
+Onboard the Titanik~
+The Titanik is a huge liner, carrying many passengers on a luxury
+cruise. What a twist of bad luck, for it to be caught in the deadly
+embrace of the Tempest. Huge waves rock the ship about as a mother's
+hand would a cradle, and you fear the worst.
+~
+0 0 0
+D0
+~
+~
+0 0 2412
+D2
+~
+~
+0 0 2419
+D3
+~
+~
+0 0 2406
+S
+#2408
+Cabin~
+The cabin is beautifully furnished, with oak panelling and a carpeted floor.
+On the walls hang poster prints of famous works of arts, and a dazzling
+crystal light hangs above your head.  Pity the Titanik is about to sink.
+~
+0 0 0
+D1
+~
+~
+1 0 2409
+S
+#2409
+A Corridor~
+You are in a corridor in the Titanik. It is deserted, for everyone has
+decided to flee the sinking ship. To the east and west lie cabins.
+~
+0 0 0
+D0
+~
+~
+1 0 2427
+D1
+~
+~
+1 0 2410
+D2
+~
+~
+0 0 2431
+D3
+~
+~
+1 0 2408
+D4
+~
+~
+0 0 2441
+D5
+~
+~
+0 0 2417
+S
+#2410
+Cabin~
+The cabin is beautifully furnished, with oak panelling and a carpeted floor.
+On the walls hang poster prints of famous works of arts, and a dazzling
+crystal light hangs above your head.  Pity the Titanik is about to sink.
+~
+0 0 0
+D3
+~
+~
+1 0 2409
+S
+#2411
+Onboard the Titanik~
+The Titanik is a huge liner, carrying many passengers on a luxury
+cruise. What a twist of bad luck, for it to be caught in the deadly
+embrace of the Tempest. Huge waves rock the ship about as a mother's
+hand would a cradle, and you fear the worst.
+~
+0 0 0
+D0
+~
+~
+0 0 2429
+D1
+~
+~
+0 0 2413
+D2
+~
+~
+0 0 2415
+S
+#2412
+Port Side~
+The port side is gradually sinking into the icy waters, and everyone is panicking.
+Frantic screams ring out through the air, as many push and shove for spots on the
+lifeboats. Only a noble few shout for calm and order, and that women and children
+board first - but noone is listening to them.
+~
+0 0 7
+D1
+~
+~
+0 0 2426
+D2
+~
+~
+0 0 2407
+S
+#2413
+On the Bow~
+You are at the bow of ship, struggling to maintain your footing.
+Strong gales blow mercilessly at the ship, and you have a feeling
+the ship is going to sink.
+~
+0 0 0
+D2
+~
+~
+0 0 2414
+D3
+~
+~
+0 0 2411
+S
+#2414
+On the Bow~
+You are at the bow of ship, struggling to maintain your footing.
+Strong gales blow mercilessly at the ship, and you have a feeling
+the ship is going to sink.
+~
+0 0 0
+D0
+~
+~
+0 0 2413
+D3
+~
+~
+0 0 2415
+S
+#2415
+Onboard the Titanik~
+The Titanik is a huge liner, carrying many passengers on a luxury
+cruise. What a twist of bad luck, for it to be caught in the deadly
+embrace of the Tempest. Huge waves rock the ship about as a mother's
+hand would a cradle, and you fear the worst.
+~
+0 0 0
+D0
+~
+~
+0 0 2411
+D1
+~
+~
+0 0 2414
+D2
+~
+~
+0 0 2425
+D3
+~
+~
+1 0 2416
+S
+#2416
+A Corridor~
+You are in a corridor in the Titanik. It is deserted, for everyone has
+decided to flee the sinking ship. This corridor leads to the engine room.
+~
+0 0 0
+D0
+~
+~
+0 0 2417
+D1
+~
+~
+1 0 2415
+D2
+~
+~
+0 0 2418
+S
+#2417
+A Corridor~
+You are in a corridor in the Titanik. It is deserted, for everyone has
+decided to flee the sinking ship. This corridor leads to the engine room.
+~
+0 0 0
+D2
+~
+~
+0 0 2416
+D4
+~
+~
+0 0 2409
+S
+#2418
+The Engine Room~
+A huge blast of heat greets your entrance into the engine room.
+Several workers are here, frantically dumping charcoal into the engine
+furnace to try and keep the ship afloat. The rest have all abandoned them.
+~
+0 0 0
+D0
+~
+~
+0 0 2416
+D1
+~
+~
+0 0 2433
+D2
+~
+~
+0 0 2435
+D3
+~
+~
+1 0 2419
+S
+#2419
+Onboard the Titanik~
+The Titanik is a huge liner, carrying many passengers on a luxury
+cruise. What a twist of bad luck, for it to be caught in the deadly
+embrace of the Tempest. Huge waves rock the ship about as a mother's
+hand would a cradle, and you fear the worst.
+~
+0 0 0
+D0
+~
+~
+0 0 2407
+D1
+~
+~
+1 0 2418
+D2
+~
+~
+0 0 2421
+D3
+~
+~
+0 0 2420
+S
+#2420
+Astride the Stern~
+You are astride the stern of the ship, struggling to maintain your balance
+as huge waves rock the ship about. Whooa.. you nearly fall off the ship,
+thank god you hang on to the steel railing. Better find a lifeboat
+and hop on.
+~
+0 0 7
+D0
+~
+~
+0 0 2406
+D1
+~
+~
+0 0 2419
+S
+#2421
+At the Starboard~
+Many passengers crowd the edge of the ship, hoping to get a spot on
+the lifeboat. Someone frantically shouts "Me! Lemme through! I've got kids
+at home!!" Amidst the confusion and chaos, a few passengers are accidentally,
+or even deliberately, pushed over into the icy waters below.
+~
+0 0 0
+D0
+~
+~
+0 0 2419
+D1
+~
+~
+0 0 2422
+S
+#2422
+At the Starboard~
+Many passengers crowd the edge of the ship, hoping to get a spot on
+the lifeboat. Someone frantically shouts "Me! Lemme through! I've got kids
+at home!!" Amidst the confusion and chaos, a few passengers are accidentally,
+or even deliberately, pushed over into the icy waters below.
+~
+0 0 0
+D1
+~
+~
+0 0 2423
+D3
+~
+~
+0 0 2421
+S
+#2423
+At the Starboard~
+Many passengers crowd the edge of the ship, hoping to get a spot on
+the lifeboat. Someone frantically shouts "Me! Lemme through! I've got kids
+at home!!" Amidst the confusion and chaos, a few passengers are accidentally,
+or even deliberately, pushed over into the icy waters below.
+To the north lies the entrance to the innards of the Titanik.
+~
+0 0 0
+D0
+~
+~
+1 0 2439
+D1
+~
+~
+0 0 2424
+D3
+~
+~
+0 0 2422
+S
+#2424
+At the Starboard~
+Many passengers crowd the edge of the ship, hoping to get a spot on
+the lifeboat. Someone frantically shouts "Me! Lemme through! I've got kids
+at home!!" Amidst the confusion and chaos, a few passengers are accidentally,
+or even deliberately, pushed over into the icy waters below.
+~
+0 0 0
+D1
+~
+~
+0 0 2425
+D3
+~
+~
+0 0 2423
+S
+#2425
+At the Starboard~
+Many passengers crowd the edge of the ship, hoping to get a spot on
+the lifeboat. Someone frantically shouts "Me! Lemme through! I've got kids
+at home!!" Amidst the confusion and chaos, a few passengers are accidentally,
+or even deliberately, pushed over into the icy waters below.
+~
+0 0 0
+D0
+~
+~
+0 0 2415
+D3
+~
+~
+0 0 2424
+S
+#2426
+Port Side~
+The port side is gradually sinking into the icy waters, and everyone is panicking.
+Frantic screams ring out through the air, as many push and shove for spots on the
+lifeboats. Only a noble few shout for calm and order, and that women and children
+board first - but noone is listening to them.
+~
+0 0 0
+D1
+~
+~
+0 0 2427
+D3
+~
+~
+0 0 2412
+S
+#2427
+Port Side~
+The port side is gradually sinking into the icy waters, and everyone is panicking.
+Frantic screams ring out through the air, as many push and shove for spots on the
+lifeboats. Only a noble few shout for calm and order, and that women and children
+board first - but noone is listening to them.
+To the south lies an entrance to the innards of the Titanik.
+~
+0 0 0
+D1
+~
+~
+0 0 2428
+D2
+~
+~
+1 0 2409
+D3
+~
+~
+0 0 2426
+S
+#2428
+Port Side~
+The port side is gradually sinking into the icy waters, and everyone is panicking.
+Frantic screams ring out through the air, as many push and shove for spots on the
+lifeboats. Only a noble few shout for calm and order, and that women and children
+board first - but noone is listening to them.
+~
+0 0 0
+D1
+~
+~
+0 0 2429
+D3
+~
+~
+0 0 2427
+S
+#2429
+Port Side~
+The port side is gradually sinking into the icy waters, and everyone is panicking.
+Frantic screams ring out through the air, as many push and shove for spots on the
+lifeboats. Only a noble few shout for calm and order, and that women and children
+board first - but noone is listening to them.
+~
+0 0 0
+D2
+~
+~
+0 0 2411
+D3
+~
+~
+0 0 2428
+S
+#2430
+Cabin~
+The cabin is beautifully furnished, with oak panelling and a carpeted floor.
+On the walls hang poster prints of famous works of arts, and a dazzling
+crystal light hangs above your head.  Pity the Titanik is about to sink.
+~
+0 0 0
+D3
+~
+~
+1 0 2431
+S
+#2431
+A Corridor~
+You are in a corridor in the Titanik. It is deserted, for everyone has
+decided to flee the sinking ship. To the east and west lie cabins.
+~
+0 0 0
+D0
+~
+~
+0 0 2409
+D1
+~
+~
+1 0 2430
+D2
+~
+~
+0 0 2439
+D3
+~
+~
+1 0 2432
+S
+#2432
+Cabin~
+The cabin is beautifully furnished, with oak panelling and a carpeted floor.
+On the walls hang poster prints of famous works of arts, and a dazzling
+crystal light hangs above your head.  Pity the Titanik is about to sink.
+~
+0 0 0
+D1
+~
+~
+1 0 2431
+S
+#2433
+The Engine Room~
+A huge blast of heat greets your entrance into the engine room.
+Several workers are here, frantically dumping charcoal into the engine
+furnace to try and keep the ship afloat. The rest have all abandoned them.
+~
+0 0 0
+D2
+~
+~
+0 0 2434
+D3
+~
+~
+0 0 2418
+S
+#2434
+The Engine Room~
+A huge blast of heat greets your entrance into the engine room.
+Several workers are here, frantically dumping charcoal into the engine
+furnace to try and keep the ship afloat. The rest have all abandoned them.
+~
+0 0 0
+D0
+~
+~
+0 0 2433
+D3
+~
+~
+0 0 2435
+S
+#2435
+The Engine Room~
+A huge blast of heat greets your entrance into the engine room.
+Several workers are here, frantically dumping charcoal into the engine
+furnace to try and keep the ship afloat. The rest have all abandoned them.
+~
+0 0 0
+D0
+~
+~
+0 0 2418
+D1
+~
+~
+0 0 2434
+S
+#2436
+The Tempest~
+~
+0 0 7
+D1
+~
+~
+0 0 2437
+S
+#2437
+The Tempest~
+~
+0 0 7
+D3
+~
+~
+0 0 2436
+S
+#2438
+Cabin~
+The cabin is beautifully furnished, with oak panelling and a carpeted floor.
+On the walls hang poster prints of famous works of arts, and a dazzling
+crystal light hangs above your head.  Pity the Titanik is about to sink.
+~
+0 0 0
+D1
+~
+~
+1 0 2439
+S
+#2439
+A Corridor~
+You are in a corridor in the Titanik. It is deserted, for everyone has
+decided to flee the sinking ship. To the east and west lie cabins.
+~
+0 0 0
+D0
+~
+~
+0 0 2431
+D1
+~
+~
+1 0 2440
+D2
+~
+~
+1 0 2423
+D3
+~
+~
+1 0 2438
+S
+#2440
+Cabin~
+The cabin is beautifully furnished, with oak panelling and a carpeted floor.
+On the walls hang poster prints of famous works of arts, and a dazzling
+crystal light hangs above your head.  Pity the Titanik is about to sink.
+~
+0 0 0
+D3
+~
+~
+1 0 2439
+S
+#2441
+A Corridor~
+You are in a corridor in the Titanik. It is deserted, for everyone has
+decided to flee the sinking ship. To the south lies the Captain's room.
+~
+0 0 0
+D2
+~
+~
+0 0 2442
+D5
+~
+~
+0 0 2409
+S
+#2442
+The Captain's Room~
+This room is sparsely furnished, with only the Captain's control panel
+and a few other pieces of furniture.
+~
+0 0 0
+D0
+~
+~
+0 0 2441
+S
+#2443
+The Tempest~
+~
+0 4 7
+S
+#2444
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D0
+~
+~
+0 0 2405
+D1
+~
+~
+0 0 2445
+D2
+~
+~
+0 0 2451
+S
+#2445
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D1
+~
+~
+0 0 2446
+D2
+~
+~
+0 0 2452
+D3
+~
+~
+0 0 2444
+S
+#2446
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D1
+~
+~
+0 0 2447
+D2
+~
+~
+0 0 2453
+D3
+~
+~
+0 0 2445
+S
+#2447
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D3
+~
+~
+0 0 2446
+S
+#2448
+The Tempest~
+~
+0 0 7
+D1
+~
+~
+0 0 2449
+S
+#2449
+The Tempest~
+~
+0 0 7
+D2
+~
+~
+0 0 2454
+D3
+~
+~
+0 0 2448
+S
+#2450
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D1
+~
+~
+0 0 2451
+D2
+~
+~
+0 0 2455
+S
+#2451
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D0
+~
+~
+0 0 2444
+D1
+~
+~
+0 0 2452
+D2
+~
+~
+0 0 2456
+D3
+~
+~
+0 0 2450
+S
+#2452
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D0
+~
+~
+0 0 2445
+D1
+~
+~
+0 0 2453
+D2
+~
+~
+0 0 2457
+D3
+~
+~
+0 0 2451
+S
+#2453
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D0
+~
+~
+0 0 2446
+D3
+~
+~
+0 0 2452
+S
+#2454
+The Tempest~
+~
+0 0 7
+D0
+~
+~
+0 0 2449
+S
+#2455
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D0
+~
+~
+0 0 2450
+D1
+~
+~
+0 0 2456
+S
+#2456
+The Tempest~
+The {3T{1e{!mpe{1s{3t{0 is here. Strong gales blow wildly, and bolts
+of {#lig{&htn{#ing{0 streak the {6sky{0. In the distance, you see fishing boats
+tossed about, as {&sa{$ilo{&rs{0 and fishermen are thrown overboard.
+Hell is not {!f{1ir{!e{0 and {!b{1r{3i{#mst{3o{1n{!e{0, hell is right here, in the {3T{1e{!mpe{1s{3t{0.
+~
+0 0 7
+D0
+~
+~
+0 0 2451
+D1
+~
+~
+0 0 2457
+D3
+~
+~
+0 0 2455
+S
+#2457
+A Whirlpool~
+Before you lies a {6wh{7irlpo{6ol{0, spinning around furiously. {3Debris{0 and
+other miscellaneous stuff like {&sa{$ilo{&rs{0 are getting sucked in.
+Approach with {!caution{0.
+~
+0 0 7
+D0
+~
+~
+0 0 2452
+D3
+~
+~
+0 0 2456
+D5
+~
+~
+0 0 2458
+S
+#2458
+Under The Whirlpool~
+Whoooaa..you get sucked into the {6wh{7irlpo{6ol{0. Ugh, you can't get out,
+and there's this big ugly thing coming at you, now what?
+~
+0 0 0
+D5
+~
+~
+3 2423 2459
+S
+#2459
+Beneath The Tempest~
+Beneath the {3T{1e{!mpe{1s{3t{0, the {6sea{0 is a serene calm. Tis' so peaceful, as
+if there was never any storm at all.
+~
+0 0 0
+D0
+~
+~
+0 0 2461
+D1
+~
+~
+0 0 2460
+D4
+~
+~
+3 2423 2458
+D5
+~
+~
+0 0 2463
+S
+#2460
+Beneath The Tempest~
+Beneath the {3T{1e{!mpe{1s{3t{0, the {6sea{0 is a serene calm. Tis' so peaceful, as
+if there was never any storm at all.
+~
+0 0 0
+D0
+~
+~
+0 0 2462
+D3
+~
+~
+0 0 2459
+D5
+~
+~
+0 0 2464
+S
+#2461
+Beneath The Tempest~
+Beneath the {3T{1e{!mpe{1s{3t{0, the {6sea{0 is a serene calm. Tis' so peaceful, as
+if there was never any storm at all.
+~
+0 0 0
+D1
+~
+~
+0 0 2462
+D2
+~
+~
+0 0 2459
+D5
+~
+~
+0 0 2465
+S
+#2462
+Beneath The Tempest~
+Beneath the {3T{1e{!mpe{1s{3t{0, the {6sea{0 is a serene calm. Tis' so peaceful, as
+if there was never any storm at all.
+~
+0 0 0
+D2
+~
+~
+0 0 2460
+D3
+~
+~
+0 0 2461
+D5
+~
+~
+0 0 2466
+S
+#2463
+Beneath The Tempest~
+Beneath the {3T{1e{!mpe{1s{3t{0, the {6sea{0 is a serene calm. Tis' so peaceful, as
+if there was never any storm at all.
+~
+0 0 0
+D0
+~
+~
+0 0 2465
+D1
+~
+~
+0 0 2464
+D4
+~
+~
+0 0 2459
+S
+#2464
+Beneath The Tempest~
+Beneath the {3T{1e{!mpe{1s{3t{0, the {6sea{0 is a serene calm. Tis' so peaceful, as
+if there was never any storm at all.
+~
+0 0 0
+D0
+~
+~
+0 0 2466
+D3
+~
+~
+0 0 2463
+D4
+~
+~
+0 0 2460
+S
+#2465
+Beneath The Tempest~
+Beneath the {3T{1e{!mpe{1s{3t{0, the {6sea{0 is a serene calm. Tis' so peaceful, as
+if there was never any storm at all.
+~
+0 0 0
+D1
+~
+~
+0 0 2466
+D2
+~
+~
+0 0 2463
+D4
+~
+~
+0 0 2461
+S
+#2466
+Beneath The Tempest~
+Beneath the {3T{1e{!mpe{1s{3t{0, the {6sea{0 is a serene calm. Tis' so peaceful, as
+if there was never any storm at all.
+~
+0 0 0
+D2
+~
+~
+0 0 2464
+D3
+~
+~
+0 0 2465
+D4
+~
+~
+0 0 2462
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 2408 1 1
+D 0 2409 0 1
+D 0 2409 1 1
+D 0 2409 3 1
+D 0 2410 3 1
+D 0 2415 3 1
+D 0 2416 1 1
+D 0 2418 3 1
+D 0 2419 1 1
+D 0 2423 0 1
+D 0 2427 2 1
+D 0 2430 3 1
+D 0 2431 1 1
+D 0 2431 3 1
+D 0 2432 1 1
+D 0 2438 1 1
+D 0 2439 1 1
+D 0 2439 2 1
+D 0 2439 3 1
+D 0 2440 3 1
+D 0 2458 5 2
+D 0 2459 4 2
+O 0 2431 0 2400
+M 0 2433 100 2410 1
+E 0 2428 0 17
+M 0 2440 100 2412 1
+M 0 2439 100 2412 1
+M 0 2429 100 2414 1
+M 0 2430 100 2414 1
+M 0 2436 100 2418 1
+E 0 2429 0 12
+M 0 2440 100 2421 1
+M 0 2439 100 2422 1
+M 0 2440 100 2422 2
+M 0 2438 100 2423 1
+M 0 2439 100 2423 1
+M 0 2440 100 2423 1
+M 0 2439 100 2424 2
+M 0 2439 100 2426 1
+M 0 2440 100 2427 2
+M 0 2439 100 2427 1
+M 0 2440 100 2428 1
+M 0 2439 100 2428 2
+M 0 2439 100 2429 2
+M 0 2434 100 2431 1
+M 0 2431 100 2432 1
+M 0 2432 100 2432 1
+M 0 2436 100 2433 2
+E 0 2429 0 12
+M 0 2436 100 2434 1
+E 0 2429 0 12
+M 0 2436 100 2435 2
+E 0 2429 0 12
+M 0 2420 100 2436 2
+M 0 2421 100 2436 1
+M 0 2422 100 2437 3
+E 0 2421 0 6
+M 0 2435 100 2440 1
+M 0 2437 100 2442 1
+E 0 2430 0 8
+M 0 2421 100 2443 2
+M 0 2422 100 2444 2
+M 0 2420 100 2444 1
+E 0 2421 0 6
+M 0 2424 100 2445 2
+M 0 2420 100 2445 1
+M 0 2421 100 2446 2
+M 0 2422 100 2446 2
+E 0 2421 0 6
+O 0 2427 0 2446
+M 0 2425 100 2447 2
+M 0 2420 100 2447 1
+G 0 2420 0
+O 0 2432 0 2447
+M 0 2425 100 2448 2
+G 0 2420 0
+G 0 2420 0
+M 0 2425 100 2449 1
+M 0 2422 100 2449 1
+M 0 2420 100 2449 1
+E 0 2421 0 6
+M 0 2425 100 2450 1
+M 0 2422 100 2450 1
+M 0 2421 100 2450 2
+G 0 2420 0
+E 0 2421 0 6
+G 0 2420 0
+M 0 2424 100 2451 2
+M 0 2420 100 2451 2
+M 0 2422 100 2452 1
+M 0 2425 100 2452 2
+E 0 2421 0 6
+G 0 2420 0
+M 0 2420 100 2453 1
+M 0 2421 100 2453 2
+M 0 2421 100 2454 2
+M 0 2422 100 2454 1
+E 0 2421 0 6
+M 0 2424 100 2455 2
+M 0 2425 100 2455 1
+G 0 2420 0
+M 0 2420 100 2456 1
+M 0 2421 100 2456 1
+M 0 2422 100 2456 1
+E 0 2421 0 6
+M 0 2422 100 2457 1
+M 0 2423 100 2458 1
+E 0 2422 0 13
+G 0 2423 0
+G 0 2432 0
+M 0 2426 1 2459 1
+E 0 2426 0 6
+M 0 2426 100 2460 1
+E 0 2426 0 6
+M 0 2427 100 2466 1
+E 0 2424 0 16
+E 0 2425 0 3
+M 0 2428 100 2466 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

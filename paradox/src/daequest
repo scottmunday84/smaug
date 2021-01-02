@@ -1,0 +1,48 @@
+[ 38] Daedeloth: Quest idea
+Date: Sat Jul 28 11:08:36 2001
+To: fade
+
+Here's an idea for a quest ;) I guess it might require a bit of coding :P It also allows
+for several variations which might be fun :)
+
+No sneak/SW/invis during the quest.
+It takes place in a medium-sized, mazelike arena. The goal is to keep hold of an item,
+I'll call it the "tag" (a small jewel, a snail, whatever). The tag starts in the center
+of the arena, and the questers in the corners, asleep. When the quest starts, the questers
+try to get the tag. One of them will first, but by "tag <name>" (or any other command)
+the tag passes to your inventory, then of course you run like hell from the others
+so they don't take it from you. At the end of a pre-established amount of time, the one
+holding the tag has won.
+The player holding the tag has a [TAG] yellow marker or something to distinguish them ;)
+
+Variation 1 -- Team play.
+It works in the same way except that there are two teams (the winning team shares iqp), 
+which might be fun when there are clans. You can "give tag" to a team-member in this 
+variation. To add complexity, you could also have a throw/pass command that sends the tag in a direction (throw tag north), and if it finds a team member along the next 2 squares, they get it.
+Alternatively, when you throw the tag, it lands somewhere in the next 2 squares in that
+direction, so anyone could get it. The team in hold of the tag at the end, is the winner.
+
+Variation 3 -- PK involved.
+A variation that wouldn't let the little folks win. In this way, the "tag" command doesn't
+exist, but rather when you kill someone you get their tag, and that's the only way to
+get it...Which might be total chaos, but also fun? ;)
+(This is Variation 2, i mistyped there ;P)
+
+Variation 3 -- Team play/Scoring.
+This is the same as the team play variation, however the goal is now to score more points
+than the adversary team. There are two special rooms in the arena, one for each team.
+When the tag is dropped in the square of a team, they get a point. The first team to score
+5 points, wins the game.
+
+Variation 4 -- Team play/Scoring/PK.
+The same as the previous, but there is no "tag" command...to get the tag from the opposite
+team, you have to kill the holder. The throw/pass command still exists, which might allow
+for interesting tactics, where even smaller members of the team have a use. This is, of
+course, most fun when the clans participate against each other. Even more than two teams
+could compete, each having their "score" room, although how confusing that might be i 
+don't know :)
+
+Thanks for reading through the spam...if i have more ideas i'll send them asap :)
+
+Daed
+

@@ -1,0 +1,580 @@
+*Damage messages changed to DS damage messages
+*Critical hit added (Skill)
+*Messed around with the combat system (alot) ;-)
+ -more hits
+ -less dodges/parries/shield blocks, etc.
+*Ward added (spell)
+*Monk/Shaolin Classes added
+ (+skills tiger_style, dragon_style, chaos_style, elemental_style)
+*added monk_style
+*face wloc added (actually just finished the code already included)
+(12052001:)
+*added sac all snippet
+*added showskill snippet
+*added copy for olc redit
+*changed lag and mana cost for most spells (and skills)
+*enabled medit_shield
+*monk_style finished
+*offhand added (skill)
+(13052001:)
+*completely removed mock (if you wanna see how much damage you do to someone,
+ just attack them... :P)
+*added sixth_attack, seventh_attack, 2nd_dual, 3rd_dual, 4th_dual
+(14052001:)
+*assassinate added (skill)
+(15052001:)
+*started working on a new hometown (shadun.are)
+(16052001:)
+*changed OLC to accept multiple items in an NPC's inventory
+*changed the autoexits part to DS style
+*added OFF_FEED and OFF_CIRCLE
+(17052001:)
+*feed damage changed
+*dual wielding chars now wield their second weapon as their first when
+ their primary weapon is disarmed
+(20052001:)
+*started to balance classes (see BALANCE)
+*added earthbind (skill)
+*mage/wizard balanced (first time)
+*added sandstorm (spell)
+*fixed curse and blindness
+*smurf.are unlinked
+*plains.are modified and updated
+*added avatar snippet (set COMM_TRUE_TRUST for chars using it, otherwise
+ it won't work)
+(21052001:)
+*added medit_mdice to olc...it's just wonderful :)
+ just type mdice during editing a mob and the correct values for
+ hitdice,hitroll,damdice,manadice and ac will be set automatically
+ (depending on the level given as an optional argument or the level
+  of the mob): a real time saver.
+*ofcol2.are modified and updated
+*dirty fix for capitalizing strings containing colorcodes in act
+*found and removed a bug in do_advance/do_avatar
+(22052001:)
+*changed the addapply system to a more elegant version
+ (the F flag for adding applies to an object is obsolete now;
+ just use S 'spellname' instead; all addapplies are permanent but they
+ don't override existing affects)
+*changed OLC to new addapply system...works like a breeze (hopefully ;))
+*olympus.are modified and updated
++++++++++++++++++++++MILESTONE 1++++++++++++++++++++++++++++++++++++++++
+(/rot.backup/rot1.5a.tar.gz)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*added some new damage types (DAM_WOOD, DAM_IRON, etc.) and corresponding
+ damage messages
+*new feature: affects which last for *rounds* instead of hours
+ (see effects.c for an example) just set the affect duration
+ to 1000+number of rounds and everything will work just fine
+*air.are unlinked
+(23052001:)
+*fixed/updated poison_effect
+*modified dispel magic and saves_spell (curse, blindness and some other 
+ affects can no longer be dispelled)
+*changed recall locations to Shadun, Temple Square
+*added rub (skill)
+*shire.are modified and updated
+*fixed chill touch bug
+(24052001:)
+*added rotting effect
+*lowered save lag
+*new score command
+*added eyes, ear and ankle wear locations
+*hitower.are modified and updated
+(25052001:)
+*added shadowshield, bladebarrier, prismaticshield and earthshield (spells)
+*added desc clear to olc
+*changed alias limit to 50
+*messed around with the extremely buggy OLC, hopefully fixed a nasty bug
+ in redit_create, oedit_create and medit_create
+*sever added (spell)
+(26052001:)
+*balanced cleric/priest (first time), balanced some spells
+ (acid blast, demonfire, sandstorm, chain lightning, and saves)
+*various small changes to OLC (reset_room, desc clear for mobs, etc.) to
+ fix small bugs or strange behaviour
+*fixed a small bug in get_weapon_skill
+*made chain lightning less spammy
+*fixed a strange "bug" in fwrite_char
+(27052001:)
+*added lore (skill/command)
+*added copyover! and it even works... ;)
+*added elemental fury (spell)
+*made a skill out of shield levitation
+*added blackjack (skill) 
+(28052001:)
+*changed showskill format
+*changed class names
+*pMob->zone = pRoomIndex->area added to reset_room (db.c)
+ (should make mobs wander home)
+(29052001:)
+*fixed a bug in db.c (which was-quite ironically-commented as "terrible hack")
+*added basic (but pretty nice) arena code
+*added fix to arena code (resets arena when one of the combatants drops link)
+*fixed a bug in fwrite_obj
+(30052001:)
+*changed score format
+*fixed get_curr_stat
+*added some more potions (online)
+*notification when new note/idea/etc. is posted
+*added exbit1 to save
+*fixed a bug in advance and avatar
+*avatar now useable by all immortals
+*added optional class parameter to avatar
+(31052001:)
+*removed damage_old, just use damage when adding new code
+*added killed flag
+*implemented a basic pk range (+/-10, Pk starts at level 21) and removed all
+ requirements to be in a clan to pk (members of the same clan can't fight
+ themselves though)
+*pk flag added to where (different flags for pk with killed flag/pk without
+    killed flag)
+*even immortals can no longer kill OOL or kill shopkeepers/etc.
+*removed murder; ganging is allowed for the moment; this will change with the
+ introduction of different gamestates
+*fix for prompt update after tick
+*added potion lag/pill lag
+*hopefully fixed a bug concerning copyover (wwwcontrol)
+(01062001:)
+*picking up objects or getting objects from containers during combat will
+ fail very often now
+*removed a unlocatable bug (add_buf?) by introducing MAX_ALL; that's the
+ maximum amount of things you can get/put/drop at once; limits were also 
+ introduced into owhere and locate object; a dirty fix, unfortunately ;)
+*autosave added to OLC (and autosave cycle shortened)
+*updated steal
+*nolocate flag added to OLC
+*saccing player corpses didn't work anyway (unless they were empty, which is 
+ ok)
+*empower no-no list added; the name of the empowered item contains the
+ spellname now
+*true sight added (spell)
+(02062001:)
+*light flag added (weapon flag)
+*fixed charm and sleep
+*fixed range
+*gnome.are updated/modified
+*went through all spells and checked messages
+*knights balanced (envenom-,backstab-,armor+,giant strength+)
+*charge, shield smash added
+*OLC autosave changed
+*added unlinked snippet
+*added sorted do_areas snippet
+*started adding quest code
+(03062001:)
+*basic quest code added
+*some small bug fixes
+*all maladictions last rounds instead of hours now
+(04062001:)
+*added quest flag
+*quest buy/quest list/quest identify added
+(05062001:)
+*mana gains *3/2, movement gains at least doubled
+*necromancer balanced (swarm, death touch and bloodbath added, feed modified)
+*search/hide added
+(06062001:)
+*fixed a terrible bug occuring during reroll (someone obviously thought it was
+ funny to close fpReserve without reopening it ;))
+*cylith and efrit added (races)
+*paradox and the twelve added (guilds)
+*do_help extended/automated recognition of spells and output of groups
+*added 19 new help files
+(07062001:)
+*integrated the new races
+*reworked the stat system (max is 30 now)
+*fixed some typos and small bugs
+*added DAM_EARTH (this time it works)
+*fixed wield bug
+*recite modified
+*cleared up fight.c
+*started working on fixing gain list
+(08062001:)
+*gain list fixed/extended
+*help system fixed (char creation)
+*color choice on character creation
+(09062001:)
+*donation pit should work now
+*randomized clan entrances removed
+*newbie pack updated
+*midgaard map removed from survival pack
+*bank code added
+*drag/push added
+*added pkp, pkills, pdeaths
+*dirt kick works as good as gouge now
+*finished working on pkp gains
+*added shrunken heads
+(10062001:)
+*shields fixed/working on multiple opponents
+*spec_cast_adept extended
+*afk fixed
+*autoall added
+*spells-command updated
+*recalling from combat works without skill check now
+*the direction someone flees to is no longer shown
+*fixed a bug in OLC
+*hacked a "hot reboot on crash" feature together...it works and totally rocks!
+ (not sure how safe and usable the thing is under real conditions though ;))
+*phase added
+(11062001:)
+*"is here" part removed
+*sprite NPC race added
+*drowning/unholy weapon flag added
+*started working on guardians
+(12062001:)
+*do_help fixed
+*three new help files added
+*shadowwalk/ultravision added
+*"An Immortal" replaces "someone" for immortals
+(13062001:)
+*grow removed/protective force added
+*resistance/corrupt/counterattack added
+*counterattack damage lowered
+*bash/shield smash made easier
+*daze added to shield smash (same as trip)
+*guardian hp gains lowered/all hp gains lowered by one point
+*view command added
+(14062001:)
+*fixed process_shields
+*pk timer added
+*sareef haste removed
+*changed quest times
+*grow spell added
+*corrupt renamed (cleansing)
+(15062001:)
+*shadow walking no longer possible with pk timer
+*stealing while having a killed flag makes you lose it now
+*chop added
+*started adding auction code
+(16062001:)
+*auction code finished
+*started adding basic corpselooting rules
+ (finish part which checks for picking up entire corpses...)
+*some damage reduction added
+*grow fixed
+(17062001:)
+*two new qeq items
+*killed flag fixed
+*mana shield added
+*cancellation enhanced
+*added stances
+(18062001:)
+*flame, ooc added
+*revamped channel command
+(21062001:)
+*added new helpfiles
+*autolist command revamped
+*highlevel mobs automatically have a chance to detect swalkers
+*scan extended
+*no more quitting while charmed
+*cancellation only castable on yourself
+(22062001:)
+*new spell hailstorm
+(23062001:)
+*finished working on imm hierarchy
+*translated spanish error messages in OLC
+*you can only avatar back to your original immortal level now
+(24062001:)
+*tinkered a little bit with saves
+*you can no longer auction items with no value (put them in a bag ;))
+*all shields can be added to mobs via OLC now
+*oreset fixed
+(25062001:)
+*extended iquest system, added ban and three different states (on/off/closed)
+*critical hits on backstab/assassinate/circle allowed again
+*added iquest restore/force/transfer
+*iquest helpfile added/motd/imotd updated
+*can_empower, ITEM_COMPONENT added
+*fixed a bug in avatar (tier set correctly now)
+*scribe added
+*circle/backstab/assassinate balanced
+*fixed a security hole in check_improve
+*started workin on shamans/elders
+*tornado added (spell)
+(26062001:)
+*immortals out of avatar mode safe from area attacks
+*no more aquesting while iquesting
+*changed a lot of things to make class/clan eq work
+ (writing/saving objs, clan/class_can_use, ostat/lore, etc.)
+*changed a lot of things (again) to make class/clan eq work
+ with OLC
+(27062001:)
+*assassination bonus only applies to the person who assassinated now
+*score shows hours played
+*if you are severed and someone else than the person who severed you attacks
+ you, sever wears off automatically
+*bug in second fixed (class/clan eq)
+*effectivity of heal increased
+*new necro spell: leech
+(28062001:)
+*index command added
+(29062001:)
+*tinkered with security settings and area creation
+*new helpfile 'area_creation'/'creating areas'
+(30062001:)
+*immortals in avatar mode no longer lose eq when quitting, and mortals can keep eq up to ten levels above them
+*spacing in gain list fixed
+*changed helpfile 'DAMAGE'
+*new group 'elemental'
+*morts can no longer hide qeq
+*printf_log implemented
+*now logging immortals hiding qeq/giving/dropping/picking up
+*fixed a bug in recite
+(01072001:)
+*scan marks aggressive mobs now
+*quest convert/revert added
+(07072001:)
+*getting qeq from your own corpse is no longer logged
+(08072001:)
+*brew added, scribe overhauled completely
+*corpse recovery added
+*strike added
+(09072001:)
+*corrupt potion added
+*slip added
+*shadowwalk/ultravision added to deathmasters
+(10072001:)
+*introduced gamestates (solo, total chaos, 1vs2, paradox)
+*new immortal command areset (resets arena)
+*new helpfiles: looting, gamestates, arena
+*different death/kill-counts for all four gamestates
+*bounty added
+*gouge stripped on pkill
+(11072001:)
+*you're no longer disconnected when rerolling
+*motd, imotd changed, many smaller color changes and fixes
+*bounty, age saved on reroll; haven't figured out how to save aliases yet;
+ damn memory management... :P
+*removed auto prompt update
+*alias saved on reroll...eventually
+(12072001:)
+*eatable iquest points
+*bugfixes (hide)
+*iquest point gains get logged
+*bugfix: you can no longer empower/scribe/brew skills... ;)
+*channel colors changed, shout removed
+*leech castable during combat
+*greetings centered
+*olc commands no longer accessable by mortals (they weren't anyway, just showed "Security not sufficient." instead of "Huh?"
+(13072001:)
+*fixed a bug in do_class
+*gladiator checked, shaman checked, and the rest of the first tier classes
+*wrote do_check to help me fix creation points, etc; quite useful
+(14072001:)
+*finished checking default groups, basic groups, creation points *phew* ;)
+ (not to forget skill/spell groups)
+*character creation/reroll spruced up a bit; class/races chooseable by
+ numbers, added some info on naming policy and increasing security
+ by picking safe passwords
+(15072001:)
+*recall changed: two options for people in clans (recall temple, recall clan)
+*you can't recall to your clan during gamestate changes and Paradox
+*updated help.are
+*jobs, laws, rules, clanrules updated
+*updated rot.are
+*started to add some code for collecting data against mp violations (socket DB)
+*extended check to show sockets with multiple characters (useing data
+ from the socket DB)
+(16072001:)
+*recall fixed (pets owned by clanned players recall correctly again)
+*started to implement a site check for immortals (check addallow)
+*use 'addallow name playtester exact' to give a mortal permission to
+ connect, even if the game is wizlocked
+*ISC (immortal site check) finished and activated
+(17072001:)
+*gate rules finished (read the updated HELP GATE)
+*pets no longer get lost during copyover
+*restring overhauled (you can now restring short, long and name); payment are
+ restring tokens
+*helpfiles for races added
+*helpfiles for stances, hailstorm, scribe/brew, tornado, leech, strike, corrupt potion, slip and bounty added
+*fixed a bug in grow/haste
+(19072001:)
+*shopkeepers were attacking you if you typed something like "buy -10*sanc";fixed ;) (oh yeah, they were even insulting you, "xyz tells you 'Nice try, jackass!'  One of the better 'bugs', one might add :P
+(20072001:)
+*now tracking requested helpfiles which aren't available in HELP_FILE
+*added some color to note read, list, etc.
+*random color added ('{*')
+*helpfiles on classes added
+*character creation fixed, helpfiles on class viewable now
+*helpfile 'races' added
+*helpfile 'quests' added
+(21072001):
+*new helpfiles: newbie info, channels, corpse, showskill/showclass
+*some minor changes to character creation
+*wizlock removed
+*advanced disarm added to blades
+*kill enhanced; you can now target another player even if you are already fighting -> more dynamic group fights
+*fixed a bug in do_follow; this needs a fix in copyover (save socket)
+(22072001):
+*New helpfiles: dual wield, 2nd dual/etc., circle, stun, search, stats
+*copyover fixed
+*enhanced who (most on ever, connections since reboot)
+*added forage
+*aqp and iqp saved over reroll
+*added whirlwind (and fixed it, subsequently)
+*grouping experience fixed
+*haste no longer castable during combat
+*groupies safe from area attacks
+(23072001:)
+*removed "You are thirsty." and "You are hungry." and gain reductions because of thirst/hunger; if you are not hungry and thirsty, you will gain twice as much
+ as someone who doesn't eat/drink; people who don't care about eating/drinking
+ aren't really negatively affected though
+*spell regeneration added
+*new helpfiles: all shields, grip, gouge, regeneration, more keywords for bank, mail
+(24072001:)
+*fixed a problem with doors by making load_area less picky
+*fixed whirlwind again (no using earthquake code)
+*chars quitting at level 1 are deleted (only first tiers, logically)
+*where overhauled (where pk added)
+*level range for quest mobs increased
+*now showing closed doors in do_look/etc.
+*fixed some strange behaviour in can_see/etc.
+*changed tell/reply/gtell colors
+(25072001:)
+*$w added to act and shadow walkers talking on channels fixed
+*who list sorted by levels now
+*counterattack damage now dependent on your weapon (using one_hit)
+*blade poison added
+*do_look on flee added
+(26072001:)
+*catacombs.are overhauled
+*armor and shield overhauled
+*eq below level 31 is saved in any case now
+(27072001:)
+*skill_lookup_exact added
+*armor renamed to immaterial armor, shield renamed to force shield
+*new versions of stone skin and ward
+*marsh.are overhauled
+(28072001:)
+*deleted players are no longer loaded into SDB
+*who list additionally sorted by pkp (in case of equal level)
+*whois and finger share the same functionality now, so more information
+ is available on offline players now
+ (both commands share the same code, finger is just an alias)
+*tells send to the exactly matched person in case of ambiguities
+*better messages for sneak/hide
+(29072001:)
+*quest floaters stay with you
+*no more quests to no_recall areas
+*bug in sever fixed (sever was removed when poison/plague hit on tick)
+*earth damage type added
+*mobs don't disarm that good anymore
+*new command confiscate for HQI+
+(30072001:)
+*quest sell added
+*selling/buying qeq logged
+*added forge - customized quest weapons
+(31072001:)
+*renewal added
+*tweaked sensai damage, reduced efficiency of sharp flag
+(01082001:)
+*fixed corpse looting problems when people kill themselves
+*mana shield only castable on yourself (as intended)
+*conjure fixed (creation of demonstones, actually)
+*helpfiles added: track, multiplaying
+(02082001:)
+*new race added: Bakali (submitted by Armadon)
+*added printf_to_char (snippet)
+*added ranking system (help rank)
+(03082001:)
+*fixed scribe
+*weapons disarmed in the arena are treated like no_drops now
+*shaolin/sensai stances changeable during combat
+(04082001:)
+*Rahmat: fly affect removed, Vixta: sneak affect removed,
+ Phoenix: fly affect removed
+*Ass changed to Asn
+*Races maho and felinian added.
+(05082001:)
+*Forge fixed.
+*Fireproof lasts twice as long now.
+*Cascade and outrage added.
+*scrolls/staves/wands -> thaumaturgy
+*ventriloquate, floating disc, create spring/water/food removed
+*fixed flee
+*fixed mana gains
+*removed group help
+(06082001:)
+*added some spells to empower no-no list
+*overhauled do_affects
+*started working on forms for necros
+*changed a lot of things to make forms work (affect handling, APPLY_SIZE, etc.)
+*res/vuln/imm weapon now applies to everything >= TYPE_HIT (not only pierce/bash/slash)
+*finished essence of mist/bat/wolf
+*feed damage lowered
+(07082001:)
+*fixed cascade, lowered saves cap
+*fixed bugs in sit/rest
+*revert added to return to true form (when using essence of bat/mist/wolf)
+*resistance/protective force added to cancellation
+*giant strength removed, replaced with vigor
+*burning hands, call lightning, calm, change sex, chill touch, colour spray, control weather, dispel evil/good, enchant armor/weapon, fireball, flamestrike, holy word, lightning bolt, ray of truth, shocking grasp and word of recall removed,portal, nexus, recharge, envenom removed
+*added vigor, blaze and shrink
+(08082001:)
+*fixed breaths
+*potions no longer burn that much
+*earthbind fixed
+*iquest force/restore fixed
+*restore available to QIM
+*one iquest point converts to 20 aqp now (winner receives three iqp, runner-ups two and one)
+*healer updated (sanc is now available)
+*tinkered with saves and dispel (sorcerer>elder/bishop>necro/death>guardian)
+ -wis+int>=26 +1
+ -wis|int<=20 -1
+ -made cures a little more efficient
+*new saves range 0-110, cap 95
+(09082001:)
+*pdeaths removed from whois
+*it's easier to pick up items while fighting mobiles now (and only mobiles)
+*new flee-daze system
+*floaters no longer fall to the ground on mobdeaths
+*pk timer stripped on kill/arena win/loss
+*sever only wears off if you're attacked by another PC, mobs no longer count
+*now logging looting of qeq
+*claninfo board added
+*clan channels changed, now showing the clan name
+*added suppress
+*fixed second
+(10082001):
+*added helpfiles portals/dtypes
+*restrictions for charming mobs (1+level/25 mobs allowed)
+*three new quest items
+*lore/identify/quest identify/etc. no shows damage noun and wearloc
+*where no longer shows people in !can_see_room rooms (fixed clanhall problem)
+*set can be used to set pkp now
+*added some deathlag
+*started adding team code
+*added %S and %n options for bust_a_prompt( shadowwalk and sneak )
+*added vigor to knights
+(11082001):
+*quest targets are nolocate now
+*spells casted in safe will no longer go up (except they are defensive or
+ casted while fighting [during paradox])
+*fixed a bug in 'channels'
+*prompt and last_claninfo/idea/etc. saved on reroll now
+*logging qeq steals (immortals stealing from mortals)
+*you stay in your clan when rerolling now
+*chop duration capped at six rounds
+(12082001):
+*assassins/deathmasters get peek now
+*fixed a small bug in do_recall
+*mastermind added (spell)
+*added a helpfile on weapon flags
+*healers cast mastermind on newbies
+*shield compression added...sweet :)
+(13082001):
+*added iflag aggressive, turns off whether players with iquest flags are attacked by aggressive mobs or not
+*iflag combat added for combat quests
+*players in combat quests no longer are restored
+*renewal lag decreased
+*iquest peace added
+*fixed a problem in add_buf
+(14082001):
+*fireproof info shown in lore/identify/etc. now
+*more info on ward shown in do_affects now (ward can also be recasted now)
+*fixed save routines to save/load affect_data->subtype
+*skill ambush added, %A variable added to bust_a_prompt
+*fixed a problem with gate, clannies can now gate to their other clannies (without turning nosummon off)
+*fixed identify to ignore APPLY_SPELL_AFFECTs
+*reduced possibility of potions burning/freezing again
+*iflag norecall and iflag nogate added

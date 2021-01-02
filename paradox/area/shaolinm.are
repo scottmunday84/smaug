@@ -1,0 +1,1537 @@
+#AREADATA
+Name Shaolin Monastery~
+Builders Unlinked~
+VNUMs 4700 4799
+Credits (null)~
+Security 6
+End
+
+
+
+#MOBILES
+#4700
+studious monk~
+a studious monk~
+A monk is here, expounding the intricacies of the scriptures.
+~
+A monk is here poring over the scriptures, muttering quietly
+to himself. "Yes is no, no is yes. Presence is absence, absence
+is presence. Colour is void, void is colour." Damn, you don't
+understand a word he's saying.
+~
+human~
+AB 0 0 300 0
+85 85 50d35+22000 50d35+22000 3d28+38 punch
+-58 -58 -58 -58
+EFIK NS 0 MQ
+sit sit none 0
+AHMV ABCDEFGHIJK medium unknown
+#4701
+bald monk~
+a monk~
+A bald (duh) monk sits here, meditating.
+~
+A monk sits cross-legged on the floor, eyes closed, peacefully meditating.
+You try and walk past him, but he sticks his arm out..then a mysterious gust
+picks you up and throws you a few metres. A sudden voice echoes in your
+head : Master, the light is to be found within, not out. Do not proceed
+further.
+You feel a strange calm course through your veins.
+~
+human~
+ABG 0 HN 1000 0
+100 500 50d50+29500 50d50+29500 1d1+300 punch
+-70 -70 -70 -70
+EFGIK NS 0 MQ
+sit sit male 0
+AHMV ABCDEFGHIJK medium unknown
+#4702
+attendent~
+an attendent~
+The attendent sweeps the fallen leaves away.
+~
+With a small wooden broom in his right hand, the attendent has been given the duty of sweeping clean the entrance to the monastery.
+Despite no supervision, he does not take any breaks. Such is the discipline of the Shaolin monks.
+~
+human~
+AB 0 0 0 0
+70 70 5000d1+500 50d20+14500 6d10+33 chop
+-46 -46 -46 -46
+0 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#4703
+monk~
+a monk in training~
+A monk kicks furiously in the air!
+~
+Beads of perspiration can be seen streaming down his forehead.
+Although the training is intensive and gruelling, the monks are well-disciplined and determined.
+No one buckles under the hot sun, no one moves unco-ordinatedly. Such is the discipline of the Shaolin monks.
+~
+human~
+ABG 0 0 1000 0
+80 300 8000d1+500 50d30+19500 3d10+300 punch
+-54 -54 -54 -54
+CFINOP 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#4712
+monk~
+a monk in training~
+A monk punches the air with his bare fists.
+~
+Beads of perspiration can be seen streaming down his forehead.
+Although the training is intensive and gruelling, the monks are well-disciplined and determined.
+No one buckles under the hot sun, no one moves unco-ordinatedly. Such is the discipline of the Shaolin monks.
+~
+human~
+ABG 0 0 1000 0
+80 80 8000d1+500 50d30+19500 3d10+300 punch
+-54 -54 -54 -54
+CFINOP 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#4713
+monk~
+a monk in training~
+A monk practices his dodging and evading skills.
+~
+Beads of perspiration can be seen streaming down his forehead.
+Although the training is intensive and gruelling, the monks are well-disciplined and determined.
+No one buckles under the hot sun, no one moves unco-ordinatedly. Such is the discipline of the Shaolin monks.
+~
+human~
+ABG 0 0 1000 0
+80 300 3d10+300 50d30+19500 8d9+36 punch
+-54 -54 -54 -54
+CFINOP 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#4722
+monk~
+a monk in training~
+A monk spars with the other monks.
+~
+Beads of perspiration can be seen streaming down his forehead.
+Although the training is intensive and gruelling, the monks are well-disciplined and determined.
+No one buckles under the hot sun, no one moves unco-ordinatedly. Such is the discipline of the Shaolin monks.
+~
+human~
+ABG 0 0 1000 0
+80 300 8000d1+500 50d30+19500 3d10+300 punch
+-54 -54 -54 -54
+CFINOP 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#4733
+abbot~
+the Grand Abbot~
+The Grand Abbot oversees the daily training of the young monks.
+~
+Despite his old age, the abbot seems to exude youth and great health.
+His face is etched with lines of wisdom, and valuable experience.
+Only under his patient tutorlage and guidance, are the young monks able to flourish.
+~
+human~
+ABG DEFVc HNR 1000 0
+90 400 8000d1+1000 50d40+24500 5d10+400 punch
+-62 -62 -62 -62
+CFHIJN 0 0 0
+stand stand male 25
+AHMV ABCDEFGHIJK medium unknown
+#4736
+monk~
+a monk in meditation~
+A monk utters the words of an ancient sutra.
+~
+With his prayer beads hung loosly around his arm, he strokes it slowly deep in concentration.
+Vague mumbling and rambling can be made out as he chants the sutras incoherantly.
+Occasionally, he reaches out for his 'wooden fish' and knocks it gently, meditating after training.
+~
+human~
+ABG 0 0 1000 0
+80 400 6000d1+500 50d30+19500 4d50+200 punch
+-54 -54 -54 -54
+0 0 0 0
+sit stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#4700
+wooden shelf~
+a wooden shelf~
+A dusty shelf is here, overflowing with holy scriptures.~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#4701
+the key~
+the key~
+A rusty key lies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 1 1 P
+#4702
+wooden shelf~
+a wooden shelf~
+A shelf is here, stacked with hundreds of kung-fu manuals.~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#4703
+Nine Suns Heavenly Skill Manual~
+the Nine Suns Heavenly Skill Manual~
+A thin, dogeared book is here.~
+unknown~
+wand ABGISY AO
+50 7 7 'fire breath' 0
+70 3 1 P
+#4704
+the Damo Sword Skill Manual~
+the Damo Sword Skill Manual~
+A thin brown book is here.~
+unknown~
+wand ABGISY AO
+50 8 8 'elemental fury' 0
+73 3 1 P
+#4705
+essence cleansing scripture~
+the Essence Cleansing Scripture~
+A thin brown manual is here.~
+unknown~
+wand 0 0
+60 2 2 'sanctuary' 0
+73 0 0 P
+#4706
+Hard Golden Finger Skill Manual~
+the Hard Golden Finger Skill Manual~
+A thin blue manual is here.~
+unknown~
+wand ABISY AO
+70 8 8 '(null)' 0
+0 3 1 P
+#4733
+abbot fozhu~
+abbot's Fozhu~
+The fozhu of the Shaolin abbot is dumped here.~
+unknown~
+armor AG AD
+25 25 25 25 0
+80 200 500 P
+A
+13 250
+A
+1 2
+A
+20 -3
+A
+4 2
+#4734
+abbot jiasha~
+abbot's Jiasha~
+A pile of long golden and red cloth has been left here.~
+unknown~
+armor BG AK
+15 15 15 30 0
+80 100 500 P
+A
+20 -3
+A
+4 2
+A
+17 -25
+A
+13 250
+A
+3 2
+#4741
+mu yu~
+mu-yu~
+A wooden object shaped into a fish gathers dust.~
+unknown~
+armor AB AO
+23 23 23 23 0
+80 30 100 P
+A
+19 20
+A
+18 20
+A
+13 150
+A
+12 150
+A
+20 -1
+A
+17 -20
+#4745
+prayer beads~
+prayer beads~
+A string of prayer beads has accidentally slipped of a monk's neck.~
+unknown~
+armor BG AC
+20 20 20 25 0
+80 10 100 P
+A
+20 -5
+A
+3 3
+A
+4 3
+A
+12 200
+A
+13 50
+#4746
+bed~
+a shabby bed~
+A wooden plank, without bedsheets and pillows, serves as a bed for the Abbot.~
+unknown~
+furniture 0 0
+1 10000 HK 2000 2000
+1 1000 0 P
+#0
+
+
+
+#ROOMS
+#4700
+Up the mountain path~
+The small worn out dirt path meanders its way up the mountain, with small
+cobblestones and pebbles littered messily along the sides.  Up above the
+mountain, you can barely make out the faint outline of a large temple.  
+~
+0 4 5
+D4
+~
+~
+0 0 4701
+S
+#4701
+Up the mountain path~
+The small worn out dirt path meanders its way up the mountains, with
+small cobblestones and pebbles littered messily along the sides.  Reaching
+closer to the top, you notice the faint cloudy mists around the peak of the
+mountain getting thicker, and harder to breathe.  
+~
+0 4 5
+D4
+~
+~
+0 0 4702
+D5
+~
+~
+0 0 4700
+S
+#4702
+Outside the doors of the temple~
+Heavy-looking doors made of iron prevent your entrance into the temple. 
+By the side of the temple, two grand looking lions carved out of stone poise
+in grandeur.  Above the door, is a small banner strewn across, with the
+words Shaolin Monastery written in ancient Chinese.  
+~
+0 0 5
+D0
+~
+~
+1 0 4703
+D5
+~
+~
+0 0 4701
+S
+#4703
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4710
+D1
+~
+~
+0 0 4706
+D2
+~
+~
+1 0 4702
+D3
+~
+~
+0 0 4704
+S
+#4704
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4711
+D1
+~
+~
+0 0 4703
+D3
+~
+~
+0 0 4705
+S
+#4705
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4712
+D1
+~
+~
+0 0 4704
+S
+#4706
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4709
+D1
+~
+~
+0 0 4707
+D3
+~
+~
+0 0 4703
+S
+#4707
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4708
+D1
+~
+~
+0 0 4723
+D3
+~
+~
+0 0 4706
+S
+#4708
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4717
+D2
+~
+~
+0 0 4707
+D3
+~
+~
+0 0 4709
+S
+#4709
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4716
+D1
+~
+~
+0 0 4708
+D2
+~
+~
+0 0 4706
+D3
+~
+~
+0 0 4710
+S
+#4710
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4715
+D1
+~
+~
+0 0 4709
+D2
+~
+~
+0 0 4703
+D3
+~
+~
+0 0 4711
+S
+#4711
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4714
+D1
+~
+~
+0 0 4710
+D2
+~
+~
+0 0 4704
+D3
+~
+~
+0 0 4712
+S
+#4712
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4713
+D1
+~
+~
+0 0 4711
+D2
+~
+~
+0 0 4705
+S
+#4713
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4722
+D1
+~
+~
+0 0 4714
+D2
+~
+~
+0 0 4712
+S
+#4714
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4721
+D1
+~
+~
+0 0 4715
+D2
+~
+~
+0 0 4711
+D3
+~
+~
+0 0 4713
+S
+#4715
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4720
+D1
+~
+~
+0 0 4716
+D2
+~
+~
+0 0 4710
+D3
+~
+~
+0 0 4714
+S
+#4716
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4719
+D1
+~
+~
+0 0 4717
+D2
+~
+~
+0 0 4709
+D3
+~
+~
+0 0 4715
+S
+#4717
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4718
+D1
+~
+~
+0 0 4747
+D2
+~
+~
+0 0 4708
+D3
+~
+~
+0 0 4716
+S
+#4718
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4735
+D2
+~
+~
+0 0 4717
+D3
+~
+~
+0 0 4719
+S
+#4719
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D1
+~
+~
+0 0 4718
+D2
+~
+~
+0 0 4716
+D3
+~
+~
+0 0 4720
+S
+#4720
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4733
+D1
+~
+~
+0 0 4719
+D2
+~
+~
+0 0 4715
+D3
+~
+~
+0 0 4721
+S
+#4721
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D1
+~
+~
+0 0 4720
+D2
+~
+~
+0 0 4714
+D3
+~
+~
+0 0 4722
+S
+#4722
+The Grand Courtyard~
+A great expanse of courtyard unfolds before your eyes.  The grey, spartan
+a stark contrast to the neat and orderly lines of shiny beige monk heads. 
+As the young monks carry out their daily routine of punches, kicks, jumps
+and strikes, the grand abbot is seen barking orders at them.  Apparently,
+this is where all the monks of Shaolin gather for their daily basic
+trainings.  
+~
+0 0 0
+D0
+~
+~
+0 0 4734
+D1
+~
+~
+0 0 4721
+D2
+~
+~
+0 0 4713
+S
+#4723
+The Library~
+Shelves upon shelves of Buddhist and Zen scriptures crowd your eyes.
+This is where the monks come to read the scriptures, in order to cleanse
+their soul, heart and mind. Knowledge is the key to nirvana - those monks
+obviously buy it, their noses are buried in the scriptures.
+~
+0 0 0
+D0
+~
+~
+0 0 4728
+D1
+~
+~
+0 0 4724
+D3
+~
+~
+0 0 4707
+S
+#4724
+The Library~
+Shelves upon shelves of Buddhist and Zen scriptures crowd your eyes.
+This is where the monks come to read the scriptures, in order to cleanse
+their soul, heart and mind. Knowledge is the key to nirvana - those monks
+obviously buy it, their noses are buried in the scriptures.
+~
+0 0 0
+D0
+~
+~
+0 0 4727
+D1
+~
+the~
+0 0 4725
+D3
+~
+~
+0 0 4723
+S
+#4725
+The Library~
+Shelves upon shelves of Buddhist and Zen scriptures crowd your eyes.
+This is where the monks come to read the scriptures, in order to cleanse
+their soul, heart and mind. Knowledge is the key to nirvana - those monks
+obviously buy it, their noses are buried in the scriptures.
+~
+0 0 0
+D0
+~
+~
+0 0 4726
+D3
+~
+~
+0 0 4724
+D5
+A steel trapdoor is here. You wonder where it leads to?
+nw
+ 
+~
+steel trapdoor~
+4 4701 4729
+S
+#4726
+The Library~
+Shelves upon shelves of Buddhist and Zen scriptures crowd your eyes.
+This is where the monks come to read the scriptures, in order to cleanse
+their soul, heart and mind. Knowledge is the key to nirvana - those monks
+obviously buy it, their noses are buried in the scriptures.
+~
+0 0 0
+D2
+~
+~
+0 0 4725
+D3
+~
+~
+0 0 4727
+S
+#4727
+The Library~
+Shelves upon shelves of Buddhist and Zen scriptures crowd your eyes.
+This is where the monks come to read the scriptures, in order to cleanse
+their soul, heart and mind. Knowledge is the key to nirvana - those monks
+obviously buy it, their noses are buried in the scriptures.
+~
+0 0 0
+D1
+~
+~
+0 0 4726
+D2
+~
+~
+0 0 4724
+D3
+~
+~
+0 0 4728
+S
+#4728
+The Library~
+Shelves upon shelves of Buddhist and Zen scriptures crowd your eyes.
+This is where the monks come to read the scriptures, in order to cleanse
+their soul, heart and mind. Knowledge is the key to nirvana - those monks
+obviously buy it, their noses are buried in the scriptures.
+~
+0 0 0
+D1
+~
+~
+0 0 4727
+D2
+~
+~
+0 0 4723
+S
+#4729
+The Hidden Library~
+You enter yet another library. Why did that monk try to stop you?
+All there is are shelves and shelves of scriptures. You walk closer
+to inspect the shelves, and suddenly you realise these are not
+scriptures, but manuals teaching some of the Shaolin's deadliest
+kung-fu.
+~
+0 0 0
+D0
+~
+~
+0 0 4731
+D3
+~
+~
+0 0 4730
+D4
+~
+~
+4 0 4725
+S
+#4730
+The Hidden Library~
+Shelf after shelve of kung-fu manuals. Some teach merely breathing
+techniques, others teach proper posture during a fight. Others teach
+lethal skills, like the Hard Golden Finger or the Six Channel Heavenly
+Sword. You wonder, why do monks learn these deadly kungfu?
+~
+0 0 0
+D0
+~
+~
+0 0 4732
+D1
+~
+~
+0 0 4729
+S
+#4731
+The Hidden Library~
+Shelf after shelve of kung-fu manuals. Some teach merely breathing
+techniques, others teach proper posture during a fight. Others teach
+lethal skills, like the Hard Golden Finger or the Six Channel Heavenly
+Sword. You wonder, why do monks learn these deadly kungfu?
+~
+0 0 0
+D2
+~
+~
+0 0 4729
+D3
+~
+~
+0 0 4732
+S
+#4732
+The Hidden Library~
+Shelf after shelve of kung-fu manuals. Some teach merely breathing
+techniques, others teach proper posture during a fight. Others teach
+lethal skills, like the Hard Golden Finger or the Six Channel Heavenly
+Sword. You wonder, why do monks learn these deadly kungfu?
+~
+0 0 0
+D1
+~
+~
+0 0 4731
+D2
+~
+~
+0 0 4730
+S
+#4733
+Ascending the stairs~
+The monks at Shaolin monastery train by their 2 guiding principles. 
+"First bitterness, than sweetness" , and "Shedding more sweat in peace,
+means less blood in war".  The small stairway leading to the temple is where
+the monks pray and meditate daily.  An ancient saying is inscribed along the
+pavement : I do not fear the 10000 kicks you have practiced once.  I only
+fear the one kick you have practiced 10000 times.  
+~
+0 0 0
+D0
+~
+~
+0 0 4736
+D2
+~
+~
+0 0 4720
+S
+#4734
+Ascending the stairs~
+The monks at Shaolin monastery train by their 2 guiding principles. 
+"First bitterness, than sweetness" , and "Shedding more sweat in peace,
+means less blood in war".  The small stairway leading to the temple is where
+the monks pray and meditate daily.  An ancient saying is inscribed along the
+pavement : I do not fear the 10000 kicks you have practiced once.  I only
+fear the one kick you have practiced 10000 times.  
+~
+0 0 0
+D0
+~
+~
+0 0 4738
+D2
+~
+~
+0 0 4722
+S
+#4735
+Ascending the stairs~
+The monks at Shaolin monastery train by their 2 guiding principles. 
+"First bitterness, than sweetness" , and "Shedding more sweat in peace,
+means less blood in war".  The small stairway leading to the temple is where
+the monks pray and meditate daily.  An ancient saying is inscribed along the
+pavement : I do not fear the 10000 kicks you have practiced once.  I only
+fear the one kick you have practiced 10000 times.  
+~
+0 0 0
+D0
+~
+~
+0 0 4740
+D2
+~
+~
+0 0 4718
+S
+#4736
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D0
+~
+~
+0 0 4743
+D1
+~
+~
+0 0 4739
+D2
+~
+~
+0 0 4733
+D3
+~
+~
+0 0 4737
+S
+#4737
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D0
+~
+~
+0 0 4744
+D1
+~
+~
+0 0 4736
+D3
+~
+~
+0 0 4738
+S
+#4738
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D0
+~
+~
+0 0 4745
+D1
+~
+~
+0 0 4737
+D2
+~
+~
+0 0 4734
+S
+#4739
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D0
+~
+~
+0 0 4742
+D1
+~
+~
+0 0 4740
+D3
+~
+~
+0 0 4736
+S
+#4740
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D0
+~
+~
+0 0 4741
+D2
+~
+~
+0 0 4735
+D3
+~
+~
+0 0 4739
+S
+#4741
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D2
+~
+~
+0 0 4740
+D3
+~
+~
+0 0 4742
+S
+#4742
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D1
+~
+~
+0 0 4741
+D2
+~
+~
+0 0 4739
+D3
+~
+~
+0 0 4743
+S
+#4743
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D0
+~
+~
+0 0 4746
+D1
+~
+~
+0 0 4742
+D2
+~
+~
+0 0 4736
+D3
+~
+~
+0 0 4744
+S
+#4744
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D1
+~
+~
+0 0 4743
+D2
+~
+~
+0 0 4737
+D3
+~
+~
+0 0 4745
+S
+#4745
+Gathering Hall~
+The scent of burning incense and joss sticks overwhelm your nasal
+passages as you approach the main gathering hall.  Here, monks gather to
+offer their prayers and well-wishes to the gods above, as well as to cleanse
+their soul of all sins.  The temple is lavishly decorated, furnished with
+golden statuettes of the various Buddhas, and religious sacred ornaments.  
+~
+0 0 0
+D1
+~
+~
+0 0 4744
+D2
+~
+~
+0 0 4738
+S
+#4746
+wooden plank bed~
+The room is plain, a stark contrast with the lavishly decorated temple
+outside.  Here, the Abbot sleeps in his humble abode, although not
+compatible with his status within the temple.  A shabby looking bed, with a
+few potted plants that have blossomed under his tender care, are about all
+the furnishings you can see.  On the wall is a scroll written in Chinese
+caligraphy : If one has patience, he is able to grind even a thick metal
+pipe into a small needle.  
+~
+0 0 0
+D2
+~
+~
+0 0 4743
+S
+#4747
+The Kitchen~
+The fresh smell of baked buns wafts into your nose, and you start
+to salivate. This must be the kitchen, where food is prepared for
+the monks to eat and recharge their energy.
+~
+0 0 0
+D1
+~
+~
+0 0 4748
+D2
+~
+~
+0 0 4752
+D3
+~
+~
+0 0 4717
+S
+#4748
+The Kitchen~
+The kitchen has many steamers and coal fires with which the cooking monks
+cook their food. The monks are strict vegetarians, firmly believing
+in not killing other animals to eat them. All beings are equal, they say.
+No matter, they cook their veggies pretty well.
+~
+0 0 0
+D1
+~
+~
+0 0 4749
+D2
+~
+~
+0 0 4751
+D3
+~
+~
+0 0 4747
+S
+#4749
+The Kitchen~
+The kitchen has many steamers and coal fires with which the cooking monks
+cook their food. The monks are strict vegetarians, firmly believing
+in not killing other animals to eat them. All beings are equal, they say.
+No matter, they cook their veggies pretty well.
+~
+0 0 0
+D2
+~
+~
+0 0 4750
+D3
+~
+~
+0 0 4748
+S
+#4750
+The Kitchen~
+The kitchen has many steamers and coal fires with which the cooking monks
+cook their food. The monks are strict vegetarians, firmly believing
+in not killing other animals to eat them. All beings are equal, they say.
+No matter, they cook their veggies pretty well.
+~
+0 0 0
+D0
+~
+~
+0 0 4749
+D3
+~
+~
+0 0 4751
+S
+#4751
+The Kitchen~
+The kitchen has many steamers and coal fires with which the cooking monks
+cook their food. The monks are strict vegetarians, firmly believing
+in not killing other animals to eat them. All beings are equal, they say.
+No matter, they cook their veggies pretty well.
+~
+0 0 0
+D0
+~
+~
+0 0 4748
+D1
+~
+~
+0 0 4750
+D3
+~
+~
+0 0 4752
+S
+#4752
+The Kitchen~
+The kitchen has many steamers and coal fires with which the cooking monks
+cook their food. The monks are strict vegetarians, firmly believing
+in not killing other animals to eat them. All beings are equal, they say.
+No matter, they cook their veggies pretty well.
+~
+0 0 0
+D0
+~
+~
+0 0 4747
+D1
+~
+~
+0 0 4751
+S
+#0
+
+
+
+#SPECIALS
+M 4701 spec_breath_fire
+M 4702 spec_janitor
+S
+
+
+
+#RESETS
+D 0 4702 0 1
+D 0 4703 2 1
+D 0 4725 5 2
+D 0 4729 4 2
+M 0 4702 2 4702 2
+M 0 4703 20 4703 4
+M 0 4703 20 4704 4
+M 0 4703 20 4705 4
+M 0 4703 20 4706 4
+M 0 4703 20 4707 4
+M 0 4703 20 4707 4
+M 0 4712 20 4708 4
+M 0 4712 20 4709 4
+M 0 4712 20 4710 4
+M 0 4712 20 4711 4
+M 0 4712 20 4712 4
+M 0 4713 20 4713 4
+M 0 4713 20 4714 4
+M 0 4713 20 4715 4
+M 0 4713 20 4716 4
+M 0 4713 20 4717 4
+M 0 4722 20 4718 4
+M 0 4722 20 4719 4
+M 0 4722 20 4720 4
+M 0 4722 20 4721 4
+M 0 4722 20 4722 4
+O 0 4700 0 4723
+M 0 4700 1 4723 1
+O 0 4700 0 4724
+M 0 4700 3 4724 1
+O 0 4700 0 4725
+M 0 4701 1 4725 1
+M 0 4700 2 4725 1
+G 0 4701 0
+O 0 4700 0 4726
+M 0 4700 1 4726 1
+O 0 4700 0 4727
+M 0 4700 2 4727 1
+O 0 4700 0 4728
+M 0 4700 2 4728 1
+O 0 4702 0 4729
+P 0 4703 0 4702 1
+O 0 4702 0 4730
+P 0 4706 0 4702 1
+O 0 4702 0 4731
+P 0 4705 0 4702 1
+O 0 4702 0 4732
+P 0 4704 0 4702 1
+M 0 4733 1 4733 1
+E 0 4734 0 12
+E 0 4733 0 5
+M 0 4736 30 4736 3
+M 0 4736 30 4737 3
+E 0 4745 0 3
+M 0 4736 30 4738 3
+E 0 4745 0 3
+M 0 4736 30 4739 3
+E 0 4741 0 17
+M 0 4736 30 4740 3
+E 0 4741 0 17
+M 0 4736 30 4741 3
+E 0 4741 0 17
+M 0 4736 30 4742 3
+E 0 4741 0 17
+M 0 4736 30 4743 3
+M 0 4736 30 4744 3
+E 0 4745 0 3
+M 0 4736 30 4745 3
+E 0 4745 0 3
+O 0 4746 0 4746
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

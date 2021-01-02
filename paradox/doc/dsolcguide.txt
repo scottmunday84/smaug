@@ -1,0 +1,135 @@
+                        DS OLC Armor and Weapon Guide
+
+   Level of       Total Max       Max           Armor
+   Eq/Armor      hp/mana/move    Saves   Stats  Class     Damroll/Hitroll
+
+  0-10        none              one      none  0-4      1 hitroll, 1
+                                                        damroll
+
+  11-20       armor: 60         -1       1pt   5-8      2 hitroll 2
+              weapon: 30                                damroll
+
+  21-30       armor: 90         -1       2pts  9-12     3 hitroll, 3
+              weapon: 45                                damroll
+
+  31-40       armor: 120        -2       3pts  13-16    4 hitroll, 4
+              weapon: 60                                damroll
+
+  41-50       armor: 150        -2       4pts  17-20    5 hitroll 5
+              weapon 75                                 damroll
+
+  51-60       armor: 200        -3       4pts  18       7 hitroll, 7
+              weapon: 100                               damroll
+
+  61-70       armor: 250        -3       5pts  21       10 hitroll, 10
+              weapon: 125                               damroll
+
+  71-80       armor: 300        -4       5pts  24       14 hitroll, 14
+              weapon 150                                damroll
+
+  81-90       armor: 350        -4       6pts  37       19 hitroll, 19
+              weapon: 175                               damroll
+
+  91-100      armor: 375        -5       6pts  32       25 hitroll, 25
+              weapon: 200                               damroll
+
+  101         armor: 400        -5       7pts  33       35 hitroll, 35
+              weapon: 225                               damroll
+
+Mob Wealth: 25 * Level of Mob
+
+Potions: Potions: 1 spell (except cure light/serious/critical) for every 51
+levels.
+Scrolls: 1 spell for every 75 levels.
+*** (Note, the levels go by the object level, not the spell level) ***
+
+Weapon's Dice (these numbers are not variable)
+ LevelDice  Ave Dam
+ 1-2  2d3   4
+ 3-4  2d4   5
+ 5-6  3d3   6
+ 7-8  2d6   7
+ 9    7d8   8
+ 10-113d5   9
+ 12   4d4   10
+ 13-142d10  11
+ 15   4d5   12
+ 16-173d8   13
+ 18   4d6   14
+ 19-205d5   15
+ 21   4d7   16
+ 22-235d6   17
+ 24   4d8   18
+ 25-263d12  19
+ 27   5d7   20
+ 28-296d6   21
+ 30   5d8   22
+ 31   2d22  23
+ 32   6d7   24
+ 33   5d9   25
+ 34   4d12  26
+ 35   6d8   27
+ 36   7d7   28
+ 37   2d28  29
+ 38   6d9   30
+ 39   7d8   31
+ 40   5d12  32
+ 41-426d10  33
+ 43   4d16  34
+ 44-457d9   35
+ 46   8d8   36
+ 47   5d14  37
+ 48   7d10  38
+ 49   6d12  39
+ 50   8d9   40
+ 51   2d40  41
+ 52   5d16  42
+ 53   3d28  43
+ 54   8d10  44
+ 55   9d9   45
+ 56   4d22  46
+ 57   5d18  47
+ 58   8d11  48
+ 59   9d10  49
+ 60   5d19  50
+ 61   6d16  51
+ 62   8d12  52
+ 63   2d52  53
+ 64   9d11  54
+ 65   10d10 55
+ 66   8d13  56
+ 67   6d18  57
+ 68   9d12  58
+ 69   7d16  59
+ 70   10d11 60
+ 71   11d10 61
+ 72   4d30  62
+ 73   9d13  63
+ 74   8d15  64
+ 75   10d12 65
+ 76   11d11 66
+ 77   9d14  67
+ 78   8d16  68
+ 79   6d22  69
+ 80   7d19  70
+ 81   13d10 71
+ 82   9d15  72
+ 83   7d20  73
+ 84   4d36  74
+ 85   10d14 75
+ 86   8d18  76
+ 87   11d13 77
+ 88   13d11 78
+ 89   3d52  79
+ 90   8d19  80
+ 91   9d17  81
+ 92   3d54  82
+ 93   11d14 83
+ 94   12d13 84
+ 95   10d16 85
+ 96   4d42  86
+ 97   6d28  87
+ 98   11d15 88
+ 99   3d58  89
+ 100  12d14 90
+ 101  13d13 91

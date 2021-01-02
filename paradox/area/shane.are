@@ -1,0 +1,1521 @@
+#AREADATA
+Name Elven Academy~
+Builders None~
+VNUMs 100 199
+Credits {40  60} Sha/Kat Elven Academy~
+Security 9
+End
+
+
+
+#MOBILES
+#100
+NotAtorn~
+Atorn~
+Atorn is here, begging for mercy.
+~
+Atorn!
+~
+human~
+ABFG 0 H 0 0
+101 101 12d573+2775 12d573+2775 5d20+50 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand none 10000
+0 J medium unknown
+F for AHMV
+F par ABCDEFGHIK
+#101
+shadow beast~
+a shadow beast~
+A Shadow Beast is lurking in the shadows.
+~
+Eight feet tall, this black beast towers over you and warns you to stay away.
+~
+giant~
+AFGH V H -100 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+DEO 0 EHI JPZ
+stand stand male 1000
+AGHMV ABCDEFGHIJKUV medium unknown
+#102
+grey wolf~
+A grey wolf~
+A grey wolf howls at the moon
+~
+It is a large ferocious beast, with blood-shot eyes, and menacing fangs waiting to sink themselves into flesh.
+~
+wolf~
+ABF Z 0 0 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+FH 0 0 0
+stand stand none 0
+AGV ACDEFJKQV medium unknown
+#103
+elf guard~
+an elf guard~
+An elf guard is standing here attentively
+~
+His build is small, and he has a sword in a scabbard at his side.
+He looks at you warily, waiting for the first move.
+~
+elf~
+ABF J 0 1000 0
+60 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+R 0 B Z
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#104
+elven archer~
+an elven archer~
+An elven archer is here training dilligently.
+~
+He is here clothed in cloth garments. His bow is of inferior quality, and as he grasps his bow nervously in his hands, he wonders if he can hit the target.
+~
+elf~
+AB J 0 1000 0
+60 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+R 0 B Z
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#106
+elven warrior~
+an elven warrior~
+An elven warrior is brandishing his sword threateningly.
+~
+The grip on his sword is rather clumsy and weak, although he makes up for the lack of skill with sheer courage and determination.
+~
+elf~
+AB J 0 1000 0
+60 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+R 0 B Z
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#113
+elven ranger~
+an elven ranger~
+An elven ranger is taking aim... beware!
+~
+He places a finely crafted arrow in his bow, and skillfully takes aim at the target. 
+He has yet to miss a single shot, so steer clear of him.
+~
+elf~
+AB J 0 1000 0
+60 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+R 0 B Z
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#115
+elven knight~
+An elven knight~
+An elven knight is sharpening his sword.
+~
+A handsome elf with sharp facial features glares icily at you.You had better not offend him.
+~
+elf~
+AB J 0 1000 0
+60 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+R 0 B Z
+stand stand none 5000
+AHMV ABCDEFGHIJK medium unknown
+#125
+elven cleric~
+an elven cleric~
+An elven cleric is busy collecting ginseng roots.
+~
+He is holding a book on alchemy, occassionally referring to the pages as he concocts potions of different types.
+He smiles gently at you, welcoming you into the herb fields.
+~
+elf~
+ABQ J 0 1000 0
+60 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+R 0 B Z
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#127
+elven mage~
+an elven mage~
+An elven mage is here muttering unintellgible words.
+~
+A haggard-looking elven mage is standing here holding a well-polished rod.
+He seems to be aiming his rod at you!
+~
+elf~
+ABR J 0 1000 0
+60 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+R 0 B Z
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#129
+elven priest~
+an elven priest~
+An elven priest is sitting here deep in meditation.
+~
+An elven priest with a long beard is sitting down, eyebrows knitted together in concentration.
+His hands are clasped together in prayer, and a faint holy aura is outlining his body.
+~
+elf~
+ABQ J 0 1000 0
+65 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+R 0 B Z
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#131
+elven wizard~
+an elven wizard~
+The elven wizard utters the words 'odin tharirme'.
+~
+His facial features are gaunt yet wise, through years of intense spell-casting.
+In his left hand is a diamond-studded wand, as he begins to wave it in circles in the air.
+~
+elf~
+ABR J 0 1000 0
+65 40 15d10+1850 15d10+1850 4d8+13 none
+-22 -22 -22 -22
+R 0 B Z
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#137
+elven medical officer~
+an elven medical officer~
+An elven medical officer is tending to the wounded.
+~
+He has a kindly face, and whispers words of encouragement to injured elves.
+Noticing you, he asks, "Would you like a seat?"
+~
+elf~
+ABQR JV H 1000 0
+50 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+R 0 B Z
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#140
+lazy elf~
+a lazy elf~
+A lazy elf is here, snoring away.
+~
+You see an elf with its head on the table, apparently resting during work time.
+He is definitely the laziest of them all, making use of his training time to catch up on his resting.
+~
+elf~
+AB JV 0 1000 0
+60 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+R 0 B Z
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#141
+standard mob~
+standard mob~
+~
+~
+human~
+A 0 0 0 0
+1 1 2d6+10 2d6+10 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#143
+sleepy elf~
+sleepy elf~
+A sleepy elf is here, yawning with his mouth wide open.
+~
+An elf is here clad in cloth garments. He is obviously one of the poorer students in this academy, and can afford to laze around and do nothing.
+Seeing him alone makes you feel sleepy too..... ZzZZzZZzZZzzZZz
+~
+elf~
+AB J 0 0 0
+60 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+R 0 B Z
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#147
+grumpy elf~
+a grumpy elf~
+A grumpy elf has just woken up.
+~
+Furious that your sudden intrusion has awaken him, this hagged looking elf is shaking his fist threateningly at you.
+Foul words can be heard spewing from his mouth, and his eyes are ablazen with fury. 
+It would be unwise to provoke him any further.
+~
+elf~
+AB J 0 1000 0
+60 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+R 0 B Z
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#149
+angry elf~
+an angry elf~
+An angry looking elf slams his fists on his table!
+~
+In his hands is a letter from the headmaster. Apparently, the news within does not looking very pleasing as the elf is filled with rage.
+In angst, he slams his fists against the table, clearly showing his displeasure over the headmaster's recent decision.
+~
+elf~
+AB J 0 0 0
+60 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+R 0 B Z
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#151
+headmaster~
+a headmaster~
+A headmaster glares icily at you as you enter.
+~
+Sitting by his table and a neat pile of books, the hardworking headmaster carries out all his administrative duties in his private office.
+~
+elf~
+ABQRT J H 1000 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+R 0 B Z
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#100
+booger~
+a piece of {2b{3ooge{2r {x~
+A long piece of snot is on the floor. Eeeewww~
+unknown~
+weapon F AN
+dagger 1 1 drowning 0
+102 1 10000000 P
+#101
+shimmering portal~
+a shimmering portal~
+A {Ys{yh{Yi{ym{Ym{ye{Yr{yi{Yn{yg{x portal is here, leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#102
+standard object~
+standard object~
+A standard object is lying here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#105
+red apple~
+an apple~
+A {!re{1d, {@le{2af{@y {xapple.~
+unknown~
+food 0 A
+0 0 0 0 0
+0 1 1 P
+#107
+beer~
+a {6c{^u{6p {xof {3b{#ee{3r {x~
+A {6c{^u{6p {xof frothy {3b{#ee{3r {xis here.~
+unknown~
+drink 0 A
+-1 1 'beer' 0 0
+0 1 1 P
+#108
+pizza flavored pringles~
+{1piz{!za {2flavo{@red {3prin{#gles {x~
+A pack of {1piz{!za {2flavo{@red {3prin{#gles {xhave been left on the floor~
+unknown~
+food 0 A
+-1 10 0 0 0
+0 1 1 P
+#110
+standard object~
+standard object~
+A standard object is lying here.~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#111
+thorny sleeves~
+{8S{7om{8e {@T{2ho{@r{2n{@Y {1Sl{!e{1ev{!e{1s {x~
+*OUCH*! What are you wearing these for?~
+unknown~
+armor E AI
+11 11 11 11 0
+20 4 2500 P
+A
+12 20
+A
+19 3
+A
+18 3
+A
+1 2
+#114
+sweaty singlet~
+a {8Sw{7eA{8ty {&Sin{7gL{&et{7! {x~
+A sweat-stained singlet is here.~
+unknown~
+armor I AD
+11 11 11 11 0
+20 3 1000 P
+A
+5 2
+A
+18 5
+A
+19 5
+#119
+elven bow~
+elven bow~
+An elven longbow is here, with an arrow notched to the bow.~
+unknown~
+weapon I AN
+exotic 9 9 drain B
+50 3 100000 P
+#120
+butterfly shaped earrings~
+{@Bu{3tt{#er{2fl{@y-{7Sh{8ap{7e{8d {5Ea{%r{5ri{%n{5gs {x~
+Some ornate butterfly-shaped jewellery is lying here glittering.~
+unknown~
+armor AI AU
+10 10 9 10 0
+20 5 1000 P
+A
+20 -1
+A
+4 1
+A
+3 1
+#130
+a {#Fo{3rb{#i{3dd{#en {3Fr{#u{3it {x~
+a {#Fo{3rb{#i{3dd{#en {3Fr{#u{3it {x~
+The Forbidden Fruit is sitting here, waiting for someone to eat it.~
+unknown~
+pill 0 AO
+101 'curse' 'slow' 'poison' 'acid blast'
+25 3 100000 P
+#136
+first {1aid {xkit~
+first aid kit~
+A first aid kit is here, with a {1red {xcross on it.~
+unknown~
+armor I AO
+18 20 18 17 0
+45 4 100000 P
+A
+13 100
+A
+18 5
+A
+19 5
+#137
+couch~
+a couch~
+A tempting couch is here.~
+unknown~
+furniture 0 0
+10 100 K 3000 3000
+1 5 1 P
+#151
+diploma~
+{xA {DDi{xp{Dlo{xm{Da{x~
+A Diploma is lying here.~
+unknown~
+armor 0 AO
+18 18 18 18 0
+50 5 100000 P
+A
+3 3
+A
+4 3
+A
+5 3
+A
+20 -2
+#152
+glowing stone~
+{xA {rg{yl{Yo{Ww{Yi{yn{rg{x stone~
+{xA {rg{yl{Yo{Ww{Yi{yn{rg{x stone is lying here.~
+unknown~
+demon_stone 0 AO
+0 0 0 0 0
+59 10 5000 P
+#0
+
+
+
+#ROOMS
+#100
+The edge of the forest~
+You are standing in front of the southern edge of a huge rainforest.  To
+the north, you can only make out the faint outline of more trees.  
+~
+0 0 3
+D0
+~
+~
+0 0 101
+S
+#101
+A trail through the light forest~
+You are on a trail leading deeper into the heart of the forest.  To the
+south of you, is the edge of the forest.  The trail leads further into the
+dark forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 102
+D2
+~
+~
+0 0 100
+S
+#102
+A trail through the dense forest~
+You are on a dirt path leading u northwards, into the unknown.  To the
+south, the forest gradually seems to get lighter.  The forest seems to
+stretch for miles, seemingly impossible to pass through.  There is still
+enough time for you to turn back.  
+~
+0 0 3
+D1
+~
+~
+0 0 120
+D2
+~
+~
+0 0 101
+D3
+~
+~
+0 0 103
+S
+#103
+A secret cavern~
+Black shadows are casts upon the dark walls of the cavern.  You can hear
+some strange noises in the corner.  
+~
+0 0 3
+D0
+~
+~
+0 0 104
+D1
+~
+~
+0 0 102
+S
+#104
+Elven training grounds~
+You notice how the place is filled with small elves learning how to shoot
+their arrows.  A small target can be seen hung on a tree, and judging by the
+elves' skill, they are apparently weak.  
+~
+0 0 3
+D0
+~
+~
+0 0 111
+D2
+~
+~
+0 0 103
+D3
+~
+~
+0 0 105
+S
+#105
+Elven training grounds~
+You notice how the place is filled with small elves learning how to shoot
+their arrows.  A small target can be seen hung on a tree, and judging by the
+elves' skill, they are apparently weak.  
+~
+0 0 3
+D0
+~
+~
+0 0 110
+D1
+~
+~
+0 0 104
+D3
+~
+~
+0 0 106
+S
+#106
+Elven training grounds~
+You notice how the place is filled with small elves clad in chinky brass
+armor.  Many torn and tattered training dummies can be seen, showing how
+intensive training is.  
+~
+0 0 3
+D0
+~
+~
+0 0 109
+D1
+~
+~
+0 0 105
+D3
+~
+~
+0 0 107
+S
+#107
+Elven training grounds~
+You notice how the place is filled with small elves clad in chinky brass
+armor.  Many torn and tattered training dummies can be seen, showing how
+intensive training is.  
+~
+0 0 3
+D0
+~
+~
+0 0 108
+D1
+~
+~
+0 0 106
+S
+#108
+Elven training grounds~
+You notice how the place is filled with small elves clad in chinky brass
+armor.  Many torn and tattered training dummies can be seen, showing how
+intensive training is.  
+~
+0 0 3
+D0
+~
+~
+0 0 115
+D1
+~
+~
+0 0 109
+D2
+~
+~
+0 0 107
+S
+#109
+Elven training grounds~
+You notice how the place is filled with small elves clad in chinky brass
+armor.  Many torn and tattered training dummies can be seen, showing how
+intensive training is.  
+~
+0 0 3
+D0
+~
+~
+0 0 114
+D1
+~
+~
+0 0 110
+D2
+~
+~
+0 0 106
+D3
+~
+~
+0 0 108
+S
+#110
+Elven training grounds~
+You notice how the place is filled with small elves learning how to shoot
+their arrows.  A small target can be seen hung on a tree, and judging by the
+elves' skill, they are apparently weak.  
+~
+0 0 3
+D0
+~
+~
+0 0 113
+D1
+~
+~
+0 0 111
+D2
+~
+~
+0 0 105
+D3
+~
+~
+0 0 109
+S
+#111
+Elven training grounds~
+You notice how the place is filled with small elves learning how to shoot
+their arrows.  A small target can be seen hung on a tree, and judging by the
+elves' skill, they are apparently weak.  
+~
+0 0 3
+D0
+~
+~
+0 0 112
+D2
+~
+~
+0 0 104
+D3
+~
+~
+0 0 110
+S
+#112
+Elven training grounds~
+Here, many skilled elven bowsmen are flaunting their superior skills and
+marksmanship.  It appears that none of them have missed the target yet, as a
+result of their intensive training as a beginner.  The elven bowsmen and
+rangers are too busy training to notice the entrance of you, the stranger.  
+~
+0 0 3
+D0
+~
+~
+0 0 119
+D2
+~
+~
+0 0 111
+D3
+~
+~
+0 0 113
+S
+#113
+Elven training grounds~
+Here, many skilled elven bowsmen are flaunting their superior skills and
+marksmanship.  It appears that none of them have missed the target yet, as a
+result of their intensive training as a beginner.  The elven bowsmen and
+rangers are too busy training to notice the entrance of you, the stranger.  
+~
+0 0 3
+D0
+~
+~
+0 0 118
+D1
+~
+~
+0 0 112
+D2
+~
+~
+0 0 110
+D3
+~
+~
+0 0 114
+S
+#114
+Elven training grounds~
+Here, burly elves are wielding large axes and swords, hacking and
+slashing away at each other.  What looks like a friendly spar, seems
+otherwise.  It would seem foolish to anger these trained elvish knights.  
+~
+0 0 3
+D0
+~
+~
+0 0 117
+D1
+~
+~
+0 0 113
+D2
+~
+~
+0 0 109
+D3
+~
+~
+0 0 115
+S
+#115
+Elven training grounds~
+Here, burly elves are wielding large axes and swords, hacking and
+slashing away at each other.  What looks like a friendly spar, seems
+otherwise.  It would seem foolish to anger these trained elvish knights.  
+~
+0 0 3
+D0
+~
+~
+0 0 116
+D1
+~
+~
+0 0 114
+D2
+~
+~
+0 0 108
+S
+#116
+Elven training grounds~
+Here, burly elves are wielding large axes and swords, hacking and
+slashing away at each other.  What looks like a friendly spar, seems
+otherwise.  It would seem foolish to anger these trained elvish knights.  
+~
+0 0 3
+D1
+~
+~
+0 0 117
+D2
+~
+~
+0 0 115
+S
+#117
+Elven training grounds~
+Here, burly elves are wielding large axes and swords, hacking and
+slashing away at each other.  What looks like a friendly spar, seems
+otherwise.  It would seem foolish to anger these trained elvish knights.  
+~
+0 0 3
+D1
+~
+~
+0 0 118
+D2
+~
+~
+0 0 114
+D3
+~
+~
+0 0 116
+S
+#118
+Elven training grounds~
+Here, many skilled elven bowsmen are flaunting their superior skills and
+marksmanship.  It appears that none of them have missed the target yet, as a
+result of their intensive training as a beginner.  The elven bowsmen and
+rangers are too busy training to notice the entrance of you, the stranger.  
+~
+0 0 3
+D1
+~
+~
+0 0 119
+D2
+~
+~
+0 0 113
+D3
+~
+~
+0 0 117
+S
+#119
+Elven training grounds~
+Here, many skilled elven bowsmen are flaunting their superior skills and
+marksmanship.  It appears that none of them have missed the target yet, as a
+result of their intensive training as a beginner.  The elven bowsmen and
+rangers are too busy training to notice the entrance of you, the stranger.  
+~
+0 0 3
+D1
+~
+~
+0 0 138
+D2
+~
+~
+0 0 112
+D3
+~
+~
+0 0 118
+S
+#120
+A secret cavern~
+Black shadows are casts upon the dark walls of the cavern.  You can hear
+some strange noises in the corner.  
+~
+0 0 3
+D0
+~
+~
+0 0 127
+D3
+~
+~
+0 0 102
+S
+#121
+Elven training grounds~
+Flames spurt out of the ground, and bolts of lightning shatter across the
+sky.  Blasts of acid and shards of ice can be seen hurled across the room. 
+Groups of mages loiter around the area, chattering incoherantly.  
+~
+0 0 0
+D0
+~
+~
+0 0 132
+D1
+~
+~
+0 0 122
+D2
+~
+~
+0 0 127
+S
+#122
+Elven training grounds~
+Flames spurt out of the ground, and bolts of lightning shatter across the
+sky.  Blasts of acid and shards of ice can be seen hurled across the room. 
+Groups of mages loiter around the area, chattering incoherantly.  
+~
+0 0 0
+D0
+~
+~
+0 0 131
+D1
+~
+~
+0 0 123
+D2
+~
+~
+0 0 126
+D3
+~
+~
+0 0 121
+S
+#123
+Elven training grounds~
+An atmosphere of peace and tranquility hang above the herb fields.  Small
+elvish clerics hustle about the field, collecting rare herbs and brewing
+healing and curative potions.  
+~
+0 0 0
+D0
+~
+~
+0 0 130
+D1
+~
+~
+0 0 128
+D2
+~
+~
+0 0 125
+D3
+~
+~
+0 0 122
+S
+#124
+Elven training grounds~
+An atmosphere of peace and tranquility hang above the herb fields.  Small
+elvish clerics hustle about the field, collecting rare herbs and brewing
+healing and curative potions.  
+~
+0 0 0
+D0
+~
+~
+0 0 128
+D3
+~
+~
+0 0 125
+S
+#125
+Elven training grounds~
+An atmosphere of peace and tranquility hang above the herb fields.  Small
+elvish clerics hustle about the field, collecting rare herbs and brewing
+healing and curative potions.  
+~
+0 0 0
+D0
+~
+~
+0 0 123
+D1
+~
+~
+0 0 124
+D3
+~
+~
+0 0 126
+S
+#126
+Elven training grounds~
+Flames spurt out of the ground, and bolts of lightning shatter across the
+sky.  Blasts of acid and shards of ice can be seen hurled across the room. 
+Groups of mages loiter around the area, chattering incoherantly.  
+~
+0 0 0
+D0
+~
+~
+0 0 122
+D1
+~
+~
+0 0 125
+D3
+~
+~
+0 0 127
+S
+#127
+Elven training grounds~
+Flames spurt out of the ground, and bolts of lightning shatter across the
+sky.  Blasts of acid and shards of ice can be seen hurled across the room. 
+Groups of mages loiter around the area, chattering incoherantly.  
+~
+0 0 0
+D0
+~
+~
+0 0 121
+D1
+~
+~
+0 0 126
+D2
+~
+~
+0 0 120
+S
+#128
+Elven training grounds~
+An atmosphere of peace and tranquility hang above the herb fields.  Small
+elvish clerics hustle about the field, collecting rare herbs and brewing
+healing and curative potions.  
+~
+0 0 0
+D0
+~
+~
+0 0 129
+D2
+~
+~
+0 0 124
+D3
+~
+~
+0 0 123
+S
+#129
+Elven training grounds~
+Many elven priests are here, deep in meditation.  You can feel their
+intense concentration in their effort to increase their knowledge.  The
+eerie silence sends chills down your spine.  
+~
+0 0 0
+D0
+~
+~
+0 0 136
+D2
+~
+~
+0 0 128
+D3
+~
+~
+0 0 130
+S
+#130
+Elven training grounds~
+Many elven priests are here, deep in meditation.  You can feel their
+intense concentration in their effort to increase their knowledge.  The
+eerie silence sends chills down your spine.  
+~
+0 0 0
+D0
+~
+~
+0 0 135
+D1
+~
+~
+0 0 129
+D2
+~
+~
+0 0 123
+D3
+~
+~
+0 0 131
+S
+#131
+Elven training grounds~
+Fiery blazes of intense heat and gales of raging tempest engulf the elven
+wizards as they practice their spell-casting.  All the nearby trees have
+been either uprooted by the hurricanes, or incinerated by the infernos and
+various complex spells.  
+~
+0 0 0
+D0
+~
+~
+0 0 134
+D1
+~
+~
+0 0 130
+D2
+~
+~
+0 0 122
+D3
+~
+~
+0 0 132
+S
+#132
+Elven training grounds~
+Fiery blazes of intense heat and gales of raging tempest engulf the elven
+wizards as they practice their spell-casting.  All the nearby trees have
+been either uprooted by the hurricanes, or incinerated by the infernos and
+various complex spells.  
+~
+0 0 0
+D0
+~
+~
+0 0 133
+D1
+~
+~
+0 0 131
+D2
+~
+~
+0 0 121
+S
+#133
+Elven training grounds~
+Fiery blazes of intense heat and gales of raging tempest engulf the elven
+wizards as they practice their spell-casting.  All the nearby trees have
+been either uprooted by the hurricanes, or incinerated by the infernos and
+various complex spells.  
+~
+0 0 0
+D1
+~
+~
+0 0 134
+D2
+~
+~
+0 0 132
+D3
+~
+~
+0 0 138
+S
+#134
+Elven training grounds~
+Fiery blazes of intense heat and gales of raging tempest engulf the elven
+wizards as they practice their spell-casting.  All the nearby trees have
+been either uprooted by the hurricanes, or incinerated by the infernos and
+various complex spells.  
+~
+0 0 0
+D0
+~
+~
+0 0 137
+D1
+~
+~
+0 0 135
+D2
+~
+~
+0 0 131
+D3
+~
+~
+0 0 133
+S
+#135
+Elven training grounds~
+Many elven priests are here, deep in meditation.  You can feel their
+intense concentration in their effort to increase their knowledge.  The
+eerie silence sends chills down your spine.  
+~
+0 0 0
+D1
+~
+~
+0 0 136
+D2
+~
+~
+0 0 130
+D3
+~
+~
+0 0 134
+S
+#136
+Elven training grounds~
+Many elven priests are here, deep in meditation.  You can feel their
+intense concentration in their effort to increase their knowledge.  The
+eerie silence sends chills down your spine.  
+~
+0 0 0
+D2
+~
+~
+0 0 129
+D3
+~
+~
+0 0 135
+S
+#137
+Medical tent~
+This is where injured elves come to rest and heal up.  You see a medical
+officer nearby tending to the wounded.  You decide not to disturb him.  
+~
+0 0 0
+D2
+~
+~
+0 0 134
+S
+#138
+A pathway~
+This is a pathway leading away from the shouts of the training grounds. 
+It looks like this leads to the boarding houses, where elves study and
+prepare for exams.  
+~
+0 0 0
+D0
+~
+~
+0 0 139
+D1
+~
+~
+0 0 133
+D3
+~
+~
+0 0 119
+S
+#139
+A pathway~
+This is a pathway leading away from the shouts of the training grounds. 
+It looks like this leads to the boarding houses, where elves study and
+prepare for exams.  
+~
+0 0 0
+D0
+~
+~
+0 0 142
+D1
+~
+~
+0 0 140
+D2
+~
+~
+0 0 138
+D3
+~
+~
+0 0 141
+S
+#140
+An elven house~
+This is one of the many boarding houses which are available here, for
+elves who live far away.  Here, they can furiously study and train at the
+same time.  
+~
+0 0 0
+D3
+~
+~
+0 0 139
+S
+#141
+An elven house~
+This is one of the many boarding houses which are available here, for
+elves who live far away.  Here, they can furiously study and train at the
+same time.  
+~
+0 0 0
+D1
+~
+~
+0 0 139
+S
+#142
+A pathway~
+This is a pathway leading away from the shouts of the training grounds. 
+It looks like this leads to the boarding houses, where elves study and
+prepare for exams.  
+~
+0 0 0
+D0
+~
+~
+0 0 145
+D1
+~
+~
+0 0 143
+D2
+~
+~
+0 0 139
+D3
+~
+~
+0 0 144
+S
+#143
+An elven house~
+This is one of the many boarding houses which are available here, for
+elves who live far away.  Here, they can furiously study and train at the
+same time.  
+~
+0 0 0
+D3
+~
+~
+0 0 142
+S
+#144
+An elven house~
+This is one of the many boarding houses which are available here, for
+elves who live far away.  Here, they can furiously study and train at the
+same time.  
+~
+0 0 0
+D1
+~
+~
+0 0 142
+S
+#145
+A pathway~
+This is a pathway leading away from the shouts of the training grounds. 
+It looks like this leads to the boarding houses, where elves study and
+prepare for exams.  
+~
+0 0 0
+D0
+~
+~
+0 0 148
+D1
+~
+~
+0 0 146
+D2
+~
+~
+0 0 142
+D3
+~
+~
+0 0 147
+S
+#146
+An elven house~
+This is one of the many boarding houses which are available here, for
+elves who live far away.  Here, they can furiously study and train at the
+same time.  
+~
+0 0 0
+D3
+~
+~
+0 0 145
+S
+#147
+An elven house~
+This is one of the many boarding houses which are available here, for
+elves who live far away.  Here, they can furiously study and train at the
+same time.  
+~
+0 0 0
+D1
+~
+~
+0 0 145
+S
+#148
+A pathway~
+This is a pathway leading away from the shouts of the training grounds. 
+It looks like this leads to the boarding houses, where elves study and
+prepare for exams.  
+~
+0 0 0
+D0
+~
+~
+0 0 151
+D1
+~
+~
+0 0 149
+D2
+~
+~
+0 0 145
+D3
+~
+~
+0 0 150
+S
+#149
+An elven house~
+This is one of the many boarding houses which are available here, for
+elves who live far away.  Here, they can furiously study and train at the
+same time.  
+~
+0 0 0
+D3
+~
+~
+0 0 148
+S
+#150
+An elven house~
+This is one of the many boarding houses which are available here, for
+elves who live far away.  Here, they can furiously study and train at the
+same time.  
+~
+0 0 0
+D1
+~
+~
+0 0 148
+S
+#151
+Headmaster's office~
+This is where the Headmaster of the whole academy resides.  He is known
+to be very strict, and punishes students for the slightest misdeed.  He
+rules the school with an iron fist, an no elf dares to disobey him.  
+~
+0 0 0
+D2
+~
+~
+0 0 148
+S
+#0
+
+
+
+#SPECIALS
+M 125 spec_cast_cleric
+M 127 spec_cast_mage
+M 129 spec_cast_cleric
+M 137 spec_cast_cleric
+S
+
+
+
+#RESETS
+O 0 101 0 100
+M 0 101 1 101 1
+M 0 102 1 102 1
+M 0 103 100 103 2
+M 0 104 100 104 4
+M 0 104 100 105 4
+M 0 106 100 106 4
+M 0 106 100 107 4
+M 0 106 100 108 4
+M 0 106 100 109 4
+M 0 104 100 110 4
+M 0 104 100 111 4
+M 0 113 100 112 4
+M 0 113 100 113 4
+M 0 115 100 114 4
+M 0 115 100 115 4
+M 0 115 100 116 4
+M 0 115 100 117 4
+M 0 113 100 118 4
+M 0 113 100 119 4
+E 0 119 0 16
+M 0 103 100 120 2
+M 0 127 100 121 4
+M 0 127 100 122 4
+M 0 125 100 123 4
+M 0 125 100 124 4
+M 0 125 100 125 4
+M 0 127 100 126 4
+M 0 127 100 127 4
+M 0 125 100 128 4
+M 0 129 100 129 4
+M 0 129 100 130 4
+M 0 131 100 131 4
+M 0 131 100 132 4
+M 0 131 100 133 4
+M 0 131 100 134 4
+M 0 129 100 135 4
+M 0 129 100 136 4
+M 0 137 1 137 1
+O 0 137 0 137
+E 0 136 0 17
+M 0 140 100 140 2
+M 0 140 100 141 2
+M 0 143 100 143 2
+M 0 143 100 144 2
+M 0 147 100 146 2
+M 0 147 100 147 2
+M 0 149 100 149 2
+M 0 149 100 150 2
+M 0 151 100 151 1
+E 0 151 0 17
+G 0 152 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

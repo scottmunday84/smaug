@@ -1,0 +1,1531 @@
+#AREADATA
+Name Desert~
+Builders None~
+VNUMs 4200 4299
+Credits {60  80} Sha/Kat Desert~
+Security 6
+End
+
+
+
+#MOBILES
+#4200
+cactus~
+a cactus~
+A {2ca{@ct{2us {xlooks prickly...better not touch it!
+~
+The thorns of the cactus are sharp and prickly, and it would be best to avoid contact with the plant.
+A slight scratch or cut would already cause bleeding, and leave the wound sore.
+~
+modron~
+AG J 0 0 0
+75 70 50d20+5000 50d20+14500 6d10+33 pound
+-46 -46 -46 -46
+QR BMNPQ HIK 0
+stand stand none 1875
+AHMV ABCDEFGHIJK medium unknown
+#4209
+scorpion~
+a scorpion~
+A {8scorpion{x scurries across the blazing deserts.
+~
+A small scorpion scuttles across the desert, with its poison-tipped tail upright and erect, poised for attack.
+These small desert scorpions though miniscule in size, have venoms with the ability to even kill an elephant.
+~
+modron~
+AG J 0 -20 0
+70 80 70d10+5000 50d30+19500 8d9+36 sting
+-54 -54 -54 -54
+QR BMNPQ LQ H
+stand stand none 10
+AHMV ABCDEFGHIJK tiny unknown
+F res HIK
+#4212
+rattlesnake~
+a rattlesnake~
+A rattlesnake slithers closer towards you.
+~
+A standard mob is here.
+~
+human~
+AG 0 0 0 0
+70 80 500d2+5000 50d30+19500 8d9+36 bite
+-54 -54 -54 -54
+0 L 0 0
+stand stand none 2500
+AHMV ABCDEFGHIJK small unknown
+#4213
+bobcat~
+a bobcat~
+A bobcat roams freely in the wilderness.
+~
+The bobcat's coat is a pale tawny-gray, with the absence of spots on the back and less distinct markings than usual bobcats.
+Despite its pussycat appearance when seen in repose, the bobcat is fierce and equipped to kill animals as large as deer. 
+~
+cat~
+AG Z 0 0 0
+70 80 500d10+1500 50d30+19500 8d9+36 scratch
+-54 -54 -54 -54
+FH 0 0 0
+stand stand none 210
+AGHMV ABCDEFGHIJKQUV small unknown
+#4219
+tumbleweed~
+a tumbleweed~
+A {2tu{@mb{2le{@we{2ed{x rolls about with the wind.
+~
+A tumbleweed rolls over in the wind, never to stop unless the wind does.
+Such is the fate of a tumbleweed.
+~
+human~
+AG 0 0 0 0
+75 70 50d20+5000 50d20+14500 6d10+33 none
+-46 -46 -46 -46
+0 0 0 0
+stand stand none 1875
+AHMV ABCDEFGHIJK medium unknown
+#4221
+camel~
+a camel~
+A {3ca{#m{3el{x sips water from a small puddle.
+~
+A two-humped camel trots along the neverending desert obidiently, occasionally stopping by puddles sipping water.
+Its hump has shrunk significantly, showing how drained of water the camel is.
+Its master must have been left behind somewhere within the vast sands.
+~
+sareef~
+AG V R 0 0
+75 70 50d20+5000 50d20+14500 6d10+33 none
+-46 -46 -46 -46
+0 0 T IX
+stand stand none 1875
+AHMV ABCDEFGHIJK medium unknown
+#4222
+merchant~
+a merchant~
+The merchant brushes his sweat away.
+~
+As the merchant craftily counts his money, it is a wonder how the merchant has actually managed to keep his business prospering.
+Selling his normal wares at jacked up prices, adventurers have no choice but to buy their provisions from the shrewd man.
+~
+human~
+AB 0 H 0 0
+1 1 2d6+10 2d6+10 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#4228
+coyote~
+a coyote~
+A coyote marks out its territory.
+~
+Alone, in pairs or in packs, Coyotes maintain their territories by marking them with urine. They also use calls to defend their territory, as well as for strengthening social bonds and general communication.
+At night the coyote howls and emits a series of short, high-pitched yips, sending a tingling feeling of fear to enemies.
+~
+wolf~
+AG VZ 0 0 0
+70 80 50d10+5000 50d30+19500 8d9+36 chomp
+-54 -54 -54 -54
+FH 0 0 0
+stand stand none 5120
+AGHMV ABCDEFGHIJKQV medium unknown
+#4229
+vulture~
+a vulture~
+A vulture savagely devours a {!r{1ottin{!g{x carcass.
+~
+The vulture is brown-black with a featherless red head, white bill and yellow feet.
+Vultures are best known for their practice of feeding on dead animal carcasses, and it stays perched on a tree, scouting for a new target.
+~
+song bird~
+AG T N -500 0
+70 80 50d10+5000 50d30+19500 8d9+36 peck
+-54 -54 -54 -54
+FH 0 0 0
+stand stand none 5100
+AGHMVW ABCDEFGHIJKP medium unknown
+#4231
+tarantula~
+a tarantula~
+A {8tarantula{x crawls steadily towards you.
+~
+These black hairy arachnids has eight eyes that are closely grouped, and large fangs with 2 pairs of slits on the underside of the abdomen.
+The largest arachnids known to all, it would not be advisable to tread on them. Even if you dont care about the eight years of bad luck.
+~
+centipede~
+AG Z 0 0 0
+70 80 50d10+5000 50d30+19500 8d9+36 sting
+-54 -54 -54 -54
+0 0 FI E
+stand stand none 1250
+ABGHMOV ABCDEFGHIJK small unknown
+#4242
+aziz~
+Aziz~
+Aziz looks up after looking through his wares.
+~
+Aziz is a jolly man who uses his wide and expansive knowledge of potions to benefit the few travellers that dare to come by.
+~
+human~
+AB 0 H 0 0
+1 1 2d6+10 2d6+10 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+#4243
+heckar~
+Heckar~
+Heckar is mumbling some words incoherently.
+~
+This healer is new to the trade, and he mumbles words incoherently, shaking his head meanwhile.
+Type 'heal' for a list of spells.
+~
+human~
+ABa 0 H 0 0
+1 1 2d6+10 2d6+10 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+#4244
+strong man~
+a strong man~
+A strong worker lugs at the heavy crates.
+~
+Forehead glistening with beads of pespiration, the strong man can be seen straining his rippling biceps in attempt to accomplish his work.
+Long hours, hard work, but little pay. It is a wonder why these people are still working for the nomad merchants.
+~
+human~
+AB ac H 250 0
+70 80 50d10+7000 50d30+19500 8d9+36 pound
+-54 -54 -54 -54
+P 0 0 0
+stand stand male 5000
+AHMV ABCDEFGHIJK large unknown
+#4245
+veiled figure~
+a veiled figure~
+A veiled figure is standing here.
+~
+A veiled figure is standing here.
+~
+human~
+ABT 0 H -1000 0
+60 100 50d10+9500 50d10+9500 7d10+50 crush
+-38 -38 -38 -38
+CDFHIKN 0 0 0
+stand stand none 250
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#4200
+sweet water~
+a {6pu{^dd{6le{x of {$water{x~
+A puddle of water is spreading on the ground.~
+unknown~
+drink 0 A
+20 20 'water' 0 0
+1 10 1 P
+#4201
+traveller potion cure blind~
+{&T{7raveller's {5Potion {7 of Cure Blindness{x~
+There is a bottle full of magneta liquid.~
+unknown~
+potion 0 0
+101 'cure blindness' 'cure blindness' 'reserved' 'reserved'
+70 10 6000 P
+#4221
+cracker jack biscuits~
+{6Cr{^ac{6ker {6J{^ac{6k {3Bis{#cu{3its{x~
+There is a packet of biscuits with the words 'Cracker Jack' on it.~
+unknown~
+food 0 A
+20 5 0 0 0
+0 10 1000 P
+#4222
+small canteen~
+a small {3canteen{x~
+A small canteen lies on the ground.~
+unknown~
+drink 0 A
+60 60 'water' 0 0
+0 10 1000 P
+#4225
+geyser~
+a geyser~
+A {^ge{7ys{^er{x bathes you in jets of refreshing water.~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#4233
+pool water~
+a pool of {$water{x~
+There is a pool of {$water{x here.~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 10 1 P
+#4234
+pool water~
+a pool of {$water{x~
+There is a pool of {$water{x here.~
+unknown~
+drink 0 0
+0 0 'water' 0 0
+0 10 1 P
+#4241
+traveller potion cure poison~
+{&T{7raveller's {5Potion {7of Cure Poison{x~
+There is a bottle filled with magneta liquid.~
+unknown~
+potion 0 A
+70 'cure poison' 'cure poison' 'reserved' 'reserved'
+70 10 2160 P
+#4242
+traveller potion cure poison~
+{&T{7raveller's {5Potion {7of Cure Disease{x~
+There is a potion filled with magneta liquid.~
+unknown~
+potion 0 A
+101 'cure disease' 'cure disease' 'reserved' 'reserved'
+70 10 4000 P
+#4243
+wooden mat~
+a {3wo{#od{3en{x mat~
+A {3wo{#od{3en{x mat is used for resting on.~
+unknown~
+furniture 0 0
+100 1000 HK 3000 3000
+1 10 1 P
+#4244
+shimmering portal shadun~
+a shimmering portal~
+A {Ys{yh{Yi{ym{Ym{ye{Yr{yi{Yn{yg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#4245
+the hunter's spear~
+{YT{yhe {YH{yunter's {YS{ypear{x~
+{YT{yhe {YH{yunter's {YS{ypear{x is lying here.~
+unknown~
+weapon AY AN
+staff 7 19 sliver DGIL
+80 30 5760 P
+#0
+
+
+
+#ROOMS
+#4200
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4216
+D1
+~
+~
+0 0 4201
+D3
+~
+~
+0 0 4206
+S
+#4201
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4215
+D1
+~
+~
+0 0 4202
+D3
+~
+~
+0 0 4200
+S
+#4202
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4214
+D1
+~
+~
+0 0 4203
+D3
+~
+~
+0 0 4201
+S
+#4203
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4213
+D1
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4202
+S
+#4204
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4212
+D1
+~
+~
+0 0 4205
+D3
+~
+~
+0 0 4203
+S
+#4205
+Mountain Barrier~
+~
+0 0 5
+D0
+~
+~
+0 0 4211
+D3
+~
+~
+0 0 4204
+S
+#4206
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4217
+D1
+~
+~
+0 0 4200
+D3
+~
+~
+0 0 4207
+S
+#4207
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4218
+D1
+~
+~
+0 0 4206
+D3
+~
+~
+0 0 4208
+S
+#4208
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4219
+D1
+~
+~
+0 0 4207
+D3
+~
+~
+0 0 4209
+S
+#4209
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the east and
+west, sealing off any access in those directions.  
+~
+0 0 5
+D0
+~
+~
+0 0 4220
+D1
+~
+~
+0 0 4208
+D3
+~
+~
+0 0 4210
+S
+#4210
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier strectches eastwards, sealing
+off any access in that direction.  
+~
+0 0 5
+D0
+~
+~
+0 0 4221
+D1
+~
+~
+0 0 4209
+S
+#4211
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the north and
+south, blocking off any access eastwards.  
+~
+0 0 5
+D0
+~
+~
+0 0 4232
+D2
+~
+~
+0 0 4205
+D3
+~
+~
+0 0 4212
+S
+#4212
+Quicksand!~
+The sand below you seems to quiver and tremble with each step you take. 
+Quicksand!  As you struggle to grasp onto any object within your desperate
+reach, you attempt to stay afloat before you sink any deeper.  
+~
+0 5 0
+D0
+~
+~
+0 0 4231
+D1
+~
+~
+0 0 4211
+D2
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4213
+S
+#4213
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4230
+D1
+~
+~
+0 0 4212
+D2
+~
+~
+0 0 4203
+D3
+~
+~
+0 0 4214
+S
+#4214
+Sandstorm~
+Grains of fine sand are swept off the ground, to form a virtually
+impregnable sheet of sand.  Barraged by the sands brushing by your skin, you
+feel yourself suffering several cuts and abrasions, and there seems to be no
+visible way out of this sandstorm.  Trekking forward, seems to be the only
+way out.  
+~
+0 4 10
+D0
+~
+~
+0 0 4229
+D1
+~
+~
+0 0 4213
+D2
+~
+~
+0 0 4202
+D3
+~
+~
+0 0 4215
+S
+#4215
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4228
+D1
+~
+~
+0 0 4214
+D2
+~
+~
+0 0 4201
+D3
+~
+~
+0 0 4216
+S
+#4216
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4227
+D1
+~
+~
+0 0 4215
+D2
+~
+~
+0 0 4200
+D3
+~
+~
+0 0 4217
+S
+#4217
+Sand dune~
+The accumulation of windblown sand marks the beginning of one of nature's
+most interesting and beautiful phenomena.  Sand dunes occur throughout the
+world, from coastal and lakeshore plains to arid desert regions.  In
+addition to the remarkable structure and patterns of sand dunes, they also
+provide habitats for a variety of life which is marvelously adapted to this
+unique environment.  
+~
+0 4 10
+D0
+~
+~
+0 0 4226
+D1
+~
+~
+0 0 4216
+D2
+~
+~
+0 0 4206
+D3
+~
+~
+0 0 4218
+S
+#4218
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4225
+D1
+~
+~
+0 0 4217
+D2
+~
+~
+0 0 4207
+D3
+~
+~
+0 0 4219
+S
+#4219
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4224
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4208
+D3
+~
+~
+0 0 4220
+S
+#4220
+Rock boulders~
+Caused by the fluctuation in temperatures between extreme heat and cold,
+these rocks have developed cracks on its surface, and are peeling off
+through exfoliation.  Near these rock boulders, small quantities of minerals
+and valuble stones can be found, glimmering with temptation.  
+~
+0 4 0
+D0
+~
+~
+0 0 4223
+D1
+~
+~
+0 0 4219
+D2
+~
+~
+0 0 4209
+D3
+~
+~
+0 0 4221
+S
+#4221
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountaints, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the north and
+south, sealing off any access westwards.  
+~
+0 0 5
+D0
+~
+~
+0 0 4222
+D1
+~
+~
+0 0 4220
+D2
+~
+~
+0 0 4210
+S
+#4222
+Merchant tent~
+This is a small makeshift tent, where the nomad merchants have
+established a temporary stall to sell their goods and wares to travellers
+crossing the desert A range of goods from foodstuff to water supplies are on
+sale here, the basic necessities for life in the desert.  
+~
+0 0 0
+D0
+~
+~
+0 0 4243
+D1
+~
+~
+0 0 4223
+D2
+~
+~
+0 0 4221
+S
+#4223
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4242
+D1
+~
+~
+0 0 4224
+D2
+~
+~
+0 0 4220
+D3
+~
+~
+0 0 4222
+S
+#4224
+Quicksand!~
+Gingerly treading across the sandy and hot ground, you feel a suction
+force around your feet.  Dismissing it as another of the delusions caused by
+the intense heat of the desert, you confidently stride on.  Yet, as you look
+beneath your feet, you see the sand part and reveal a gaping hole as if to
+suck you right beneath.  
+~
+0 4 10
+D0
+~
+~
+0 0 4241
+D1
+~
+~
+0 0 4225
+D2
+~
+~
+0 0 4219
+D3
+~
+~
+0 0 4223
+S
+#4225
+Geyser~
+Suddenly, the sands around you seem to gush and spurt through the sandy
+surface, showering you with blissful warm water.  As you cup your hands to
+collect as much water as you can, you notice that the geyser stands at an
+amazing 10 feet!  For a brief moment, you seem to forget all your sorrows,
+and indulge childishly in this gift from god.  
+~
+0 4 10
+D0
+~
+~
+0 0 4240
+D1
+~
+~
+0 0 4226
+D2
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4224
+S
+#4226
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4239
+D1
+~
+~
+0 0 4227
+D2
+~
+~
+0 0 4217
+D3
+~
+~
+0 0 4225
+S
+#4227
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4238
+D1
+~
+~
+0 0 4228
+D2
+~
+~
+0 0 4216
+D3
+~
+~
+0 0 4226
+S
+#4228
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4237
+D1
+~
+~
+0 0 4229
+D2
+~
+~
+0 0 4215
+D3
+~
+~
+0 0 4227
+S
+#4229
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4236
+D1
+~
+~
+0 0 4230
+D2
+~
+~
+0 0 4214
+D3
+~
+~
+0 0 4228
+S
+#4230
+Small cave~
+Sheltered from the tormenting sands outside, many adventures seek refuge
+within these caverns til the sandstorm subsides.  Although dark, musty and
+uncomfortable, you try to tolerate the poor living conditions and beg for
+the sandstorms to cease.  
+~
+0 4 10
+D0
+~
+~
+0 0 4235
+D1
+~
+~
+0 0 4231
+D2
+~
+~
+0 0 4213
+D3
+~
+~
+0 0 4229
+S
+#4231
+Desert sands~
+The arid atmosphere, caused by the low humidity and intensely inhumane
+heat radiated from the sun, is caused by the high diurnal range from the
+extreme heat in the day, and bitter cold at night.  With each painful step
+you take, you struggle to remain conscious, remain focused, and remain
+alive.  You begin to wonder what made you so foolish as to tread into the
+Sands of Sorrows.  
+~
+0 4 10
+D0
+~
+~
+0 0 4234
+D1
+~
+~
+0 0 4232
+D2
+~
+~
+0 0 4212
+D3
+~
+~
+0 0 4230
+S
+#4232
+Mountain Barrier~
+The desert crashes head first onto the hard slopes of the steep rising
+mountains, and ricchochets off the rock, swirling in the air, and temporary
+blinding your vision.  The mountain barrier stretches towards the north and
+south, blocking off any access eastwards.  
+~
+0 0 5
+D0
+~
+~
+0 0 4233
+D2
+~
+~
+0 0 4211
+D3
+~
+~
+0 0 4231
+S
+#4233
+Oasis~
+The path leading along the oasis is completely surrounded by palm trees,
+their leaves waving to you as the wind blows past.  Further on, you can see
+a pond glittering under the sunlight.  Is it another of your mirages caused
+by the intense heat from the sun?  
+~
+0 0 0
+D2
+~
+~
+0 0 4232
+D3
+~
+~
+0 0 4234
+S
+#4234
+Oasis~
+The path leading along the oasis is completely surrounded by palm trees,
+their leaves waving to you as the wind blows past.  Further on, you can see
+a pond glittering under the sunlight.  Is it another of your mirages caused
+by the intense heat from the sun?  
+~
+0 0 0
+D1
+~
+~
+0 0 4233
+D2
+~
+~
+0 0 4231
+D3
+~
+~
+0 0 4235
+S
+#4235
+Barren wastelands~
+The lands are dry, arid, and definately inhospitable for any biological
+life.  As you stagger forward into the vast wastelands, you notice the
+absence of all forms of life.  Just plain vast fields of sands.  Sand.  More
+sand.  Even more sand.  
+~
+0 4 10
+D1
+~
+~
+0 0 4234
+D2
+~
+~
+0 0 4230
+D3
+~
+~
+0 0 4236
+S
+#4236
+Barren wastelands~
+The lands are dry, arid, and definately inhospitable for any biological
+life.  As you stagger forward into the vast wastelands, you notice the
+absence of all forms of life.  Just plain vast fields of sands.  Sand.  More
+sand.  Even more sand.  
+~
+0 4 10
+D1
+~
+~
+0 0 4235
+D2
+~
+~
+0 0 4229
+D3
+~
+~
+0 0 4237
+S
+#4237
+Barren wastelands~
+The lands are dry, arid, and definately inhospitable for any biological
+life.  As you stagger forward into the vast wastelands, you notice the
+absence of all forms of life.  Just plain vast fields of sands.  Sand.  More
+sand.  Even more sand.  
+~
+0 4 10
+D1
+~
+~
+0 0 4236
+D2
+~
+~
+0 0 4228
+D3
+~
+~
+0 0 4238
+S
+#4238
+Barren wastelands~
+The lands are dry, arid, and definately inhospitable for any biological
+life.  As you stagger forward into the vast wastelands, you notice the
+absence of all forms of life.  Just plain vast fields of sands.  Sand.  More
+sand.  Even more sand.  
+~
+0 4 10
+D1
+~
+~
+0 0 4237
+D2
+~
+~
+0 0 4227
+D3
+~
+~
+0 0 4239
+S
+#4239
+Barren wastelands~
+The lands are dry, arid, and definately inhospitable for any biological
+life.  As you stagger forward into the vast wastelands, you notice the
+absence of all forms of life.  Just plain vast fields of sands.  Sand.  More
+sand.  Even more sand.  
+~
+0 4 10
+D1
+~
+~
+0 0 4238
+D2
+~
+~
+0 0 4226
+D3
+~
+~
+0 0 4240
+S
+#4240
+Barren wastelands~
+The lands are dry, arid, and definately inhospitable for any biological
+life.  As you stagger forward into the vast wastelands, you notice the
+absence of all forms of life.  Just plain vast fields of sands.  Sand.  More
+sand.  Even more sand.  
+~
+0 4 10
+D0
+~
+~
+0 0 2500
+D1
+~
+~
+0 0 4239
+D2
+~
+~
+0 0 4225
+D3
+~
+~
+0 0 4241
+S
+#4241
+Barren wastelands~
+The lands are dry, arid, and definately inhospitable for any biological
+life.  As you stagger forward into the vast wastelands, you notice the
+absence of all forms of life.  Just plain vast fields of sands.  Sand.  More
+sand.  Even more sand.  
+~
+0 4 10
+D1
+~
+~
+0 0 4240
+D2
+~
+~
+0 0 4224
+D3
+~
+~
+0 0 4242
+S
+#4242
+Potion shop~
+The hot and stuffy room beside the healing tent serves as a area for
+natives' to purchase potions for their different uses.  The potions
+carefully brewed by Aziz are gingerly placed one by one into the glass
+cabinet, serving as protection against any kind of obstacle.  
+~
+0 0 0
+D1
+~
+~
+0 0 4241
+D2
+~
+~
+0 0 4223
+D3
+~
+~
+0 0 4243
+S
+#4243
+Tent~
+Another makeshift tent that was hastily built to provide shelter for the
+nomads, this is probably their resting area.  Here, the merchants rest in
+preparation for their journey tomorrow, their destination unknown.  Mosquito
+nets can be seen strewn messily acroos the tent, in attempt to keep out the
+bloodthirsty insects, as well as other desert creatures.  
+~
+0 0 0
+D0
+~
+~
+0 0 4244
+D1
+~
+~
+0 0 4242
+D2
+~
+~
+0 0 4222
+S
+#4244
+Storeroom~
+Another makeshift tent within the nomad settlement, this is where the
+merchants have left their stocks and wares safe from prying eyes and itchy
+fingers.  Crates of various unique goods from around the realms are stacked
+neatly above one another, and strong men can be seen transporting the
+crates.  
+~
+0 0 0
+D2
+~
+~
+0 0 4243
+S
+#4245
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4246
+S
+#4246
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4247
+D3
+~
+~
+0 0 4245
+S
+#4247
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4248
+D3
+~
+~
+0 0 4246
+S
+#4248
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4249
+D3
+~
+~
+0 0 4247
+S
+#4249
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4250
+D3
+~
+~
+0 0 4248
+S
+#4250
+Standard room~
+~
+0 0 0
+D1
+~
+~
+0 0 4251
+D3
+~
+~
+0 0 4249
+S
+#4251
+Standard room~
+~
+0 0 0
+D3
+~
+~
+0 0 4250
+S
+#0
+
+
+
+#SPECIALS
+M 4228 spec_dog_pee
+M 4229 spec_fido
+S
+
+
+
+#RESETS
+M 0 4200 100 4200 1
+G 0 4200 0
+M 0 4219 100 4200 1
+O 0 4244 0 4200
+M 0 4221 100 4201 1
+M 0 4209 100 4201 2
+M 0 4219 100 4202 1
+M 0 4200 100 4204 1
+G 0 4200 0
+M 0 4219 100 4204 1
+M 0 4221 100 4205 1
+M 0 4209 100 4205 2
+M 0 4229 100 4205 1
+M 0 4229 100 4206 3
+M 0 4200 100 4207 1
+G 0 4200 0
+M 0 4200 100 4208 1
+G 0 4200 0
+M 0 4221 100 4208 1
+M 0 4209 100 4209 2
+M 0 4200 100 4210 1
+G 0 4200 0
+M 0 4221 100 4210 1
+M 0 4219 100 4210 1
+M 0 4200 100 4211 1
+G 0 4200 0
+M 0 4229 100 4211 2
+M 0 4221 100 4212 1
+M 0 4200 100 4213 1
+G 0 4200 0
+M 0 4213 100 4213 2
+M 0 4221 100 4214 1
+M 0 4219 100 4214 1
+M 0 4200 100 4215 1
+G 0 4200 0
+M 0 4213 100 4215 2
+M 0 4221 100 4216 1
+M 0 4219 100 4216 1
+M 0 4221 100 4217 1
+M 0 4229 100 4217 1
+M 0 4219 100 4218 1
+M 0 4221 100 4219 1
+M 0 4221 100 4221 1
+M 0 4219 100 4221 1
+M 0 4219 100 4221 1
+M 0 4222 100 4222 1
+G 0 4221 0
+G 0 4222 0
+M 0 4231 100 4223 2
+M 0 4228 100 4223 1
+O 0 4225 0 4225
+M 0 4245 1 4225 1
+E 0 4245 0 16
+M 0 4228 100 4226 2
+M 0 4231 100 4227 2
+M 0 4228 100 4228 2
+M 0 4231 100 4229 2
+M 0 4228 100 4230 2
+M 0 4231 100 4231 2
+M 0 4229 100 4232 2
+M 0 4213 100 4232 1
+O 0 4233 0 4233
+O 0 4234 0 4234
+M 0 4242 100 4242 1
+G 0 4201 0
+G 0 4241 0
+G 0 4242 0
+M 0 4243 100 4243 1
+O 0 4243 0 4243
+M 0 4244 100 4244 2
+S
+
+
+
+#SHOPS
+4222 0 0 0 0 0 100 10 0 24
+4242 0 0 0 0 0 100 10 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,1360 @@
+#AREADATA
+Name Garden of Eden~
+Builders None~
+VNUMs 400 449
+Credits {20  40} Sha/Kat Garden of Eden~
+Security 9
+End
+
+
+
+#MOBILES
+#400
+thorn bush~
+a thorn bush~
+A th{@or{2ny{x bush ensnarles itself round you!
+~
+A thorny rose-vine bush has been bestowed life by the Serpent Lord's sorcery.
+Its mutated vines and prickly thorns are coated with deadly venom, able to paralyze even the largest of foes.
+~
+human~
+AFG 0 0 -1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+FHN 0 X H
+stand stand none 500
+AGHMV ABCDEFGHIJK medium unknown
+#402
+passerby~
+a passerby~
+A passerby is strolling about here.
+~
+He has not seemed to notice you, and is still admiring the colorful butterflies and the fragant smell from the flowers.
+~
+human~
+AG 0 0 1 0
+10 10 2d7+21 2d7+21 2d4+2 none
+2 2 2 2
+0 0 0 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#403
+strong man~
+a strong man~
+A strong man is doing pushups.
+~
+Wearing a singlet and a pair of track pants, he falls to the floor and does his regular exercise of 1000 push-ups.
+No problem for this hunk... 1 ... 2 ... 3.... 
+~
+human~
+AG 0 0 0 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+R 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#405
+Adam~
+Adam~
+Adam is naked! EeK!
+~
+Big. Very big.
+Stupid. Very stupid.
+~
+human~
+AB V H 1000 0
+25 25 5d10+550 5d10+550 2d10+7 none
+-10 -10 -10 -10
+P 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK large unknown
+#406
+eve~
+Eve~
+Eve is picking the Forbidden Fruit.
+~
+Eve is naked! wOoHoO!
+~
+human~
+AB V H 1000 0
+25 25 5d10+550 5d10+550 2d10+7 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK small unknown
+#407
+frog~
+a frog~
+A frog is croaking away.
+~
+This slimy creature hops across the fallen leaves, occasionally lashing out its tongue engulfing an unsuspecting insect.
+It is rumoured that it could change into a handsome prince upon kissing. Would you like to try?
+CroAk cRoAk!
+~
+water fowl~
+AG Tb 0 -1 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 R 0
+stand stand none 500
+AGHMVW ABCDEFGHIJKP small unknown
+#408
+turtle~
+a turtle~
+A turtle is hiding in its shell.
+~
+Hidden in its shell, it protects itself from any predators, only occasionally sticking its head out to nibble on the breadcrumbs offered by the people.
+The many rings around its shell shows how old the turtle is.
+~
+water fowl~
+AG Tb 0 0 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+R 0 R 0
+stand stand none 500
+AGHMVW ABCDEFGHIJKP medium unknown
+#409
+duck~
+A duck~
+A cute little duck quacks happily.
+~
+Apparently well-fed by the people that visit the park, the duck is fat and plump, quacking contently as it gracefully swims about in the pond.
+QuAcK QuAcK!
+~
+water fowl~
+AG Tb 0 0 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+R 0 R 0
+stand stand none 500
+AGHMVW ABCDEFGHIJKP medium unknown
+#410
+fisherman~
+a fisherman~
+A secluded person stands near the lake, contemplating his surroundings.
+~
+He stands cooly by the lake, stroking his beard.
+You can only see his outline, but it seems like he has contemplating whether to continue taking the lives of fish or not.
+~
+human~
+ABT 0 H 0 0
+25 25 5d10+550 5d10+550 2d10+7 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#411
+apple picker~
+an apple picker~
+An {1apple {7picker {xis here picking juicy {!apples{x.
+~
+The young hardworking apple picker scurries about the apple trees, picking only the best of the juicy red apples. Now that the apple season has arrived, he is working overtime.
+Beads of sweat and pespiration can be seen glistening along his cheeks.
+On his back is his basket of apples that have yet to be deposited in the storage room.
+~
+human~
+AG V 0 0 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+R 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+#413
+old gardener~
+the old gardener~
+The old gardener carefully tends to his {2t{@ree{2s{x.
+~
+The old gardener ignores you in search of his perfect garden.
+After years of dedication, the gardener has aged along with his dear garden. 
+~
+human~
+AB V H 0 0
+25 25 5d10+550 5d10+550 2d10+7 none
+-10 -10 -10 -10
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#414
+supervisor~
+the supervisor~
+A thin scrawny man rants away at the apple pickers.
+~
+Neatly clad in a shirt and jeans, the supervisor goes about his daily routine of stock-checking the picked apples, and barking away at the pickers to increase productivity.
+~
+human~
+ABG 0 0 0 0
+25 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#415
+cobra~
+a cobra~
+A {3cobra {xhisses menancingly at you.
+~
+As the grinning death-mask of the king cobra leers threateningly at you, it slithers its way slowly towards you.  
+Death is inevitable, and you only wished you had not stepped into its territory.
+~
+snake~
+AG 0 0 -1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 L I
+stand stand none 500
+AGHMVXYc ABCDEFGHIJKLQVX small unknown
+#416
+panther~
+a panther~
+{1Glowing {!red {xeyes are staring at you!
+~
+You can barely make out the figure of this black feline predator.
+The bloodthirsty predator is well camouflaged with its surroundings, leaving no time for the unsuspecting prey to know what hit him.
+~
+cat~
+AFG Z 0 -1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+FH 0 0 0
+stand stand none 500
+AGHMV ABCDEFGHIJKQUV medium unknown
+#417
+serpent lord~
+the Serpent Lord~
+The {%S{5e{%rpe{5n{%t {%L{%o{5rd {x cackles nefariously.
+~
+This cold-blooded reptile, a semi-human manifestation of a demon from Hell, has concealed his lair deep within the garden.
+Tempting Eve with the Forbidden Fruit, he is about to make her sin repeatedly. 
+It is only a matter of time before chaos runs amok amongst the Garden of Eden.
+~
+snake~
+AB V H -1000 0
+25 25 5d10+550 5d10+550 2d10+7 none
+-10 -10 -10 -10
+0 0 L I
+stand stand none 1000
+AGHMVXYc ABCDEFGHIJKLQVX medium unknown
+#418
+lost adventurer~
+a lost adventurer~
+A lost adventurer is wandering about.
+~
+By the look on his face, he has probably been stuck here since the garden was opened to the public.
+Haggard and sallow, his body reeks of the morbid stench of dried blood. 
+Judging from the cross struck against the wall of this cavern, he has probably even lost count himself of the days spent here.
+~
+human~
+AB 0 0 1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#419
+sea turtle~
+a sea turtle~
+A large {Cs{ce{Ca {gtu{Grt{gle{x rests, deep in meditation.{x
+~
+The ancient turtle is probably older than anyone here in this garden. 
+It has probably spent all of its life here alone in the caverns, unknown to the outside world, and aloof to its own surroundings.
+~
+water fowl~
+AB TVb H 1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 R 0
+stand stand none 500
+AGHMVW ABCDEFGHIJKP large unknown
+#422
+bride~
+a bride~
+The {7br{&i{7de{x is {!blushing{x with happiness.
+~
+Today is the happiest day of her life!
+Finally, she gets to wed her dream lover, put on the wedding ring, and go off for their honeymoon.
+She is just blushing with joy and ecstacy.
+~
+human~
+AB 0 0 1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#423
+picnicker~
+a picnicker~
+A picnicker is happily munching the spread laid out in front of him.
+~
+Being the glutton he is, he has packed a whole basketful of delicacies ranging from cakes, pot pies, and even cookies.
+He lies on his mat, half reading the book in his hands, and half gobbling the food in his picnic basket.
+~
+human~
+AG 0 0 1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#424
+groom~
+A groom~
+The {7gr{&o{7om{x kneels before his bride
+~
+Today is the happiest day of his life!
+Finally he gets to wed his dream lover, put on the wedding ring, and go off for their honeymoon.
+He's bursting with happiness and excitement.
+~
+human~
+AB 0 0 1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#426
+butterfly~
+a butterfly~
+A {%b{#u{&tterf{#l{%y{x flutters about the flowers.
+~
+Tiny in size, the pretty butterfly flutters about the flowers, painstakingly collecting the nectar and pollen from flowers. 
+The pretty colours on the butterfly's wings help brighten up the park-go-er's day.
+~
+pixie~
+AG EJT 0 0 0
+20 20 3d9+333 3d9+333 2d8+5 bite
+-6 -6 -6 -6
+F 0 BP Z
+stand stand none 10
+AHMV ABCDEFGHIJKP tiny unknown
+#0
+
+
+
+#OBJECTS
+#400
+thorny sleeves~
+some thorny sleeves~
+Prickly thorns have been shaped into a pair of sleeves.~
+unknown~
+armor ABHIM AI
+11 11 10 9 0
+20 30 2500 P
+A
+12 20
+A
+19 3
+A
+18 3
+A
+1 2
+#401
+a sharp stone~
+sharp stone~
+A sharp stone is lying here, its pointed edge gleaming in the sunlight.~
+unknown~
+weapon AN AN
+dagger 5 6 rend GH
+24 5 100000 P
+A
+13 40
+A
+12 40
+A
+14 40
+A
+20 -1
+A
+19 3
+A
+18 3
+#402
+Sunglasses~
+a pair of sunglasses~
+A {8grey {xpair of Sunglasses~
+unknown~
+armor G ANT
+6 4 5 4 0
+20 10 10000 P
+#403
+forbidden fruit~
+a {1For{!bid{1de{!n {1F{!rui{1t {x~
+A {1For{!bid{1de{!n {1F{!rui{1t {x is humming softly~
+unknown~
+pill 0 AO
+50 'slow' 'poison' 'plague' 'curse'
+25 5 625 P
+#404
+wooden club~
+a {3WoodeN {xclub~
+A huge and heavy club is resting here.~
+unknown~
+weapon A AN
+mace 5 5 sliver DG
+25 5 1000 P
+#405
+couch~
+a couch~
+A comfortable looking couch seems inviting.~
+unknown~
+furniture 0 0
+2 100 EH 0 0
+1 10 0 P
+#406
+forbidden fruit~
+a {1Fo{!r{1b{!idd{1en {!Fru{1it {x~
+A sacred fruit tempts all passerbys.~
+unknown~
+pill AN AKO
+20 'heal' 'blindness' 'haste' 'curse'
+25 1 1000 P
+#407
+beehive~
+a {#b{3EE{#h{3iv{#E {x~
+Bees buzz about the quaint object.~
+unknown~
+container 0 A
+3 0 0 1000 25
+0 3 1000 P
+#408
+shimmering portal shadun~
+a shimmering portal~
+A {Csh{ci{Cm{cm{Ce{cr{Ci{cn{Cg{x portal is leading back to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#409
+mr light~
+standard object~
+A standard object is lying here.~
+unknown~
+light 0 A
+0 0 999 0 0
+1 1 1 P
+#410
+rattan hat~
+a {3ra{#tt{3an {xhat~
+A fisherman must have lost his hat.~
+unknown~
+armor I AE
+12 11 12 11 0
+25 5 1000 P
+A
+5 2
+A
+13 50
+#411
+apple basket~
+an {1Ap{!pl{1e {3ba{#sk{3et {x~
+An {1Ap{!pl{1e {3ba{#sk{3et {x is on the floor, probably abandoned by some rookie apple picker.~
+unknown~
+armor I AO
+9 9 10 10 0
+21 3 2500 P
+A
+1 1
+A
+13 30
+A
+18 2
+A
+19 2
+#412
+thick woolen mitts~
+a pair of {8thick WooLen mitts {x~
+An apple picker's gloves are lying on the floor.~
+unknown~
+armor I AH
+11 11 11 11 0
+20 4 2500 P
+A
+13 20
+A
+19 3
+A
+18 3
+A
+2 1
+#413
+spectacles~
+a pair of {3g{#ol{3d{x rimmed spectacles~
+Oops! The gardener must have accidentally dropped his spectacles!~
+unknown~
+armor AF AT
+12 13 12 11 0
+25 5 3000 P
+A
+19 4
+A
+18 4
+A
+20 -1
+A
+3 1
+A
+4 1
+#414
+colorful necktie~
+a {!c{$o{@l{#o{&u{^r{!f{%u{#l {!n{@e{#c{$k{%t{^i{&e{x~
+A outrageously colourful title hurts your vision.~
+unknown~
+armor AB AC
+11 11 11 11 0
+20 3 2000 P
+A
+17 -10
+A
+3 1
+A
+4 1
+A
+13 20
+#415
+snakeskin bracelet~
+a {2sn{@ak{2es{@k{2in {@br{2ac{@e{2le{@t{x~
+An object made out of skin from a snake is here.~
+unknown~
+armor E AM
+8 8 8 8 0
+20 4 1000 P
+A
+12 25
+A
+3 1
+A
+4 1
+A
+20 -1
+#416
+panther feet~
+feet of the {8p{7a{8nth{7e{8r{x~
+Someone has made some boots from the skin of a panther.~
+unknown~
+armor E AG
+10 9 8 10 0
+20 3 1000 P
+S 'haste'
+A
+19 2
+A
+18 2
+A
+14 50
+A
+2 1
+#417
+golden anklet with rune inscriptions~
+a {3go{#l{3de{#n {3an{#kl{3et {5wi{%th {8r{7un{8e {7in{8s{7cri{8pt{7io{8ns. {x~
+A golden anklet from the serpent is here.~
+unknown~
+armor E AV
+12 12 12 12 0
+20 3 2500 P
+A
+1 2
+A
+13 75
+A
+20 -2
+A
+19 5
+A
+18 5
+#418
+wax candle~
+a {6w{^a{6x {7candle{x~
+A glowing candle is here dripping wax.~
+unknown~
+light I A
+0 0 999 0 0
+20 4 1000 P
+S 'farsight'
+#419
+turtle shell~
+a {2Tu{@r{2t{@le {3Sh{#e{3ll {x~
+The sea has washed off this shell out of a dead turtle's carcass.~
+unknown~
+armor I AD
+11 11 11 11 0
+23 5 1000 P
+A
+5 1
+A
+19 3
+A
+18 3
+A
+13 40
+#423
+wedding ring~
+a {7We{&d{7di{&ng {7r{&in{7g {x~
+This ring must have slipped off someone's finger.~
+unknown~
+armor AI AB
+12 12 12 12 0
+23 4 2500 P
+A
+19 4
+A
+18 4
+A
+13 50
+A
+12 75
+#431
+breadcrumbs~
+some breadcrumbs~
+Some breadcrumbs have been left for food for the turtles.~
+unknown~
+food 0 A
+4 4 0 0 0
+0 0 0 P
+#439
+sweat soaked singlet~
+a sweat soaked singlet~
+A sweaty and smelly singlet has been thrown in the corner.~
+unknown~
+trash BS AK
+0 0 0 0 0
+20 10 200 P
+A
+13 10
+A
+5 2
+A
+18 5
+A
+19 5
+#0
+
+
+
+#ROOMS
+#400
+The lane~
+While strolling along this pleasant, shady lane, you notice that the road
+is lined on both sides by tall, stately trees which lend the scene a sense
+of serenity.  To the north, you hear birds chirping as the path continues
+onwards into a lush green field.  
+~
+0 0 2
+D0
+~
+~
+0 0 401
+S
+#401
+Garden entrance~
+*** SNIFF *** A fresh fragrant scent of blossoming flowers and
+fruit-bearing trees greet the weary traveller.  You are surprised to find
+such a peaceful place amidst all the bustling city lifestyle.  Here, many
+citizens gather to relax and enjoy family time together.  
+~
+0 0 2
+D0
+~
+~
+0 0 402
+D2
+~
+~
+0 0 400
+S
+#402
+Garden of Eden~
+This is the main pathway amidst all this lush beautiful greenery.  The
+legendary Garden of Eden does live up to its reputation.  A feeling of
+calmness and serenity, coupled with an almost saintly and surreal sense of
+Utopia, wavers around the park.  Residents from the nearby cities flock here
+to enjoy its peace and quiet, and escape from their hectic lives back in the
+city.  
+~
+0 0 2
+D0
+~
+~
+0 0 426
+D1
+~
+~
+0 0 403
+D2
+~
+~
+0 0 401
+D3
+~
+~
+0 0 411
+S
+#403
+Garden of Eden~
+This is the main pathway amidst all this lush beautiful greenery.  The
+legendary Garden of Eden does live up to its reputation.  A feeling of
+calmness and serenity, coupled with an almost saintly and surreal sense of
+Utopia, wavers around the park.  Residents from the nearby cities flock here
+to enjoy its peace and quiet, and escape from their hectic lives back in the
+city.  
+~
+0 0 2
+D0
+~
+~
+0 0 422
+D3
+~
+~
+0 0 402
+S
+#404
+The BIG TALL peach tree~
+The tree you are standing beneath is probably the largest peach tree you
+have ever seen.  Big succulent peaches can be seen hanging from the branches
+of the tree, tempting all passerbys.  As you look closely at the tree, you
+notice a hidden ladder leading upwards into the treetops.  
+~
+0 0 2
+D2
+~
+~
+0 0 426
+D4
+~
+~
+0 0 405
+D5
+~
+~
+0 0 415
+S
+#405
+The secret treehouse~
+The old worn-out wooden treehouse is balanced precariously on a few
+branches, though well concealed to the public below.  Apparently, the
+treehouse has been inhabited by Adam and Eve, both whom are hiding from the
+crowd in the garden.  The publicity the garden is now getting has prompted
+both of them to go into hiding.  
+~
+0 0 0
+D1
+~
+~
+0 0 406
+D5
+~
+~
+0 0 404
+S
+#406
+Branch~
+**CRACK** The branch is about to crack!  Get out of here!  
+~
+0 0 2
+D3
+~
+~
+0 0 405
+S
+#407
+A small pond~
+The small crystal clear pond sparkles and glitters under the bright
+mid-day sun.  Fishes can be seen swimming about in the water, ducks quacking
+and frogs croaking.  People can also be seen feeding the turtles
+breadcrumbs.  
+~
+0 0 6
+D0
+~
+~
+0 0 408
+D1
+~
+~
+0 0 409
+D3
+~
+~
+0 0 431
+S
+#408
+A small pond~
+The small crystal clear pond sparkles and glitters under the bright
+mid-day sun.  Fishes can be seen swimming about in the water, ducks quacking
+and frogs croaking.  People can also be seen feeding the turtles
+breadcrumbs.  
+~
+0 0 6
+D1
+~
+~
+0 0 410
+D2
+~
+~
+0 0 407
+D3
+~
+~
+0 0 432
+D5
+~
+~
+0 0 419
+S
+#409
+A small pond~
+The small crystal clear pond sparkles and glitters under the bright
+mid-day sun.  Fishes can be seen swimming about in the water, ducks quacking
+and frogs croaking.  People can also be seen feeding the turtles
+breadcrumbs.  
+~
+0 0 6
+D0
+~
+~
+0 0 410
+D2
+~
+~
+0 0 420
+D3
+~
+~
+0 0 407
+S
+#410
+A small pond~
+The small crystal clear pond sparkles and glitters under the bright
+mid-day sun.  Fishes can be seen swimming about in the water, ducks quacking
+and frogs croaking.  People can also be seen feeding the turtles
+breadcrumbs.  
+~
+0 0 6
+D2
+~
+~
+0 0 409
+D3
+~
+~
+0 0 408
+S
+#411
+The apple grove~
+You are standing beneath the branches of well-pruned apple trees.  Along
+the path u see a whole stretch of apple trees leading northwards.  Apple
+pickers are busily picking apples from the trees, choosing only the ripest
+and most juicy of the apples.  
+~
+0 0 2
+D0
+~
+~
+0 0 412
+D1
+~
+~
+0 0 402
+D2
+~
+~
+1 0 414
+S
+#412
+The apple grove~
+You are standing beneath the branches of well-pruned apple trees.  Along
+the path u see a whole stretch of apple trees leading northwards.  Apple
+pickers are busily picking apples from the trees, choosing only the ripest
+and most juicy of the apples.  
+~
+0 0 2
+D0
+~
+~
+0 0 427
+D1
+~
+~
+0 0 426
+D2
+~
+~
+0 0 411
+D3
+~
+~
+0 0 425
+S
+#413
+Gardener's shack~
+The apple trees here have obviously received the very best of care from
+an experienced gardener.  The older trees are currently full of red juicy
+apples, while the younger trees have the fresh clip marks of a master
+gardener.  There is a small bell in the room, with the sole purpose of
+summoning the apple pickers into the shack.  
+~
+0 0 2
+D1
+~
+~
+0 0 425
+S
+#414
+The storeroom~
+This old dilapidated wooden storehouse serves as a store room for all the
+picked apples.  The apples picked by the apple pickers are stored here in
+baskets before transported out to the cities for sale.  The scent of freshly
+picked apples drifts about in the room.  
+~
+0 0 0
+D0
+~
+~
+1 0 411
+S
+#415
+Lost amongst the bushes~
+The path has branched off into dense foilage.  There is no turning back
+now.  Around you is a completely different atmosphere than the scenic
+garden.  The eideitic scenery has been replaced with an eerie deserted
+forest.  Creatures lurk within the dark, waiting and anticipating their very
+next victim.  
+~
+0 0 3
+D0
+~
+~
+0 0 416
+S
+#416
+Lost amongst the bushes~
+The path has branched off into dense foilage.  There is no turning back
+now.  Around you is a completely different atmosphere than the scenic
+garden.  The eideitic scenery has been replaced with an eerie deserted
+forest.  Creatures lurk within the dark, waiting and anticipating their very
+next victim.  
+~
+0 0 3
+D0
+~
+~
+0 0 417
+D2
+~
+~
+0 0 415
+D3
+~
+~
+0 0 418
+S
+#417
+Serpent chamber~
+The chamber is a bright {#gold{x, exuding a cold distant feeling to the
+intruder.  A sacrificial altar is prepared in the centre of the room, with
+offerings placed by the side.  Murmurs and incoherant chanting can be
+vaguely heard in this chamber.  A bloodcurdling scream rattles the deafening
+silence.  Another has been offered to the Gods...  
+~
+0 0 0
+D2
+~
+~
+0 0 416
+S
+#418
+Lost amongst the bushes~
+The path has branched off into dense foilage.  There is no turning back
+now.  Around you is a completely different atmosphere than the scenic
+garden.  The eideitic scenery has been replaced with an eerie deserted
+forest.  Creatures lurk within the dark, waiting and anticipating their very
+next victim.  
+~
+0 0 3
+D1
+~
+~
+0 0 416
+S
+#419
+Sea cave~
+The tides crashes against the walls of the sea cave, home to the oldest
+and wisest turtle.  Despite the sound of the sea waves resounding through
+the cavernous room, the cave is still considerably quiet.  In one corner, a
+large turtle rests solitarily, aloof to all surroundings.  
+~
+0 0 0
+D4
+~
+~
+0 0 408
+S
+#420
+Garden of Eden~
+This is the main pathway amidst all this lush beautiful greenery.  The
+legendary Garden of Eden does live up to its reputation.  A feeling of
+calmness and serenity, coupled with an almost saintly and surreal sense of
+Utopia, wavers around the park.  Residents from the nearby cities flock here
+to enjoy its peace and quiet, and escape from their hectic lives back in the
+city.  
+~
+0 0 2
+D0
+~
+~
+0 0 409
+D1
+~
+~
+0 0 421
+D2
+~
+~
+0 0 422
+S
+#421
+Garden of Eden~
+This is the main pathway amidst all this lush beautiful greenery.  The
+legendary Garden of Eden does live up to its reputation.  A feeling of
+calmness and serenity, coupled with an almost saintly and surreal sense of
+Utopia, wavers around the park.  Residents from the nearby cities flock here
+to enjoy its peace and quiet, and escape from their hectic lives back in the
+city.  
+~
+0 0 2
+D1
+~
+~
+0 0 430
+D2
+~
+~
+0 0 423
+D3
+~
+~
+0 0 420
+S
+#422
+Garden of Eden~
+This is the main pathway amidst all this lush beautiful greenery.  The
+legendary Garden of Eden does live up to its reputation.  A feeling of
+calmness and serenity, coupled with an almost saintly and surreal sense of
+Utopia, wavers around the park.  Residents from the nearby cities flock here
+to enjoy its peace and quiet, and escape from their hectic lives back in the
+city.  
+~
+0 0 2
+D0
+~
+~
+0 0 420
+D1
+~
+~
+0 0 423
+D2
+~
+~
+0 0 403
+D3
+~
+~
+0 0 426
+S
+#423
+Garden of Eden~
+This is the main pathway amidst all this lush beautiful greenery.  The
+legendary Garden of Eden does live up to its reputation.  A feeling of
+calmness and serenity, coupled with an almost saintly and surreal sense of
+Utopia, wavers around the park.  Residents from the nearby cities flock here
+to enjoy its peace and quiet, and escape from their hectic lives back in the
+city.  
+~
+0 0 2
+D0
+~
+~
+0 0 421
+D1
+~
+~
+0 0 424
+D3
+~
+~
+0 0 422
+S
+#424
+Gazebo~
+Coupled together with the saintly scenery of the garden, the presence of
+the beautiful gazebo helps to complement each other.  It has been a recent
+trend for most city dwellers to hold their wedding ceremonies in the gazebo
+by the garden.  The wedding bells jingle cheerfully, livening the spirit of
+the room.  
+~
+0 0 0
+D3
+~
+~
+0 0 423
+S
+#425
+The apple grove~
+You are standing beneath the branches of well-pruned apple trees.  Along
+the path u see a whole stretch of apple trees leading northwards.  Apple
+pickers are busily picking apples from the trees, choosing only the ripest
+and most juicy of the apples.  
+~
+0 0 2
+D0
+~
+~
+0 0 428
+D1
+~
+~
+0 0 412
+D3
+~
+~
+0 0 413
+S
+#426
+Garden of Eden~
+This is the main pathway amidst all this lush beautiful greenery.  The
+legendary Garden of Eden does live up to its reputation.  A feeling of
+calmness and serenity, coupled with an almost saintly and surreal sense of
+Utopia, wavers around the park.  Residents from the nearby cities flock here
+to enjoy its peace and quiet, and escape from their hectic lives back in the
+city.  
+~
+0 0 2
+D0
+~
+~
+0 0 404
+D1
+~
+~
+0 0 422
+D2
+~
+~
+0 0 402
+D3
+~
+~
+0 0 412
+S
+#427
+The apple grove~
+You are standing beneath the branches of well-pruned apple trees.  Along
+the path u see a whole stretch of apple trees leading northwards.  Apple
+pickers are busily picking apples from the trees, choosing only the ripest
+and most juicy of the apples.  
+~
+0 0 2
+D0
+~
+~
+0 0 431
+D2
+~
+~
+0 0 412
+D3
+~
+~
+0 0 428
+S
+#428
+The apple grove~
+You are standing beneath the branches of well-pruned apple trees.  Along
+the path u see a whole stretch of apple trees leading northwards.  Apple
+pickers are busily picking apples from the trees, choosing only the ripest
+and most juicy of the apples.  
+~
+0 0 2
+D1
+~
+~
+0 0 427
+D2
+~
+~
+0 0 425
+D3
+~
+~
+0 0 429
+S
+#429
+The apple grove~
+You are standing beneath the branches of well-pruned apple trees.  Along
+the path u see a whole stretch of apple trees leading northwards.  Apple
+pickers are busily picking apples from the trees, choosing only the ripest
+and most juicy of the apples.  
+~
+0 0 2
+D1
+~
+~
+0 0 428
+S
+#430
+Garden of Eden~
+This is the main pathway amidst all this lush beautiful greenery.  The
+legendary Garden of Eden does live up to its reputation.  A feeling of
+calmness and serenity, coupled with an almost saintly and surreal sense of
+Utopia, wavers around the park.  Residents from the nearby cities flock here
+to enjoy its peace and quiet, and escape from their hectic lives back in the
+city.  
+~
+0 0 2
+D3
+~
+~
+0 0 421
+S
+#431
+A small pond~
+The small crystal clear pond sparkles and glitters under the bright
+mid-day sun.  Fishes can be seen swimming about in the water, ducks quacking
+and frogs croaking.  People can also be seen feeding the turtles
+breadcrumbs.  
+~
+0 0 6
+D0
+~
+~
+0 0 432
+D1
+~
+~
+0 0 407
+D2
+~
+~
+0 0 427
+S
+#432
+A small pond~
+The small crystal clear pond sparkles and glitters under the bright
+mid-day sun.  Fishes can be seen swimming about in the water, ducks quacking
+and frogs croaking.  People can also be seen feeding the turtles
+breadcrumbs.  
+~
+0 0 6
+D1
+~
+~
+0 0 408
+D2
+~
+~
+0 0 431
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 411 2 1
+D 0 414 0 1
+O 0 408 0 400
+O 0 401 0 401
+M 0 402 100 401 1
+M 0 402 1 402 1
+M 0 402 100 403 1
+M 0 403 100 403 1
+E 0 439 0 12
+M 0 426 100 403 1
+M 0 402 100 404 1
+M 0 405 100 405 1
+E 0 404 0 16
+M 0 406 100 406 1
+E 0 403 0 17
+E 0 120 0 24
+O 0 407 0 406
+M 0 407 100 407 1
+M 0 408 100 407 1
+M 0 409 100 407 1
+O 0 431 0 407
+M 0 408 100 408 2
+M 0 409 100 408 1
+O 0 431 0 408
+M 0 407 100 409 1
+M 0 408 100 409 1
+M 0 409 100 409 1
+O 0 431 0 409
+M 0 410 100 410 1
+E 0 410 0 6
+M 0 407 100 410 1
+O 0 431 0 410
+M 0 411 100 411 1
+E 0 411 0 17
+M 0 411 100 412 1
+E 0 412 0 9
+M 0 413 10 413 1
+E 0 413 0 22
+M 0 414 100 414 1
+E 0 414 0 4
+M 0 415 100 415 2
+E 0 415 0 15
+M 0 416 100 416 1
+E 0 416 0 8
+M 0 400 100 416 1
+E 0 400 0 10
+M 0 417 100 417 1
+E 0 417 0 26
+M 0 418 100 418 1
+E 0 418 0 0
+M 0 419 100 419 1
+E 0 419 0 12
+M 0 402 100 420 1
+M 0 423 100 420 1
+M 0 402 100 421 1
+M 0 423 100 421 1
+M 0 402 100 422 1
+M 0 423 100 422 1
+M 0 423 100 422 1
+M 0 402 100 423 1
+M 0 423 100 423 1
+M 0 426 100 423 1
+M 0 424 100 424 1
+E 0 423 0 2
+M 0 422 100 424 1
+E 0 423 0 1
+M 0 411 100 425 1
+M 0 402 100 426 2
+M 0 426 100 426 1
+M 0 411 100 427 2
+M 0 411 100 428 2
+M 0 426 100 428 1
+M 0 411 100 429 1
+M 0 423 100 430 2
+M 0 407 100 431 1
+M 0 408 100 431 1
+M 0 409 100 431 1
+O 0 431 0 431
+O 0 431 0 432
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

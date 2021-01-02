@@ -1,0 +1,1081 @@
+#AREADATA
+Name Timah's Peak~
+Builders Unlinked~
+VNUMs 2700 2799
+Credits {01 101} Ahmad   Timah's Peak~
+Security 6
+End
+
+
+
+#MOBILES
+#2700
+bird~
+a bird~
+A bird is here, trying to peck at you.
+~
+Float like a butterfly, sting like a bee.  This bird really
+pisses the hell out of you.
+~
+song bird~
+ABFH T E 0 0
+50 50 1d1+200 50d10+4500 5d10+40 none
+-30 -30 -30 -30
+FHIKR 0 0 0
+stand stand none 0
+AGHMVW ABCDEFGHIJKP medium unknown
+#2701
+monkey~
+a monkey~
+A monkey is here, throwing {8stones{0 at you.
+~
+A cute little furball is here, about two feet in height,
+picking up stones and tossing them at you.
+~
+human~
+A 0 0 0 0
+47 1 1d1+150 2d6+10 1d4+0 none
+9 9 9 9
+R 0 0 0
+stand stand none 25
+AHMV ABCDEFGHIJK medium unknown
+#2702
+lost tourist~
+a lost tourist~
+A tourist is here, trying to figure out his orientation.
+~
+A tourist is here, looking at a map and compass and trying to figure out
+which direction to head.
+~
+human~
+AB 0 0 0 0
+45 1 1d1+360 2d6+10 1d4+0 none
+9 9 9 9
+FHK 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#2703
+an old granny~
+an old granny~
+An old, wizened granny hunches over some stitching.
+~
+An old, greying woman bends over, squinting intently at the stitching in her lap.
+You wonder how she even got the thread through the needle..
+~
+human~
+ABG 0 0 100 0
+30 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 0 0
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+#2704
+a mosquito~
+a mosquito~
+A mosquito has found its meal..you.
+~
+A little black dot flies around, buzzing that irritating buzz.
+~
+lizard~
+ABF T 0 0 0
+40 30 1d1+250 2d6+10 1d1+30 bite
+9 9 9 9
+0 0 L I
+stand stand none 0
+AGHMVXc ACDEFJKV medium unknown
+F par HQ
+#2705
+little boy~
+a little boy~
+A little boy is here, kicking a ball around.
+~
+A little boy is here, kicking a soccer ball around. You feel a
+childish urge to join him
+~
+human~
+A 0 0 100 0
+30 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#2706
+housewife~
+a housewife~
+A woman is here, cleaning the cottage.
+~
+A frumpy woman is here, destined to spend the rest of her life
+cleaning the house and taking care of the house.
+~
+human~
+AB 0 0 0 0
+30 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 0 0
+stand stand none 1500
+AHMV ABCDEFGHIJK medium unknown
+#2707
+vulture~
+a vulture~
+A vulture circles around you, impatiently waiting for you to die.
+~
+The vulture circles around you, biting and clawing at you so you
+will fall off and die. And then it can eat you. That evil bird!
+~
+song bird~
+ABFH T 0 -200 0
+50 50 50d10+4500 50d10+4500 5d8+20 bite
+-30 -30 -30 -30
+FHIK 0 0 0
+stand stand none 0
+AGHMVW ABCDEFGHIJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#2700
+map and compass~
+map and compass~
+A map and compass lies here, waiting to be used.~
+unknown~
+armor SY AO
+3 3 3 3 0
+4 2 10 P
+A
+18 1
+A
+19 1
+#0
+
+
+
+#ROOMS
+#2700
+A Dirt Track~
+You are on a {3dirt{0 track, the sides of which are lined with little {8stones{0.
+Many footprints are seen on the track heading towards the mountain, but close
+to none are seen come heading back. Ahead lies the hulking shape of Timah Peak.
+~
+0 4 3
+D0
+~
+~
+0 0 2701
+S
+#2701
+A Dirt Track~
+You are on a {3dirt{0 track, the sides of which are lined with little {8stones{0.
+Many footprints are seen on the track heading towards the mountain, but close
+to none are seen come heading back. Ahead lies the hulking shape of Timah Peak.
+~
+0 0 3
+D0
+~
+~
+0 0 2702
+D2
+~
+~
+0 0 2700
+S
+#2702
+Before Timah Peak~
+The trail ascending Timah Peak is right ahead now. A tall canopy of
+trees looms overhead, crowding out the sunlight. You begin to feel
+swarms of {!mosquitoes{0 converge on you, as you decide to venture
+onwards.
+~
+0 0 3
+D0
+~
+~
+0 0 2703
+D2
+~
+~
+0 0 2701
+S
+#2703
+Base of Timah Peak~
+The ascent starts off at a gentle slope, and you are able
+to ascend briskly. The hum of {!mosquitoes{0 lingers in the air,
+vaguely irritating you, but you are able to ignore them,
+and continue on your descent.
+~
+0 0 3
+D0
+~
+~
+0 0 2704
+D2
+~
+~
+0 0 2702
+S
+#2704
+Ascending Timah Peak~
+The trail gets a little steeper here, and occasionally you are forced to
+use your hands. Damned thorns, you've been pricked tens of times while
+trying to ascend.  You begin to wonder if this is such a good idea.
+~
+0 0 3
+D2
+~
+~
+0 0 2703
+D4
+~
+~
+0 0 2705
+S
+#2705
+Ascending Timah Peak~
+The trail gets a little steeper here, and occasionally you are forced to
+use your hands. Damned thorns, you've been pricked tens of times while
+trying to ascend.  You begin to wonder if this is such a good idea.
+Here the trail diverges east and west, which path shall you take?
+~
+0 0 3
+D3
+~
+~
+0 0 2706
+D5
+~
+~
+0 0 2704
+S
+#2706
+A Forest Trail~
+Thick foliage and undergrowth hinder your movement greatly, and every few
+steps you have to wield your jungle knife and hack away at the jungle.
+Sensing a presence with you, you spin around - but there is noone, 
+nothing. The thick jungle is making you paranoid - or are your fears
+justified?
+~
+0 0 3
+D1
+~
+~
+0 0 2705
+D3
+~
+~
+0 0 2707
+S
+#2707
+A Forest Trail~
+Thick foliage and undergrowth hinder your movement greatly, and every few
+steps you have to wield your jungle knife and hack away at the jungle.
+Sensing a presence with you, you spin around - but there is noone, 
+nothing. The thick jungle is making you paranoid - or are your fears
+justified?
+~
+0 0 3
+D0
+~
+~
+0 0 2708
+D1
+~
+~
+0 0 2706
+S
+#2708
+A Steep Rock Face~
+Before you lies a sheer face of rock, ascendable only if you could fly.
+On the other hand you could take a detour around this, and find
+another way up Timah Peak.
+~
+0 0 3
+D1
+~
+~
+0 0 2709
+D2
+~
+~
+0 0 2707
+D4
+~
+~
+0 0 2710
+S
+#2709
+A Forest Trail~
+Thick foliage and undergrowth hinder your movement greatly, and every few
+steps you have to wield your jungle knife and hack away at the jungle.
+Sensing a presence with you, you spin around - but there is noone, 
+nothing. The thick jungle is making you paranoid - or are your fears
+justified?
+~
+0 0 3
+D0
+~
+~
+0 0 2711
+D3
+~
+~
+0 0 2708
+S
+#2710
+Flying Up the Rock Face~
+As you fly up, the wind gets harder, and the air seems more chilly.
+You struggle to catch your breath in this high altitude, and you try
+to concentrate on flying up.  If only those birds would stop harassing
+you...
+~
+0 0 9
+D4
+~
+~
+0 0 2712
+D5
+~
+~
+0 0 2708
+S
+#2711
+A Steep Ravine~
+You lose your footing, and plunge down a ravine...
+ 
+ 
+ 
+ 
+           falling
+ 
+ 
+ 
+                           falling
+ 
+ 
+ 
+  falling
+ 
+ 
+ 
+~
+0 4 0
+S
+#2712
+Flying Up the Rock Face~
+As you fly up, the wind gets harder, and the air seems more chilly.
+You struggle to catch your breath in this high altitude, and you try
+to concentrate on flying up.  If only those birds would stop harassing
+you...
+~
+0 0 9
+D4
+~
+~
+0 0 2713
+D5
+~
+~
+0 0 2710
+S
+#2713
+Atop A Plateau~
+Clambering upon the plateau, you see a grand vista of forest and sky
+in their magnificent yet simple beauty. How you wish you could stay
+here forever.
+~
+0 0 0
+D0
+~
+~
+0 0 2714
+S
+#2714
+A Rocky Trail~
+A steep but climb-able trail. Your breathing gets harder as
+you ascend higher, every step beginning to be a struggle.
+Chilly winds blow through your hair, and dark clouds gather ominously
+~
+0 0 0
+D1
+~
+~
+0 0 2715
+D2
+~
+~
+0 0 2713
+S
+#2715
+A Rocky Trail~
+A steep but climb-able trail. Your breathing gets harder as
+you ascend higher, every step beginning to be a struggle.
+Chilly winds blow through your hair, and dark clouds gather ominously
+~
+0 0 0
+D2
+~
+~
+0 0 2716
+D3
+~
+~
+0 0 2714
+S
+#2716
+A Rocky Trail~
+A steep but climb-able trail. Your breathing gets harder as
+you ascend higher, every step beginning to be a struggle.
+Chilly winds blow through your hair, and dark clouds gather ominously
+~
+0 0 0
+D0
+~
+~
+0 0 2715
+D1
+~
+~
+0 0 2717
+D2
+~
+~
+0 0 2718
+S
+#2717
+Steep Rock Face~
+You look up..ooh that's one steep rock face. It's a long way up, you'll
+have to fly to get there.
+~
+0 0 0
+D3
+~
+~
+0 0 2716
+D4
+~
+~
+0 0 2750
+S
+#2718
+Big Drop~
+You reach the end of the trail, which culminates in a steep drop
+downwards. You don't think you want to fall off the cliff..
+do you?
+~
+0 0 0
+D0
+~
+~
+0 0 2716
+D2
+~
+~
+0 0 2719
+S
+#2719
+The Big Drop~
+For some reason you decide to take a dive off the cliff, and
+you plunge like a bomb downwards.  The {8mountain{0 whizzes past,
+as fear and adrenaline mix potently in your {1blood{0.
+The canopy of the {@forest{0 absorbs your fall though, and you
+merely hit the ground with a few bruises.
+~
+0 0 0
+D0
+~
+~
+0 0 2727
+D1
+~
+~
+0 0 2724
+D2
+~
+~
+0 0 2720
+D3
+~
+~
+0 0 2723
+S
+#2720
+Lost in the Forest~
+The trees loom high above, the canopy blocking out any
+{#s{3u{#n{0 from the {@forest{0. You've been walking in
+circles, but you can't find your way out of this {!damned{0
+forest.  That fall must have messed your brain..
+~
+0 0 0
+D0
+~
+~
+0 0 2719
+D1
+~
+~
+0 0 2721
+D2
+~
+~
+0 0 2727
+D3
+~
+~
+0 0 2722
+S
+#2721
+Lost in the Forest~
+The trees loom high above, the canopy blocking out any
+{#s{3u{#n{0 from the {@forest{0. You've been walking in
+circles, but you can't find your way out of this {!damned{0
+forest.  That fall must have messed your brain..
+~
+0 0 0
+D0
+~
+~
+0 0 2724
+D1
+~
+~
+0 0 2722
+D2
+~
+~
+0 0 2726
+D3
+~
+~
+0 0 2720
+S
+#2722
+Lost in the Forest~
+The trees loom high above, the canopy blocking out any
+{#s{3u{#n{0 from the {@forest{0. You've been walking in
+circles, but you can't find your way out of this {!damned{0
+forest.  That fall must have messed your brain..
+~
+0 0 0
+D0
+~
+~
+0 0 2723
+D1
+~
+~
+0 0 2720
+D2
+~
+~
+0 0 2730
+D3
+~
+~
+0 0 2721
+S
+#2723
+Lost in the Forest~
+The trees loom high above, the canopy blocking out any
+{#s{3u{#n{0 from the {@forest{0. You've been walking in
+circles, but you can't find your way out of this {!damned{0
+forest.  That fall must have messed your brain..
+~
+0 0 0
+D0
+~
+~
+0 0 2725
+D1
+~
+~
+0 0 2719
+D2
+~
+~
+0 0 2722
+D3
+~
+~
+0 0 2724
+S
+#2724
+Lost in the Forest~
+The trees loom high above, the canopy blocking out any
+{#s{3u{#n{0 from the {@forest{0. You've been walking in
+circles, but you can't find your way out of this {!damned{0
+forest.  That fall must have messed your brain..
+~
+0 0 0
+D0
+~
+~
+0 0 2726
+D1
+~
+~
+0 0 2723
+D2
+~
+~
+0 0 2721
+D3
+~
+~
+0 0 2719
+S
+#2725
+Lost in the Forest~
+The trees loom high above, the canopy blocking out any
+{#s{3u{#n{0 from the {@forest{0. You've been walking in
+circles, but you can't find your way out of this {!damned{0
+forest.  That fall must have messed your brain..
+~
+0 0 0
+D1
+~
+~
+0 0 2727
+D2
+~
+~
+0 0 2723
+D3
+~
+~
+0 0 2726
+S
+#2726
+Lost in the Forest~
+The trees loom high above, the canopy blocking out any
+{#s{3u{#n{0 from the {@forest{0. You've been walking in
+circles, but you can't find your way out of this {!damned{0
+forest.  That fall must have messed your brain..
+~
+0 0 0
+D0
+~
+~
+0 0 2721
+D1
+~
+~
+0 0 2725
+D2
+~
+~
+0 0 2724
+D3
+~
+~
+0 0 2727
+S
+#2727
+Lost in the Forest~
+The trees loom high above, the canopy blocking out any
+{#s{3u{#n{0 from the {@forest{0. You've been walking in
+circles, but you can't find your way out of this {!damned{0
+forest.  That fall must have messed your brain..
+~
+0 0 0
+D0
+~
+~
+0 0 2720
+D1
+~
+~
+0 0 2726
+D2
+~
+~
+0 0 2719
+D3
+~
+~
+0 0 2725
+S
+#2730
+Out of the Forest~
+That damned {@forest{0, you finally find your way out. You
+have no idea where you are, but you are certain about
+one thing - no way you're going back in there.
+~
+0 0 0
+D0
+~
+~
+0 0 2722
+D3
+~
+~
+0 0 2731
+S
+#2731
+Out of the Forest~
+That damned {@forest{0, you finally find your way out. You
+have no idea where you are, but you are certain about
+one thing - no way you're going back in there.
+~
+0 0 0
+D0
+~
+~
+0 0 2732
+D1
+~
+~
+0 0 2730
+S
+#2732
+Timah Village~
+A quaint little village lined with quaint little straw
+huts is here. The people go about their daily business merrily,
+greeting you with a slight nod. Little children laugh gaily under
+the gentle sun, as their mothers watch benevolently from the sides.
+~
+0 0 0
+D0
+~
+~
+0 0 2733
+D2
+~
+~
+0 0 2731
+S
+#2733
+The Village Centre~
+This is the hub of Timah village, the air is buzzing with
+acitivity. Timahites come here for their daily fix of
+marketing and other business.
+~
+0 0 0
+D1
+~
+~
+0 0 2734
+D2
+~
+~
+0 0 2732
+D3
+~
+~
+0 0 2743
+S
+#2734
+Village Path~
+You are on a little path, lined with attap cottages.
+Children play merrily, mothers sew blissfully, fathers
+doze peacefully. The tranquility cleans and refreshes
+your mind, like a glass of fine wine.
+~
+0 0 0
+D0
+~
+~
+0 0 2741
+D1
+~
+~
+0 0 2735
+D2
+~
+~
+0 0 2742
+D3
+~
+~
+0 0 2733
+S
+#2735
+Village Path~
+You are on a little path, lined with attap cottages.
+Children play merrily, mothers sew blissfully, fathers
+doze peacefully. The tranquility cleans and refreshes
+your mind, like a glass of fine wine.
+~
+0 0 0
+D0
+~
+~
+0 0 2739
+D1
+~
+~
+0 0 2736
+D2
+~
+~
+0 0 2740
+D3
+~
+~
+0 0 2734
+S
+#2736
+Village Path~
+You are on a little path, lined with attap cottages.
+Children play merrily, mothers sew blissfully, fathers
+doze peacefully. The tranquility cleans and refreshes
+your mind, like a glass of fine wine.
+~
+0 0 0
+D0
+~
+~
+0 0 2737
+D2
+~
+~
+0 0 2738
+D3
+~
+~
+0 0 2735
+S
+#2737
+Little Cottage~
+You enter a quaint little cottage. The walls are a fresh brick, the
+floor a solid wood. The residents are a little surprised to see you,
+but they soon recover and welcome you warmly with tea and cupcakes.
+~
+0 0 0
+D2
+~
+~
+0 0 2736
+S
+#2738
+Little Cottage~
+You enter a quaint little cottage. The walls are a fresh brick, the
+floor a solid wood. The residents are a little surprised to see you,
+but they soon recover and welcome you warmly with tea and cupcakes.
+~
+0 0 0
+D0
+~
+~
+0 0 2736
+S
+#2739
+Little Cottage~
+You enter a quaint little cottage. The walls are a fresh brick, the
+floor a solid wood. The residents are a little surprised to see you,
+but they soon recover and welcome you warmly with tea and cupcakes.
+~
+0 0 0
+D2
+~
+~
+0 0 2735
+S
+#2740
+Little Cottage~
+You enter a quaint little cottage. The walls are a fresh brick, the
+floor a solid wood. The residents are a little surprised to see you,
+but they soon recover and welcome you warmly with tea and cupcakes.
+~
+0 0 0
+D0
+~
+~
+0 0 2735
+S
+#2741
+Little Cottage~
+You enter a quaint little cottage. The walls are a fresh brick, the
+floor a solid wood. The residents are a little surprised to see you,
+but they soon recover and welcome you warmly with tea and cupcakes.
+~
+0 0 0
+D2
+~
+~
+0 0 2734
+S
+#2742
+Little Cottage~
+You enter a quaint little cottage. The walls are a fresh brick, the
+floor a solid wood. The residents are a little surprised to see you,
+but they soon recover and welcome you warmly with tea and cupcakes.
+~
+0 0 0
+D0
+~
+~
+0 0 2734
+S
+#2743
+Forest Trail~
+Nothing much really. Dead rotting vegetation, hot, humid, everything
+you hated about forests.  Mosquitoes and sandflies too.
+~
+0 0 0
+D0
+~
+~
+0 0 2744
+D1
+~
+~
+0 0 2733
+S
+#2744
+Forest Trail~
+Nothing much really. Dead rotting vegetation, hot, humid, everything
+you hated about forests.  Mosquitoes and sandflies too.
+~
+0 0 0
+D1
+~
+~
+0 0 2701
+D2
+~
+~
+0 0 2743
+S
+#2750
+Ascending the Peak~
+The air is very thin here, as you pant and gasp for oxygen.
+Your muscles are screaming for you to stop, but upwards
+you scale, step after step. It feels like an eternity.
+~
+0 0 0
+D4
+~
+~
+0 0 2751
+D5
+~
+~
+0 0 2717
+S
+#2751
+Ascending the Peak~
+The air is very thin here, as you pant and gasp for oxygen.
+Your muscles are screaming for you to stop, but upwards
+you scale, step after step. It feels like an eternity.
+~
+0 0 0
+D4
+~
+~
+0 0 2752
+D5
+~
+~
+0 0 2750
+S
+#2752
+Ascending the Peak~
+The air is very thin here, as you pant and gasp for oxygen.
+Your muscles are screaming for you to stop, but upwards
+you scale, step after step. It feels like an eternity.
+~
+0 0 0
+D4
+~
+~
+0 0 2754
+D5
+~
+~
+0 0 2751
+S
+#2753
+Atop Timah Peak~
+You pull yourself up onto the ledge, and you realize you have conquered
+Timah Peak! You plant your country's flag and sing your homeland's
+national anthem, then you sit down and have a nice picnic.
+Just one thing..how are you gonna get down?
+~
+0 4 0
+S
+#2754
+In the Clouds~
+The pristine white clouds sparkle under the sun, as you realize
+you have climbed high enough to touch the clouds. Looking down, a dizzying
+blur of green and brown. Only one way to go now..
+~
+0 0 0
+D4
+~
+~
+0 0 2755
+S
+#2755
+In the Clouds~
+The pristine white clouds sparkle under the sun, as you realize
+you have climbed high enough to touch the clouds. Looking down, a dizzying
+blur of green and brown. Only one way to go now..
+~
+0 0 0
+D4
+~
+~
+0 0 2753
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 2701 100 2700 2
+M 0 2701 100 2701 2
+M 0 2702 100 2701 1
+E 0 2700 0 17
+M 0 2701 100 2702 2
+M 0 2701 100 2703 2
+M 0 2702 100 2703 1
+E 0 2700 0 17
+M 0 2701 100 2704 1
+M 0 2704 2 2705 1
+M 0 2704 2 2706 1
+M 0 2704 3 2707 1
+M 0 2700 100 2710 2
+M 0 2700 100 2712 3
+M 0 2700 1 2713 1
+M 0 2702 1 2713 1
+M 0 2701 1 2714 1
+M 0 2700 1 2715 1
+M 0 2705 1 2734 1
+M 0 2705 3 2735 1
+M 0 2705 2 2736 1
+M 0 2706 1 2737 1
+M 0 2703 1 2737 1
+M 0 2706 1 2738 1
+M 0 2703 1 2738 1
+M 0 2706 1 2739 1
+M 0 2703 1 2739 1
+M 0 2706 1 2740 1
+M 0 2703 1 2740 1
+M 0 2706 1 2741 1
+M 0 2703 1 2741 1
+M 0 2706 1 2742 1
+M 0 2703 1 2742 1
+M 0 2704 3 2743 1
+M 0 2704 3 2744 1
+M 0 2707 3 2750 1
+M 0 2707 3 2751 1
+M 0 2707 3 2752 1
+M 0 2707 3 2754 1
+M 0 2707 3 2755 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

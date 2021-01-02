@@ -1,0 +1,32 @@
+Trainee:
+goto        sockets     wizhelp     pack        purge       ghost       
+holylight   incognito   memory      mwhere      owhere      penalty     
+stat        wizinvis    vnum        wiznet      immtalk     imotd       
+smote       prefix      recover     gset        mpdump      mpstat      
+reroll      
+
+Quest Imm:
+avatar teleport transfer corner poofin poofout echo sign restore
+
+Builder:
+restore + building privileges
+
+QC Building:
+at force load nochannels noemote noshout peace string clone
+They can build in every area with security<=6 and the builder
+Unlinked. 
+
+Head Quest Imm:
+disconnect freeze pecho gecho return switch zecho mpoint mquest wizslap
+
+Lead Builder:
+building privileges + creating areas, renaming, etc...
+
+Enforcer:
+allow ban deny dupe set wizlock newlock noclan norestore notell notitle slay twit pardon allpeace snoop clead wipe + areset 
+
+Implementor:
+shell access + advance dump trust violate copyover flag permban protect reboot shutdown log wecho 
+
+Owner:
+-

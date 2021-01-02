@@ -1,0 +1,1199 @@
+#AREADATA
+Name Valley of the Titans~
+Builders None~
+VNUMs 800 849
+Credits {70 101} Sha/Kat Valley of the Titans~
+Security 9
+End
+
+
+
+#MOBILES
+#800
+titan guard~
+titan guard~
+The titan guard stands at attention.
+~
+His duty is to ensure that no foreigners can tresspass within their hidden valley without permission.
+Dilligent and alert, he has yet to make any mistake.
+~
+titan~
+ABT Da E 0 0
+90 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+R B D 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#801
+titan beggar~
+titan beggar~
+A titan beggar tries to squeeze a few coins from you.
+~
+Dressed in ragged shirts and torn and tattered pants, the beggar has no place to live but on the streets.
+His survival depends solely on the generousity of the titan people, who occasionally spare a few platinum coins.
+Judging from the look on his face, he probably has not eaten for days.
+~
+titan~
+AG Da 0 0 0
+90 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 B D 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#802
+titan husband~
+titan husband~
+The titan husband glares at you warily.
+~
+The head of his family, he stares at you warily, poised ready for a fight.
+He does not take a liking to people intruding into his privacy, and interrupting his family meals.
+~
+titan~
+AGT DVa 0 0 0
+100 69 50d20+14000 50d20+14000 8d7+33 none
+-45 -45 -45 -45
+0 B D 0
+stand stand male 2500
+AHMV ABCDEFGHIJK large unknown
+#803
+titan child~
+titan child~
+The titan child smiles at you cheerfully.
+~
+This child, although only a mere 2 years old, is actually 14 feet tall, taller than most people by about twice.
+However, though the child is physically more developed, his mental abilities still remaind that of a 2 year old childs'.
+~
+titan~
+AG DVa 0 0 0
+90 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+0 B D 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#804
+titan warrior~
+titan warrior~
+A titan warrior sharpens his sword.
+~
+The titan warrior has been travelling across the valley, exploring unexplored regions, and expanding the settlement.
+It is also due to the presence of these warriors that the valley has remained safe from monsters and other attackers.
+As he sharpens his blade, he prepares to set off for yet another eventful journey.
+~
+titan~
+AG Da 0 0 0
+98 70 1d1+10000 50d20+14500 6d10+33 none
+-46 -46 -46 -46
+R B D 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#806
+titan wife~
+titan wife~
+A titan wife is cooking something delicious.
+~
+Drifting from the pot are mouthwatering smells that make you drool.
+*Sniff*mMmmM....
+~
+titan~
+AG Da 0 0 0
+95 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+0 B D 0
+stand stand female 2500
+AHMV ABCDEFGHIJK medium unknown
+#809
+malissin~
+Malissin~
+Malissin welcomes you into her shop.
+~
+She sits behind her counter on her small wooden stool, greeting all customers warmly.
+'What can I do for you today, traveller?'
+~
+titan~
+AB Da 0 0 0
+80 80 50d30+19500 50d30+19500 8d9+36 none
+-54 -54 -54 -54
+0 B D 0
+stand stand female 5000
+AHMV ABCDEFGHIJK medium unknown
+#810
+titan mage~
+titan mage~
+A titan mage waves her wand in the air.
+~
+Dressed in flowing red robes, the titan mage has mastered her sorcery well.
+With her wand grasped in her hand, she utters a few words under her breath, and the air about her starts to freeze.
+~
+titan~
+ABR Da 0 0 0
+110 70 50d20+14500 50d20+14500 6d10+33 none
+-46 -46 -46 -46
+0 B D 0
+stand stand female 2500
+AHMV ABCDEFGHIJK medium unknown
+#815
+titan cleric~
+titan cleric~
+A titan cleric places her hand gently on you.
+~
+Trained in the arts of curative magic, she has been healing the titan villagers from ailments that plague them.
+She places her hand gently on you, and a warm soothing sensation flows through your body, rejuvinating your energy.
+~
+titan~
+AGQ Da 0 0 0
+110 75 1d1+9000 50d25+17000 6d11+35 none
+-50 -50 -50 -50
+0 B D 0
+stand stand female 2500
+AHMV ABCDEFGHIJK medium unknown
+#816
+titan worker~
+titan worker~
+A titan worker is hard at work.
+~
+The titan worker has been carrying wooden planks, leaves, and buckets of clay for almost the whole day.
+As he constructs the house with great care, he grumbles under his breath about the foreman being unreasonable and stingy.
+~
+titan~
+ABG Da 0 0 0
+100 69 50d20+14000 50d20+14000 8d7+33 none
+-45 -45 -45 -45
+0 B D 0
+stand stand none 2500
+AHMV ABCDEFGHIJK medium unknown
+#817
+titan foreman~
+titan foreman~
+A titan foreman is barking away at the workers.
+~
+Dressed in bright yellow helmet and bright yellow boots, he barks savegely away at his workers.
+With the dateline for the construction of the house nearing, he has to accomplish his task as soon as possible.
+~
+titan~
+ABT DVa 0 0 0
+101 80 20d20+10000 50d30+19500 8d9+36 none
+-54 -54 -54 -54
+0 B D 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#818
+titan thief~
+titan thief~
+A titan thief blends in with the shadows.
+~
+Hidden amongst the shadows, the titan thief waits patiently for his unsuspecting prey.
+Once seen, he stealthily steals the wallets of the villagers and makes off with his new found loot.
+~
+titan~
+AGS Da 0 0 0
+110 72 10d10+10000 50d25+15500 4d16+34 none
+-47 -47 -47 -47
+0 B D 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#819
+titan worshipper~
+titan worshipper~
+A titan worshipper kneels down in prayer.
+~
+She faithfully kneels down before the altar of the titan goddess, seeking her blessings and penance for all wrongdoings.
+Deep in meditation, the serenity of the area helps her to focus on her prayers.
+~
+titan~
+AB Da 0 0 0
+108 67 50d20+13000 50d20+13000 9d6+31 none
+-43 -43 -43 -43
+0 B D 0
+stand stand female 2500
+AHMV ABCDEFGHIJK medium unknown
+#832
+titan patrol~
+titan patrol~
+A titan patrolls the area vigilantly.
+~
+Due to the increased number of cases of theft along east main street, the rich titans have hired a group of patrols to ensure a high level of security.
+He is alert, on the lookout for any suspicious looking people that may be thieves.
+~
+titan~
+AG Da 0 0 0
+105 70 1d1+9000 50d20+14500 6d10+33 none
+-46 -46 -46 -46
+R B D 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#833
+titan butler~
+titan butler~
+A titan butler tends to the household chores.
+~
+He has been hired by the rich occupants to maintain the mansion in tip-top condition, and tend to all the household chores.
+Even when the occupants have left for work, he does not slacken and continues doing his job conscienciously.
+~
+titan~
+AG Da 0 0 0
+105 68 50d20+13500 50d20+13500 8d7+32 none
+-44 -44 -44 -44
+0 B D 0
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#836
+feragorn~
+Feragorn~
+Feragorn is here, selling his wares.
+~
+A rather small titan for his kind, he smiles cheerfully at all that enter his shop.
+As he greets you warmly, he hopes that you will make a purchase too.
+~
+titan~
+AB Da 0 0 0
+80 80 50d30+19500 50d30+19500 8d9+36 none
+-54 -54 -54 -54
+0 B D 0
+stand stand male 5000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#809
+glowing fireball~
+a {3glo{#w{3ing {3fir{#eb{3all{x~
+A ball of light emits a gentle radiant glow.~
+unknown~
+light AB A
+0 0 999 0 0
+0 0 1000 P
+#810
+travellers pack~
+a {3traveller's pack{x~
+A pack has been carelessly dropped by a traveller.~
+unknown~
+container SY A
+0 AB 0 100 25
+10 5 1000 P
+#811
+mineral water bottle~
+a bottle of {$mineral water{x~
+A bottle of water from the springs has been left uncapped!~
+unknown~
+drink Y A
+10 10 'water' 0 0
+0 0 1000 P
+#834
+titan gloves~
+{8titan {3gloves{x~
+Some gloves made out of tin are here.~
+unknown~
+armor T AH
+25 25 25 25 0
+80 7 10000 P
+A
+14 -150
+A
+12 -150
+A
+13 300
+#835
+titan armguard~
+{8titan {3armguards{x~
+Some armguards are shining in the darkness.~
+unknown~
+armor T AI
+25 25 25 25 0
+80 8 10000 P
+A
+14 -150
+A
+12 -150
+A
+13 300
+#836
+titan breastplate~
+a {8titan {3breastplate{x~
+A hard breastplate is shining in the darkness.~
+unknown~
+armor T AK
+24 25 24 23 0
+80 9 10000 P
+A
+14 -150
+A
+12 -150
+A
+13 300
+#837
+shimmering portal shadun~
+a shimmering portal~
+A {Cs{ch{Wi{xm{Cm{ce{Wr{xi{Cn{cg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#800
+Entrance to the Valley of Titans.~
+This is the entrance to a small settlement of runaway titans, titans
+which have fled from their hometowns due to pestilence.  The valley is
+composed of numerous settlements, made up of large wooden and straw huts,
+and small squatter villages.  North leads to the southern entrance of the
+settlement.  
+~
+0 4 0
+D0
+~
+~
+0 0 801
+S
+#801
+Southern entrance to the valley.~
+Titans of various sizes can be seen going about their daily routines on
+the freshly paved streets.  Even the smallest titan is about 5 times your
+height.  Some titans pause shortly to observe you, wondering what you might
+me doing in their secret valley.  To the north leads further into the
+settlement, and east and west leads to huts.  
+~
+0 0 0
+D0
+~
+~
+0 0 804
+D1
+~
+~
+0 0 803
+D2
+~
+~
+0 0 800
+D3
+~
+~
+0 0 802
+S
+#802
+Inside the hut~
+The hut has been hastily built using crude materials like straw, wood,
+and clay to seal the joints.  It is sparsely furnished, with only the bare
+furnitures like a few large chairs and a table present in the living room. 
+Scents of freshly baked pastries can be smelt wafting throught the room,
+from the west.  East leads back onto the pathway, while west leads into the
+kitchen of the hut.  
+~
+0 0 0
+D1
+~
+~
+0 0 801
+D3
+~
+~
+0 0 805
+S
+#803
+Inside the hut~
+The hut has been hastily built using crude materials like straw, wood,
+and clay to seal the joints.  It is sparsely furnished, with only the bare
+furnitures like a few large chairs and a table present in the living room. 
+Scents of freshly baked pastries can be smelt wafting throughtout the room,
+from the east.  West leads back onto the pathway, while east leads into the
+kitchen of this hut.  
+~
+0 0 0
+D1
+~
+~
+0 0 806
+D3
+~
+~
+0 0 801
+S
+#804
+Main street~
+This is the main street in the valley.  Titans can be seen hustling and
+bustling about, rushing along the street to their various destinations. 
+Huts branch off from this street, as well as the various commercial stores
+in the valley.  
+~
+0 0 0
+D0
+~
+~
+0 0 810
+D1
+~
+~
+0 0 809
+D2
+~
+~
+0 0 801
+D3
+~
+~
+0 0 807
+S
+#805
+Kitchen~
+This is the kitchen of the resident titans.  Evidently, the titans are
+simple folks, still using burned logs to cook their own food.  In this room,
+a small fireplace with glowing red embers can be seen.  East leads back into
+the living room of the hut.  
+~
+0 0 0
+D1
+~
+~
+0 0 802
+S
+#806
+Kitchen~
+This is the kitchen of the resident titans.  Evidently, the titans are
+simple folks, still using burned logs to cook their own food.  In this room,
+a small fireplace with glowing red embers can be seen.  West leads back into
+the living room of the hut.  
+~
+0 0 0
+D3
+~
+~
+0 0 803
+S
+#807
+Inside the hut~
+The hut has been hastily built using crude materials like straw, wood,
+and clay to seal the joints.  It is sparsely furnished, with only the bare
+furnitures like a few large chairs and a table present in the living room. 
+Scents of freshly baked pastries can be smelt wafting throught the room,
+from the west.  East leads back onto the pathway, while west leads into the
+kitchen of the hut.  
+~
+0 0 0
+D1
+~
+~
+0 0 804
+D3
+~
+~
+0 0 808
+S
+#808
+Kitchen~
+This is the kitchen of the resident titans.  Evidently, the titans are
+simple folks, still using burned logs to cook their own food.  In this room,
+a small fireplace with glowing red embers can be seen.  East leads back into
+the living room of the hut.  
+~
+0 0 0
+D1
+~
+~
+0 0 807
+S
+#809
+The General Store~
+The general store is where the titan citizens get all their usual daily
+necessities from.  The store is well maintained by the shopkeeper, and
+stocks are often re-supplied every few days to ensure freshness.  There are
+many boxes and items neatly stacked on the shelf behind the counter.  West
+leads back onto the main street.  
+~
+0 0 0
+D3
+~
+~
+0 0 804
+S
+#810
+Main street~
+This is the main street in the valley.  Titans can be seen hustling and
+bustling about, rushing along the street to their various destinations. 
+Huts branch off from this street, as well as the various commercial stores
+in the valley.  
+~
+0 0 0
+D0
+~
+~
+0 0 815
+D1
+~
+~
+0 0 813
+D2
+~
+~
+0 0 804
+D3
+~
+~
+0 0 811
+S
+#811
+Inside the hut~
+The hut has been hastily built using crude materials like straw, wood,
+and clay to seal the joints.  It is sparsely furnished, with only the bare
+furnitures like a few large chairs and a table present in the living room. 
+Scents of freshly baked pastries can be smelt wafting throught the room,
+from the west.  East leads back onto the pathway, while west leads into the
+kitchen of the hut.  
+~
+0 0 0
+D1
+~
+~
+0 0 810
+D3
+~
+~
+0 0 812
+S
+#812
+Kitchen~
+This is the kitchen of the resident titans.  Evidently, the titans are
+simple folks, still using burned logs to cook their own food.  In this room,
+a small fireplace with glowing red embers can be seen.  East leads back into
+the living room of the hut.  
+~
+0 0 0
+D1
+~
+~
+0 0 811
+S
+#813
+Inside the hut~
+The hut has been hastily built using crude materials like straw, wood,
+and clay to seal the joints.  It is sparsely furnished, with only the bare
+furnitures like a few large chairs and a table present in the living room. 
+Scents of freshly baked pastries can be smelt wafting throughtout the room,
+from the east.  West leads back onto the pathway, while east leads into the
+kitchen of this hut.  
+~
+0 0 0
+D1
+~
+~
+0 0 814
+D3
+~
+~
+0 0 810
+S
+#814
+Kitchen~
+This is the kitchen of the resident titans.  Evidently, the titans are
+simple folks, still using burned logs to cook their own food.  In this room,
+a small fireplace with glowing red embers can be seen.  West leads back into
+the living room of the hut.  
+~
+0 0 0
+D3
+~
+~
+0 0 813
+S
+#815
+Main street~
+This is the main street in the valley.  Titans can be seen hustling and
+bustling about, rushing along the street to their various destinations. 
+Huts branch off from this street, as well as the various commercial stores
+in the valley.  
+~
+0 0 0
+D0
+~
+~
+0 0 818
+D1
+~
+~
+0 0 817
+D2
+~
+~
+0 0 810
+D3
+~
+~
+0 0 816
+S
+#816
+Empty patch of grass~
+The vacant and barren patch of land, has been vacated for the next titan
+tenant.  For some reason though, no one has seemed to purchase this plot of
+land, and unsightly wild grass and weeds can be seen sprouting.  
+~
+0 0 0
+D1
+~
+~
+0 0 815
+S
+#817
+Construction site~
+A new hut is being constructed here, and piles of building materials like
+straw, wooden and clay have been neated stacked aside.  The foundations for
+the hut have already been laid, and the hut can be completed in roughly a
+months time.  
+~
+0 0 0
+D3
+~
+~
+0 0 815
+S
+#818
+Before the temple~
+The hut which serves as the temple within the valley lies northwards.  It
+is slightly larger than the other huts, and greater care has been taken in
+its construction.  The walls of the temple have been constructed out of
+wooden planks and layered with leaves to ventilate the room well, and the
+roof has been sealed tight to prevent raindrops from leaking.  To the east
+and west, branches of the main street can be seen leading to more houses and
+stores.  
+~
+0 0 0
+D0
+~
+~
+0 0 819
+D1
+~
+~
+0 0 832
+D2
+~
+~
+0 0 815
+D3
+~
+~
+0 0 820
+S
+#819
+The Titan temple~
+This is where most of the titan villagers congregate for recreational
+purposes, or just for a friendly chat.  After a hard day's work, the
+religious titans often stop by the temple to offer their prayers to their
+gods, and seek their blessings and forgiveness.  The titans can also seek
+medical help from the temple's healers whenever injuries are sustained.  
+~
+0 0 0
+D2
+~
+~
+0 0 818
+S
+#820
+West main street~
+The titan citizens living in the west main street are often looked down
+upon, as the street is filled with many shacks and rundown slums.  Most of
+the poorer titans seek refuge in the west main street, as they are too poor
+to afford the accommodations in the east or the main street itself.  
+~
+0 0 0
+D0
+~
+~
+0 0 821
+D1
+~
+~
+0 0 818
+D2
+~
+~
+0 0 822
+D3
+~
+~
+0 0 823
+S
+#821
+Filthy shack~
+The wooden shack is damp, moist, and very dirty as well as dusty, almost
+unfit for living.  The walls and roof are falling apart, almost about to
+collapse at any one time.  There is no furniture at all, save for a old
+dusty fireplace that has not been used for a long time.  
+~
+0 0 0
+D2
+~
+~
+0 0 820
+S
+#822
+Filthy shack~
+The wooden shack is damp, moist, and very dirty as well as dusty, almost
+unfit for living.  The walls and roof are falling apart, almost about to
+collapse at any one time.  There is no furniture at all, save for a old
+dusty fireplace that has not been used for a long time.  
+~
+0 0 0
+D0
+~
+~
+0 0 820
+S
+#823
+West main street~
+The titan citizens living in the west main street are often looked down
+upon, as the street is filled with many shacks and rundown slums.  Most of
+the poorer titans seek refuge in the west main street, as they are too poor
+to afford the accommodations in the east or the main street itself.  
+~
+0 0 0
+D0
+~
+~
+0 0 824
+D1
+~
+~
+0 0 820
+D2
+~
+~
+0 0 825
+D3
+~
+~
+0 0 826
+S
+#824
+Filthy shack~
+The wooden shack is damp, moist, and very dirty as well as dusty, almost
+unfit for living.  The walls and roof are falling apart, almost about to
+collapse at any one time.  There is no furniture at all, save for a old
+dusty fireplace that has not been used for a long time.  
+~
+0 0 0
+D2
+~
+~
+0 0 823
+S
+#825
+Filthy shack~
+The wooden shack is damp, moist, and very dirty as well as dusty, almost
+unfit for living.  The walls and roof are falling apart, almost about to
+collapse at any one time.  There is no furniture at all, save for a old
+dusty fireplace that has not been used for a long time.  
+~
+0 0 0
+D0
+~
+~
+0 0 823
+S
+#826
+West main street~
+The titan citizens living in the west main street are often looked down
+upon, as the street is filled with many shacks and rundown slums.  Most of
+the poorer titans seek refuge in the west main street, as they are too poor
+to afford the accommodations in the east or the main street itself.  
+~
+0 0 0
+D0
+~
+~
+0 0 827
+D1
+~
+~
+0 0 823
+D2
+~
+~
+0 0 828
+D3
+~
+~
+0 0 829
+S
+#827
+Filthy shack~
+The wooden shack is damp, moist, and very dirty as well as dusty, almost
+unfit for living.  The walls and roof are falling apart, almost about to
+collapse at any one time.  There is no furniture at all, save for a old
+dusty fireplace that has not been used for a long time.  
+~
+0 0 0
+D2
+~
+~
+0 0 826
+S
+#828
+Abandoned store~
+This store has probably closed down due to its location along west main
+street.  Thieves constantly plunder loot from the stores, and the beggars
+are too poor to afford the goods.  Rats scuttle about, and spiderwebs can be
+seen all over this musty room.  The old counter is cracked, and termites can
+be seen crawling all over it.  
+~
+0 0 0
+D0
+~
+~
+0 0 826
+S
+#829
+End of west main street.~
+You have reached the end of west main street, where north and south lead
+to abandoned wooden shacks.  There is no where else to go, but to make an
+about turn back towards the temple.  
+~
+0 0 0
+D0
+~
+~
+0 0 830
+D1
+~
+~
+0 0 826
+D2
+~
+~
+0 0 831
+S
+#830
+Abandoned shack~
+The roof of the shack has already collasped, and vermin and rodents now
+infest this place.  The previous inhibitants have probably moved out in
+search of better living quarters.  
+~
+0 0 0
+D2
+~
+~
+0 0 829
+S
+#831
+Abandoned shack~
+The roof of the shack has already collasped, and vermin and rodents now
+infest this place.  The previous inhibitants have probably moved out in
+search of better living quarters.  
+~
+0 0 0
+D0
+~
+~
+0 0 829
+S
+#832
+East main street~
+The east main street is where all the wealthy titans come to reside.  The
+street is a well maintained cobblestone path.  Large spacious houses
+occupied by the wealthy owners can be seen along this road.  However,
+thieves can be spotted frequently along this stretch of road.  
+~
+0 0 0
+D0
+~
+~
+0 0 833
+D1
+~
+~
+0 0 835
+D2
+~
+~
+0 0 834
+D3
+~
+~
+0 0 818
+S
+#833
+A mansion~
+This is a fine large house, made from the best quality goods imported
+from other towns.  There are sofas, televisions, and even a oven in the
+mansion.  Although the occupant is not at home currently, the butler is
+still hard at work cleaning the large house.  
+~
+0 0 0
+D2
+~
+~
+0 0 832
+S
+#834
+A mansion~
+This is a fine large house, made from the best quality goods imported
+from other towns.  There are sofas, televisions, and even a oven in the
+mansion.  Although the occupant is not at home currently, the butler is
+still hard at work cleaning the large house.  
+~
+0 0 0
+D0
+~
+~
+0 0 832
+S
+#835
+East main street~
+The east main street is where all the wealthy titans come to reside.  The
+street is a well maintained cobblestone path.  Large spacious houses
+occupied by the wealthy owners can be seen along this road.  However,
+thieves can be spotted frequently along this stretch of road.  
+~
+0 0 0
+D0
+~
+~
+0 0 836
+D1
+~
+~
+0 0 838
+D2
+~
+~
+0 0 837
+D3
+~
+~
+0 0 832
+S
+#836
+Feragorn's wares~
+The equipment here is expensive, and only the wealthy titans can afford
+such costly wares.  All the equipment here are finally crafted, with
+intricately carved patterns, definitely the best within the valley.  The
+goods on display in the shelves are all arranged neatly, for the customers'
+viewing pleasure.  
+~
+0 0 0
+D2
+~
+~
+0 0 835
+S
+#837
+A mansion~
+This is a fine large house, made from the best quality goods imported
+from other towns.  There are sofas, televisions, and even a oven in the
+mansion.  Although the occupant is not at home currently, the butler is
+still hard at work cleaning the large house.  
+~
+0 0 0
+D0
+~
+~
+0 0 835
+S
+#838
+East main street~
+The east main street is where all the wealthy titans come to reside.  The
+street is a well maintained cobblestone path.  Large spacious houses
+occupied by the wealthy owners can be seen along this road.  However,
+thieves can be spotted frequently along this stretch of road.  
+~
+0 0 0
+D0
+~
+~
+0 0 839
+D1
+~
+~
+0 0 841
+D2
+~
+~
+0 0 840
+D3
+~
+~
+0 0 835
+S
+#839
+A mansion~
+This is a fine large house, made from the best quality goods imported
+from other towns.  There are sofas, televisions, and even a oven in the
+mansion.  Although the occupant is not at home currently, the butler is
+still hard at work cleaning the large house.  
+~
+0 0 0
+D2
+~
+~
+0 0 838
+S
+#840
+A mansion~
+This is a fine large house, made from the best quality goods imported
+from other towns.  There are sofas, televisions, and even a oven in the
+mansion.  Although the occupant is not at home currently, the butler is
+still hard at work cleaning the large house.  
+~
+0 0 0
+D0
+~
+~
+0 0 838
+S
+#841
+End of east main street~
+This is the end of the cobblestone road of East main street.  The finest
+of all houses can be seen to the north and south, where the wealthiest
+titans have purchased this prime location.  
+~
+0 0 0
+D0
+~
+~
+0 0 842
+D1
+~
+~
+0 0 11700
+D2
+~
+~
+0 0 843
+D3
+~
+~
+0 0 838
+S
+#842
+A mansion~
+This is a fine large house, made from the best quality goods imported
+from other towns.  There are sofas, televisions, and even a oven in the
+mansion.  Although the occupant is not at home currently, the butler is
+still hard at work cleaning the large house.  
+~
+0 0 0
+D2
+~
+~
+0 0 841
+S
+#843
+A mansion~
+This is a fine large house, made from the best quality goods imported
+from other towns.  There are sofas, televisions, and even a oven in the
+mansion.  Although the occupant is not at home currently, the butler is
+still hard at work cleaning the large house.  
+~
+0 0 0
+D0
+~
+~
+0 0 841
+S
+#0
+
+
+
+#SPECIALS
+M 810 spec_cast_mage
+M 815 spec_cast_cleric
+S
+
+
+
+#RESETS
+M 0 800 100 800 2
+O 0 837 0 800
+M 0 801 100 801 1
+M 0 804 100 801 1
+M 0 810 100 801 1
+M 0 815 100 801 1
+M 0 818 100 801 1
+M 0 802 100 802 1
+M 0 803 100 802 2
+M 0 802 100 803 1
+M 0 803 100 803 2
+M 0 801 100 804 1
+M 0 804 100 804 1
+M 0 810 100 804 1
+M 0 815 100 804 1
+M 0 818 100 804 1
+M 0 806 100 805 1
+M 0 806 100 806 1
+M 0 802 100 807 1
+M 0 803 100 807 2
+M 0 806 100 808 1
+M 0 809 100 809 1
+G 0 811 0
+G 0 810 0
+G 0 809 0
+M 0 801 100 810 1
+M 0 804 100 810 1
+M 0 810 100 810 1
+M 0 815 100 810 1
+M 0 818 100 810 1
+M 0 801 100 815 1
+M 0 804 100 815 1
+M 0 810 100 815 1
+M 0 815 100 815 1
+M 0 818 100 815 1
+M 0 817 100 817 1
+M 0 816 100 817 2
+M 0 801 100 818 1
+M 0 804 100 818 1
+M 0 810 100 818 1
+M 0 815 100 818 1
+M 0 818 100 818 1
+M 0 819 100 819 2
+M 0 804 100 820 1
+M 0 810 100 820 1
+M 0 815 100 820 1
+M 0 801 100 821 1
+M 0 801 100 822 1
+M 0 804 100 823 1
+M 0 810 100 823 1
+M 0 815 100 823 1
+M 0 801 100 824 1
+M 0 801 100 825 1
+M 0 804 100 826 1
+M 0 810 100 826 1
+M 0 815 100 826 1
+M 0 804 100 829 1
+M 0 810 100 829 1
+M 0 815 100 829 1
+M 0 818 100 832 2
+M 0 832 100 832 1
+M 0 833 100 833 1
+M 0 833 100 834 1
+M 0 832 100 835 2
+M 0 818 100 835 1
+M 0 836 100 836 1
+G 0 834 0
+G 0 835 0
+G 0 836 0
+M 0 833 100 837 1
+M 0 818 100 838 1
+M 0 832 100 838 1
+M 0 833 100 839 1
+M 0 833 100 840 1
+M 0 832 100 841 2
+M 0 833 100 842 1
+M 0 833 100 843 1
+S
+
+
+
+#SHOPS
+809 15 1 17 0 0 100 10 1 24
+836 5 9 0 0 0 100 10 1 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

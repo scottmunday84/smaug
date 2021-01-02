@@ -1,0 +1,95 @@
+#AREADATA
+Name Asgard~
+Builders Unlinked~
+VNUMs 4300 4399
+Credits {01 101} Ahmad   Asgard~
+Security 6
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4300
+Astride the Rainbow~
+You float gently among the clouds, tenderly ascending the rainbow.
+A clean tranquility clears your mind.
+~
+0 0 0
+D0
+~
+~
+0 0 4301
+S
+#4301
+Astride the Rainbow~
+You float gently among the clouds, tenderly ascending the rainbow.
+A clean tranquility clears your mind.
+~
+0 0 0
+D0
+~
+~
+0 0 4302
+D2
+~
+~
+0 0 4300
+S
+#4302
+Yonder, Asgaard~
+~
+0 0 0
+D0
+~
+~
+0 0 4303
+D2
+~
+~
+0 0 4301
+S
+#4303
+Gates to Asgaard~
+A set of white gates bar your entry into Asgaard. These gates are not
+metal or wood, but intangible forces of light one can barely begin to
+comprehend.
+~
+0 0 0
+D2
+~
+~
+0 0 4302
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

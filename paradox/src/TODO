@@ -1,0 +1,241 @@
+-finish patch wloc (done)
+-add ear + anklet wloc + eyes (done)
+-finish monk_style (done)
+-finish hero eq set (set level to 101) (more saves!)
+-finish lore (done)
+-change shield levitation (make a skill out of it) (done)
+-make a dual wielding char wield his/her secondary weapon as
+ primary weapon when disarmed (done)
+-add earthbind (done)
+->BALANCE
+-blind and curse shouldn't be dispellable (done)
+-affects which last less than several hours (rounds) (done)
+ -fireblind (implement rub!) (done)
+ -plague (done)
+ -etc.
+-add more weapon flags (rotting, light, unholy(cursing)?, water(slowing?)) (done)
+-fix addapplies (done)
+-add arena code (done)
+-add quest code (done)
+-fix chill touch bug (death + quit) (done)
+-remove save lag (done)
+-add killed flag (done)
+-fix potions (done)
+-update score (done)
+----------->MILESTONE 2<------------
+(-gouge is too hard)
+-picking up weapons midfight should fail more often (done)
+(-hand to hand)
+-steal (done)
+-fix desc editor (done) 
+-fix alias limit (done)
+-fix parts bug (done)
+-make gouge and maladictions last rounds instead of hours (done)
+-fix oreset to accept new wear-locs (done)
+-add option to enable color on character creation (done)
+ (http://webservepro.com/~snip/snippets/color.gret)
+-add search/hide (done) 
+ (http://webservepro.com/~snip/snippets/hidden.c)
+-random quotes on quit
+ (http://webservepro.com/~snip/snippets/quote2.c)
+-unlinked snippet! (http://webservepro.com/~snip/snippets/unlinked.c) (done)
+-empower nono list (done)
+-more potions (done)
+-fix weights
+-fix experience gains
+-check all skill/spell groups, default and basic groups, creation points (done)
+-races (done for the moment)
+-arena recover (done)
+-different game states (1vs1, chaos, 1vs2, etc.) (done)
+-check all spells for correct failure/already affected messages (done)
+-inform the mud when a new note/idea/change was posted (done)
+-add renewal (done)
+-fix wield bug: primary wield can currently be lighter than secondary (done)
+-potion lag (done)
+-saccing corpses shouldn't be allowed (done)
+-automatic saving? (done)
+-banks (done)
+-auction system (done)
+-looting system (done)
+-extended character creation (done)
+-extended help system (done)
+-show levels on gain list (done)
+-fix help system (concerning char creation) (done)
+-change healers to autocast spells on newbies (done)
+-create a set of newbie eq (done)
+-autoall (done)
+-fix afk (done)
+-pk timer (done)
+-corpse recovery (webservepro.com/~snip/snippets/recover3.c) (done)
+-implement view (done)
+-make immortals out of avatar mode safe from (area) attacks (done)
+-check killed flag... (done)
+-make people lose all aqp when aquesting while iquesting (done)
+-catch some more exceptions (FPTE)?
+-class eq (done)
+-check scribe/implement brew (done)
+-imms shouldn't lose eq when avataring and quitting (done)
+-fix spacing in gain list (done)
+-quest convert/revert (done)
+-quest point items (done)
+-check reroll ( remove newbie alert, bounty, age, etc.) (done)
+-mark aggressive monsters in scan (done)
+-deathmaster: slip, blade poison, poison potion
+-fix updating prompts on tick (done)
+-save aliases on reroll... (done)
+-site check for immortals (done)
+-list for people excepted from wizlock (playtesters) (done)
+-change channel colors (done, see customized color settings)
+-helpfiles, helpfiles, helpfiles... ;)
+-work on customized color settings (remove them)?
+-random color ('{*') (done)
+-extend recall (recall clan, temple, etc.) (done)
+-deactivate crecall during gamestate changes and paradox (done)
+-remove wedding announcements... (done)
+-restrings (done)
+-gate rules (done)
+-extend check:
+ -check mp char <name>
+   list the sockets this char connects/connected from
+ -check mp socket <name>
+   list the chars connecting from this socket
+ -check mp cmult
+   list chars connecting from more than one socket
+ -check mp now
+   *check whether two or more chars from the same socket are online right now
+   *check every char whether another char is online connecting from the
+    same socket the first char usually connects from
+   *check whether two chars which usually connect from the same socket are
+    suddenly on together, one connecting from a new (or existing socket)
+ -things like that should be checked on every new char logging in
+  and subsequently logged
+-fix recall (pets don't seem to recall anymore) (done)
+-disengage (stop fighting if you are not one of the main fighters, i.e. attacking but not being hit yourself) (suspended)
+-target (for everyone) (done)
+-save socket on copyover (done)
+-enhance who (max players ever, players online, players visible, number of
+              connections since reboot) (done)
+-remove eating, drinking (done)
+-useless: cure xyz, cause xyz, change sex, (eat/drink->done)
+-drop all with a nodrop item in inventory gives you 'You are not carrying anything.', fix that
+-show closed doors on exits (done)
+-increase level range for questing (done)
+-work on olc string editor
+-where pk  (done)
+-whirlwind (done)
+-one_hit instead of damage in counterattack (done)
+-shadow walkers on comm (done)
+-sort who-list? (heroes first) (done)
+-remove alignment
+-enhance protective spells (done)
+-sort who list by pk rankings (done)
+-remove finger and add its functionality to whois (done)
+-remove deleted players from the socket_list during load_sockets (done)
+-send tells to the exactly matched person first (done)
+-see file 'daequest' + death quest
+-fix sneak/hide (done)
+-decrease disarming mobs... (done)
+-earth damage type (done)
+-quest floats should no longer fall to the ground (done)
+-confiscate (done)
+-fix sever (done)
+-vorpal flag
+-conjure (done)
+-manashield (done)
+-clooting when killing yourself (done)
+-enhance rank (sort by clan/class/race) and add rank to whois
+-do something about disarmed weapons in the arena (done)
+-change charge to something more unique
+ (only useable from adjacent rooms, area attack)
+-safe room/pk timer
+-fix forge (done)
+-forms (done)
+-fix sit, etc. (done)
+-fix burning potions (done)
+-fix earthbind (gsn_trip...) (done)
+-make dispel magic rely on int/wis (done, for the moment)
+-fix breaths (done)
+-quest cubics (20 each) (done)
+-fix affects (addapplies)
+-make picking up weapons a little bit easier (when fighting mobs) (done)
+-remove pdeaths? (done)
+-remove flee daze from shocking flag (done)
+-floaters shouldn't drop on mob death (done)
+-log punishments
+-claninfo board (done)
+-pk timer off after you get the kill (done)
+-'set pkp' option (done)
+-fix second (done)
+-limit for charmies (done)
+-copy for room resets
+-command to interrupt auction
+-log sets
+-update ward (show subtype in affects) (done)
+-shadowwalk/sneak in prompt (done)
+-chop (cap on duration/fix weights codewise) (done)
+-make aquest targets no_locate (done)
+-prevent people from spamming spells/skills in safe (done)
+-save prompts on remort + last_claninfo, etc. (done)
+-restrings
+-fix channels (done)
+-something similar to vigor for wis/int (done)
+-option to compress shields into one line (done)
+-fix problems with iquest off and paradox
+-fix mwhere etc. (addbuf, actually) (done)
+-show fireproof in lore/identify (done) - fix it (addapplies...) (done)
+-ambush (done), finish, fortification, grab, palm
+----WISHLIST----
+-forge code (done)
+-aliases in OLC, check that one
+-bounty (done)
+-automated war system
+-class bard
+-mounts
+-a class with levelling charmies
+-more statistics (mostly done)
+-trophy system: (also provide a list who is currently using the unique)
+ +start out with one unique
+-less combat spam
+-clan ranks, banks, raids, skills, guards
+----HELPFILES---
+-imm: jobs (done), penalties, laws (done)
+-newbie, maps, walkthrough, hints, eq, dirs, quests (done), aquest (done)
+-classes (done), races (done), clans, prices (done), immorting, helpfile 'races'
+ (comparable to tier) (done)
+-portals (ascii), damage types (done), weaponflags
+
+/*-armor: suck up damage, then fade away (damage below caster's level)
+-shield: deflect blows, occasionally backfire
+-ward: suck up more damage once, then fade away
+-stone skin: blows bounce off*/ (done)
+
+Ideas for hidden pkp/permadeath class:
+-minimum age
+-no hpkp from spam kills
+-ranking?
+-one race (no class)
+-only solo kills
+-demon/angel
+
+Weeding out:
+ventriloquate, scrolls, staves, wands -> thaumaturgy, faerie fire, create water, create
+food, create spring -> nourishment, floating disc, detect evil/detect good/know alignment -> detect alignment, detect magic/poison, enchant weapon/armor, createrose, flamestrike/lightning bolt/colour spray, call lightning, giant strength, fireball, portal/nexus, heat metal, change sex, recharge, envenom, kick
+
+-add xyz_P to tables (done)
+-add size info to do_affects (done)
+-update get_curr_stat (done)
+
+TA:
+base TA on group code (command 'groups' shows groups with TA flag turned on, i.e. groups who are ready to enter the arena); make certain flags available on challenging (all_fireproof = all potions fireproof for the duration of the TA; no_shadow, no_blackjack, etc...)
+
+room affects!
+silence:
+keeps victim from using any form of communication (tells, clan comm, etc.)
+tripwire
+cyclone - might push targets out of the room (only in gangs)
+carapace (protective spell)
+metal shards
+cover tracks
+smokescreen (room affect)
+ironskin
+quicksand (room affect)

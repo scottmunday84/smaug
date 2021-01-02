@@ -1,0 +1,639 @@
+#AREADATA
+Name Gisei Toshi~
+Builders Unlinked~
+VNUMs 4900 4999
+Credits Sha/Bae~
+Security 6
+End
+
+
+
+#MOBILES
+#4901
+novice swordsman~
+a novice swordsman~
+A novice swordsman is practicing his kendo.
+~
+Gripping his sword tightly, he raises his sword and brings it down with utmost force.
+Judging by his posture, he has only just started learning kendo.
+~
+maho~
+ABF L D 0 0
+91 96 1000d10+2500 50d50+27500 50d5+100 pound
+-66 -66 -66 -66
+KNP 0 YZ S
+stand stand male 2500
+AHMV ABCDEFGHIJK medium unknown
+#4906
+training swordsman~
+a training swordsman~
+A training swordsman is here practicing his kendo.
+~
+Rivulets of sweat pour down his forehead as he grips his sword firmly and brings it straight down with utmost force.
+~
+maho~
+ABF L C 0 0
+92 92 1000d10+3000 50d45+25500 20d20+1 pierce
+-63 -63 -63 -63
+CFP 0 YZ S
+stand stand male 2500
+AHMV ABCDEFGHIJK large unknown
+#4911
+average swordsman~
+an average swordsman~
+An average swordsman is practicing his kendo.
+~
+Sword gripped tightly in hand, he slashes at a training dummy furiously.
+He is trying very hard to excel.
+~
+maho~
+ABF L E 100 0
+93 93 1000d10+5000 50d45+26000 20d20+50 cleave
+-64 -64 -64 -64
+KPV 0 YZ S
+stand stand male 2500
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4900
+Before the Dojo~
+Cherry blossoms line the pathway to the dojo, adding a tinge of pink to
+the somewhat dull brown structure.  Clothing lines can be seen strewn across
+several bamboo stands, with traditional Japanese garbs like kimonos hung
+loosely to dry.  Smaller shrubs dot the sides of the walkways, each one
+adding to the area's natural beauty.  
+~
+0 0 0
+D0
+~
+~
+0 0 4901
+S
+#4901
+Within the Dojo~
+Guided by prophecy and ruled by an enigmatic Council of 5, the Ishiken
+Clan wields magic that defies comprehension, and weapons that defies
+reality.  Set up with the sole purpose of inculcating the young with
+traditional Ishiken skills, the dojo drills the young disciples with
+essential skills, before progessing with the higher level skills.  The dojo
+is made up of wooden planks, and very plain to the eye.  Scrolls in Japanese
+depicting ancient sayings and poetry are hung on the walls, serving as a
+reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4908
+D1
+~
+~
+0 0 4904
+D2
+~
+~
+0 0 4900
+D3
+~
+~
+0 0 4902
+S
+#4902
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4907
+D1
+~
+~
+0 0 4901
+D3
+~
+~
+0 0 4903
+S
+#4903
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4906
+D1
+~
+~
+0 0 4902
+S
+#4904
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4909
+D1
+~
+~
+0 0 4905
+D3
+~
+~
+0 0 4901
+S
+#4905
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4910
+D3
+~
+~
+0 0 4904
+S
+#4906
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4911
+D1
+~
+~
+0 0 4907
+D2
+~
+~
+0 0 4903
+S
+#4907
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4912
+D1
+~
+~
+0 0 4908
+D2
+~
+~
+0 0 4902
+D3
+~
+~
+0 0 4906
+S
+#4908
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4913
+D1
+~
+~
+0 0 4909
+D2
+~
+~
+0 0 4901
+D3
+~
+~
+0 0 4907
+S
+#4909
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4914
+D1
+~
+~
+0 0 4910
+D2
+~
+~
+0 0 4904
+D3
+~
+~
+0 0 4908
+S
+#4910
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4915
+D2
+~
+~
+0 0 4905
+D3
+~
+~
+0 0 4909
+S
+#4911
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4916
+D1
+~
+~
+0 0 4912
+D2
+~
+~
+0 0 4906
+S
+#4912
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4917
+D1
+~
+~
+0 0 4913
+D2
+~
+~
+0 0 4907
+D3
+~
+~
+0 0 4911
+S
+#4913
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4918
+D1
+~
+~
+0 0 4914
+D2
+~
+~
+0 0 4908
+D3
+~
+~
+0 0 4912
+S
+#4914
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4919
+D1
+~
+~
+0 0 4915
+D2
+~
+~
+0 0 4909
+D3
+~
+~
+0 0 4913
+S
+#4915
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4920
+D2
+~
+~
+0 0 4910
+D3
+~
+~
+0 0 4914
+S
+#4916
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D0
+~
+~
+0 0 4921
+D1
+~
+~
+0 0 4917
+D2
+~
+~
+0 0 4911
+S
+#4917
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 4918
+D2
+~
+~
+0 0 4912
+D3
+~
+~
+0 0 4916
+S
+#4918
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 4919
+D2
+~
+~
+0 0 4913
+D3
+~
+~
+0 0 4917
+S
+#4919
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 4920
+D2
+~
+~
+0 0 4914
+D3
+~
+~
+0 0 4918
+S
+#4920
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D2
+~
+~
+0 0 4915
+D3
+~
+~
+0 0 4919
+S
+#4921
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 4922
+D2
+~
+~
+0 0 4916
+S
+#4922
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 4923
+D3
+~
+~
+0 0 4921
+S
+#4923
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 4924
+D3
+~
+~
+0 0 4922
+S
+#4924
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D1
+~
+~
+0 0 4925
+D3
+~
+~
+0 0 4923
+S
+#4925
+Inside the Dojo~
+The dojo drills the young disciples with essential skills, before
+progressing with the higher level skills.  It is made up of wooden planks,
+and very plain to the eye.  Scrolls in Japanese depicting ancient sayings
+and poetry are hung on the walls, serving as a reminder to the students.  
+~
+0 0 0
+D3
+~
+~
+0 0 4924
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 4901 100 4901 2
+M 0 4901 100 4902 2
+M 0 4901 100 4903 2
+M 0 4901 100 4904 2
+M 0 4901 100 4905 2
+M 0 4906 100 4906 2
+M 0 4906 100 4907 2
+M 0 4906 100 4908 2
+M 0 4906 100 4909 2
+M 0 4906 100 4910 2
+M 0 4911 100 4911 2
+M 0 4911 100 4912 2
+M 0 4911 100 4913 2
+M 0 4911 100 4914 2
+M 0 4911 100 4915 2
+M 0 4911 100 4915 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

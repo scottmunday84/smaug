@@ -1,0 +1,2036 @@
+#AREADATA
+Name Tomb of Shar'kan~
+Builders None~
+VNUMs 2500 2599
+Credits {70  90} Shane   Tomb of Shar'kan~
+Security 9
+End
+
+
+
+#MOBILES
+#2502
+sphinx~
+a sphinx~
+The sphinx blocks your way to the tomb.
+~
+Guarding the entrance to the tomb from any intruders, the sphinx has been on duty for many centuries.
+No one has managed to enter the tomb, and no one will ever have the chance to do so.
+~
+wyvern~
+ABFT DFT D 1000 0
+80 80 50d30+19500 50d30+19500 8d9+36 claw
+-54 -54 -54 -54
+CFH L a S
+stand stand none 4000
+ABGHMVZ ABCDEFGHIJKQVX huge unknown
+#2504
+spider~
+a black spider~
+A small black spider scurries across the tomb.
+~
+The spider has comfortably made the dark and dusty old tomb its new home.
+Small and rather harmless, it would still not be advisable to get to close to it.
+~
+centipede~
+AG 0 0 0 0
+80 80 50d30+19500 50d30+19500 8d9+36 sting
+-54 -54 -54 -54
+FN 0 FI E
+stand stand none 10
+ABGHMOV ABCDEFGHIJK small unknown
+F aff Z
+#2505
+asp~
+an asp~
+The poisonous {2a{@s{2p{x slithers slowly towards you. 
+~
+With fangs coated with one of the world's most lethal venoms, the asp though small has the ability to even kill an elephant.
+Known for the slow death the poison causes, the victim shivers uncontrollably, experiencing extreme heat and cold, and vomitting.
+Hungering for new blood, the asp will not let you get away.
+~
+lizard~
+ABF 0 0 -200 0
+80 80 50d30+19500 50d30+19500 8d9+36 sting
+-54 -54 -54 -54
+FH 0 L I
+stand stand none 100
+AGHMVXc ABCDEFGHIJKQV medium unknown
+#2507
+tomb robber~
+a tomb robber~
+The tomb robber searches for treasure in vain.
+~
+The robber has been trapped within the pyramids for years.
+His search has been futile, and has only left him emaciated and malnourished.
+~
+human~
+AGS PV 0 -500 0
+85 85 50d35+22000 50d35+22000 3d28+38 stab
+-58 -58 -58 -58
+EFKN 0 0 0
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+#2508
+mummy~
+a mummy ~
+A {8mu{7m{8my{x has been awakened.
+~
+Previously sealed within the ancient sacrophagus, the mummy has been released by the foolish tomb robbers who have broken the magical seal.
+The white straps of cloth only help to serve keep the decaying and rotting flesh in place, and the putrid smell is utterly revolting.
+Though the mummy is slow, it has immense strength, and is capable of tearing you apart easily.
+~
+heucuva~
+ABT Z 0 0 0
+80 80 50d30+19500 50d30+19500 8d9+36 pound
+-54 -54 -54 -54
+CK LMQ D NSY
+stand stand none 100
+AHMV ABCDEFGHIJK large unknown
+#2512
+scorpion~
+a scorpion~
+A small black scorpion raises its tail at you.
+~
+The only kin that of the Scorpion King's, the scorpions swarm the quarters of the burial chambers of the Scorpion King, protecting their lord against all intruders.
+The scorpions are small, but each tail is laden with deadly poison, with the ability to kill off anyone in one sting.
+And together as a swarm, the consequences could be even more dire.
+~
+centipede~
+ACG Z 0 -10 0
+80 80 50d30+19500 50d30+19500 8d9+36 sting
+-54 -54 -54 -54
+FHNP 0 FI E
+stand stand none 100
+ABGHMOV ABCDEFGHIJK small unknown
+#2514
+lost adventurer~
+a lost adventurer~
+The lost adventurer has taken the wrong turn again.
+~
+Originally filled with dreams and aspirations of becoming the first living person to discover the tomb of Shar'kan and leaving alive, the adventurer had entered the tomb brimming with self-confidence.
+Now after years have passed, the adventurer has yet to find his way out of the maze within the tomb.
+~
+human~
+AGT 0 0 200 0
+80 80 50d30+19500 50d30+19500 8d9+36 crush
+-54 -54 -54 -54
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2516
+stone statue~
+a stone statue~
+The stone statue seems to come alive!
+~
+Lifeless and carved out of stone, the sole purpose of the stone statues are the beautify the tomb, as well as to scare away any tresspassers.
+For some reason though, the stone statue has seemed to come alive and shuffles slowly towards you.
+~
+titan~
+AB Da H 0 0
+80 80 50d30+19500 50d30+19500 8d9+36 pound
+-54 -54 -54 -54
+CEKN B D C
+stand stand none 10
+AHMV ABCDEFGHIJK huge unknown
+#2518
+grieving servant~
+the grieving servant~
+The grieving servant mourns over the loss of their beloved pharoah.
+~
+Clearly attached to the last pharoah of the realms, these servants remain faithful and loyal to their king, even after his passing.
+Weeping and choking on tears, the sorrowful plight that these servants are undergoing bring a tear to your eye.
+~
+human~
+AB 0 0 500 0
+80 80 50d30+19500 50d30+19500 8d9+36 slap
+-54 -54 -54 -54
+FHJN 0 0 0
+stand stand female 10000
+AHMV ABCDEFGHIJK medium unknown
+#2519
+archeologist~
+the archeologist~
+The archeologist unravels the tomb's mysteries.
+~
+The archeologist has braved past many obstacles to reach so deep within the pyramid.
+Kneeling beside the walls of hieroglyphs and paintings, the archeologist hopes to discover more theories about the ancient culture here.
+He studies a piece of an ornament left on the floor carefully, examining it for any clues he might find useful.
+~
+human~
+ABT 0 EH 1000 0
+80 80 50d30+19500 50d30+19500 8d9+36 thrust
+-54 -54 -54 -54
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#2521
+tomb guard~
+the tomb guard~
+The tomb guard prevents anyone from getting past it.
+~
+Assigned with the duty of guarding the tomb which its king has been buried within, it has the honour of protecting the tomb with its life.
+It will not let anyone pass him to disturb the resting king, even until death.
+~
+titan~
+ABF Da H 1000 0
+80 80 50d30+19500 50d30+19500 8d9+36 crush
+-54 -54 -54 -54
+CEFKN B D 0
+stand stand none 5000
+AHMV ABCDEFGHIJK huge unknown
+#2524
+tourist~
+a tourist~
+A lost tourist has been trapped within the tomb!
+~
+Originally part of a packaged group tour, this tourist must have been so captivated by the magnificence of the tomb that he strayed away from his group.
+Now all alone and helpless, the tourist is stuck within the realms of the tomb, waiting for someone to rescue him.
+~
+human~
+AH 0 0 0 0
+90 90 50d20+5000 50d40+24500 5d8+40 thwack
+-62 -62 -62 -62
+FHN 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#2525
+dark priest~
+the dark priest~
+A {8black{x robed priest chants a mantra to the gods above.
+~
+A firm believer of the dark magical rituals taught by the dark god Anubis, she preaches the teachings of Anubis to all seekers of Anubis.
+In a set of dark, black robes, and wielding her sceptre firmly, she continues to spread the faith of her religion.
+~
+human~
+ABQ 0 CDEHO -1000 0
+90 90 50d40+24500 50d40+24500 5d8+40 wrath
+-62 -62 -62 -62
+FHJK 0 0 0
+stand stand female 7500
+AHMV ABCDEFGHIJK medium unknown
+#2527
+dying adventurer~
+a dying adventurer~
+The adventurer slumps in the corner lifelessly.
+~
+He accidentally treaded into the Scorpion's King's chambers, and was swarmed by the scorpions, and lethally stung over a hundred times.
+His face is pale, and sores can be seen rupturing on the surface of the skin. 
+As he struggles to catch his last few gasps of air, he warns : 'Do not explore further... quick.. leave this place'
+~
+human~
+ABH AKMXd 0 1000 0
+80 80 1d1+1 50d30+19500 8d9+36 punch
+-54 -54 -54 -54
+0 0 0 0
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#2531
+underworld hands~
+the hands of the underworld~
+The underworld's hands grasp round your body, tugging you downwards!
+~
+The hands are fixated at the boundaries separating life and death, and the living world, from the underworld.
+With its next victim hanging precariously by the edge of life, the hands are unwilling to let go of their target.
+~
+human~
+ABFT KVa DH -1000 0
+90 90 50d40+24500 50d40+24500 5d8+40 mblast
+-62 -62 -62 -62
+EFKN 0 HM IN
+stand stand none 500
+AHMV ABCDEFGHIJK large unknown
+#2532
+medja~
+the Medja~
+The {7Me{&d{7ja{x blocks the {8S{3co{7rp{3io{8n K{3i{7n{8g's{x attack.
+~
+Previously the slayer of the Scorpion King, the Medja had only crippled the Scorpion King and weakened him, leaving him weak for centuries.
+Now, that very same foolish act, has allowed the Scorpion King to rejuvinate and regain back his powers, as well as cause total destruction onto the world if it is not stopped promptly.
+~
+human~
+ABST Va CDEHN 1000 0
+90 90 50d40+24500 50d40+24500 5d8+40 divine
+-62 -62 -62 -62
+CEFHKN 0 N M
+stand stand male 100000
+AHMV ABCDEFGHIJK large unknown
+#2533
+scorpion king~
+the Scorpion King~
+The {8S{3co{7rp{3io{8n K{3i{7n{8g{x claws away at the {7Me{&d{7ja{x.
+~
+Resurrected by the disturbance of its amulet by a foolish traveller, the Scorpion King has finally awaken from its deep sleep, and is back to exact its vengence and wreck havoc again.
+Currently battling it's sworn nemesis, the Medja, who previously crippled it for centuries, the Scorpion King has been rejuvinated and is out to eliminate the very existence of its foe.
+~
+centipede~
+ABRST VZac CDEHO -1000 0
+90 90 50d40+24500 50d40+24500 5d8+40 rend
+-62 -62 -62 -62
+CEFKN 0 FIQ N
+stand stand none 100000
+ABGHMOV ABCDEFGHIJK giant unknown
+F vul E
+#2534
+holy priest~
+the holy priest~
+A {7white{x robed priest chants a mantra to the gods above.
+~
+He preaches the benovelence and kindess of the holy sun God, Ra, spreading his teachings.
+Dressed in a set of white robes, he clutches the Book of Life close to his heart, firmly adhering to the teaching within taught by the book.
+~
+human~
+ABQ 0 CDEHN 1000 0
+90 90 50d40+24500 50d40+24500 5d8+40 divine
+-62 -62 -62 -62
+FHKN 0 0 0
+stand stand male 7500
+AHMV ABCDEFGHIJK medium unknown
+#2535
+devoted worshipper~
+A devoted worshipper~
+A devoted worshipper kneels on the floor offering prayers.
+~
+Just adapted into her new religion and offically baptized by the priests, the worshipper offers her prayers to gods, hoping to be granted their blessings, and cleansing of their sins.
+She has her hands clasped together deep in meditation, seemingly offering her well-wishes to the king in his afterlife.
+~
+human~
+ABHQ 0 H 0 0
+90 90 50d40+24500 50d40+24500 5d8+40 pound
+-62 -62 -62 -62
+FHN 0 0 0
+sit stand female 7500
+AHMV ABCDEFGHIJK medium unknown
+#2536
+shaman~
+the shaman~
+The shaman conducts the rituals solemnly.
+~
+One of the most elegantly dressed for his role, the shaman is the priest of the high order.
+As he chants a few incoherent words, he leads the devoted worshippers in their prayers.
+~
+human~
+ABHL 0 CDEH 0 0
+90 90 50d40+24500 50d40+24500 5d8+40 wrath
+-62 -62 -62 -62
+FHKN 0 0 0
+stand stand male 7000
+AHMV ABCDEFGHIJK medium unknown
+#2538
+angkusutra~
+Angkusutra~
+Angkusutra continues her forbbidden love with Imhotep.
+~
+Originally the king's chosen wife, Angkusutra however fell in love with Imhotep, a young warrior, and eloped together.
+Hence, Imhotep was mummified, and Angkusutra was killed, and her soul banished to the netherworld.
+However, Imhotep has managed to resurrect her body, and bring back her soul, and they continue their forbidden love again secretly.
+Nothing seems to be able to separate these lovers.
+~
+human~
+ABR V EH -500 0
+90 90 50d40+24500 50d40+24500 5d8+40 slap
+-62 -62 -62 -62
+FHJKNP 0 M N
+stand stand female 12500
+AHMV ABCDEFGHIJK medium unknown
+#2539
+imhotep~
+Imhotep~
+Imhotep continues his forbbidden love with Angkusutra.
+~
+In the past, Imhotep was caught making eyes at Angkusutra, Shar'kan's soon to be wife.
+As a result, Imhotep was mummified alive, flesh and skin burnt, and organs disembowled.
+Now that he has been arised together with the Scorpion King, he seeks to continue his affair with his lover.
+Nothing can seem to break up this loving couple.
+~
+revada~
+ABT Vac CH -500 0
+90 90 50d40+24500 50d40+24500 5d8+40 digestion
+-62 -62 -62 -62
+CEFKNP 0 M N
+stand stand male 12500
+AHMV ABCDEFGHIJK large unknown
+#2541
+imperial guard~
+the king's imperial guard~
+The imperial guard patrols along the grand hallway.
+~
+Given the honour of guarding the king's tomb from any intruders, the guard carries out his job to the fullest extent.
+Clad in armor and padding, and clutching their weapons firmly, it seems like no one has got past them yet.
+~
+titan~
+ABT DVa H 350 0
+90 90 50d40+24500 50d40+24500 5d8+40 crush
+-62 -62 -62 -62
+CEFJKN B D 0
+stand stand male 9100
+AHMV ABCDEFGHIJK large unknown
+#2544
+loyal servant~
+a loyal servant~
+The loyal servant cleans the chambers.
+~
+The servant fusses over the tidiness and cleanliness of the chamber.
+Even though the tombs here are old, that is no excuse for leaving the tomb dusty and all unsightly.
+~
+human~
+ABH 0 0 100 0
+90 90 50d40+24500 50d40+24500 5d8+40 whip
+-62 -62 -62 -62
+FHKN 0 0 0
+stand stand female 7000
+AHMV ABCDEFGHIJK medium unknown
+#2546
+cat king~
+the king's beloved cat~
+The king's beloved cat purrs sorrowfully.
+~
+While the king was still alive, this feline was doted upon and loved by the king.
+Now that the king has passed away, the cat has been left alone, with no one showering any love over it.
+Purring sorrowfully, it wishes that the king can be brought back to life somehow.
+~
+cat~
+ABH Z DH 0 0
+90 90 50d20+7500 50d40+24500 5d8+40 scratch
+-62 -62 -62 -62
+FH 0 0 0
+stand stand none 125
+AGHMV ABCDEFGHIJKQUV medium unknown
+#2549
+scarb beetle~
+a scarab beetle~
+A scarab beetle flies across your face.
+~
+These scarb beetles are known for the flesh eating habits, and although small, these beetles are feared within the realms, often used as a method of exacting death.
+One scarb beetle along can devour an entire human being in seconds, and it is undesirable to know what a swarm of ten could do to you.
+~
+wyvern~
+ABF DFT C -350 0
+90 90 50d10+10000 50d40+24500 5d8+40 digestion
+-62 -62 -62 -62
+CFHP L 0 S
+stand stand none 50
+ABGHMVZ ABCDEFGHIJKQVX tiny unknown
+#2551
+nefratiti~
+Nefratiti~
+Nefratiti guards her father's tomb.
+~
+On the demise of her beloved father, Nefratiti was left alone with her father's kingdom, and to rule in his place.
+However, the death has traumatized her greatly, and has left her rather dazed.
+Her sole purpose in life now, is to eliminate all who disturb her father's final resting place.
+~
+human~
+ABFST Vac CDEH 1000 0
+90 90 50d40+10000 50d40+24500 300d1+300 slap
+-62 -62 -62 -62
+CEHJKN 0 0 0
+stand stand female 25000
+AHMV ABCDEFGHIJK medium unknown
+#2552
+soul sharkan~
+The soul of Shar'kan~
+The soul of Shar'kan groans in anger upon your entrance!
+~
+After a grand ceremony for the king's journey to the afterlife, Shar'kan has been left within his tomb undisturbed.
+His rule as a king, and his benovalence is undisputed, however, with your intrusion into his sacred tomb, his soul which guards the tomb groans in fury, and looks bent on elimintaing your existence.
+~
+avian~
+ABFQRST DFJLT BCDEH 0 0
+90 90 50d40+15000 50d40+24500 400d1+100 drain
+-62 -62 -62 -62
+CEFHJKN 0 J LQ
+stand stand male 200000
+AHMV ABCDEFGHIJKP huge unknown
+#0
+
+
+
+#OBJECTS
+#2500
+coconut~
+coconut~
+A ripe young {3coconut{x has just fallen off the {2t{@re{2e{x.~
+unknown~
+food 0 A
+5 5 0 0 0
+0 0 0 P
+#2501
+oasis water~
+an {^o{&a{^s{&i{^s{x~
+The crystal clear water in the {^o{&a{^s{&i{^s{x sparkles under the sun.~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#2502
+stone paws~
+a set of stone paws~
+The paws of a crumbled sphinx lie half hidden in the sand.~
+unknown~
+armor S AH
+23 23 23 17 0
+75 50 3750 P
+A
+1 3
+A
+13 250
+#2507
+ornate gold bracelet~
+an {3ornate {3g{#ol{3d{x bracelet~
+A golden bracelet with ornate carvings has been unearthed from the sacrophagus.~
+unknown~
+armor ABGM AM
+18 18 18 25 0
+80 10 1250 P
+A
+13 100
+A
+12 100
+A
+14 100
+A
+18 15
+A
+19 15
+#2508
+sacrophagus~
+a old sacrophagus~
+The {8sac{7ropha{8gus{x is decorated with various {3g{#ol{3d{x ornaments.~
+unknown~
+container 0 0
+1000 0 0 1000 0
+0 10000 0 P
+#2509
+pile gold coins~
+a pile of gold coins~
+A pile of gold coins.~
+unknown~
+money 0 A
+2000 0 0 0 0
+0 10 0 P
+#2514
+bulky backpack~
+a large and bulky backpack~
+An adventurer must have left his backpack here by mistake.~
+unknown~
+container SY AK
+100 A 0 1000 25
+80 50 100 P
+A
+19 17
+A
+18 17
+A
+13 200
+A
+17 -25
+#2517
+chisel~
+a chisel~
+A chisel used for studying artefacts is stuck on the walls.~
+unknown~
+weapon B AN
+dagger 7 19 thrust AD
+80 30 350 P
+#2518
+silk sleeves~
+{7s{&il{7k{x sleeves~
+The ends of a servant's silk sleeve has been torn off.~
+unknown~
+armor ABS AI
+21 22 23 24 0
+80 10 2500 P
+A
+19 17
+A
+18 17
+A
+13 200
+#2519
+magical disturbance~
+magical disturbance~
+Some {&m{@a{%g{^i{%c{@a{&l{x disturbance can be felt around here.~
+unknown~
+portal ABG 0
+0 ACDEHIJKLMNOPQRSTUVWXYZabcdef ACDEHIJKLMNOPQRSTUVWXYZabcdef 2500 0
+0 0 0 P
+#2520
+golden sash~
+a golden sash~
+A golden sash gathers dust on the floor.~
+unknown~
+armor ABGS AL
+24 24 24 26 0
+80 30 1000 P
+A
+13 -200
+A
+19 20
+A
+18 20
+A
+20 -4
+A
+17 -20
+#2522
+black spear~
+a {8black{x spear~
+A sharp spear looks capable of piercing through your armor.~
+unknown~
+weapon K AN
+staff 7 19 pierce DL
+80 50 222 P
+#2524
+hawaiian shirt~
+a flowery {$h{^a{!w{%a{#i{!i{^a{$n{x shirt~
+A standard object is lying here.~
+unknown~
+armor S AK
+24 24 24 15 0
+80 10 100 P
+S 'farsight'
+A
+1 -2
+A
+2 2
+A
+13 200
+A
+12 -200
+A
+19 40
+A
+18 -40
+#2525
+unholy sceptre~
+the {1U{8n{7ho{8l{1y S{8c{7e{&p{7t{8r{1e{x~
+A cursed sceptre radiates an evil aura.~
+unknown~
+weapon ABJM AN
+mace 8 19 wrath EGL
+90 50 2100 P
+#2530
+poison pincer~
+a {2P{3o{@is{3o{2n-{2t{3i{@pp{3e{2d {#P{3ince{#r{x~
+A pincer drips with a deadly venom.~
+unknown~
+weapon JST AN
+exotic 8 19 rend CHIL
+90 30 2500 P
+A
+17 -25
+A
+13 50
+A
+19 20
+A
+18 25
+#2531
+standard object~
+{xan {8Eng{7r{&a{7v{8ed S{3co{7rp{3io{8n{x ring{x~
+A golden ring with the emblem of the scorpion engraved within waits to be picked up.~
+unknown~
+armor GJT AC
+25 25 25 27 0
+90 10 2500 P
+A
+19 20
+A
+18 25
+A
+1 3
+A
+13 250
+#2532
+shield nuerixema~
+the {3S{#h{3ie{#l{3d{x of {8Nuer{6ix{8ema{x~
+A shield bears the mark of an ancient Egyptian god.~
+unknown~
+armor ABGIKT AJ
+25 25 27 27 0
+90 30 500000 P
+A
+20 -2
+A
+19 20
+A
+18 20
+A
+1 2
+A
+13 150
+#2533
+spear osiris~
+the {3S{#p{3e{#a{3r{x of {8Os{6ir{8is{x~
+The fabled mythical weapon that slayed the Scorpion King drips with the demon's blood.~
+unknown~
+weapon ABGIKT AN
+staff 8 19 divine AGJ
+90 50 500000 P
+#2534
+book life~
+the Book of {#L{7if{#e{x~
+A standard object is lying here.~
+unknown~
+armor GIST AO
+10 10 10 1 0
+90 20 10 P
+A
+13 -500
+A
+20 -2
+A
+19 75
+A
+18 75
+A
+12 -200
+#2535
+flame mercy~
+the {#F{3l{7a{3m{#e{x of {7M{6e{^r{6c{7y{x~
+A small flame hums quietly.~
+unknown~
+light ABI A
+0 0 999 0 0
+90 10 10000 P
+A
+20 -4
+A
+19 15
+A
+18 15
+A
+13 200
+A
+12 100
+A
+4 2
+A
+3 3
+#2536
+chamber key~
+the chamber key~
+A key leading to the chambers within the tomb has dropped out of someone's pockets.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#2538
+dull blood red armor~
+dull, blood-red armor~
+A red armor lies here.~
+unknown~
+armor BY AD
+21 21 22 18 0
+90 60 5000 P
+A
+19 25
+A
+18 25
+A
+20 5
+A
+13 400
+#2539
+eternal forbidden love~
+the forbidden love~
+The forbidden love between Angkusutra and Imhotep can be felt here.~
+unknown~
+armor ABGS AQ
+21 21 21 26 0
+90 10 10 P
+A
+13 400
+A
+19 10
+A
+18 10
+A
+20 -1
+S 'detect magic'
+S 'detect invis'
+S 'detect hidden'
+S 'detect good'
+S 'detect evil'
+#2540
+holy axe~
+{#H{&o{#l{&y {#A{&x{#e{x~
+An axe glows with a holy aura.~
+unknown~
+weapon AB AN
+axe 8 19 divine AEJ
+90 50 2250 P
+#2541
+dusty scroll~
+a dusty sign~
+A sign gathers dust here.~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+The one who disturbs the sacred treasure of the Scorpion King will find himself buried within layers and layers of sand, buryin him alive.
+~
+#2542
+scorpion key~
+a scorpion key~
+A key has been fashioned into the shape of a scorpion. It looks so lifelike!~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#2543
+scorpion king amulet~
+the {8S{3co{7rp{3io{8n K{3i{7ng{8's {3A{#m{&ul{#e{3t{x~
+The amulet bearing the ensigma of the mighty Scorpion tempts your fingers.~
+unknown~
+armor ABGT AC
+25 25 25 25 0
+90 30 100000 P
+A
+2 2
+A
+20 -1
+A
+13 150
+A
+18 30
+A
+19 25
+#2544
+iron shard~
+a serrated {8iron{x shard~
+Fragments of iron metal litter the floor.~
+unknown~
+weapon 0 AN
+dagger 8 19 iron DG
+90 30 1750 P
+#2546
+shimmering anklet bell~
+a shimmering anklet with a bell~
+An anklet with a bell has slipped of a cat's ankle.~
+unknown~
+armor AI AV
+20 20 20 25 0
+90 10 100 P
+A
+20 -3
+A
+19 35
+A
+18 35
+A
+3 1
+A
+4 1
+#2549
+mark passion~
+{%m{5ar{%k {&o{7f {^pa{6ssi{^on{x~
+The mark of passion hums gently.~
+unknown~
+armor BS AS
+27 17 27 17 0
+90 20 25 P
+A
+20 -1
+A
+19 10
+A
+18 10
+A
+13 350
+S 'haste'
+#2550
+tomb~
+the king's royal tomb~
+The king's royal tomb is filled with gold and jewellery!~
+unknown~
+portal 0 0
+0 0 0 2552 0
+0 0 0 P
+#2551
+gleaming golden sai~
+gleaming {3g{#olde{3n{x sai~
+A sharp sai looks capable of piercing through anything.~
+unknown~
+weapon GI AN
+whip 8 19 pierce ADG
+90 20 25000 P
+#2552
+golden sandals~
+{#g{3olde{#n {!s{1andal{!s{x~
+A standard object is lying here.~
+unknown~
+armor FGIU AG
+25 25 25 25 0
+90 90 150000 P
+A
+13 350
+A
+1 3
+A
+19 25
+A
+18 15
+#2553
+bejewelled crown~
+{%b{5ejewelle{%d {^c{6row{^n{x~
+A standard object is lying here.~
+unknown~
+armor AU AE
+20 20 20 20 0
+90 20 1250 P
+A
+13 200
+A
+19 20
+A
+18 20
+A
+3 2
+A
+4 2
+#2554
+shimmering portal shadun~
+a shimmering portal~
+A {Ys{yh{Yi{ym{Ym{ye{Yr{yi{Yn{yg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#2500
+Sandy trail~
+The air is arid and dry, devoid of any trace of humidity, and the hot
+fiery ball of fire sends scorches of heat down beneath.  The heat begins to
+rise, and the arid atmosphere causes you to perspire and yearn for a cooling
+sip of water.  A large yellow pyramid is faintly visible before you, blurred
+by the mirages caused by the blazing sun.  The legend of Shar'kan could be
+true!  
+~
+0 0 10
+D0
+~
+~
+0 0 2501
+D2
+~
+~
+0 0 4240
+S
+#2501
+Before the Great Pyramid~
+The path is covered with fine {#s{3an{#d{x, which add to the prickly heat
+felt by your feet.  The sun continues to beat relentlessly down on your
+head, and the heat is almost unbearable.  To your utmost ecstacy, a small
+{&o{^a{&s{^i{&s{x with crystal clear cooling water, with shady palm
+{2t{@r{2e{@e{2s{x swaying gently.  You are almost reaching the pyramid.  
+~
+0 0 0
+D0
+~
+~
+0 0 2502
+D2
+~
+~
+0 0 2500
+S
+#2502
+The Great Pyramid~
+A huge pyramid constructed entirely of huge yellow boulders made from
+compacted and hardened sand grains.  Towering above you, you can hardly make
+out how tall the peak is above the ground, and you only feel insignificant
+standing before this huge structure.  By some stroke of luck, you have
+actually stumbled upon the fabled lost tomb of Shar'kan, the last known
+pharoh who ruled the realms within.  
+~
+0 0 0
+D0
+~
+~
+0 0 2521
+D1
+~
+~
+0 0 2513
+D2
+~
+~
+0 0 2501
+D3
+~
+~
+0 0 2503
+S
+#2503
+Wide stone corridor~
+Apparently, while constructing the pyramids, the workers laid out a
+corridor for some reason.  Though dusty and old, the stone blocks show no
+lines of weakness or faulting, giving evidence to the mastery of the
+construction of the pyramid.  Along the ancient walls of the pyramid, faint
+imprints of old hieroglyphics and crude patterns have been painstakingly
+carved into the stone walls.  The pyramid is probably VERY booby-trapped,
+and it would wise to tread forward with great caution.  
+~
+0 0 0
+D1
+~
+~
+0 0 2502
+D3
+~
+~
+0 0 2504
+S
+#2504
+Wide stone corridor~
+Apparently, while constructing the pyramids, the workers laid out a
+corridor for some reason.  Though dusty and old, the stone blocks show no
+lines of weakness or faulting, giving evidence to the mastery of the
+construction of the pyramid.  Along the ancient walls of the pyramid, faint
+imprints of old hieroglyphics and crude patterns have been painstakingly
+carved into the stone walls.  The pyramid is probably VERY booby-trapped,
+and it would wise to tread forward with great caution.  
+~
+0 0 0
+D0
+~
+~
+0 0 2506
+D1
+~
+~
+0 0 2503
+D3
+~
+~
+0 0 2511
+D5
+~
+~
+0 0 2505
+S
+#2505
+Asp pit~
+OH NO!  You have foolishly fallen into another of the booby traps set to
+eliminate all trespassers.  The snake pit is full of poisonous asps, starved
+for countless years, and now yearning for a fresh new victim.  There is no
+escape back up, and death seems the only way to end your misery and
+sorrowful plight.  
+~
+0 5 0
+S
+#2506
+Narrow stone corridor~
+This corridor is notably narrower than the previous stone corridor,
+allowing only travellers to walk in single file.  The tomb appears more
+constricting, and with each forward step you take, you imagine yourself
+getting trapped within the pyramids forever, and ever.  There are many
+secret chambers and doors, as well as traps set, hence only the wise would
+survive within this massive death trap.  
+~
+0 0 0
+D0
+~
+~
+0 0 2507
+D2
+~
+~
+0 0 2504
+S
+#2507
+Narrow stone corridor~
+This corridor is notably narrower than the previous stone corridor,
+allowing only travellers to walk in single file.  The tomb appears more
+constricting, and with each forward step you take, you imagine yourself
+getting trapped within the pyramids forever, and ever.  There are many
+secret chambers and doors, as well as traps set, hence only the wise would
+survive within this massive death trap.  
+~
+0 0 0
+D0
+~
+~
+0 0 2510
+D1
+~
+~
+0 0 2509
+D2
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2508
+S
+#2508
+A small burial chamber~
+The cavern is lined with sparkling gold ancient artefacts, dazzling to
+the eye of the beholder.  The walls extend high above your head, giving you
+more breathing space.  On the walls, hieroglyphs detailing the journey of
+the king to the afterlife, as well as paintings telling the legend of the
+how the sacred warrior Medja protected the realms from destruction from the
+hands of Anubis, Imhotep and the Scorpion King.  Each step you take is
+virtually a mythical journey, bringing you back further into time.  
+~
+0 1 0
+D1
+~
+~
+0 0 2507
+S
+#2509
+A small burial chamber~
+The cavern is lined with sparkling gold ancient artefacts, dazzling to
+the eye of the beholder.  The walls extend high above your head, giving you
+more breathing space.  On the walls, hieroglyphs detailing the journey of
+the king to the afterlife, as well as paintings telling the legend of the
+how the sacred warrior Medja protected the realms from destruction from the
+hands of Anubis, Imhotep and the Scorpion King.  Each step you take is
+virtually a mythical journey, bringing you back further into time.  
+~
+0 1 0
+D3
+~
+~
+0 0 2507
+S
+#2510
+A death trap~
+Originally a place for water storage for the workers to drink from while
+taking breaks during the construction of this grand tomb, this room has now
+become another death trap.  The water gushes from below, water level rising
+slowly, trapped in a chamber slowly filling up with water, death seems
+inevitable now.  There is no way out, except death.  
+~
+0 5 0
+S
+#2511
+Wide stone corridor~
+Apparently, while constructing the pyramids, the workers laid out a
+corridor for some reason.  Though dusty and old, the stone blocks show no
+lines of weakness or faulting, giving evidence to the mastery of the
+construction of the pyramid.  Along the ancient walls of the pyramid, faint
+imprints of old hieroglyphics and crude patterns have been painstakingly
+carved into the stone walls.  The pyramid is probably VERY booby-trapped,
+and it would wise to tread forward with great caution.  
+~
+0 0 0
+D1
+~
+~
+0 0 2504
+D4
+~
+~
+0 0 2512
+S
+#2512
+Strange chambers~
+The hieroglyphs within this room depict scenes where the Medja, holy
+warrior, slayed the beast known as the Scorpion King.  The walls of the
+pyramid seems to have many cracks and faults, totally unlike that of the
+rest of the well-maintained pyramid.  You see bloodtrails around you, and
+the walls are stained with spurts of fresh blood.  Who knows what beast, and
+what traps, lay awaiting for their next unsuspecting victim...  You.  
+~
+0 1 0
+D0
+~
+~
+0 0 2526
+D1
+~
+~
+0 0 2528
+D5
+~
+~
+0 0 2511
+S
+#2513
+The Great Pyramid~
+A huge pyramid constructed entirely of huge yellow boulders made from
+compacted and hardened sand grains.  Towering above you, you can hardly make
+out how tall the peak is above the ground, and you only feel insignificant
+standing before this huge structure.  By some stroke of luck, you have
+actually stumbled upon the fabled lost tomb of Shar'kan, the last known
+pharoh who ruled the realms within.  
+~
+0 0 0
+D1
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2502
+S
+#2514
+The Great Pyramid~
+A huge pyramid constructed entirely of huge yellow boulders made from
+compacted and hardened sand grains.  Towering above you, you can hardly make
+out how tall the peak is above the ground, and you only feel insignificant
+standing before this huge structure.  By some stroke of luck, you have
+actually stumbled upon the fabled lost tomb of Shar'kan, the last known
+pharoh who ruled the realms within.  
+~
+0 0 0
+D2
+~
+~
+0 0 2515
+D3
+~
+~
+0 0 2513
+S
+#2515
+Winding corridor~
+The darkness deepens here, now that you are further into the pyramid, but
+it doesn't dampen your excitement upon stumbling onto this fabled lost tomb.
+A small torch plastered onto the walls flickers, emitting faint rays of
+light, illuminating the room slightly.  Each painting and hieroglyph has
+been painstakingly carved out, by the likes of a great scholar and artist.  
+~
+0 0 0
+D0
+~
+~
+0 0 2514
+D1
+~
+~
+0 0 2516
+S
+#2516
+Winding corridor~
+The darkness deepens here, now that you are further into the pyramid, but
+it doesn't dampen your excitement upon stumbling onto this fabled lost tomb.
+A small torch plastered onto the walls flickers, emitting faint rays of
+light, illuminating the room slightly.  Each painting and hieroglyph has
+been painstakingly carved out, by the likes of a great scholar and artist.  
+~
+0 0 0
+D2
+~
+~
+0 0 2517
+D3
+~
+~
+0 0 2515
+S
+#2517
+Winding corridor~
+The darkness deepens here, now that you are further into the pyramid, but
+it doesn't dampen your excitement upon stumbling onto this fabled lost tomb.
+A small torch plastered onto the walls flickers, emitting faint rays of
+light, illuminating the room slightly.  Each painting and hieroglyph has
+been painstakingly carved out, by the likes of a great scholar and artist.  
+~
+0 0 0
+D0
+~
+~
+0 0 2516
+D1
+~
+~
+0 0 2519
+D2
+~
+~
+0 0 2520
+D3
+~
+~
+0 0 2518
+D5
+~
+~
+0 0 2525
+S
+#2518
+Mourning chamber~
+Within this large stone chamber, this cavernous room holds the many
+servants that have come here to grieve and mourn over the loss of the
+reverred king.  It is an honour to accompany the king's journey into the
+afterlife, and eventually join him together and be reunited within the
+realms beneath.  The atmosphere is that of a sorrowful and painful one, with
+the emotions of the servants running high.  
+~
+0 1 0
+D1
+~
+~
+0 0 2517
+S
+#2519
+Half completed chamber~
+The chamber here has been left uncompleted, and is in a state of mess,
+totally unlike the rest of the chambers within this sacred tomb.  There are
+no exquisite ornaments displayed, nor any expensive paintings hung on the
+walls.  The hieroglyphs have also been left incomplete, as this chamber
+might have been damaged through the years.  
+~
+0 1 0
+D3
+~
+~
+0 0 2517
+S
+#2520
+Another death trap~
+The walls begin to close down on you, from all sides, north south east
+west and even from above and below you.  There is no way out of this
+escape-proof death trap, and countless foolish adventures have already been
+squished into fleshy pulp.  The death trap has succeded in acheiveing its
+goals again.  
+~
+0 5 0
+S
+#2521
+Grand hallway~
+Brightly lit-up by rows of torches that still burn vigorously, this
+hallway is a vast difference from that of the other stone corridors.  The
+lush deisgns on the pyramid walls, as well as the well paved pathway leading
+northwards, could well mean that you are nearing the lost fabled tomb of
+Shar'kan finally!  A strong gust of chilly wind from nowhere blows strongly
+against your face, but that does not deter your progress onwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 2522
+D2
+~
+~
+0 0 2502
+S
+#2522
+Grand hallway~
+Brightly lit-up by rows of torches that still burn vigorously, this
+hallway is a vast difference from that of the other stone corridors.  The
+lush deisgns on the pyramid walls, as well as the well paved pathway leading
+northwards, could well mean that you are nearing the lost fabled tomb of
+Shar'kan finally!  A strong gust of chilly wind from nowhere blows strongly
+against your face, but that does not deter your progress onwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 2523
+D2
+~
+~
+0 0 2521
+S
+#2523
+Grand hallway~
+Brightly lit-up by rows of torches that still burn vigorously, this
+hallway is a vast difference from that of the other stone corridors.  The
+lush deisgns on the pyramid walls, as well as the well paved pathway leading
+northwards, could well mean that you are nearing the lost fabled tomb of
+Shar'kan finally!  A strong gust of chilly wind from nowhere blows strongly
+against your face, but that does not deter your progress onwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 2553
+D2
+~
+~
+0 0 2522
+D4
+~
+~
+0 0 2524
+D5
+~
+~
+0 0 2540
+S
+#2524
+Grand hallway~
+Brightly lit-up by rows of torches that still burn vigorously, this
+hallway is a vast difference from that of the other stone corridors.  The
+lush deisgns on the pyramid walls, as well as the well paved pathway leading
+northwards, could well mean that you are nearing the lost fabled tomb of
+Shar'kan finally!  A strong gust of chilly wind from nowhere blows strongly
+against your face, but that does not deter your progress onwards.  
+~
+0 0 0
+D2
+~
+~
+0 0 2541
+D5
+~
+~
+0 0 2523
+S
+#2525
+Stairway~
+The room is quiet, and you can hear your footsteps echoing along the
+corridor.  Deeper into the pyramid, and deeper into the unknown, you hear a
+haunting chant coming from the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 2534
+D4
+~
+~
+0 0 2517
+S
+#2526
+Strange chambers~
+The hieroglyphs within this room depict scenes where the Medja, holy
+warrior, slayed the beast known as the Scorpion King.  The walls of the
+pyramid seems to have many cracks and faults, totally unlike that of the
+rest of the well-maintained pyramid.  You see bloodtrails around you, and
+the walls are stained with spurts of fresh blood.  Who knows what beast, and
+what traps, lay awaiting for their next unsuspecting victim...  You.  
+~
+0 1 0
+D0
+~
+~
+0 0 2531
+D1
+~
+~
+0 0 2527
+D2
+~
+~
+0 0 2512
+S
+#2527
+Strange chambers~
+The hieroglyphs within this room depict scenes where the Medja, holy
+warrior, slayed the beast known as the Scorpion King.  The walls of the
+pyramid seems to have many cracks and faults, totally unlike that of the
+rest of the well-maintained pyramid.  You see bloodtrails around you, and
+the walls are stained with spurts of fresh blood.  Who knows what beast, and
+what traps, lay awaiting for their next unsuspecting victim...  You.  
+~
+0 1 0
+D0
+~
+~
+0 0 2532
+D1
+~
+~
+0 0 2530
+D2
+~
+~
+0 0 2528
+D3
+~
+~
+0 0 2526
+S
+#2528
+Strange chambers~
+The hieroglyphs within this room depict scenes where the Medja, holy
+warrior, slayed the beast known as the Scorpion King.  The walls of the
+pyramid seems to have many cracks and faults, totally unlike that of the
+rest of the well-maintained pyramid.  You see bloodtrails around you, and
+the walls are stained with spurts of fresh blood.  Who knows what beast, and
+what traps, lay awaiting for their next unsuspecting victim...  You.  
+~
+0 1 0
+D0
+~
+~
+0 0 2527
+D1
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2512
+S
+#2529
+Strange chambers~
+The hieroglyphs within this room depict scenes where the Medja, holy
+warrior, slayed the beast known as the Scorpion King.  The walls of the
+pyramid seems to have many cracks and faults, totally unlike that of the
+rest of the well-maintained pyramid.  You see bloodtrails around you, and
+the walls are stained with spurts of fresh blood.  Who knows what beast, and
+what traps, lay awaiting for their next unsuspecting victim...  You.  
+~
+0 1 0
+D0
+~
+~
+0 0 2530
+D3
+~
+~
+0 0 2528
+S
+#2530
+Strange chambers~
+The hieroglyphs within this room depict scenes where the Medja, holy
+warrior, slayed the beast known as the Scorpion King.  The walls of the
+pyramid seems to have many cracks and faults, totally unlike that of the
+rest of the well-maintained pyramid.  You see bloodtrails around you, and
+the walls are stained with spurts of fresh blood.  Who knows what beast, and
+what traps, lay awaiting for their next unsuspecting victim...  You.  
+~
+0 1 0
+D0
+~
+~
+0 0 2531
+D2
+~
+~
+0 0 2529
+D3
+~
+~
+0 0 2527
+S
+#2531
+A large crevice~
+The large crack on the ground has been as a result of the Scorpion King's
+spell to unite the world with the underworld.  As you grip onto the edges of
+the crevice, struggling to pull yourself out of the death trap, hands from
+beneath the crevice extend towards you and firmly grasp round your waist,
+pulling you downwards.  You see the bridge next to you, and you wished why u
+didnt take the bridge...  
+~
+0 5 0
+S
+#2532
+A narrow bridge~
+From the scorpion pits, you quickly cross the bridge, rushing across to
+the safety of the opposite bank.  As you cross the bridge, you notice how
+unstable your position is, and one wrong step might just lead you plummeting
+deep into the underworld.  As you raise your head forward, you see two
+figures fighting, and the clashing of swords can be heard from where you
+are.  
+~
+0 0 0
+D0
+~
+~
+0 0 2533
+D2
+~
+~
+0 0 2527
+S
+#2533
+Dark cavern~
+A slight gust of hot air, tingling with a rather evil aura, greets you as
+you enter the cavern.  The cavern itself is dark, walls with hieroglyphs
+depicting how the Medja successfully slayed the Scorpion King previously. 
+This must have been where the fabled battle must have occurred!  The fresh
+blood stains on the walls, still dripping onto the ground slowly, warns you
+that some beast lurks within this very same cavern.  
+~
+0 1 0
+D0
+~
+~
+3 2542 2543
+D2
+~
+~
+0 0 2532
+S
+#2534
+Chamber of Rituals ~
+A rather large slab of granite is in the middle of the room, acting as an
+altar of sacrifices and offerings to be made.  Around the altar, burst of
+flames and fires swirl into the highest depths of the room.  The smoked
+blurs your view, but the murals depicting the gods awaiting the king inf the
+afterlife etched on the walls, are still a sight to behold.  
+~
+0 0 0
+D0
+~
+~
+0 0 2535
+D2
+~
+~
+0 0 2525
+S
+#2535
+Chamber of Rituals ~
+A rather large slab of granite is in the middle of the room, acting as an
+altar of sacrifices and offerings to be made.  Around the altar, burst of
+flames and fires swirl into the highest depths of the room.  The smoked
+blurs your view, but the murals depicting the gods awaiting the king inf the
+afterlife etched on the walls, are still a sight to behold.  
+~
+0 0 0
+D0
+~
+~
+0 0 2536
+D1
+~
+~
+0 0 2538
+D2
+~
+~
+0 0 2534
+D3
+~
+~
+0 0 2537
+S
+#2536
+Chamber of the Afterlife~
+The walls here are plain, with no hieroglyphs or murals.  Ancient tombs
+of the king's loved ones are buried within this room, and a small incense
+jar gives off a sweet fragrance of honey and some other sweet-smelling
+spices.  This is where all the members of the last royal family reside
+peacefully, without any external disturbances.  
+~
+0 0 0
+D0
+~
+~
+3 2536 2539
+D2
+~
+~
+0 0 2535
+S
+#2537
+Chamber of Rituals ~
+A rather large slab of granite is in the middle of the room, acting as an
+altar of sacrifices and offerings to be made.  Around the altar, burst of
+flames and fires swirl into the highest depths of the room.  The smoked
+blurs your view, but the murals depicting the gods awaiting the king inf the
+afterlife etched on the walls, are still a sight to behold.  
+~
+0 0 0
+D1
+~
+~
+0 0 2535
+S
+#2538
+Chamber of Rituals ~
+A rather large slab of granite is in the middle of the room, acting as an
+altar of sacrifices and offerings to be made.  Around the altar, burst of
+flames and fires swirl into the highest depths of the room.  The smoked
+blurs your view, but the murals depicting the gods awaiting the king inf the
+afterlife etched on the walls, are still a sight to behold.  
+~
+0 0 0
+D3
+~
+~
+0 0 2535
+S
+#2539
+Private Chambers~
+These are sacred private chambers, where members of the public or the
+family are not even allowed to step into.  This used to be where Shar'kan,
+the last lord of the realms, spent his time reading and self-cultivating
+himself.  Several ornaments and bookcases of thick ancient books still
+remain here, in memory of the great king.  
+~
+0 512 0
+D2
+~
+~
+3 0 2536
+S
+#2540
+Another trap~
+Just how many traps are there within this pyramid?  You find yourself
+falling off a cliff, slowly but yet certainly, death seems inevitable, and
+there is no way out for you.  As you fall through the air, you realised what
+a moment's folly has cost you.  
+~
+0 5 0
+S
+#2541
+Grand hallway~
+Brightly lit-up by rows of torches that still burn vigorously, this
+hallway is a vast difference from that of the other stone corridors.  The
+lush deisgns on the pyramid walls, as well as the well paved pathway leading
+northwards, could well mean that you are nearing the lost fabled tomb of
+Shar'kan finally!  A strong gust of chilly wind from nowhere blows strongly
+against your face, but that does not deter your progress onwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 2524
+D1
+~
+~
+0 0 2545
+D2
+~
+~
+0 0 2542
+D3
+~
+~
+0 0 2544
+S
+#2542
+Grand hallway~
+Brightly lit-up by rows of torches that still burn vigorously, this
+hallway is a vast difference from that of the other stone corridors.  The
+lush deisgns on the pyramid walls, as well as the well paved pathway leading
+northwards, could well mean that you are nearing the lost fabled tomb of
+Shar'kan finally!  A strong gust of chilly wind from nowhere blows strongly
+against your face, but that does not deter your progress onwards.  
+~
+0 0 0
+D0
+~
+~
+0 0 2541
+D1
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2550
+D3
+~
+~
+0 0 2546
+S
+#2543
+The Scorpion King's Tomb~
+The tomb is brightly illuminated, and there are hieroglyphs and murals
+showing the resurrection of the Scorpion King.  The Scorpion King was
+expected to be resurrected and brought back to life not until a few more
+centuries later, but for some twist of fate, a foolish adventurer had
+accidentally triggered off its premature awakening.  There is a small sign
+in ancient writing, placed next to the entrance of the chamber.  
+~
+0 4 0
+S
+#2544
+Chambers of Mourning~
+The mourning chambers are noteably smaller that that of the burial
+chambers, but they are no less lavishly decorated.  A golden chandelier
+hangs from the centre of the ceiling, brightening the entire room. 
+Momentoes of the king are on display, and several servants stand about
+cleaning the tomb.  
+~
+0 0 0
+D1
+~
+~
+0 0 2541
+S
+#2545
+Chambers of Mourning~
+The mourning chambers are noteably smaller that that of the burial
+chambers, but they are no less lavishly decorated.  A golden chandelier
+hangs from the centre of the ceiling, brightening the entire room. 
+Momentoes of the king are on display, and several servants stand about
+cleaning the tomb.  
+~
+0 0 0
+D3
+~
+~
+0 0 2541
+S
+#2546
+Chambers of Mourning~
+The mourning chambers are noteably smaller that that of the burial
+chambers, but they are no less lavishly decorated.  A golden chandelier
+hangs from the centre of the ceiling, brightening the entire room. 
+Momentoes of the king are on display, and several servants stand about
+cleaning the tomb.  
+~
+0 0 0
+D1
+~
+~
+0 0 2542
+S
+#2547
+Chambers of Mourning~
+The mourning chambers are noteably smaller that that of the burial
+chambers, but they are no less lavishly decorated.  A golden chandelier
+hangs from the centre of the ceiling, brightening the entire room. 
+Momentoes of the king are on display, and several servants stand about
+cleaning the tomb.  
+~
+0 0 0
+D3
+~
+~
+0 0 2542
+D5
+~
+~
+0 0 2548
+S
+#2548
+Deep pit~
+The walls of the pit are slippery, and deep, leaving you no way to climb
+back up.  Determined as you are, your desperate attempts to climb back up to
+safety have left you disappointed.  With your only exit downwards deeper
+into the pit, the cold hands of fear grip your heart tightly.  
+~
+0 1 0
+D5
+~
+~
+0 0 2549
+S
+#2549
+Bottom of the pit~
+Right at the bottom of the pit, there is nothing more here than a few
+bones of travellers who have probably starved to death here...  Or not?  You
+tread warily about the room, knowing that any wrong step might plummet you
+into instant doom.  
+~
+0 1 0
+D4
+~
+~
+0 0 2548
+S
+#2550
+Stairway~
+The room is quiet, and you can hear your footsteps echoing along the
+corridor.  Deeper into the pyramid, and deeper into the unknown, you hear a
+haunting chant coming from the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 2542
+D4
+~
+~
+0 0 2551
+S
+#2551
+Grand Chamber~
+The king's royal tomb encompasses this entire chamber.  His resting place
+is lavishly decorated with gold ornaments and various tributes to the king,
+as well as exquisite paintings that help lift the mood within this chamber. 
+The fragrant aroma of healing herbs and burning incense fills the air, and
+the crystal chandelier on the walls of the roof sparkle with great
+intensity.  This chamber is definitely fit for a king!  
+~
+0 0 0
+D5
+~
+~
+0 0 2550
+S
+#2552
+Inside the King's Tomb~
+This is where the King's body, Shar'kan, has been left to rest in peace,
+free from any disturbance.  Isolated from the outside world, the body of
+Shar'kan lies in repose and the atmosphere of the room is that of a serene
+and tranquil one.  The body has been wrapped in cloth, like a mummy, to
+preserve the body for generations.  
+~
+0 5 0
+S
+#2553
+Grand hallway~
+Brightly lit-up by rows of torches that still burn vigorously, this
+hallway is a vast difference from that of the other stone corridors.  The
+lush deisgns on the pyramid walls, as well as the well paved pathway leading
+northwards, could well mean that you are nearing the lost fabled tomb of
+Shar'kan finally!  A strong gust of chilly wind from nowhere blows strongly
+against your face, but that does not deter your progress onwards.  
+~
+0 0 0
+D2
+~
+~
+0 0 2523
+D5
+~
+~
+0 0 2554
+S
+#2554
+Inside the maze~
+You notice how to corridors seem to twist and turn at every junction, as
+this maze seemingly never ends.  The walls are dusty, and some markings from
+scratchings of rocks have been etched deeply into the surface of the wall,
+as though they served as a method for counting the days lost within this
+maze.  
+~
+0 1 0
+D0
+~
+~
+0 0 2554
+D1
+~
+~
+0 0 2554
+D2
+~
+~
+0 0 2554
+D3
+~
+~
+0 0 2554
+D4
+~
+~
+0 0 2554
+D5
+~
+~
+0 0 2554
+S
+#0
+
+
+
+#SPECIALS
+M 2532 spec_cast_cleric
+M 2533 spec_breath_gas
+M 2538 spec_breath_any
+M 2552 spec_breath_gas
+S
+
+
+
+#RESETS
+D 0 2533 0 2
+D 0 2536 0 2
+D 0 2539 2 2
+O 0 2554 0 2500
+O 0 2501 0 2501
+O 0 2500 0 2501
+M 0 2502 100 2502 2
+E 0 2502 0 9
+M 0 2504 100 2504 2
+M 0 2505 100 2505 5
+M 0 2507 100 2506 1
+M 0 2507 100 2507 2
+M 0 2508 100 2508 2
+O 0 2508 0 2508
+P 0 2507 1 2508 1
+P 0 2509 1 2508 1
+M 0 2508 100 2509 2
+O 0 2508 0 2509
+P 0 2507 1 2508 1
+P 0 2509 1 2508 1
+M 0 2512 100 2512 4
+M 0 2507 100 2513 2
+M 0 2514 100 2514 1
+E 0 2514 0 5
+M 0 2504 100 2515 2
+M 0 2516 100 2516 2
+M 0 2507 100 2517 2
+M 0 2518 100 2518 4
+E 0 2520 0 13
+E 0 2518 0 10
+M 0 2519 100 2519 1
+E 0 2517 0 16
+O 0 2519 0 2519
+M 0 2521 100 2521 2
+M 0 2521 100 2522 2
+E 0 2522 0 16
+M 0 2524 100 2524 1
+E 0 2524 0 12
+M 0 2512 100 2526 4
+M 0 2512 100 2527 4
+M 0 2527 100 2527 1
+M 0 2512 100 2528 4
+M 0 2512 100 2529 4
+M 0 2512 100 2530 4
+M 0 2531 100 2531 1
+M 0 2533 100 2533 1
+G 0 2542 0
+E 0 2530 0 16
+E 0 2531 0 2
+M 0 2532 100 2533 1
+E 0 2532 0 11
+E 0 2533 0 16
+M 0 2534 100 2534 1
+E 0 2534 0 17
+M 0 2525 100 2534 1
+E 0 2525 0 16
+M 0 2535 100 2535 3
+M 0 2536 100 2536 1
+E 0 2535 0 0
+G 0 2536 0
+M 0 2535 100 2537 3
+M 0 2535 100 2538 3
+M 0 2539 100 2539 1
+E 0 2538 0 5
+M 0 2538 100 2539 1
+E 0 2539 0 18
+M 0 2541 100 2541 2
+E 0 2540 0 16
+M 0 2541 100 2542 2
+E 0 2544 0 16
+O 0 2543 0 2543
+O 0 2541 0 2543
+M 0 2544 100 2544 4
+M 0 2544 100 2545 4
+M 0 2546 100 2546 1
+E 0 2546 0 26
+M 0 2549 100 2549 10
+M 0 2551 100 2551 1
+E 0 2549 0 21
+E 0 2551 0 16
+O 0 2550 0 2551
+M 0 2552 100 2552 1
+E 0 2553 0 6
+E 0 2552 0 8
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

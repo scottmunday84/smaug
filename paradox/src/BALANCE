@@ -1,0 +1,119 @@
+mages/wizards:
+-
+weapon skills (dagger, spear, whip are sufficient)
+remove peek
+remove enhanced damage
+remove protections
+remove 'remove curse'
+remove bless
++
+add third attack
+add more shields
+add sandstorm
+
+cleric/priest:
+-
+weapon skills (mace, flail, whip, spear are sufficient)
+remove fire breath
++
+add third attack
+add fourth attack
+add dual wield
+add 2nd dual
+add sever
+add something like midnight sun/sandstorm
+add chain lightning
+add parry
+add shield levitation
+add protection neutral
+
+thief/mercenary:
+-
+nothing
++
+add fifth attack
+add blackjack
+add armor
+add giant strength
+
+warrior/gladiator
+-
+backstab
+envenom
++
+charge
+armor
+giant strength
+cure critical
+shield smash
+stomp 
+
+ranger/strider
+-
+remove all cures (disease, poison, blindness, curse)
+remove acid blast
+remove sanctuary
+remove mass healing
+remove frenzy
+remove protections
+remove plague
+remove slow
+remove weaken
++
+add 2nd dual
+add 3rd dual
+add dispel magic (vortex of gaea)
+add elementals
+add chain lightning
+add shield levitation
+
+druid/sage
+-
+weapon skills(same as priest)
++
+add chain lightning
+add sandstorm (blizzard, tsunami, etc.)
+add brew, scribe
+add third attack
+add fourth attack
+add dual wield
+add demonfire
+
+vampire/lich
+-
+circle
+earthquake
+faerie fire
+calm
++
+add dispel magic
+add dual wield
+add fourth attack
+add fifth attack
+add 2nd dual
+add protection neutral
+add wither
+add bloodshield
+add second hit for feed
+
+monk/shaolin
+-
+faerie fog
+cure blindness
+gouge
++
+add chaos blow
+add shield smash
+add stomp
+add cleanse
+add stances
+add roundhouse
+add more hits to kick
+add nerve pinch
+
+assassin/deathmaster
+-
+nothing ;)
++
+add blade poison
+add shadow walk

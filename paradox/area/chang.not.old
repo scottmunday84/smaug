@@ -1,0 +1,127 @@
+Sender  Fade~
+Date    Sat May 26 18:41:18 2001~
+Stamp   990895278
+To      all~
+Subject Changes 26052001~
+Text
+*balanced cleric/priest, balanced some spells (acid blast
+demonfire, sandstorm, chain lightning, and saves (again))
+* various small changes to OLC (reset_room) to fix small
+bugs or strange behaviour
+*fixed a bug in get_weapon_skill
+*made chain lightning less spammy
+
+Your friendly coder,
+{DFade{x
+~
+Sender  Fade~
+Date    Mon May 28 11:04:38 2001~
+Stamp   991040678
+To      all~
+Subject 27052001~
+Text
+*added lore (skill/command)
+*added copyover
+*added elemental fury
+*made shield levitation work
+*added blackjack
+
+Your friendly coder,
+{DFade{x
+~
+Sender  Fade~
+Date    Mon May 28 11:38:36 2001~
+Stamp   991042716
+To      all~
+Subject showskill + showclass~
+Text
+I added the commands showskill and showclass.
+Enjoy.
+-{DFade{x
+~
+Sender  Fade~
+Date    Mon May 28 11:50:36 2001~
+Stamp   991043436
+To      all~
+Subject Mercenaries~
+Text
+They got fifth attack, armor and giant strength now.
+Blackjack was added yesterday.
+Jab and caltraps are going to be added soon.
+-{DFade{x
+~
+Sender  Fade~
+Date    Mon May 28 19:47:48 2001~
+Stamp   991072068
+To      all~
+Subject Potion prices~
+Text
+I halfed potion prices for the moment.
+-{DFade{x
+~
+Sender  Fade~
+Date    Mon May 28 21:26:59 2001~
+Stamp   991078019
+To      all~
+Subject finger~
+Text
+I've extended finger a little bit. It now contains
+level, class and race info. Enjoy.
+-{DFade{x
+~
+Sender  Fade~
+Date    Tue May 29 15:32:04 2001~
+Stamp   991143124
+To      all~
+Subject Arena~
+Text
+I've added an arena to the game. It works pretty much
+like the one on DS. Use the challenge command to...guess
+what - challenge. Wait until the challenged opponent
+declines or accepts. Both combatants are restored before
+and after the fight. After the fight, both are transferred
+back to the altar. You can't quit or recall while in
+the arena, and you can't quit when you have challenged
+someone or have been challenged. If you want to withdraw
+a challenge, use the dismiss command.
+
+Enjoy,
+{DFade{x
+~
+Sender  Fade~
+Date    Tue May 29 20:09:01 2001~
+Stamp   991159741
+To      all~
+Subject Arena changes~
+Text
+The arena consists of 15 rooms now. When you leave
+the arena (no matter whether you're winner or loser),
+most maladictions are removed (plus sever, gouge and
+assassination).
+Winner and loser are moved to separate rooms now.
+
+Enjoy,
+{DFade{x
+~
+Sender  Fade~
+Date    Wed May 30 10:46:31 2001~
+Stamp   991212391
+To      all~
+Subject score~
+Text
+I changed the score format again.
+I hope you like it.
+-{DFade{x
+~
+Sender  Fade~
+Date    Wed May 30 11:13:52 2001~
+Stamp   991214032
+To      all~
+Subject Bugfix~
+Text
+Fixed a bug in get_curr_stat. Weaken, plague, poison 
+and other stat-modifying spells/skills have an actual
+effect now. So, weakening someone might make them remove
+their weapon(s) now. (Same goes for plague, etc.)
+-{DFade{x
+~

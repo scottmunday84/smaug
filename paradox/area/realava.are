@@ -1,0 +1,1344 @@
+#AREADATA
+Name Avalanche~
+Builders None~
+VNUMs 1000 1049
+Credits {01  20} Sha/Kat Avalanche~
+Security 9
+End
+
+
+
+#MOBILES
+#1000
+snow bear~
+snow bear~
+A {&snow bear {xrears up angrily.
+~
+Even with its gigantic bulk, it moves as quickly as anything else.
+Living here has honed its reflexes until it can dodge anything that comes its way.
+With its sharp claws, it can rip any beast here into pieces.
+~
+bear~
+AG 0 0 0 0
+12 12 2d10+150 2d10+150 1d10+3 none
+0 0 0 0
+DEO 0 EI 0
+stand stand none 600
+AGHMV ABCDEFGHIJKUV medium unknown
+#1002
+snow rabbit~
+snow rabbit~
+A {&snow rabbit{x is bouncing happily in the snow.
+~
+With fluffy white fur and a tail that bobs up and down, this rabbit is very adorable.
+As it turns watery eyes at you, you feel an overwhelming sense of pity.
+~
+rabbit~
+AG J 0 0 0
+10 5 2d6+60 2d6+60 1d6+1 none
+6 6 6 6
+FH 0 B Z
+stand stand none 500
+AGHMV ABCDEFGHIJK medium unknown
+#1003
+polar bear cub~
+polar bear cub~
+A {&polar bear cub {xfollows its owner.
+~
+This poor creature has been abandoned by its mother, probably because it is the runt of the lot.
+You feel an overwhelming sense of pity for it.
+~
+bear~
+A S 0 1000 0
+12 12 2d10+150 2d10+150 1d10+3 none
+0 0 0 0
+DEO 0 EI 0
+stand stand male 600
+AGHMV ABCDEFGHIJKUV medium unknown
+#1004
+snow bird~
+Snow bird~
+A {&snow bird{x looks for worms.
+~
+As it is digging its beak into the moist soil, it emerges after a while with a long wriggling earthworm hanging from its beak.
+Triumphantly, it severs its earthworm into two before gobbling it down.
+~
+song bird~
+A ST 0 1000 0
+15 15 3d9+208 3d9+208 2d6+3 none
+-2 -2 -2 -2
+FH 0 0 0
+stand stand none 750
+AGHMVW ABCDEFGHIJKP medium unknown
+#1009
+snow owl~
+a snow owl~
+A {&snow{x owl hoots at you!
+~
+Raising his elegant head, it stares directly in you for intruding into his private house.
+It makes a disapproving sound, then raises its wings to attack.
+~
+song bird~
+ABF T H 0 0
+15 15 3d9+208 3d9+208 2d6+3 none
+-2 -2 -2 -2
+FH 0 0 0
+stand stand male 1000
+AGHMVW ABCDEFGHIJKP medium unknown
+#1014
+standard mob~
+standard mob~
+A standard mob is here.
+~
+A standard mob is here.
+~
+human~
+A 0 0 0 0
+1 1 2d6+10 2d6+10 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1018
+village guard~
+a guard~
+A guard is standing to attention.
+~
+Clad in armor and a helmet, this guard is patrolling through the village, ensuring that all the citizens are safe.
+~
+human~
+AG 0 0 0 0
+25 15 3d9+208 3d9+208 2d6+3 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 750
+AHMV ABCDEFGHIJK medium unknown
+#1019
+small child~
+a small child~
+A small child is peeking at you.
+~
+Like the rest of his family, upon hearing the great avalanche, they have ran into different corners, and are praying frantically to God to save their lives.
+~
+human~
+AB 0 0 1000 0
+18 18 3d9+283 3d9+283 2d7+4 none
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 500
+AHMV ABCDEFGHIJK medium unknown
+#1020
+brave father~
+brave father~
+A father is bravely protecting his son.
+~
+Eyes closed in prayer, he can only hope that the avalanche spares his children.
+Although filled with fear, he values his children too much to just run away and hide.
+~
+human~
+AB 0 0 0 0
+15 15 3d9+208 3d9+208 2d6+3 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand male 750
+AHMV ABCDEFGHIJK medium unknown
+#1021
+mother~
+a mother~
+A mother is huddling together with her family.
+~
+Her face looks haggard because of the recent avalanche.
+Braving the danger, she has stayed together with the rest of her family even though she was petrified.
+~
+human~
+AB 0 0 0 0
+15 15 3d9+208 3d9+208 2d6+3 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK small unknown
+#1025
+Karlyss~
+Karlyss~
+Karlyss is making some pies.
+~
+She welcomes you with a huge smile on her face.
+Business has not been too good for her lately due to the avalanche, and she is determined to sell as much food as she can.
+~
+human~
+AB 0 0 0 0
+30 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#1026
+Nadario~
+Nadario~
+Nadario is bustling along frowning.
+~
+"Oh dear..." he mutters as he strolls along the shelves of potions.
+As he passes a cauldron, puffs of smoke are emitted and wrinkles appear on Nadario's face.
+~
+human~
+AB 0 0 0 0
+30 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#1032
+praying villager~
+praying villager~
+A villager has his hands clasped in prayer.
+~
+Head bent, hands clasped, this villager is very religious.
+He has even braved the danger of the avalanche to come and daily worship his god.
+~
+human~
+AB 0 0 0 0
+18 18 3d9+283 3d9+283 2d7+4 none
+-4 -4 -4 -4
+0 0 0 0
+stand stand male 900
+AHMV ABCDEFGHIJK medium unknown
+#1037
+cowardly mother~
+a cowardly mother~
+A mother is crouching in the corner.
+~
+Her tear-streaked face looking upwards, she asks God.
+What have I done to deserve this?
+~
+human~
+A 0 0 0 0
+15 15 3d9+208 3d9+208 2d6+3 none
+-2 -2 -2 -2
+0 0 0 0
+stand stand female 500
+AHMV ABCDEFGHIJK medium unknown
+#1038
+priest~
+Priest~
+A courageous priest is praying fervently.
+~
+This priest is the bravest of the bravest.
+Even though the avalanche has flooded the village, he is very religious and believes that his god can save him.
+~
+human~
+ABQ 0 0 1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 0 0
+stand stand male 1000
+AHMV ABCDEFGHIJK medium unknown
+#1039
+calesta~
+Calesta~
+Calesta is selling his wares.
+~
+"How do you do?" his friendly smile issues a warm welcome.
+He is very good with animals, and can handle any sicknesses or problems that might derive.
+~
+human~
+AB 0 0 1000 0
+30 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 0 0
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#1040
+snow mouse~
+snow mouse~
+A {&snow mouse{x is squeaking happily.
+~
+This mouse is simply adorable!
+Turning its velveted head at you, it issues a sense of helplessness.
+~
+wolf~
+A SZ 0 1000 0
+10 10 2d7+21 2d7+21 2d4+2 none
+2 2 2 2
+FH 0 0 0
+stand stand none 500
+AGHMV ABCDEFGHIJKQV medium unknown
+#1045
+bat~
+a bat~
+Eyes stare at you from above.
+~
+You can barely make out this bat's figure.
+It is well-blended with its surroundings, therefore making it 'invisible' to the human eye.
+~
+bat~
+AG TZ 0 0 0
+15 15 3d9+208 3d9+208 2d6+3 none
+-2 -2 -2 -2
+FH 0 0 S
+stand stand none 500
+AGHMV ABCDEFGHIJKP medium unknown
+#1046
+Shakan~
+Shakan~
+A figure lurks in the shadows.
+~
+He is the master of camouflage, no matter how hard you try you still cannot detect him.
+The darkness is his element, and you hear a snarl from behind you.
+You take a step back and start to leave.
+~
+avian~
+ABF DFJLT H -1000 0
+20 20 3d9+333 3d9+333 2d8+5 none
+-6 -6 -6 -6
+0 0 J LQ
+stand stand none 1000
+AHMV ABCDEFGHIJKP medium unknown
+#0
+
+
+
+#OBJECTS
+#1000
+ancient brew protection~
+{3A{#nc{3i{#en{3t {6B{^re{6w {xof {8*{7P{&ro{7t{&ec{7tio{&N{8*{x~
+A potion is here bursting with energy.~
+unknown~
+potion 0 A
+101 'heal' 'fly' 'bless' 'pass door'
+101 0 10000 P
+#1001
+ancient brew shielding~
+{3A{#nc{3ie{#nt {6B{^re{6w {xof {8*{7S{&hi{7el{&d{7in{&G{8*{x~
+A potion is lying here bubbling.~
+unknown~
+potion 0 A
+30 'fireshield' 'shockshield' 'prismaticshield' 'sanctuary'
+15 0 1000 P
+#1002
+ancient brew heal~
+{yA{Ync{yi{Yen{yt {cB{Cre{cw {xof {D*{xH{Wea{xl{Win{xG{D*{x~
+A potion lies here, its contents crystal-clear.~
+unknown~
+potion 0 N
+101 'cure critical' 'cure critical' 'cure critical' 'cure critical'
+101 1 50000 P
+#1003
+champagne icy glass~
+{&a {8glass {&of {$-={^C{6ol{^D{$=- {#c{3ha{#mpa{3g{#ne{x~
+Ice cubes are floating on top of this glass of champagne.~
+unknown~
+drink 0 A
+-1 1 'champagne' 0 0
+0 0 1 P
+#1005
+ancient brew negation~
+{yA{Ync{yi{Yen{yt {cB{Cre{cw {xof {D*{xN{Weg{xa{Wtio{xN{D*{x~
+This is a carefully prepared experimental brew.~
+unknown~
+potion 0 A
+101 'cure blindness' 'remove curse' 'cure poison' 'cure disease'
+101 1 10000 P
+#1009
+steel beak~
+a {8steel{x-{7t{&ip{7pe{&d {3b{#ea{3k{x~
+A beak used to tear flesh is lying here.~
+unknown~
+weapon J AN
+exotic 3 8 peck BDH
+15 4 1000 P
+A
+18 2
+A
+19 2
+A
+13 30
+S 'haste'
+#1021
+ancient brew mana~
+{3A{#nc{3i{#en{3t {6B{^re{6w {xof {8*{7M{&a{7n{&A{8* {x~
+Liquid in the container throbbs briefly.~
+unknown~
+potion 0 A
+101 'restore mana' 'restore mana' 'restore mana' 'restore mana'
+101 0 10000 P
+#1023
+cup water icy~
+an {!*{6I{^C{6Y{!* {xcup of {^w{6a{^t{6e{^r{x~
+Ice cubes spill from this freezing cup of water.~
+unknown~
+drink 0 A
+-1 1 'water' 0 0
+10 0 3000 P
+#1024
+ice-cream tub~
+an {6i{^c{6e{x-{^cr{6e{^a{6m {8tub{x~
+A tub full of delicious ice-cream is here.~
+unknown~
+food 0 A
+24 24 0 0 0
+7 0 2500 P
+#1025
+icy pie~
+{6I{^c{6y {3p{#i{3E{x~
+A frozen pie is here.~
+unknown~
+food 0 A
+24 0 0 0 0
+5 0 2000 P
+#1026
+ancient brew strength~
+{3A{#nc{3i{#en{3t {6B{^re{6w {xof {8*{7S{&tr{7en{&gt{7H{8*{x~
+A blood-red potion is here bursting with energy.~
+unknown~
+potion 0 A
+101 'haste' 'giant strength' 'armor' 'shield'
+101 0 10000 P
+#1045
+eyes darkness~
+{8eyes {8of {8darkness{x~
+Something has blended into the shadows.~
+unknown~
+armor F AT
+10 10 12 11 0
+15 3 2000 P
+A
+18 2
+A
+20 -1
+A
+5 2
+A
+13 35
+S 'invisibility'
+#1046
+shimmering portal shadun~
+a shimmering portal~
+A {Cs{ch{Wi{xm{Cm{ce{Wr{xi{Cn{cg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#1024
+Village Pathway~
+A snow covered path leads back west, and tiny rooms not fit for living in
+can be seen to your north and south.  Even though the village is usually
+bustling with activity, the avalanche has filled fear in everyone.  This
+area feels very isolated.  
+~
+0 0 0
+D0
+~
+~
+0 0 1025
+D1
+~
+~
+0 0 1027
+D2
+~
+~
+0 0 1026
+D3
+~
+~
+0 0 1021
+S
+#1025
+Karlyss's Bakery~
+The delightful smell of baking fills the air.  Unlike other bakeries,
+this uses its abundance of snow to create food.  Although somewhat wierd,
+the food tastes as good as any other.  
+~
+0 0 0
+D2
+~
+~
+0 0 1024
+S
+#1026
+Nadario's Alchemy~
+Strange-coloured wisps of smoke are streaming from the different
+cauldrons, and Nadario himself bustles along with a worried look on his
+face.  Potions of different shapes and colours are neatly lined on the
+shelf, and price tags are hanging from them.  
+~
+0 0 0
+D0
+~
+~
+0 0 1024
+S
+#1027
+Village Pathway~
+A snow covered path leads back west, and tiny rooms not fit for living in
+can be seen to your north and south.  Even though the village is usually
+bustling with activity, the avalanche has filled fear in everyone.  This
+area feels very isolated.  
+~
+0 0 0
+D0
+~
+~
+0 0 1029
+D1
+~
+~
+0 0 1030
+D2
+~
+~
+0 0 1028
+D3
+~
+~
+0 0 1024
+S
+#1028
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D0
+~
+~
+0 0 1027
+S
+#1029
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D2
+~
+~
+0 0 1027
+S
+#1030
+Market Place~
+A snow covered path leads back west, and tiny rooms not fit for living in
+can be seen to your north and south.  Even though the village is usually
+bustling with activity, the avalanche has filled fear in everyone.  This
+area feels very isolated.  
+~
+0 0 0
+D0
+~
+~
+0 0 1039
+D1
+~
+~
+0 0 1031
+D2
+~
+~
+0 0 1032
+D3
+~
+~
+0 0 1027
+S
+#1031
+Village Pathway~
+A snow covered path leads back west, and tiny rooms not fit for living in
+can be seen to your north and south.  Even though the village is usually
+bustling with activity, the avalanche has filled fear in everyone.  This
+area feels very isolated.  
+~
+0 0 0
+D0
+~
+~
+0 0 1035
+D1
+~
+~
+1 0 1037
+D2
+~
+~
+0 0 1036
+D3
+~
+~
+0 0 1030
+S
+#1032
+Village Pathway~
+A snow covered path leads back west, and tiny rooms not fit for living in
+can be seen to your north and south.  Even though the village is usually
+bustling with activity, the avalanche has filled fear in everyone.  This
+area feels very isolated.  
+~
+0 0 0
+D0
+~
+~
+0 0 1030
+D1
+~
+~
+0 0 1033
+D2
+~
+~
+0 0 1038
+D3
+~
+~
+0 0 1034
+S
+#1033
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D3
+~
+~
+0 0 1032
+S
+#1034
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D1
+~
+~
+0 0 1032
+S
+#1035
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D2
+~
+~
+0 0 1031
+S
+#1036
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D0
+~
+~
+0 0 1031
+S
+#1037
+A hideout~
+This is a hideout for all the cowardly people who run away from the
+avalanche.  They actually believe that by staying here, they will not be
+affected by the great avalanche.  These are the most fearful of the fearful,
+and so you cannot blame them.  
+~
+0 0 0
+D3
+~
+~
+1 0 1031
+S
+#1038
+A small church~
+This is the place of worship where the villagers visit.  On the altar is
+a statue of a god covered in ice, and candles are lit all around it.  The
+villagers are probably praying to this god to spare them from another
+avalanche.  
+~
+0 0 0
+D0
+~
+~
+0 0 1032
+S
+#1039
+Calesta's Pet Shop~
+Many different animals can be heard here.  The pet shop here sells very
+unique animals, which all come from the icy plains of the avalanche. 
+Squeaks, whimpers, all can be heard.  
+~
+0 4096 0
+D2
+~
+~
+0 0 1030
+S
+#1040
+Standard room~
+~
+0 4 0
+S
+#1041
+A dark cave~
+Dew drips down from the stalagmites into a puddle.  Small insects scurry
+to and fro busily, as you realize that the room to your south has caved in. 
+There is no way out.  
+~
+0 0 0
+D0
+~
+~
+0 0 1046
+D1
+~
+~
+0 0 1042
+D3
+~
+~
+0 0 1049
+S
+#1042
+A dark cave~
+Darkness reigns utmost in this area, and it surrounds you completely. 
+Groping around, you hope to find a grip that will lead you out of here.  It
+is rumored that a savage beast resides within the caves...  
+~
+0 0 0
+D0
+~
+~
+0 0 1043
+D3
+~
+~
+0 0 1041
+S
+#1043
+A dark cave~
+Darkness reigns utmost in this area, and it surrounds you completely. 
+Groping around, you hope to find a grip that will lead you out of here.  It
+is rumored that a savage beast resides within the caves...  
+~
+0 0 0
+D0
+~
+~
+0 0 1044
+D2
+~
+~
+0 0 1042
+D3
+~
+~
+0 0 1046
+S
+#1044
+A dark cave~
+Darkness reigns utmost in this area, and it surrounds you completely. 
+Groping around, you hope to find a grip that will lead you out of here.  It
+is rumored that a savage beast resides within the caves...  
+~
+0 0 0
+D2
+~
+~
+0 0 1043
+D3
+~
+~
+0 0 1045
+S
+#1045
+A dark cave~
+This is where the savage beast resides.  You can hear growling and
+ripping sounds that make your hair stand on end coming from a corner.  Your
+feet start to shuffle backwards.  
+~
+0 0 0
+D1
+~
+~
+0 0 1044
+D2
+~
+~
+0 0 1046
+D3
+~
+~
+0 0 1047
+S
+#1046
+A dark cave~
+Darkness reigns utmost in this area, and it surrounds you completely. 
+Groping around, you hope to find a grip that will lead you out of here.  It
+is rumored that a savage beast resides within the caves...  
+~
+0 0 0
+D0
+~
+~
+0 0 1045
+D1
+~
+~
+0 0 1043
+D2
+~
+~
+0 0 1041
+D3
+~
+~
+0 0 1048
+S
+#1047
+A dark cave~
+Darkness reigns utmost in this area, and it surrounds you completely. 
+Groping around, you hope to find a grip that will lead you out of here.  It
+is rumored that a savage beast resides within the caves...  
+~
+0 0 0
+D1
+~
+~
+0 0 1045
+D2
+~
+~
+0 0 1048
+S
+#1048
+A dark cave~
+Darkness reigns utmost in this area, and it surrounds you completely. 
+Groping around, you hope to find a grip that will lead you out of here.  It
+is rumored that a savage beast resides within the caves...  
+~
+0 0 0
+D0
+~
+~
+0 0 1047
+D1
+~
+~
+0 0 1046
+D2
+~
+~
+0 0 1049
+S
+#1049
+A dark cave~
+Darkness reigns utmost in this area, and it surrounds you completely. 
+Groping around, you hope to find a grip that will lead you out of here.  It
+is rumored that a savage beast resides within the caves...  
+~
+0 0 0
+D0
+~
+~
+0 0 1048
+D1
+~
+~
+0 0 1041
+S
+#1000
+Entrance to the Avalanche~
+The path is covered with snow, and snowflakes are gently falling onto the ground. The trees are covered in white, and only a bit of the sun peeks through the clouds. The icy cold freezes everything in its path.
+~
+0 0 0
+D5
+~
+~
+0 0 1001
+S
+#1001
+A Snowy path~
+A blanket of snow covers the landscape.  The snow is heavier now, and the
+weather is stormier.  Travellers tread through here with caution, unknown
+dangers lurk behind every corner.  
+~
+0 0 0
+D0
+~
+~
+0 0 1002
+D4
+~
+~
+0 0 1000
+S
+#1002
+A snowy path~
+A frigid atmosphere surrounds this part of the avalanche.  You cannot
+sense any life, and the snowflakes pour down onto you.  
+~
+0 0 0
+D2
+~
+~
+0 0 1001
+D5
+~
+~
+0 0 1003
+S
+#1003
+A snowy path~
+A solitary snow-white rabbit dashes out from between the bushes, racing
+hurriedly through the avalanche.  Seconds later, soft whimpers for help can
+be heard.  You feel disgusted by this scene and continue on.  The snow is
+falling more lightly now, and a more friendly atmosphere welcomes you.  
+~
+0 0 0
+D4
+~
+~
+0 0 1002
+D5
+~
+~
+0 0 1004
+S
+#1004
+A small ledge~
+As you step onto this ledge, you realize that the view from this point is
+breathtaking.  Trees look like small bushes from this distance and a small
+river winds like a snake.  The sunlight reflects on the snow, making it look
+even more enchanting.  
+~
+0 0 0
+D4
+~
+~
+0 0 1003
+D5
+~
+~
+0 0 1005
+S
+#1005
+A snowy path~
+This path leads up to where u came from, or east to the unexplored.  Huge
+mounds of snow are all around you, and you feel quite claustrophobic. 
+Swallowing your fear, you continue on.  
+~
+0 0 0
+D1
+~
+~
+0 0 1006
+D4
+~
+~
+0 0 1004
+S
+#1006
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D3
+~
+~
+0 0 1005
+D5
+~
+~
+0 0 1007
+S
+#1007
+A blood-splattered path~
+Red blood has stained the pure-white snow.  You wonder what could have
+caused all this blood, trembling in fear.  A sense of fear and danger
+overcomes you as you see the mutilated carcass of a rabbit, and sends
+tingles up your spine.  
+~
+0 0 0
+D0
+~
+~
+0 0 1010
+D1
+~
+~
+0 0 1008
+D4
+~
+~
+0 0 1006
+S
+#1008
+The bottom of a tree~
+Green leaves sprout from this tree, and fall gently, swaying in the wind.
+Huge fruits are ripening and look juicy and tasty.  As you look up, the
+foilage of the tree blocks out the sky.  You are amazed by this work of
+nature.  
+~
+0 0 0
+D3
+~
+~
+0 0 1007
+D4
+~
+~
+0 0 1009
+S
+#1009
+The hole in the tree~
+This hole probably belongs to an owl of some sort, and it looks fierce. 
+You can tell by the bits and pieces of meat strewn around the room, and the
+blood spilling out from a body of a mouse.  Fear grips your heart and you
+turn to leave.  
+~
+0 0 0
+D5
+~
+~
+0 0 1008
+S
+#1010
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D0
+~
+~
+0 0 1017
+D1
+~
+~
+0 0 1011
+D2
+~
+~
+0 0 1007
+D3
+~
+~
+0 0 1012
+S
+#1011
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D1
+~
+~
+0 0 1013
+D3
+~
+~
+0 0 1010
+S
+#1012
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D1
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1015
+S
+#1013
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D2
+~
+~
+0 0 1014
+D3
+~
+~
+0 0 1011
+S
+#1014
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D0
+~
+~
+0 0 1013
+S
+#1015
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D0
+~
+~
+0 0 1016
+D1
+~
+~
+0 0 1012
+S
+#1016
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D2
+~
+~
+0 0 1015
+S
+#1017
+A snowy path~
+Some snow is tumbling off the mountains, and making large amounts of
+noise.  Right in front of you are some humongous footprints.  You hope that
+the creature who made that is friendly and will not hurt you.  
+~
+0 0 0
+D0
+~
+~
+0 0 1041
+D1
+~
+~
+0 0 1018
+D2
+~
+~
+0 0 1010
+S
+#1018
+Entrance to the village~
+Oh no!  The room behind you has suddenly caved in!  You are unable to
+turn back!  The rumbling noise when the avalanche came has alerted the
+villagers, and while they come out one by one, they also notice your
+prescence.  
+~
+0 0 0
+D0
+~
+~
+0 0 1019
+D1
+~
+~
+0 0 1021
+D2
+~
+~
+0 0 1020
+S
+#1019
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D2
+~
+~
+0 0 1018
+S
+#1020
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D0
+~
+~
+0 0 1018
+S
+#1021
+Village Pathway~
+A snow covered path leads back west, and tiny rooms not fit for living in
+can be seen to your north and south.  Even though the village is usually
+bustling with activity, the avalanche has filled fear in everyone.  This
+area feels very isolated.  
+~
+0 0 0
+D0
+~
+~
+0 0 1022
+D1
+~
+~
+0 0 1024
+D2
+~
+~
+0 0 1023
+D3
+~
+~
+0 0 1018
+S
+#1022
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D2
+~
+~
+0 0 1021
+S
+#1023
+A small house~
+This is one of the rooms where the villagers live.  Shabby and small, the
+villagers seem to think it is just right for their needs.  Upon hearing the
+avalanche, the whole family has run into a corner to hide.  
+~
+0 0 0
+D0
+~
+~
+0 0 1021
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 1031 1 1
+D 0 1037 3 1
+M 0 1018 100 1024 1
+M 0 1025 100 1025 1
+G 0 1023 0
+G 0 1024 0
+G 0 1025 0
+M 0 1026 100 1026 1
+M 0 1018 100 1027 3
+M 0 1020 100 1028 1
+M 0 1019 100 1028 1
+M 0 1021 100 1028 1
+M 0 1019 100 1029 1
+M 0 1020 100 1029 1
+M 0 1021 100 1029 1
+M 0 1021 100 1033 1
+M 0 1019 100 1033 1
+M 0 1020 100 1033 1
+M 0 1021 100 1034 1
+M 0 1020 100 1034 1
+M 0 1019 100 1034 1
+M 0 1021 100 1035 1
+M 0 1019 20 1035 1
+M 0 1020 100 1035 1
+M 0 1021 100 1036 1
+M 0 1019 100 1036 1
+M 0 1020 100 1036 1
+M 0 1037 100 1037 5
+M 0 1038 100 1038 1
+M 0 1032 100 1038 3
+M 0 1039 100 1039 1
+M 0 1040 100 1040 1
+M 0 1003 100 1040 1
+M 0 1004 100 1040 1
+M 0 1045 100 1041 1
+M 0 1045 100 1042 1
+M 0 1045 100 1043 1
+M 0 1045 100 1044 1
+M 0 1046 100 1045 1
+E 0 1045 0 22
+M 0 1045 100 1046 1
+M 0 1045 100 1047 1
+M 0 1045 100 1048 1
+M 0 1045 100 1049 1
+O 0 1046 0 1000
+M 0 1000 100 1001 1
+M 0 1002 100 1002 2
+M 0 1002 100 1003 1
+M 0 1000 100 1003 1
+M 0 1000 100 1004 1
+M 0 1002 100 1005 1
+M 0 1002 100 1006 1
+M 0 1000 100 1007 1
+M 0 1002 100 1008 1
+M 0 1009 100 1009 1
+E 0 1009 0 16
+M 0 1009 100 1011 1
+M 0 1002 100 1011 2
+M 0 1009 100 1012 1
+M 0 1002 100 1012 2
+M 0 1002 100 1014 1
+M 0 1002 100 1016 1
+M 0 1000 100 1017 2
+M 0 1018 100 1018 1
+M 0 1019 100 1019 1
+M 0 1020 100 1019 1
+M 0 1021 100 1019 1
+M 0 1019 100 1020 1
+M 0 1020 100 1020 1
+M 0 1021 100 1020 1
+M 0 1020 100 1022 1
+M 0 1019 100 1022 1
+M 0 1021 100 1022 1
+M 0 1020 100 1023 1
+M 0 1019 100 1023 1
+M 0 1021 100 1023 1
+S
+
+
+
+#SHOPS
+1025 19 0 0 0 0 100 10 1 24
+1026 10 0 0 0 0 100 10 1 24
+1039 0 0 0 0 0 100 10 1 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

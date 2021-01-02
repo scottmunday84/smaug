@@ -1,0 +1,2224 @@
+#HELPS
+-1 CYLITH RACE_CYLITH~
+{CC{cylith{D
+Cyliths are a race of giants, devoted to battle and bloodshed. While their
+huge, brawny bodies usually appear to be slow and sluggish when resting or
+working, they can enter an insane rage when provoked or challenged. Every
+Cylith undergoes intensive training in the arts of melee combat during his/her
+youth, and female and male Cyliths alike pose deadly threats to every opponent.
+While their weapon skills are exceptional and their raw strength makes
+them almost invincible, their wits are not all that phenomenal. Only a few
+of their race have reached a sufficient level of self-control to master
+the arts of magic so far.
+{CN{catural {CM{caximum {Cs{ctats{D: 26  15  16  18  25
+{CS{cize{D                 : Giant
+{CR{cecommended {Cc{class{D    : Gladiator/Knight
+{CC{creation {Cp{coints{D      : 10
+{CR{cesistance{D           : Bash
+{CV{culnerability{D        : Acid
+{CS{chield{D               : None
+{CA{cffected {Cb{cy{D          : Berserk
+~
+
+-1 EFRIT RACE_EFRIT~
+{CE{cfrit{D
+Efrits are generally extremely tiny. Although they are a winged race, they
+cannot fly without magical help. Efrits are probably the weakest race, but
+at the same time they are pretty fast and agile; another fact making them
+fearsome opponents is their great skill at everything involving magic and
+mystical powers. They are extremely intelligent and use their long lives
+to gather lore and wisdom, not always but most often to find ways to
+magically defeat and humiliate their opponents. Efrits have a strange sense
+of humour, often involving seemingly senseless brutality and weird tricks
+usually leading to less pleasant, sometimes even deadly experiences for
+their victims.
+{CN{catural {CM{caximum {Cs{ctats{D: 14  26  24  20  16
+{CS{cize{D                 : Tiny
+{CR{cecommended {Cc{class{D    : Wizard/Sorcerer
+{CC{creation {Cp{coints{D      : 6
+{CR{cesistance{D           : Cold, Lightning
+{CV{culnerability{D        : Slash, Pierce
+{CS{chield{D               : Iceshield
+{CA{cffected {Cb{cy{D          : Farsight, Haste
+~
+
+-1 DREZIL RACE_DREZIL~
+{CD{crezil{D
+Drezils are vaguely humanoid in appearance but usually much more intelligent.
+They spend most of their lives studying the ways of nature and trying to
+mend the wounds chaos has dealt to its own creation. Many Drezils have
+magical abilities, ranging from effective healing spells to destructive
+incantations invoking the forces of nature. A select few also concentrate
+on maintaining balance by hunting down possible threats to nature,
+therefore developing above average weapon skills and a profound knowledge
+of defensive techniques. Many Drezils die young because of their reasonably
+dangerous lives but when they reach older ages, they usually settle down
+to teach other races in order to make their ways of living with nature in
+harmony understandable and more accepted.
+{CN{catural {CM{caximum {Cs{ctats{D: 16  23  25  19  17
+{CS{cize{D                 : Medium
+{CR{cecommended {Cc{class{D    : Shaman/Elder
+{CC{creation {Cp{coints{D      : 6
+{CR{cesistance{D           : Earth, Wood
+{CV{culnerability{D        : Poison, Disease, Fire
+{CS{chield{D               : Earthshield
+{CA{cffected {Cb{cy{D          : Farsight, Detect Hidden, Detect Invis
+~
+
+-1 RAHMAT RACE_RAHMAT~
+{CR{cahmat{D
+Rahmats are found as priests and bishops all over the known world. They tend
+to be wiser than any other race, even at young ages. They have a profound
+understanding of the needs of other people and races, often using this
+knowledge to obtain riches and wealth. They tend to know much about diseases
+and their healing, curses and their cancellation, mental disorders and their
+treatment. It is rumoured that some Rahmats even have basic knowledge of
+the opposite, namely striking down their foes with fearsome magic, severing
+them from their gods' sanctuary.
+{CN{catural {CM{caximum {Cs{ctats{D: 17  23  24  18  18
+{CS{cize{D                 : Small
+{CR{cecommended {Cc{class{D    : Priest/Bishop
+{CC{creation {Cp{coints{D      : 9
+{CR{cesistance{D           : Lightning
+{CV{culnerability{D        : Bash
+{CS{chield{D               : Shockshield
+{CA{cffected {Cb{cy{D          : None
+~
+
+-1 SIVAH RACE_SIVAH~
+{CS{civah{D
+The Sivah are the most common race in the world of Paradox. Vaguely humanoid
+in appearance, they tend to be stronger and more resistant, even more magical.
+They have developed strange ways of using short disturbances on the astral
+plane to become temporarily translucent, although this process is said to be
+painful and exhausting. They are suited for almost every profession and make
+both average fighters and spellcasters.
+{CN{catural {CM{caximum {Cs{ctats{D: 20  20  20  20  20
+{CS{cize{D                 : Large
+{CR{cecommended {Cc{class{D    : All
+{CC{creation {Cp{coints{D      : 2
+{CR{cesistance{D           : None
+{CV{culnerability{D        : None
+{CS{chield{D               : None
+{CA{cffected {Cb{cy{D          : Pass door
+~
+
+-1 REVADA RACE_REVADA~
+{CR{cevada{D
+Revadas are strange, magical beings, devoted to the study of the arcane and
+its manifold uses, although they tend to develop a certain affinity for its
+more cruel and terrifying applications. Many Revadas strive to become
+powerful necromancers, this drive not totally hampered by a natural resistance
+against negative and absorbing forces. Their wounds heal frighteningly fast
+and it is said that they are even able to recover entire bodyparts in short
+periods of time.
+{CN{catural {CM{caximum {Cs{ctats{D: 18  21  20  23  18
+{CS{cize{D                 : Medium
+{CR{cecommended {Cc{class{D    : Lich/Necromancer
+{CC{creation {Cp{coints{D      : 5
+{CR{cesistance{D           : Negative
+{CV{culnerability{D        : Holy
+{CS{chield{D               : None
+{CA{cffected {Cb{cy{D          : Regeneration
+~
+
+-1 VIXTA RACE_VIXTA~
+{CV{cixta{D
+Vixtas are a small, secretive race, mostly living in the darker parts of the
+known world. They are predestined to be thieves and assassins and many of
+them do not resist the temptations of easy money in the form of thievery
+and bounty hunting. They are very agile and possess a lithe and deadly grace
+when sneaking up on their usually unprepared victims, an envenomed dagger
+hidden somewhere in one of their sleeves...
+Vixtas find it exceptionally easy to move in the shadows and are said to be
+able to see in the dark.
+{CN{catural {CM{caximum {Cs{ctats{D: 20  17  17  25  21
+{CS{cize{D                 : Small
+{CR{cecommended {Cc{class{D    : Mercenary/Blade
+{CC{creation {Cp{coints{D      : 5
+{CR{cesistance{D           : Charm, Negative
+{CV{culnerability{D        : Holy, Light
+{CS{chield{D               : None
+{CA{cffected {Cb{cy{D          : Infravision
+~
+
+-1 PHOENIX RACE_PHOENIX~
+{CP{choenix{D
+A Phoenix is a huge, winged creature of outstanding beauty. This race loves
+to live in isolation, yes, they do not even live together in cities or
+tribes. Their ways of live are mainly dominated by an intense and harmonious
+relationship to nature: most of them are striders or guardians, lone rangers
+and protectors of nature. It is rumoured though that many a Phoenix lost
+his or her way and became a mercenary or fighter, often for quite dubious
+institutions and organisations. They are usually surrounded by a fiery
+aura.
+{CN{catural {CM{caximum {Cs{ctats{D: 21  19  19  19 22
+{CS{cize{D                 : Huge
+{CR{cecommended {Cc{class{D    : Strider/Guardian
+{CC{creation {Cp{coints{D      : 7
+{CR{cesistance{D           : Fire, Mental
+{CV{culnerability{D        : Cold, Drowning
+{CS{chield{D               : Fireshield
+{CA{cffected {Cb{cy{D          : None
+~
+
+-1 SHADOR RACE_SHADOR~
+{CS{chador{D
+Not much is known of the race called Shador. They are said to have developed
+exceptional mental control and to mainly live in the shadows, stalking and
+hunting. Most of the ones operating in the known world are feared assassins
+or deathmasters, knowing hardly any mercy when it comes to earning money
+by placing a dagger in someone's back. They are also quite magical, resulting
+in the feared combination of deadly spells and even deadlier combat skills.
+{CN{catural {CM{caximum {Cs{ctats{D: 16  22  20  24  18
+{CS{cize{D                 : Large
+{CR{cecommended {Cc{class{D    : Assassin/Deathmaster
+{CC{creation {Cp{coints{D      : 6
+{CR{cesistance{D           : Charm
+{CV{culnerability{D        : Light
+{CS{chield{D               : Shadowshield
+{CA{cffected {Cb{cy{D          : None
+~
+
+-1 SAREEF RACE_SAREEF~
+{CS{careef{D
+Sareefs are giant and mystical creatures, roaming the woods of the known world
+and singing low and disturbing songs of cruel and sometimes even heroic deeds.
+Many have developed a very strange style of melee combat, refusing to use
+any weapons and sometimes even armor, just using their bare hands as deadly
+tools of destruction. Although their mental capabilities are quite restricted,
+even when it comes to the use of the simplest forms of magic, their wits
+shouldn't be underestimated, especially by their opponents. They might seem
+slow and even mentally retarded at first, but once awoken and furious they
+will only stop to fight when they or their opponents are dead, the latter being
+far more probable and common.
+{CN{catural {CM{caximum {Cs{ctats{D: 23  16  15  22  24
+{CS{cize{D                 : Giant
+{CR{cecommended {Cc{class{D    : Shaolin/Sensai
+{CC{creation {Cp{coints{D      : 10
+{CR{cesistance{D           : Sound
+{CV{culnerability{D        : Wood
+{CS{chield{D               : Prismaticshield
+{CA{cffected {Cb{cy{D          : None
+~
+
+-1 BAKALI RACE_BAKALI~
+{CB{cakali{D
+The bakali are a race of lizardfolk found in remote swamps near the eastern
+edge of the known world. Bakali range in height from six to eight feet and
+are correspondingly strong and muscular. Their hides range in colour from
+yellow-green to mottled brown and are heavily plated, much like those of
+crocodiles. They have long, powerful tails that they can lash about. A dorsal
+ridge runs the length of the spine, starting at the back of the skull and
+finally disappearing about halfway down the tail. Their hands and feet have
+vestigial claws, menacing-looking but not effective in combat. The hands and
+feet are webbed and the talons of the feet are used like fingers.
+Although savage, they are not unintelligent. Indeed, they are particularly
+skilled at war. Using deception, ambushes and even retreats are not cowardly
+if the situation calls for it. Anything associated with war in victory or
+defeat is considered courageous.
+(Thanks go to Armadon for submitting this race.)
+{CN{catural {CM{caximum {Cs{ctats{D: 26  15  15  18  26
+{CS{cize{D                 : Giant
+{CR{cecommended {Cc{class{D    : Gladiator/Knight
+{CC{creation {Cp{coints{D      : 10
+{CR{cesistance{D           : Fire
+{CV{culnerability{D        : Cold
+{CS{chield{D               : Fireshield
+{CA{cffected {Cb{cy{D          : None
+~
+
+-1 FELINIAN RACE_FELINIAN~
+{CF{celinian{D
+Felinian tribes (called "prides") tend to live in areas with little human
+habitation. In fact, they prefer to live separated from other races, though
+they regularly establish trade with other races. The reasoning behind this
+is not that they consider themselves superior, but rather that their shyness
+makes it difficult for them to interact and associate with other beings.
+Felinians are furred, catlike humanoids. They have four-fingered (three
+fingers with an opposable thumb) hands at the ends of their long arms, and
+their digits end in sharp claws. Surrounded by a thick mane, their faces
+are catlike, their eyes a mixture of human and feline with slit pupils set
+above feline muzzles. They are about equal in height to humans, but tend to
+average about 15 pounds lighter. Their ears sit atop their heads, like those
+of a cat, and give them heightened hearing. Most often, only the uppermost
+portion of the ears can be seen above the mane.
+(Thanks go to Armadon for submitting this race.)
+{CN{catural {CM{caximum {Cs{ctats{D: 20  17  17  26  20
+{CS{cize{D                 : Medium
+{CR{cecommended {Cc{class{D    : Mercenary/Blade
+{CC{creation {Cp{coints{D      : 6
+{CR{cesistance{D           : Charm, Cold
+{CV{culnerability{D        : Silver, Fire
+{CS{chield{D               : None
+{CA{cffected {Cb{cy{D          : None
+~
+
+-1 MAHO RACE_MAHO~
+{CM{caho{D
+Long ago, legends say that the Uruha used the darkest of magics to defend
+their homeland. Sorcery of blood and sweat, defined by the summoning of
+creatures and rituals whose specifics were best left lost to time, were
+the magic practice of the ancient inhabitants of the Isawa Ariminhime. Only
+after the coming of the prophet's oath did they realise that such magic
+slowly corrupted their souls and turned the mind to evil. Crystal has been
+noted to have an effect on these tainted beasts. One would require to stare
+through a piece of pure crystal at the corrupt target, and implore the
+spirits within the crystal to adapt their ordinary behaviour. These beasts,
+originally no different from any folks within the province, succumbed to the
+lure of blood and power greather than the will of the human heart. No matter
+how much each victim attempts to escape, with each heartbeat, it returns to
+haunt. Though it might appear to have been left behind, it never leaves the
+victim.
+(Thanks go to Shane for submitting this race.)
+{CN{catural {CM{caximum {Cs{ctats{D: 17  22  22  22  17
+{CS{cize{D                 : Medium
+{CR{cecommended {Cc{class{D    : Assassin/Deathmaster
+{CC{creation {Cp{coints{D      : 7
+{CR{cesistance{D           : Iron, Silver
+{CV{culnerability{D        : Light
+{CS{chield{D               : None
+{CA{cffected {Cb{cy{D          : Farsight
+~
+
+0 THAUMATURGY SKILL_THAUMATURGY~
+Thaumaturgy reflects your character's ability to use magical items
+properly. This includes:
+{c*{D The reading of magical scrolls and books.
+{c*{D The use of staves and similar devices.
+{c*{D The use of wands and similar items.
+Thaumaturgy is automatically checked whenever you use {WZAP{D, {WBRANDISH{D
+or {WRECITE{D to use the powers of a magical item.
+~
+ 
+-2 'GROUP HEADER'~
+The following skills and groups are available to your chacter:
+(this list may be seen again by typing list)
+~
+
+-2 'GROUP HELP'~
+The following commands are available:
+list         display all groups and skills not yet bought
+learned      show all groups and skills bought 
+premise      brief explanation of creation points and skill groups
+add <name>   buy a skill or group
+drop <name>  discard a skill or group
+info <name>  list the skills or spells contained within a group
+help <name>  help on skills and groups, or other help topics
+done	     exit the character generation process
+~
+
+-2 'MENU CHOICE'~
+Choice (add,drop,list,help,learned,premise,info,class,done)?~
+
+-1 'GROUPS' 'INFO' 'PREMISE'~
+The skill system allows you to fully customize your new character, making him
+or her skilled in the skills you choose. Skills are paid for with creation
+points, and the more creation points you have, the harder it is to gain a level.
+Furthermore, higher-cost skills are harder to practice.
+
+Skill groups are like package deals for characters -- sets of skills or spells
+that are closely related, and hence can be learned as a unit.  There is a 
+default skill group for each class, which can be selected for a balanced 
+selection of skills at a somewhat reduced cost.
+
+The experience breakdown is as follows: 
+points   exp/level     points   exp/level
+40        1000         90        6000
+50        1500         100       8000
+60	  2000         110      12000
+70        3000         120      16000 
+80        4000         130      24000
+The table continues in a similar manner for higher point totals.
+~
+
+-1 'CLASS'~
+Syntax:  class
+         class all
+         class <group>
+
+Typing class by itself will list all spell groups that you currently have.
+The [class all] format will list all groups that are available to your
+particular class.  The [class <group>] method will list all of the spells
+available to your class within that group, along with the level at which
+you recieve the spell.
+~
+
+0 TRANSPORT SPELL_TRANSPORT~
+Syntax: cast transport <object> <char>
+
+This spell will transport an obj from your inventory to the inventory of
+another player.  You can turn off the ability to recieve transports using
+the notran command.
+~
+
+0 'SHIELD BLOCK' SKILL_SHIELD_BLOCK~
+Shield block is a rather fancy name for the art of parrying with a shield.
+Characters with no shield block skill will not be able to defend themselves
+well with a shield.  All classes may learn shield block, but only warriors and
+clerics are good at it.  Beware, flails ignore shield blocking attempts, and
+whips have an easier time getting around them.  Axes may split shields in two.
+~
+
+-1 FIRESHIELD ICESHIELD SHOCKSHIELD SPELL_FIRESHIELD SPELL_ICESHIELD SPELL_SHOCKSHIELD~
+These arcane and costly spells are only for the most learned of the ranks of
+mages and clerics wandering the land.  They require great amounts of energy
+and can be very devastating.  The following spells are included in this
+group and are listed in order of strength:
+
+        iceshield       surrounds target with a thick shell of ice
+        fireshield      surrounds target with a flaming inferno
+        shockshield     surrounds target with a crackling sphere
+
+These spells were coded by Kelson (Micah Bartell) for use with ROM based muds,
+and are released under the GNU license.(use them, edit them, give me mention)
+Questions and comments can be sent to micah@cse.unl.edu.
+~
+
+0 BACKSTAB SKILL_BACKSTAB~
+Backstab is the favored attack of  thieves, murderers, and other rogues.  It 
+can be used with any weapon type, but is most effective with piercing weapons.
+The damage inflicted by a backstab is determined by the attacker's level, his
+weapon skill, his backstab skill, and the power of his opponent.
+Only thieves may learn the backstab.
+~
+
+0 BASH SKILL_BASH~
+The bash skill is a warrior talent, a brute-force attack designed to knock
+your foe to his knees.  Its success depends on many factors, including the
+bash rating, your weight, and the size of your opponent.  Bashing a dragon
+is not generally a wise idea.
+~
+
+0 BERSERK SKILL_BERSERK~
+Only powerful warriors can master berserking, the ability to enter insane rage
+in combat.  Its effects are not altogether unlike the frenzy spell -- a huge
+surge of combat prowess, coupled with a disregard for personal safety.  
+Berserking warriors are more resistant to the effects of magic.
+~
+
+0 DIRT 'DIRT KICKING' SKILL_DIRT_KICKING~
+Consider by some to be a cowardly skill, dirt kicking gives the clever 
+combatant a chance to blind his opponent by casting dirt into his eyes.  The
+blindness does not last long, but can provide an edge in combat.  Dexterity
+helps in hitting or avoiding a dirt kick.  Only warriors and thieves may
+learn this skill.
+~
+
+0 DISARM SKILL_DISARM~
+Disarm is a somewhat showy and unreliable skill, designed to relieve your
+opponent of his weapon.  The best possible chance of disarming occurs when you
+are skilled both your own and your opponent's weapon. Only talented thieves
+and warriors may learn this skill.
+~
+
+0 DODGE SKILL_DODGE~
+In the words of one wise warrior, 'the best way to block a blow is to not
+be where it lands'.  The dodge skill honors this tradition, by improving the
+character's natural agility to the point where many blows will miss the 
+target. The chance of dodging is also affected by the dexterity of the
+attacker and the target.  Any class may learn dodging.
+~
+
+0 'ENHANCED DAMAGE' SKILL_ENHANCED_DAMAGE~
+Warriors and skilled thieves can become skilled enough in combat that they are
+able to inflict more damage than other classes.  Enhanced damage is checked
+for with each hit, although with a low skill, the chance of receiving a bonus
+is very low indeed.
+~
+
+0 'HAND TO HAND' SKILL_HAND_TO_HAND~
+Hand to hand combat is a rare skill in the lands of Midgaard.  Learning this
+style of fighting gives the player a weapon even when disarmed -- bare hands.
+Trained hand to hand experts are far more effective than many swordsmen.
+Clerics and warriors are the best at this skill, although thieves and mages
+may also learn it.
+~
+
+0 KICK SKILL_KICK~
+Kicking allows the adventurer to receive an extra attack in combat, a powerful
+kick. However, a failed kick may throw an unwary fighter off balance.  Fighters
+and clerics are the most skilled at kicking, although thieves may also learn
+it.
+~
+
+0 PARRY SKILL_PARRY~
+If at first you fail to dodge, block it.  Parry is useful for deflecting 
+attacks, and is succesful more often than dodge.  Parry requires a weapon for
+full success, the hand-to-hand skill may also be used, but results in reduced
+damage instead of no damage.  The best chance of parrying occurs when the
+defender is skilled in both his and his opponent's weapon type.
+~
+
+0 RESCUE SKILL_RESCUE~
+A friend in need is a friend indeed.  And when in combat, a warrior with
+the rescue skill is just the friend you need.  Rescue allows you to intercede
+in combat, protecting weaker characters from bodily harm. Hopefully the
+favor will be returned.  Success in rescuing depends on the skill rating, as
+well as a comparision of level, dexterity, and speed between the character and
+the target. (note: you rescue a friend, not the monster)
+~
+
+0 TRIP SKILL_TRIP~
+Back by popular demand.  Trip is a somewhat dastardly attack, and involves
+using any one of a number of methods to bring your opponent down to the ground.
+Tripping large monsters is generally not a good idea, and agile ones will
+find the attack easy to avoid.  Thieves and warriors may learn trip.
+~
+
+0 'SECOND ATTACK' SKILL_SECOND_ATTACK~
+Training in second attack allows the character a chance at additional strikes
+in combat -- allow a 100% second attack does NOT guarantee 2 attacks every
+round.  Any class may learn this skill, although clerics and mages have a 
+very hard time with it.
+~
+
+0 'THIRD ATTACK' SKILL_THIRD_ATTACK~
+Training in third attack allows the character a chance at an additional strike
+in a combat, and increases the chance of a second attack as well.  Perfect
+third attack does NOT assure three attacks per round.  Only warriors, rangers,
+and highly skilled thieves may learn this skill.
+~
+
+0 'FOURTH ATTACK' SKILL_FOURTH_ATTACK~
+Training in fourth attack allows the character a chance at an additional strike
+in a combat, and increases the chance of a third attack as well.  Perfect
+fourth attack does NOT assure four attacks per round.  Only warriors, rangers,
+and highly skilled thieves may learn this skill.
+~
+
+0 'FIFTH ATTACK' SKILL_FIFTH_ATTACK~
+Training in fifth attack allows the character a chance at an additional strike
+in a combat, and increases the chance of a fourth attack as well.  Perfect
+fifth attack does NOT assure five attacks per round.  Only warriors and highly
+skilled rangers may learn this skill.
+~
+
+0 'SIXTH ATTACK' SKILL_SIXTH_ATTACK~
+Training in sixth attack allows the character a chance at an additional strike
+in a combat, and increases the chance of a fifth attack as well.  Perfect
+sixth attack does NOT assure six attacks per round.  Only warriors and highly
+skilled rangers may learn this skill.
+~
+
+0 'SEVENTH ATTACK' SKILL_SEVENTH_ATTACK~
+Training in seventh attack allows the character a chance at an additional
+strike in a combat, and increases the chance of a sixth attack as well.
+Perfect seventh attack does NOT assure seven attacks per round.  Only warriors
+and highly skilled rangers may learn this skill.
+~
+
+0 HIDE SNEAK SKILL_HIDE SKILL_SNEAK~
+Hide and sneak are similar skills, both related to remaining undetected.
+Hide has a very high chance of success, but only works for as long as the
+character remains stationary.  Sneak may be used when moving (including to
+sneak by monsters), but has a lower chance of success.  Only warriors and
+thieves may learn these skills.
+~
+
+0 'FAST HEALING' SKILL_FAST_HEALING~
+The fast healing skill improves wound healing rates, whether walking, resting,
+or sleeping. It represents knowledge of healing herbs or just general 
+toughness and stamina.  Fast healing is checked every tick, and it is 
+possible for it to fail.  All class may learn this skill, but mages find it
+very difficult to master, due to their bookish lifestyle.
+~
+
+0 LORE SKILL_LORE~
+Lore is a general skill, consisting of knowledge of myths and legends. Use
+of the lore skill gives a chance of obtaining information on an object,
+concerning its power and uses.  It also may occasionally increase the value
+of an object, because more will be known about its worth.  All classes may
+learn lore, although thieves are best at it, and warriors find it very hard
+to use.
+~
+
+0 HAGGLE HAGGLING SKILL_HAGGLE SKILL_HAGGLING~
+Haggling is an indispensable skill to the trader.  It allows a character to
+match wits with a merchant, seeking to get a better price for merchandise,
+or to buy at the lowest possible cost.  Unfortunately, most merchants are 
+already very skilled at haggling, so the untrainined adventurer had best 
+guard his treasure closely.  Thieves are natural masters at haggling, 
+although other classes may learn it as well.
+~
+
+0 PEEK SKILL_PEEK~
+Peek is both a skill and a command.
+
+The peek skill is useful for seeing what a player or monster is carrying,
+the better to use the steal command with.
+
+Syntax: peek <char>
+This will attempt to peek at a characters inventory, you may also make
+this automatic during a: look <char>  by turning on AUTOPEEK.
+~
+
+0 PICK 'PICK LOCK' SKILL_PICK~
+Lock picking is one of the prime skills of thieves, allowing them to gain
+access to many secured areas.  Lock picking chances are improved by  
+intelligence, and hindered by the difficulty of the lock. Other classes may
+learn to pick locks, but they will never find it easy.
+~
+
+0 MEDITATION SKILL_MEDITATION~
+This skill is similar to fast healing, but relies on the concentration and
+mantras to increase mana recovery when the character is sleeping or resting.
+Thieves and warriors, with their troubled minds and violent attitudes, have
+much trouble learning to meditate.
+~
+
+0 STEAL SKILL_STEAL~
+Theft is the defining skill of the thief, and is only available to that class.
+It allows items to be stolen from the inventory of monsters and characters,
+and even from shops!  But beware, shop keepers gaurd their merchandise 
+carefully, and attempting to steal from a character earns you a THIEF flag
+if you are caught (making you free game for killing).
+~
+
+0 'DETECT GOOD' SPELL_DETECT_GOOD~
+Syntax: cast 'detect good'
+ 
+This spell enables the caster to detect good characters, which will
+reveal a characteristic golden aura.
+~
+
+0 'DEMONFIRE' SPELL_DEMONFIRE~
+Syntax: cast 'demonfire' <target>
+
+Demonfire is a spell of blackest evil, and as such can only be used by those
+who follow the paths of darkness.  It conjures forth demonic spirits to 
+inflict terrible wounds on the enemies of the caster.
+~
+
+0 'HEAT METAL' SPELL_HEAT_METAL~
+Syntax: cast 'heat metal' <target>
+
+Heat metal is a powerful clerical attack spell, with effects that vary 
+according to the armor of the victim.  It heats up the metal equipment
+(assumed to be all weapons and armor at this point in time) on the target,
+causing him or her to drop them if possible, taking serious burns in the
+process (possibly fatal if the equipment is too heavy to remove easily).
+This spell does no damage to creatures who are immune to fire.
+~
+
+0 FRENZY SPELL_FRENZY~
+Syntax: cast 'frenzy' <target>
+
+The frenzy spell fills the target with righteous fury, greatly increasing
+his or her attack skill and damaging capacity.  Unfortunately, this divine
+wrath is coupled with a tendency to ignore threats to personal safety, 
+making the character easier to hit.  Frenzy provides immunity to the calm
+spell (see 'help calm'), and may only be used on those of the caster's 
+alignment.
+~
+
+0 HASTE SPELL_HASTE~
+Syntax: cast 'haste' <target>
+
+The haste spell increases the speed and agility of the recipient, allowing
+an extra attack (or even a backstab) in combat, and improving evasive
+abilities in combat.  However, it produces a great strain on the system,
+such that recuperative abilities are halved.  Haste is capable of negating
+the slow spell. (see 'help slow').
+~
+
+0 SLOW SPELL_SLOW~
+Syntax: cast 'slow' <target>
+
+Despite popular mythology, slow is not the opposite of haste, but is a spell
+with it's own unique set of effects.  When cast on an unfortunate victim,
+it slows its movements, making it easier to hit and reducing its rate
+of attack.  The effect of slow also double movement costs and halve healing
+rates, due to reduced metabolism.
+~
+
+0 PLAGUE SPELL_PLAGUE~
+Syntax: cast 'plague' <target>
+
+The plague spell infests the target with a magical disease of great virulence,
+sapping its strength and causing horrific suffering, possibly leading to
+death.  It is a risky spell to use, as the contagion can spread like
+wildfire if the victim makes it to a populated area.
+~
+
+0 'PROTECTION GOOD' 'PROTECTION EVIL' SPELL_PROTECTION_GOOD SPELL_PROTECTION_EVIL~
+Syntax: cast 'protection evil' <target> 	cast
+'protection good' <target>
+The protection spells reduce damage taken from attackers of the appropriate
+ethos, and improve saving throws against all forms of magic. They may not
+be cast on others, and one person cannot carry both defenses at the same
+time.
+~
+
+0 'PROTECTION NEUTRAL' SPELL_PROTECTION_NEUTRAL~
+Syntax: cast 'protection neutral'
+
+This spell can only be cast on yourself and gives you a -10 bonus on your
+saves.
+~
+
+0 'CHAIN LIGHTNING' SPELL_CHAIN_LIGHTNING~
+Syntax : cast 'chain lightning' <target>
+
+Chain lightning is a deadly spell, producing a powerful bolt of lightning
+that arcs from target to target in the room, until its force is fully
+expended.  Allies of the caster may be hit by this spell if they are members 
+of a clan, while the caster himself will not be struck unless no other
+viable target remains.  Chain lightning is most effective when used on
+groups of creatures.
+~
+
+0 FARSIGHT SCAN SPELL_FARSIGHT~
+scan farsight
+Syntax: scan
+	scan <direction>
+	cast 'farsight'
+
+The scan command allows the user to detect movement in surrounding areas.
+
+The farsight spell expands the caster's consciousness, allowing him or her
+to see far away beings like they were in the same room.  It takes intense
+concentration, often leaving the caster helpless for several minutes.
+The spell may be used for a general scan that reaches a short distance in
+all directions, or with a directional component to see creatures much
+farther away.
+~
+
+0 MASS HEALING SPELL_MASS_HEALING~
+Syntax: cast 'mass healing' 
+
+The mass healing spell, as its name might suggest, performs a healing spell
+on all players in the room.  It also throws in a refresh spell for good
+measure.
+~
+
+0 FIREPROOF SPELL_FIREPROOF~
+Syntax: cast 'fireproof' <object>
+
+The fireproof spell creates a short-lived protective aura around an object,
+to protect it from the harmful effects of acid and flame.  Items protected
+by this spell are not harmed by acid, fire, or the heat metal spell.
+Although inexpensive to use, the spell's short duration makes it impractical
+for protecting large numbers of objects.
+~
+
+-1 ALIAS UNALIAS~
+Syntax: alias
+	alias <word>
+	alias <word> <substitution>
+	unalias <word>
+
+The alias command allows limited shortening of command names.  At this time,
+aliases cannot call other aliases, and cannot generate more than one command.
+Alias by itself lists your current aliases, Alias <word> lists the alias with 
+that name (if such exist), and alias with both a word and and argument 
+produces a new alias.  You cannot alias either alias or unalias to a new
+command.  Examples of use:
+
+alias gc get all corpse --> typing gc will equal typing 'get all corpse'
+alias ff cast 'fireball' --> ff orc will equal 'cast 'fireball' orc'
+
+Only the first word on the line will be subsituted at this time.
+~
+
+0 'CRITICAL HIT' SKILL_CRITICAL_HIT~
+This is an automatic skill avalaible to mercenaries/blades and
+assassins/deathmasters. Members of those classes will occasionally land
+critical hits, resulting in higher damage. There are no critical hits during
+circles/backstabs/assassinates because all those skills are basically
+already critical hits.
+~
+
+0 WARD SPELL_WARD~
+Syntax: cast 'ward' <damage>
+
+Powerful sorcerers and bishops can use the forces of magic to protect
+themselves by a mystical ward.
+This spell can only be cast on yourself and will absorb the first attack
+(regardless whether it's magic or not) which would inflict more damage
+than the given number. Afterwards the ward will vanish.
+(A current ward can be updated/refreshed by casting the spell again with
+a new value.)
+~
+
+0 'TIGER STYLE' 'DRAGON STYLE' 'CHAOS STYLE' 'ELEMENTAL STYLE'
+SKILL_TIGER_STYLE SKILL_DRAGON_STYLE SKILL_CHAOS_STYLE SKILL_ELEMENTAL_STYLE~
+These are automatic shaolin/sensai skills. They are their most important
+weapons and those skills have a great impact on their combat power.
+~
+
+0 OFFHAND SKILL_OFFHAND~
+This is an automatic skill available to mercenaries/blades. It enables them to
+land fourth and fifth hits on circle and backstab.
+~
+
+0 ASSASSINATE SKILL_ASSASSINATE~
+Syntax: assassinate <victim>
+
+One of the most important concepts used by assassins and deathmasters is the
+exact study of their opponent's weaknesses. They use their assassination skill
+to expose them, resulting in more damage. Furthermore, asssassinate is similar
+to backstab and must be used as initial attack.
+~
+
+0 EARTHBIND SKILL_EARTHBIND~
+Syntax: earthbind <target>
+
+Use this skill to rip your opponent from the skies.
+~
+
+0 SANDSTORM SPELL_SANDSTORM~
+Syntax: cast 'sandstorm' <target>
+
+Sandstorm is a powerful elemental spell which might even blind your opponent
+occasionally.
+~
+
+0 RUB SKILL_RUB~
+Syntax: rub
+
+Use this skill to clear your eyes when you've been blinded by dirt kicking or
+flaming weapons.
+~
+
+0 SEVER SPELL_SEVER~
+Syntax: cast 'sever' <target>
+
+This is probably the most powerful spell in every bishop's arsenal. As long as
+your opponent is affected by this spell, (s)he can not use sanctuary.
+~
+
+0 'ELEMENTAL FURY' SPELL_ELEMENTAL_FURY~
+Syntax: cast 'elemental fury' <target>
+
+This is a powerful attack spell available to bishops, calling upon the forces
+of nature to strike their opponents.
+~
+
+0 'SHIELD LEVITATION' SKILL_SHIELD_LEVITATION~
+This is an automatic skill which allows you to use a shield while dual
+wielding.
+~
+
+0 BLACKJACK SKILL_BLACKJACK~
+Syntax: blackjack <target>
+
+Thieves use this skill to knock out their opponents. Be wary though, your
+opponent might wake again faster than you think! And he won't be too friendly
+then...
+~
+
+0 'TRUE SIGHT' SPELL_TRUE_SIGHT~
+Syntax: cast 'true sight'
+
+This spell gives you all detects.
+~
+
+0 CHARGE SKILL_CHARGE~
+Syntax: charge <target>
+
+Experienced knights use this skill as initial attack. It is not as powerful as
+backstab but still very effective.
+~
+
+0 'SHIELD SMASH' SKILL_SHIELD_SMASH~
+Syntax: smash <target>
+
+While wearing a shield, you can try to smash your opponent. This is quite a
+powerful skill, gladiators/knights might even stun their opponents
+occasionally.
+~
+
+0 SWARM SPELL_SWARM~
+Syntax: cast 'swarm' <target>
+
+This is a very evil spell used by necromancers to summon swarms of diseases to
+slow and blind their opponents.
+~
+
+0 'DEATH TOUCH' SPELL_DEATH_TOUCH~
+Syntax: cast 'death touch' <target>
+
+Master necromancers use this spell to harm their enemies with the forces of
+death. This might occasionally result in their opponents being stunned and/or
+dazed.
+~
+
+0 BLOODBATH SPELL_BLOODBATH~
+Syntax: cast 'bloodbath' <target>
+
+This horrible spell enables a necromancer to control their opponent's
+bloodflow, resulting in enormous masses of blood spurting out of their
+enemies' wounds. While your enemy is affected by this spell, your feed damage
+is increased and you might sometimes be so full of bloodlust that you take a
+second bite.
+~
+
+102 BUILDING~
+Please follow those rules when building:
+
+*You're free to use color as much as you like, but not in a mob's short
+ description. Generally speaking, it's better to avoid excessive amounts
+ of color in both room and long descriptions.
+
+*Stick to the rules set down in HELP EQSTATS/HELP DICES.
+ Exceptions can only be made in special cases (this will mainly concern
+ hero equipment or class equipment).
+
+*Don't use the same (room) description over and over. Being creative is
+ part of your job. Exceptions can be made if the area being built is
+ mainly intended for levelling.
+
+*If you create objects intended for immortal use (yeah, we all like to cheat
+ and have that extremely powerful equipment :), set the object level to 102,
+ so regular mortals are not able to use those objects.
+
+Those rules are subject to changes (with notice).
+Generally speaking, use your intellect and try not to endanger either balance
+or playability, and there won't be any problems.
+
+Fade, last changed on 12/06/01
+~
+
+102 EQSTATS~
+                    Paradox MUD OLC Armor and Weapon Guide
+
+   Level of       Total Max       Max           Armor
+   Eq/Armor      hp/mana/move    Saves   Stats  Class     Damroll/Hitroll
+
+  0-10        none              one      none  0-4      1 hitroll, 1
+                                                        damroll
+
+  11-20       armor: 60         -1       1pt   5-8      2 hitroll 2
+              weapon: 30                                damroll
+
+  21-30       armor: 90         -1       2pts  9-12     3 hitroll, 3
+              weapon: 45                                damroll
+
+  31-40       armor: 120        -2       3pts  13-16    4 hitroll, 4
+              weapon: 60                                damroll
+
+  41-50       armor: 150        -2       4pts  17-20    5 hitroll 5
+              weapon 75                                 damroll
+
+  51-60       armor: 200        -3       4pts  18       7 hitroll, 7
+              weapon: 100                               damroll
+
+  61-70       armor: 250        -3       5pts  21       10 hitroll, 10
+              weapon: 125                               damroll
+
+  71-80       armor: 300        -4       5pts  24       14 hitroll, 14
+              weapon 150                                damroll
+
+  81-90       armor: 350        -4       6pts  37       19 hitroll, 19
+              weapon: 175                               damroll
+
+  91-100      armor: 375        -5       6pts  32       25 hitroll, 25
+              weapon: 200                               damroll
+
+  101         armor: 400        -5       7pts  33       35 hitroll, 35
+              weapon: 225                               damroll
+
+Mob Wealth: 25 * Level of Mob
+
+~
+
+102 DICES~
+Weapon's Dice (these numbers are not variable)
+ LevelDice  Ave Dam
+ 1-2  2d3   4
+ 3-4  2d4   5
+ 5-6  3d3   6
+ 7-8  2d6   7
+ 9    7d8   8
+ 10-113d5   9
+ 12   4d4   10
+ 13-142d10  11
+ 15   4d5   12
+ 16-173d8   13
+ 18   4d6   14
+ 19-205d5   15
+ 21   4d7   16
+ 22-235d6   17
+ 24   4d8   18
+ 25-263d12  19
+ 27   5d7   20
+ 28-296d6   21
+ 30   5d8   22
+ 31   2d22  23
+ 32   6d7   24
+ 33   5d9   25
+ 34   4d12  26
+ 35   6d8   27
+ 36   7d7   28
+ 37   2d28  29
+ 38   6d9   30
+ 39   7d8   31
+ 40   5d12  32
+ 41-426d10  33
+ 43   4d16  34
+ 44-457d9   35
+ 46   8d8   36
+ 47   5d14  37
+ 48   7d10  38
+ 49   6d12  39
+ 50   8d9   40
+ 51   2d40  41
+ 52   5d16  42
+ 53   3d28  43
+ 54   8d10  44
+ 55   9d9   45
+ 56   4d22  46
+ 57   5d18  47
+ 58   8d11  48
+ 59   9d10  49
+ 60   5d19  50
+ 61   6d16  51
+ 62   8d12  52
+ 63   2d52  53
+ 64   9d11  54
+ 65   10d10 55
+ 66   8d13  56
+ 67   6d18  57
+ 68   9d12  58
+ 69   7d16  59
+ 70   10d11 60
+ 71   11d10 61
+ 72   4d30  62
+ 73   9d13  63
+ 74   8d15  64
+ 75   10d12 65
+ 76   11d11 66
+ 77   9d14  67
+ 78   8d16  68
+ 79   6d22  69
+ 80   7d19  70
+ 81   13d10 71
+ 82   9d15  72
+ 83   7d20  73
+ 84   4d36  74
+ 85   10d14 75
+ 86   8d18  76
+ 87   11d13 77
+ 88   13d11 78
+ 89   3d52  79
+ 90   8d19  80
+ 91   9d17  81
+ 92   3d54  82
+ 93   11d14 83
+ 94   12d13 84
+ 95   10d16 85
+ 96   4d42  86
+ 97   6d28  87
+ 98   11d15 88
+ 99   3d58  89
+ 100  12d14 90
+ 101  13d13 91
+~
+-1 AUCTION~
+Syntax: auction				toggle auction channel on/off
+        auction list			view a list of auctioned items
+	auction info <ticket>		view info about an auctioned item
+	auction bid <ticket> <amount>	place bid for an auctioned item
+	auction submit <item> [<sum>]	put an item up for auction
+                                        (with an optional minimum bid)
+
+As of now, the use of the auction system is free.
+~
+
+0 'SHADOW WALK' SHADOWWALK SKILL_SHADOW_WALK~
+Syntax: shadow walk
+
+The shadow walk skill is a thief and assassin talent, an improved method
+of blending in with the shadows. When shadow walked, other adventurers
+are unable to detect your presence in any form, unless affected by the
+spell ultravison.
+Certain actions, like attacking an opponent however, give away your
+whereabouts.
+~
+-1 BANKS DEPOSIT WITHDRAW BALANCE~
+Syntax: deposit <amount>
+        withdraw <amount>
+        balance
+
+Those commands can only be used in one of the banks (check out the one in
+Shadun, for example). You can only deposit and withdraw platinum. There
+are no fees for using the bank.
+~
+
+-1 PKP 'PK POINTS' PKPOINTS~
+So called pk points (abbreviated as pkp) are a measure of your
+ability to playerkill (and also to stay alive). Everytime you kill
+another player, you gain a certain amount of pkp, depending on your
+opponents level. Generally speaking, you will gain a fifth of their
+pkp if they are below your level, a fourth if they are at the same
+level and a third if they are of higher level than you.
+~
+-1 AUTOALL~
+Syntax: autoall
+
+Use this command to set all your autos (as in autolist) to default
+values.
+~
+
+0 PHASE SKILL_PHASE~
+This is an automatic skill comparable to dodge, just that it let's you
+phase your body to avoid your opponent's blows. This skill is mainly
+used by liches and necromancers.
+~
+
+0 ULTRAVISION SPELL_ULTRAVISION~
+Syntax: cast 'ultravision'
+
+This spell lets you detect any shadow walkers in your PK range.
+~
+
+0 GROW SPELL_GROW~
+Syntax: cast 'grow' <target>
+
+This spell calls forth the forces of nature to slow and hinder your
+opponent.
+~
+
+0 'PROTECTIVE FORCE' SPELL_PROTECTIVE_FORCE~
+Syntax: cast 'protective force'
+
+This is a protective spells useable by striders and guardians. It
+occasionally helps them to avoid the effects of their opponent's
+shields and weapon flags.
+~
+
+0 RESISTANCE SPELL_RESISTANCE~
+Syntax: cast 'resistance'
+
+Resistance is a powerful protective spell useable by striders and
+guardians. It will help them to resist all sorts of spells and will
+occasionally reduce the spell damage they receive.
+~
+
+0 CLEANSING SPELL_CLEANSING~
+Syntax: cast 'cleansing' <target>
+
+This spell calls upon the forces of nature to cleanse your opponent,
+sometimes resulting in protective spells like sanctuary vanishing.
+(This spell is comparable to dispel magic.)
+~
+
+0 'COUNTERATTACK' SKILL_COUNTERATTACK 'COUNTER ATTACK' SKILL_COUNTER_ATTACK~
+This is an automatic skill which lets you counter your opponent's
+attacks. You can counter up to three attacks per round.
+~
+
+-1 VIEW~
+Syntax: view
+        view <player>
+
+Use this command if you wish to be visible to certain players,
+although you are shadow walking or otherwisely invisible.
+~
+
+0 CHOP SKILL_CHOP~
+Syntax: chop <target>
+
+This skill lets you strike your opponent with a quick chop with
+the side of your hand. This might weaken or paralyze their hands,
+sometimes they even drop or remove their weapons.
+~
+
+0 'MANA SHIELD' SPELL_MANA_SHIELD~
+Syntax: cast 'mana shield'
+
+This is a powerful protective spell useable by sorcerers. If they
+are surrounded by a mana shield, the shield can absorb a small part of
+the physical damage done to them, which is not deducted from their
+hitpoints but from their mana.
+~
+
+-1 STANCES~
+Syntax: stance <stance>
+
+Only shaolin and sensai can use stances. Type stances to see the ones
+available, stance <stance> to select a stance.
+(Stances let you use some weaponflags, even though you cannot use
+weapons; try and see for yourself.)
+~
+
+0 HAILSTORM SPELL_HAILSTORM~
+Syntax: cast 'hailstorm' <target>
+
+Hailstorm is a powerful elemental spell, used to strike your opponent with
+a bone chilling and devastating hailstorm.
+~
+
+0 SCRIBE BREW SKILL_SCRIBE SKILL_BREW~
+Syntax: scribe <name> <spell1> <spell2> <spell3>
+	brew <name> <spell1> <spell2> <spell3>
+
+Scribe and brew work very similar, use those skills to either create scrolls
+or potions containing one or more spells. Please note that you need to have
+the right components for scribing or brewing in your inventory for these
+skills to work.
+(First tier characters can only imbue up to two spells.)
+~
+
+0 TORNADO SPELL_TORNADO~
+Syntax: cast 'tornado' <target>
+
+Tornado is a powerful attack spell invoking the forces of nature; it usually
+hits multiple targets.
+~
+
+0 LEECH SPELL_LEECH~
+Syntax: cast 'leech' <target>
+
+Leech is a terrible spell necromancers and liches use to infest their
+opponents' bodies with a living leech. This leech will constantly drain
+their hitpoints, mana and moves, transferring some of that energy to the
+necromancer/lich.
+~
+
+0 STRIKE SKILL_STRIKE~
+Syntax: strike <target>
+
+Strike is a quick and deadly attack skill developed by the most accomplished
+assassins and deathmasters. It can be used every round (unless the deathmaster
+is blind or disarmed) to deal one or two critical hits to the assassin's
+opponent, often resulting in lethal damage or injuries.
+~
+
+0 'CORRUPT POTION' SPELL_CORRUPT_POTION~
+Syntax: cast 'corrupt potion' <object>
+
+This spell converts any potion into a poisonous and deadly brew. Use this in
+connection with the {WSLIP{D skill.
+~
+
+0 SLIP SKILL_SLIP~
+Syntax: slip <what> <where>
+
+Use this skill to slip objects into another person's inventory. The higher
+your skill, the better the chance you will succeed in doing this unseen.
+~
+
+-1 BOUNTY~
+Syntax: bounty <char> <platinum>
+
+Use this command to put a bounty on someone's head. If the bountied person is
+killed, the money is automatically transferred to his/her killer.
+The contracted person will receive a message that a bounty has been put on
+his/her head, but (s)he will not see who did it.
+~
+
+-1 DRAG PUSH~
+Syntax: drag <target> <direction>
+        push <target> <direction>
+
+Use these commands to drag or push mobs around. You can also drag or
+push players around as long as they are asleep.
+~
+102 IQUEST~
+Syntax: iquest on		start an iquest
+	iquest off		stop the running iquest
+	iquest close		close the current iquest (meaning no more
+				players can join)
+	iquest force [command]	force all questors to execute the given
+				command
+	iquest transfer [where] transfer all questors to the given 
+				location (default is your location)
+	iquest restore		restore all questors
+	iquest ban <questor>	kick the given questor out of the quest
+	iquest peace		stop all fighting (among questors, etc.)
+~
+
+-1 IQUEST~
+Syntax: iquest
+
+Use this command to join a global quest. Once you've joined you can only
+quit the quest by leaving the game. Please note that this is usually
+frowned upon by most quest immortals.
+(Also read {WHELP QUESTS{D, please.)
+~
+
+-1 GAMESTATES PARADOX 'TOTAL CHAOS' 'SOLO MODE' '1VS2 MODE' MODES~
+Paradox MUD has four different modes, so-called "gamestates". Each of
+these modes differs when it comes to ganging, looting, safe rooms,
+arena states, etc. Usually, the gamestate changes every 8-16 ticks;
+Paradox only lasts 3-5 ticks though.
+{C*{RT{rota{Rl C{rhao{Rs{D:
+   During this gamestate you can fight as many people as possible
+   simultaneously. Safe rooms are safe, regular {WLOOTING{D restrictions
+   apply, the PvP arena is open.
+{C*{YS{yol{Yo M{yod{Ye{D:
+   You can only fight one on one during this gamestate. Please note
+   that this only applies to PvP (Player versus player) fights;
+   you can still be attacked while fighting mobiles.
+   Safe rooms are safe, regular {WLOOTING{D restrictions apply, the
+   PvP arena is open.
+{C*{R1{rvs{R2 {RM{rod{Re{D:
+   You can only fight one or two other players during this gamestate.
+   Safe rooms are safe, regular {WLOOTING{D restrictions apply, the
+   PvP arena is open.
+{C*{GP{ga{Wr{Da{Wd{go{Gx{D:
+   This is comparable to {RT{rota{Rl C{rhao{Rs{D, but there are {RNO{D safe
+   rooms. {WLOOTING{D is not possible and the PvP arena is locked during
+   Paradox.
+You will lose {WPK POINTS{D during all gamestates if you get pkilled.
+If you are grouped during {YS{yol{Yo {YM{yod{Ye{D or {R1{rvs{R2 M{rod{Re{D,
+only as many group members as allowed will assist you.
+You will be warned that a gamestate change is due one tick before it
+actually occurs; the arena will be reset and locked during this tick.
+As soon as the gamestate changes, all players will be restored and all
+fights (PvP fights) will be stopped.
+{RA{rttentio{Rn{D: Clanned players cannot recall to their clanhall when a 
+           gamestate change is due or the world is in {GP{ga{Wr{Da{Wd{go{Gx{D!
+
+This helpfile was created by Fade, July 10th, 2001.
+~
+
+107 AREA_CREATION 'CREATING AREAS'~
+{c1{C){D  You have to be at least level 107 (Lead Builder).
+{c2{C){D  Usually you will talk to one of the immortals above you before you
+    create a new area. This doesn't mean you can't create areas without
+    a higher immortal being online but you should have discussed
+    some basic concepts of the new area (theme, level range, etc.).
+    Don't worry too much though, after all *you* are the lead builder.
+{c3{C){D  Check '{Walist{D' and figure out the next free area number.
+{c4{C){D  Type '{Warea edit create <number>{D'.
+{c5{C){D  Set a name for the new area with '{Wname <name>{D'.
+{c5{C){D  Set a filename for the new area with '{Wfile <name>{D'. Note that you 
+    {RM{rUST NO{RT{D include the extension '{W.are{D'.
+{c6{C){D  Set a vnum range for the new area. This is a bit tricky since you
+    have to find out about a free range of vnums via 'alist' first.
+    If you're not sure whether the vnums you want the area to have are
+    free or not, just enter '{Wvnum <lower> <upper>{D' and the system will
+    tell you; if everything is alright, the vnums will be set.
+{c7{C){D  Ignore Age and Players.
+{c8{C){D  Set the security of the area.
+    Security  Meaning
+     1		Every immortal can edit the area (change its name, etc.)
+                 and build in it.
+     2		Every immortal level 103+ can edit the area and build in
+ 		it.
+     3		104+ (Builder)
+     4		105+ (Quality Control)
+     5		106+ (Head Quest Imm)
+     6		107+ (Lead Builder)
+     ...
+    It is preferred that you set the security to your own security for a
+    start and assign builders manually instead of allowing whole groups 
+    of immortals working on the area. 
+    Syntax: '{Wsecurity <number>{D'
+{c9{C){D  Assign one or more builders.
+    Syntax: '{Wbuilder <name>{D'
+    It is necessary that you assign the builder called 'Unlinked' if you
+    don't want players to gate/summon/teleport into/from your unfinished
+    area.
+{c10{C){D Set the credits.
+    Syntax: '{W{{lower upper} Creator Name{D'
+    Whatever you enter here will show up like that when the '{Wareas{D' command
+    is typed (only if there's no builder called 'Unlinked' though).
+{c11{C){D Type '{Wdone{D', and '{Wasave changed{D'.
+
+This help entry was created by Fade, June 29th, 2001. 
+~
+
+-1 LOOTING~
+{C*{DThere is no looting allowed during {GP{ga{Wr{Da{Wd{go{Gx{D.
+{C*{DIf you're killed outside of Paradox, the player who landed
+ the killing blow may loot (7-Number of Killers) items,
+ quest items and containers counting as two.
+ Thus, if you're killed by a gang of five, only two items
+ can be looted.
+Generall speaking, it is considered good style to loot as rarely
+as possible, especially in spars. Ulimatively, the decision is up
+to you, but keep in mind that this game is about having fun and not 
+about constantly pissing off other players.
+~
+
+-1 ARENA CHALLENGE ACCEPT DECLINE~
+How to use the PvP arena:
+{C*{D{RC{rhallenge{D <player>:
+  This challenges another player to a match in the arena.
+{C*{D{RA{rccept{D:
+  This accepts a challenge you've received by another player.
+{C*{D{RD{recline{D:
+  This declines a challenge you've received by another player.
+{C*{D{RD{rismiss{D:
+  This withdraws a challenge you've sent.
+After the challenge is accepted, both players are transferred
+to the arena. After the fight ends (or one player drops link
+and the arena is reset, which is punishable when done repeatedly
+and/or on purpose), both players are transferred to different
+rooms and the arena is open again.
+{C-{DYou can't challenge while cornered.
+{C-{DImmortals can't enter the arena.
+{C-{DThe arena is locked during {GP{ga{Wr{Da{Wd{go{Gx{D and 
+ gamestate changes.
+{C-{DYou need to be visible to challenge.
+{C-{DBoth you and the challenged person need to be in a safe 
+ room to challenge. 
+{C-{DPlayers below level 21 or more than 50 levels below you 
+ cannot be challenged.
+{C-{DYou can't quit while being challenged or having sent a 
+ challenge.
+
+This helpfile was created by Fade, July 10th, 2001.
+~
+
+-1 CLASS_GLADIATOR CLASS_KNIGHT KNIGHTS GLADIATORS~
+{CG{cladiator{D/{CK{cnight{D
+Gladiators and knights are the masters of melee combat. No other class
+receives that many attacks. While their combat skills are definitely
+awesome, they know almost nothing about magic and have only few spells.
+Gladiators/knights also have the biggest hit point gains per level.
+{CM{cain {Cs{ckills{D   : Bash, Stun, Enhanced Damage, Shield Smash, Charge,
+                          Berserk, All weapon skills
+{CM{cain {Ca{cttribute{D: Strength
+~
+-1 CLASS_WIZARD CLASS_SORCERER WIZARDS SORCERERS~
+{CW{cizard{D/{CS{corcerer{D
+Wizards and sorcerers are the most powerful spellcasters of the known
+world. They are the only two classes which have access to the draconian
+spells such as lightning breath, etc. While their melee combat skills
+are very weak, their mental and magical powers are definitely outstanding.
+Wizards and sorceres also heavily rely on their shields of which they
+possess several different variations.
+{CM{cain {Cs{ckills{D   : Offensive and protective spells, Draconian breaths,
+                Shields, Mana Shield
+{CM{cain {Ca{cttribute{D: Intelligence
+~
+
+-1 CLASS_PRIEST CLASS_BISHOP PRIESTS BISHOPS~
+{CP{criest{D/{CB{cishop{D
+Priests and bishops are powerful spellcasters with above average combat
+skills. They have the ability to sever their opponents from their god's
+sanctuary and have access to many protective and healing spells.
+{CM{cain {Cs{ckills{D   : Dual Wield, Shield Levitation, Sever, Elemental
+                Spells, Bless, Healing Spells
+{CM{cain {Ca{cttribute{D: Wisdom
+~
+
+-1 CLASS_MERCENARY CLASS_BLADE MERCENARY MERCENARIES BLADES~
+{CM{cercenary{D/{CB{clade{D
+Mercenaries and blades are outstanding fighters, able to deal many critical
+hits with backstabs and circles. They are also known to possess the ability
+to steal and knock their opponents unconscious.
+Mercenaries and blades are also capable of walking the shadows and remaining
+totally unseen, even to the keenest of observers.
+{CM{cain {Cs{ckills{D   : Backstab, Circle, Critical Hit, Offhand, Steal,
+                Blackjack, Gouge, Shadow walk, Ultravision
+{CM{cain {Ca{cttribute{D: Dexterity
+~
+
+-1 CLASS_STRIDER CLASS_GUARDIAN STRIDERS GUARDIANS~
+{CS{ctrider{D/{CG{cuardian{D
+Striders and guardians possess both good combat skills and a great ability
+at spell casting. Their harmonious relationship to nature also leads to an
+exceptional protection from magic and its harmful effects. Due to their good
+selection of spells and skills, they can compete with every class easily
+once a certain level of skill is reached.
+{CM{cain {Cs{ckills{D   : Protective Force, Resistance, Cleansing, Grow,
+                Hailstorm, Chain Lightning, Cascade, Counterattack,
+                Enhanced damage
+{CM{cain {Ca{cttribute{D: Strength
+~
+
+-1 CLASS_SHAMAN CLASS_ELDER ELDERS SHAMANS~
+{CS{chaman{D/{CE{clder{D
+Shamans and elders are not quite unlike bishops and priests, although their
+offensive powers are far more powerful. They possess the ability to create
+scrolls and potions containing multiple spells and generally have a good
+knowledge how to conjure the forces of nature in order to strike their
+opponents with elemental spells.
+{CM{cain {Cs{ckills{D   : Dual Wield, Shield Levitation, Scribe, Brew,
+                Elemental Spells (Hailstorm, Tornado), Bless
+{CM{cain {Ca{cttribute{D: Wisdom
+~
+
+-1 CLASS_LICH CLASS_NECROMANCER LICHES NECROMANCERS~
+{CL{cich{D/{CN{cecromancer{D
+Liches and necromancers are feared for their wide array of maladictions and
+harmful spells. One of their most important skills is the ability to feed
+on their opponents and strike them down with swarms of diseases and
+pestilences. Liches and necromancers also have better combat skills than
+most other spellcasters.
+{CM{cain {Cs{ckills{D   : Feed, Bloodbath, Death touch, Swarm, Leech,
+                Dual wield, Shield levitation, Backstab,
+                Forms (Essence of mist/bat/wolf)
+{CM{cain {Ca{cttribute{D: Constitution
+~
+
+-1 CLASS_SHAOLIN CLASS_SENSAI SHAOLINS SENSAIS~
+{CS{chaolin{D/{CS{censai{D
+Shaolin and sensai are quite similar to knights, although they fight
+without weapons (and couldn't use them, even if they wished so). They
+are able to punch through their opponent's sanctuary and probably deal
+the highest average damage per round of all classes. They also have a
+small but useful selection of protective spells.
+{CM{cain {Cs{ckills{D   : Tiger Style, Dragon Style, Chaos Style,
+                Elemental Style, Stances, Chop, Shield Smash
+{CM{cain {Ca{cttribute{D: Constitution
+~
+
+-1 CLASS_ASSASSIN CLASS_DEATHMASTER ASSASSINS DEATHMASTERS~
+{CA{cssassin{D/{CD{ceathmaster{D
+Assassins and deathmasters possess a dangerous combination of effective
+combat skills and magical abilities. They are able to find their opponents'
+weaknesses and exploit them ruthlessly. Assassins and deathmasters also
+have extensive knowledge of poisons and their use. Like blades they can
+walk the shadows and remain unseen.
+{CM{cain {Cs{ckills{D   : Assassinate, Critical hit, Strike, Corrupt potion,
+                Slip, Shield Levitation, Shadow walk, Ultravision,
+                Blade poison
+{CM{cain {Ca{cttribute{D: Dexterity
+~
+-1 RACES~
+These are the races of {GP{ga{Wr{Da{Wd{go{Gx{D MUD currently playable by mortals:
+ {CC{cylith{D, {CE{cfrit{D, {CD{crezil{D, {CR{cahmat{D, {CS{civah{D, {CR{cevada{D, {CV{cixta{D, {CP{choenix{D,
+ {CS{chador{D, {CB{cakali{D, {CM{caho{D, {CF{celinian {Dand {CS{careef{D
+
+To obtain more information on a single race, type {WHELP RACE_RACENAME{D,
+e.g. {WHELP RACE_EFRIT{D.
+
+If you have an idea for a new race, create a helpfile for it using one
+of the existing helpfiles as template and send it to Fade. Descriptions
+should be about eight lines long. If your race is balanced and fits into
+the game, it will be most likely added to the already existing races.
+
+Last updated by Fade, 07/20/2001
+~
+
+-1 QUESTS AQUESTS~
+There are two different types of quests in {GP{ga{Wr{Da{Wd{go{Gx{D MUD:
+
+{c* {RI{rquests{D (quests run by immortals):
+  If an immortal announces a quest (or you see that the global quest flag
+  is on in the who list), you can join the quest by typing {WIQUEST{D.
+  (Read '{Whelp iquest{D'.) Please check if you have turned on the qgossip
+  channel, since the immortal running the quest will give out necessary
+  information on this channel.
+
+{c* {RA{rquests{D (quests given out by the questmaster):
+  To go on an aquest, visit the questmaster in Shadun (he dwells in the
+  basement of the potion shop). Type {WQUEST REQUEST{D.
+  Other commands:
+   {WQUEST POINTS{D  : Shows how many aquest points you currently have. You can
+                   also see this information by typeing {WSCORE{D.
+   {WQUEST INFO{D    : Shows if you are currently on a quest.
+   {WQUEST TIME{D    : Shows how much time is left if you are on a quest or how 
+                   much time still has to pass until you can go on your next
+                   quest.
+   {WQUEST REQUEST{D : Requests a new quest if you aren't currently on a quest.
+   {WQUEST COMPLETE{D: Type this if you have completed your current quest and
+                   are ready to receive your reward.
+   {WQUEST LIST{D    : Shows a list of available quest items.
+   {WQUEST BUY{D     : Buys a quest item.
+   {WQUEST IDENTIFY{D: Shows the values of a quest item.
+   {WQUEST QUIT{D    : Quits your current quest.
+   {WQUEST CONVERT{D : Converts one iquest point into 20 aquest points.
+   {WQUEST REVERT{D  : Converts 20 aquest points into one iquest point.
+   {WQUEST SELL{D    : Sells a quest object. You receive half the price in
+                   aquest points.
+
+Please note that is not allowed (and possible) to go on or complete an
+aquest while your iquest flag is turned on.
+
+Last updated by Fade, 07/20/2001
+~
+
+-1 NEWBIES STARTERS BEGINNERS 'GETTING STARTED' STARTING 'NEWBIE INFO'~
+Welcome to {GP{ga{Wr{Da{Wd{go{Gx{D MUD!
+
+This file lists some important facts you need to know when starting on
+Paradox MUD and also gives an overview over which helpfiles and commands
+are necessary to achieve a better understanding of the game.
+
+{c*{D Paradox MUD has no mud school.
+{c*{D Basic informational commands: {WSCORE{D, {WPRACTICE{D, {WSKILLS{D, {WSPELLS{D, {WWHOIS{D
+{c*{D You can reach most of the areas in the game via portals to be found in
+  Shadun Castle (two south, one up from the place where you enter the game).
+{c*{D Type {WHELP{D to get an overview over the help system, it is quite well
+  organized and should be easy to use.
+{c*{D Type {WRULES{D to read the rules.
+{c*{D Paradox MUD is a PK (playerkilling) centered MUD. Expect to be killed on
+  a regular basis and don't take it too serious. Starting out might be hard
+  but it's worth the effort.
+{c*{D Read the helpfiles {WGAMESTATES{D, {WGATE{D, {WPKP{D, {WLOOTING{D to learn more about how
+  PK is handled on Paradox MUD.
+{c*{D Read the helpfile {WQUESTS{D to learn more about the two different quest systems
+  and how to use them.
+{c*{D Read the helfile {WARENA{D to learn more about the players versus player arena.
+{c*{D Read the helpfile {WAUCTION{D to learn more about the auction system.
+{c*{D It's very important to get to know the strengths and weaknesses of every
+  class and race in the game. Read the helpfiles {WRACES{D and {WCLASSES{D; if you
+  want more specific information, type '{WHELP RACE_RACENAME{D' (e.g. {WHELP
+  RACE_SIVAH{D) or '{WHELP CLASS_CLASSNAME{D' (e.g. {WHELP  CLASS_BLADE{D).
+  Also use the {WSHOWSKILL{D and {WSHOWCLASS{D commands to see which spells/skills
+  a certain class gets and to which classes certain spells/skills are
+  available at which level.
+{c*{D Read the helpfile {WRECALL{D to find out how you can return to the hometown if
+  you get lost.
+{c*{D Read the helpfile {WCORPSE{D to find out how to recover your corpse when
+  you die.
+{c*{D Important locations:
+   {CP{cotion {CS{chop{D            : one east from recall
+   {CQ{cuestmaster{D            : one east, one down from recall
+   {CH{cealer{D                 : one north from recall
+   {CT{crainer{D                : two west from recall
+   {CB{cank{D                   : south, east, north from recall
+   {CM{corgue{D, {Cc{corpse {Cr{cecovery{D: south, east, south from recall
+   {CD{conation {Cp{cit{D           : south, three east from recall
+{c*{D If you have questions left, use the {WASK{D channel or send a tell to one of the
+  visible immortals.
+
+Last updated by Fade, 07/21/2001
+~
+
+-1 CORPSES 'CORPSE RECOVERY' CRECOVER~
+Rumour has it that Shadun now has a morgue where the unfortunate people who
+are unable to find their corpse(s) themselves can recover their remains for
+a small fee. (The morgue is located south, east, south from recall.) Use
+the '{Wcrecover{D' command. This service is free to mortals below level 21
+and costs about half your level in platinum for everyone else. If you have
+been pkilled and your corpse has not been fully looted yet, you will have to
+wait two ticks until your corpse can be recovered.
+~
+
+-1 CHANNELS~
+These are the channels available in {GP{ga{Wr{Da{Wd{go{Gx{D MUD:
+{c*{D {RF{rlame{D: Use this channel to vent your emotions. Type RULES to see what is
+  NOT appropriate.
+{c*{D {RO{rOC{D: This is the standard channel. Use this to talk about everything you
+  like, except there is a more suitable channel for it.
+{c*{D {RC{rlan {Rg{rossip{D: Available to all clanned players.
+{c*{D {RQ{ruest {Rg{rossip{D: This channel is used by immortals to give out information
+  on quests in progress.
+{c*{D {RM{rusic{D: Well, if you feel the need to sing or get rid of some poetry, this
+  is your channel.
+{c*{D {RA{rsk{D/{RA{rnswer{D: Use this channel to ask and answer questions concerning the
+  game.
+{c*{D {RQ{ruote{D: This is the channel used for quoting things. No fake quotes please.
+{c*{D {RG{rrats{D: Feel the need to congratulate someone? Here you go.
+Please note that changing channel colors, the excessive use of CAPS and
+spamming is frowned upon by everyone. So don't do it.
+
+Last updated by Fade, 07/21/2001
+~
+
+-1 SHOWSKILL SHOWCLASS~
+Syntax: showskill <skill-/spellname>
+        showclass <classname>
+
+Showskill shows which classes get the specified spell/skill at which level.
+Showclass gives an overview over which spells/skills a specified class
+receives at which level.
+~
+
+0 'ADVANCED DISARM' SKILL_ADVANCED_DISARM~
+This skill increases the overall efficiency of disarm and allows mercenaries
+and blades to occasionally disarm gladiators and knights (despite their grip
+skill). Advanced disarm is an automatic skill.
+~
+
+-1 KILL~
+Syntax: kill <target>
+
+This initiates combat with the given target.
+{RN{rOT{RE{D: You can also use kill to switch between attackers or to draw
+      other people into a fight, even if you are already fighting.
+~
+
+0 'DUAL WIELD' SKILL_DUAL_WIELD SECOND~
+Syntax: second <weapon>
+
+Dual wield is the skill necessary for wielding weapons in your offhand
+(i.e. wielding two weapons at the same time).
+~
+
+0 CIRCLE SKILL_CIRCLE~
+Syntax: circle
+
+Circle is the most important offensive skill of mercenaries and blades. It
+is comparable to a backstab, just that you can use it during combat. In
+combination with the offhand skill, you can get up to five hits on a 
+successful circle.
+~
+
+0 '2ND DUAL' SKILL_2ND_DUAL SKILL_3RD_DUAL SKILL_4TH_DUAL '3RD DUAL' '4TH DUAL'~
+These are automatic skills, much like second/third/fourth/etc. attack, they
+just apply to your offhand (i.e. the hand you wield your secondary weapon
+in).
+~
+0 STUN SKILL_STUN~
+This is an automatic skill used whenever gladiators/knights use the bash or
+shield smash kill. There is a slight chance of stunning your opponent
+everytime you use one of these moves. While your opponent is stunned, (s)he
+can not enter any commands (e.g. flee).
+~
+
+0 SEARCH SKILL_SEARCH~
+Syntax: search
+
+Use this skill to search for hidden items in a room. (You can use hide to 
+hide items, this is especially useful for getting rid of cursed items you
+couldn't drop otherwise).
+Shamans/elders should use {WFORAGE{D to search for (hidden) spell components.
+~
+
+-1 STATS INTELLIGENCE STRENGTH DEXTERITY WISDOM CONSTITUTION~
+Every character in {GP{ga{Wr{Da{Wd{go{Gx{D MUD has five basic stats. Depending on your
+race/class combination, you can train them up to a maximum value of 26.
+This can further be enhanced by using certain equipment. Stats eventually
+max out at 30.
+
+{c*{RS{rtrength{D: The more strength you have, the more items you can carry.
+           Strength is also important for various skills like bash.
+{c*{RI{rntelligence{D: The higher your intelligence, the easier is learning and
+               practicing new skills. It also has an impact on how much
+               mana you gain per level.
+{c*{RW{risdom{D: The wiser you are, the more practices you will receive each level.
+{c*{RD{rexterity{D: Dexterity is important for various skills like trip, dirt
+            kicking, circle and generally speaking, higher dexterity makes
+            hitting and avoiding being hit much easier.
+{c*{RC{ronstitution{D: The higher your constitution, the more hitpoints you will
+               gain every level.
+
+{RH{rIN{RT{D: It is recommended to max out intelligence, wisdom and constitution
+      before practicing your skills and/or levelling.
+~
+
+-1 IQP AQP QPOINTS QUESTPOINTS IQUESTPOINTS AQUESTPOINTS 'IQUEST POINTS' 'AQUEST POINTS' 'QUEST POINTS'~
+There are two different kinds of quest points in {GP{ga{Wr{Da{Wd{go{Gx{D MUD.
+{c*{RI{rquest {Rp{roints{D: These are questpoints gained in immortal run quests.
+                One iquest point is worth 20 aquest points.
+                You can convert them at the questmaster ({WQUEST CONVERT{D).
+{c*{RA{rquest {Rp{roints{D: These are questpoints gained by autoquests (quests given out
+                by the questmaster in Shadun).
+                20 aquest points can be reverted into one iquest point
+               ({WQUEST REVERT{D).
+Quest points are used to pay for quest equipment, clan tokens and restring
+tokens.
+~
+
+-1 PORTALS MAPS DIRECTIONS~
+You can find portals to most areas in the Castle of Shadun.
+It is located two south, one up from recall.
+To use a portal, type '{Wenter <portal>{D'.
+Map of the Castle of Shadun:
+
+{cElven Academy                                            New Ofcol
+High Tower of Sorcery     {D<-- {cEntrance{D --->{c                  Shire
+Plains                            {D|{c                 Garden of Eden
+                                  {D|{c
+Astral Plane                      {D|{c                      Avalanche
+Insane Asylum             {D<--- {cHallway{D --->{c             Waterfalls
+Gnome Village                     {D|{c           Valley of the Titans
+                                  {D|{c
+Ancient Ruins                     {D|{c               Tomb of Shar'kan
+Forest of M'nram          {D<--- {cHallway{D --->{c                Tempest
+Forbidden City                    {D|{c                    Pirate Ship
+                                  {D|{c
+Catacombs                         {D|{c                       Atlantis
+Olympus                   {D<--- {cHallway{D --->{c        Mostly Harmless
+Desert                                                     Marshes{D
+
+Last updated by Fade, 09/10/2001
+~
+
+-1 QEQ 'QUEST EQUIPMENT' 'QUESTEQUIPMENT'~
+The questmaster is selling a sortiment of quest equipment. To see what he
+is offering, type {WQUEST LIST{D at the questmaster.
+{RN{rOT{RE{D: Quest equipment is lootable on {GP{ga{Wr{Da{Wd{go{Gx{D MUD.
+~
+
+0 FEED SKILL_FEED~
+Syntax: feed <target>
+
+Liches and necromancers use this skill to bite their opponents. Some of the
+damage you do is transferred to you in the form of hitpoints. To further
+enhance this skill, check out the spell '{Wbloodbath{D' ({WHELP SPELL_BLOODBATH{D).
+~
+
+0 WHIRLWIND SKILL_WHIRLWIND~
+Syntax: whirlwind
+
+Gladiators/knights often develop techniques to hit many opponents at once.
+One of those is the skill called whirlwind. It will let you spin around
+and strike at everyone in the room. Be wary though, you might draw people
+into the fight you didn't intend to battle with.
+(This skill can also be used to attack players you can not see, since it
+is an area attack.)
+~
+
+0 FORAGE SKILL_FORAGE~
+Syntax: forage
+
+This skill works like search, just that it looks for (hidden) spell 
+components useable by shamans/elders.
+~
+
+0 GOUGE SKILL_GOUGE~
+Syntax: gouge <target>
+
+Use this skill to blind your opponent by gouging one of his/her eyes.
+It will take the victim of this skill some time to regain their
+vision.
+~
+0 GRIP SKILL_GRIP~
+This is an automatic skill available to gladiators/knights which makes
+disarming them much harder.
+~
+
+0 BLADEBARRIER SHADOWSHIELD ACIDSHIELD EARTHSHIELD PRISMATICSHIELD SPELL_BLADEBARRIER SPELL_SHADOWSHIELD SPELL_ACIDSHIELD SPELL_EARTHSHIELD SPELL_PRISMATICSHIELD~
+Syntax: cast 'shadowshield' <target>
+	cast 'earthshield' <target>
+   	cast 'prismaticshield' <target>
+	cast 'acidshield'
+	cast 'bladebarrier'
+
+These are spells similar to iceshield/shockshield/fireshield.
+Acidshield and bladebarrier can only be cast on yourself.
+Only wizards and sorcerers can stand the strain of being affected by
+all eight shields. All other classes can only be affected by up to
+three shields.
+~
+
+-1 MAIL~
+You are probably searching for the note system. Check out '{Whelp note{D'.
+~
+
+0 REGENERATION SPELL_REGENERATION~
+Syntax: cast 'regeneration' <target>
+
+This spell makes its target regenerate twice as many hitpoints per tick
+as usual by increasing the target's blood circulation.
+~
+
+-1 RECENT~
+Syntax: recent
+
+Shows a list of the last ten playerkills made (it is a global list, not
+a list of the last ten playerkills YOU made).
+~
+
+0 'BLADE POISON' SPELL_BLADE_POISON~
+Syntax: cast 'blade poison' <weapon>
+
+Assassins and deathmasters have exceptional knowledge of poisons and
+their various uses. Blade poison is used to coat weapons with deadly
+venom. It has different effects, causing blindness, convulsions and
+even unconsciousness.
+(Only the weapons you have treated with blade poison yourself will
+have those effects; your opponents can only be affected by one kind
+of blade poison, so carrying many poisoned weapons won't help you
+much.)
+~
+-1 HERO~
+As soon as you reach level 101 (either on first or second tier) you
+are a so called hero. This has no special advantages, beside the fact
+that most of the good equipment has been created for this level.
+~
+
+-1 FORGE FORGEING FORGING 'CUSTOMIZED WEAPONS'~
+You can forge your own, customized weapons at the smithy in Shadun.
+Every forged weapon costs 400 aquest points. You can pick the
+weapon class, the damage type and three different weapon flags.
+The resulting weapon will be a quest weapon, therefore the looting
+restrictions for quest equipment (and all other rules applicable)
+apply. The weapon will deal the same damage as regular quest
+weapons and will have +150hp, +25 damroll, +25 hitroll, -1 saves.
+These stats can NOT be changed.
+
+Syntax: {Wforge{D <weaponclass> <damagetype> <flag1> <flag2> <flag3>
+        {Wforge wclass{D - list available weapon classes
+	{Wforge dtype{D  - list available damage types
+	{Wforge flags{D  - list available weapon flags
+
+{RE{rxample{D:
+If you want to create a dagger with sting as damage type/noun and 
+shocking, sharp and light flag, type:
+	{Wforge dagger sting shocking sharp light{D
+
+{RA{rttention{D:
+The weapon you receive will be a hero level weapon (101). Similar
+to regular quest equipment, there is no possibility for creating
+forged weapons of other levels.
+
+Last updated by Fade, 07/30/2001
+~
+
+-1 FORGET REMEMBER~
+Syntax: forget	 <character>
+	remember <character>
+
+Forgetting a player will block out all global messages from that player.
+Local messages (say, emote, etc..) will still be visible.
+
+Remember will remove a player from your forget list.
+
+Use either command without an argument for a list of players currently
+forgotten.
+~
+0 RENEWAL SPELL_RENEWAL~
+Syntax: cast 'renewal' <target>
+
+Most experienced spellcasters possess the knowledge of sustaining 
+spells over a longer period of time, some even know how to increase
+their duration. Renewal is the pinnacle of every sorcerer devoted
+to the study of enhancing spells and their effects. It will refresh
+all spells currently affecting the target, the higher the level of
+the caster, the longer the spells will last.
+{RN{rote{D:
+Permanent affects and spells only lasting rounds can not be renewed.
+~
+
+-1 MULTIPLAYING~
+No multiple logins, multiple playing, or helping your own characters with
+other characters you own -- by any arrangement.
+Breaking this rule will result in all involved characters being wiped.
+Repeat offenders are going to be banned.
+~
+
+0 TRACK SKILL_TRACK~
+Syntax: track <target>
+
+Use this skill to search for recent tracks of the specified target
+at your current location. 
+~
+
+-1 RANKS RANKINGS 'TOP TEN' 'TOP 10' TOP10 TOPTEN~
+Syntax: rank
+
+This command shows the ten best playerkillers sorted by pk points.
+(Please note that only people with more than 100 pk points are
+included in the ranking.)
+~
+
+0 'DIVINE BLESSING' SPELL_DIVINE_BLESSING~
+Syntax: cast 'divine blessing'
+
+This spell is offered to only the most adept and kind curative
+casters. It bestows upon them affects to protect them from harmful
+magic as well as increased strength.
+However, since it is a gift from the gods, any spellcaster who 
+falls into evil ways shall be denied access to this spell until
+he/she has been redeemed.
+({cOOC{D: Divine Blessing will give saves as well as hitroll and
+damroll based on player's level.)
+{RA{rttention{D:
+You must be {RG{rOO{RD{D aligned in order to use this spell.
+~
+
+0 'INFERNAL OFFERING' SPELL_INFERNAL_OFFERING~
+Syntax: cast 'infernal offering'
+
+This spell is for curative casters who have strayed from their
+proper deity, and have aligned themselves towards evil. The
+powers of darkness grant great strength as well as arcane
+protection, but an offering of life must be made in order to
+receive such an enhancement. If the recipiant of this spell
+happens to revert back to their proper ways, this dark gift
+shall dissipate and be no more.
+({cOOC{D: Infernal Offering will give saves as well as hitroll and
+damroll based on player's level. It will also significantly
+damage the caster if the spell is successful. Hitpoints will
+be set to 1 if the damage exceeds player's current hitpoit
+amount.)
+{RA{rttention{D:
+You must be {RE{rVI{RL{D aligned in order to use this spell.
+~
+
+0 OUTRAGE SPELL_OUTRAGE~
+Syntax: cast 'outrage'
+
+The spell called outrage reflects the ability of blades and mercenaries
+to enter a state of mind not totally unlike others achieved by frenzy
+or berserk. While the caster seems to be affected by irrational rage,
+his mental powers are focussed, resulting in a higher resistance to
+magical effects and a slighty increased strength.
+~
+
+0 CASCADE SPELL_CASCADE~
+Syntax: cast 'cascade' <target>
+
+Cascade is a powerful elemental spell calling upon the forces of nature
+to conjure waves and waterwalls to strike your opponent. It is said
+that this spell might also prevent its victim from using enhancive
+spells like haste for a short period of time.
+~
+
+0 NOURISH SPELL_NOURISH~
+Syntax: cast 'nourish' <target>
+
+The spell called nourish enables shamans/elders and striders/guardians
+to magically alleviate the target's desire for sustenance.
+~
+
+0 'ESSENCE OF MIST' SPELL_ESSENCE_OF_MIST~
+Syntax: cast 'essence of mist'
+
+When casted, the caster receives a significant boost in dexterity,
+surpassing even his race for a temporary amount of time. Unfortunately
+his/her new form is very weak, resulting in a strength malus.
+(S)he also becomes resistant to weapons and can dodge more easily.
+The mist is vulnerable to all forms of magic and is a tiny being.
+As soon as the spell is dispelled, all effects vanish and the caster
+turns into his/her true form.
+(Also see {WREVERT{D and {WFORMS{D)
+~
+
+0 'ESSENCE OF BAT' SPELL_ESSENCE_OF_BAT~
+Syntax: cast 'essence of bat'
+
+This spell lets the caster assume the form of a bat. His/her intelligence
+and wisdom are increased, even surpassing his/her racical limitations for
+the duration of the spell. The bat is also surrounded by sanctuary and is
+resistant to all forms of magic. Nevertheless it is said that bats suffer
+increased damage when facing fire or weapons inflicting holy damage.
+As soon as the spell is dispelled, all effects vanish and the caster
+turns into his/her true form.
+(Also see {WREVERT{D and {WFORMS{D)
+~
+
+0 'ESSENCE OF WOLF' SPELL_ESSENCE_OF_WOLF~
+Syntax: cast 'essence of wolf'
+
+This form is very powerful because it increases the caster's total
+hitpoints by a significant amount for the duration of the spell.
+Furthermore, the wolf has increased strength and constitution, is
+resistant to bashing and piercing damage and can use the {WBASH{D skill.
+Wolves are huge beings and are generally considered vulnerable to
+silver. As soon as the spell is dispelled, all effects vanish and the
+caster turns into his/her true form.
+(Also see {WREVERT{D and {WFORMS{D)
+~
+
+-1 FORMS~
+Liches and Necromancers can use the spells {WESSENCE OF MIST{D, {WESSENCE
+OF BAT{D and {WESSENCE OF WOLF{D to assume the corresponding forms.
+Read the helpfiles for the spells (i.e. {WSPELL_ESSENCE_OF_MIST{D, etc.)
+to learn more about their specials and limitations.
+(Also see {WREVERT{D)
+~
+
+-1 REVERT~
+Syntax: revert
+
+Use this command to switch back into your original form while affected by
+one of the spells changing your form ({WESSENCE OF MIST{D, etc.).
+~
+
+0 VIGOR SPELL_VIGOR~
+Syntax: cast 'vigor' <target>
+
+Vigor magically increases the target's strength and constitution by two,
+even surpassing the race limitations for the duration of the spell.
+~
+
+0 BLAZE SPELL_BLAZE~
+Syntax: cast 'blaze' <target>
+
+Blaze is a powerful attack spell which releases a sudden and intense
+outburst of blazing flames to strike its target.
+~
+
+0 SHRINK SPELL_SHRINK~
+Syntax: cast 'shrink' <target>
+
+Shrink is used by experienced spellcasters to decrease their opponents'
+size, leading to a worse bash rating and other side effects. 
+Unfortunately shrink isn't very longlasting.
+~
+
+-1 SUPPRESSION BATTLE 'SPAM REDUCTION'~
+Syntax: suppress weapon/flags/dodge/object/shields
+
+{GP{ga{Wr{Da{Wd{go{Gx{D MUD offers you the suppress command to customize your screen
+output during battle. You can turn the output of the following events
+on or off by typing '{Wsuppress {D<{Wevent{D>':
+{c*{D{RW{reapon flags{D ({cweapon{D):
+ If turned off, you will no longer receive things like "You freeze someone.",
+ "You shock someone.", etc.
+{c*{D{RF{rlag effects{D ({cflags{D):
+ If turned off, you will no longer receive things like "Your muscles stop
+ responding.", "Someone turns blue and shivers.", etc.
+{c*{D{RD{rodges/etc.{D ({cdodge{D):
+ If turned off, you will no longer receive things like "You parry someone.",
+ "Someone dodges your attack.", etc.
+{c*{D{RO{rbject effects{D ({cobject{D):
+ If turned off, you will no longer see potions burn or shatter due to
+ flaming or frost flags (including some other messages).
+{c*{D{RS{rh{rield compression{D ({cshields{D):
+ If you turn shield compression on, all shield damage (damage inflicted by
+ spells like iceshield, shockshield, etc.) is compressed into one line,
+ instead of showing each shield separately.
+If you want to see the status of your suppression settings, type '{Wsuppress{D'
+without any argument.
+~
+
+-1 DTYPES 'DAMAGE TYPES' DAMAGE_TYPES DAMAGETYPES~
+{cAvailable damage types{D:
+{MN{mame             {MN{moun		     {MT{mype
+{cSlice		slice			{DSlash
+{cStab		stab			{DPierce
+{cSlash		slash			{DSlash
+{cWhip		whip			{DSlash
+{cClaw		claw			{DSlash
+{cBlast		blast			{DBash
+{cPound		pound			{DBash
+{cCrush		crush			{DBash
+{cGrep		grep			{DSlash
+{cBite		bite			{DPierce
+{cPierce		pierce			{DPierce
+{cSuction		suction			{DAcid	
+{cBeating		beating			{DBash
+{cDigestion	digestion		{DAcid
+{cCharge		charge			{DPierce
+{cSlap		slap			{DBash
+{cPunch		punch			{DBash
+{cWrath		wrath			{DEnergy
+{cMagic		magic			{DEnergy
+{cDivine		divine power		{DHoly
+{cCleave		cleave			{DSlash
+{cScratch		scratch			{DPierce
+{cPeck		peck			{DPierce
+{cPeckb		peck			{DBash
+{cChop		chop			{DSlash
+{cSting		sting			{DPierce
+{cSmash		smash			{DBash
+{cShbite		shocking bite		{DLightning
+{cFlbite		flaming bite		{DFire
+{cFrbite		freezing bite		{DCold
+{cAcbite		acidic bite		{DAcid
+{cChomp		chomp			{DPierce
+{cDrain		life drain		{DNegative
+{cThrust		thrust			{DPierce
+{cSlime		slime			{DAcid
+{cShock		shock			{DLightning
+{cThwack		thwack			{DBash
+{cFlame		flame			{DFire
+{cChill		chill			{DCold
+{cDrowning		drowning		{DDrowning
+{cRay		ray			{DLight
+{cMblast		mindblast		{DMental
+{cRend		rend			{DPoison
+{cIron		iron			{DIron
+{cScreech		screech			{DSound
+{cSliver		sliver			{DWood
+{cSilver		silver			{DSilver
+{cShard		shard			{DEarth
+
+Last updated by Fade, 09/10/2001
+~
+
+0 MASTERMIND SPELL_MASTERMIND~
+Syntax: cast 'mastermind' <target>
+
+The spell called mastermind increases the caster's or target's
+intelligence and wisdom by two, even surpassing the racial limitations
+for the duration of the spell.
+~
+
+-1 WEAPONFLAGS 'WEAPON FLAGS'~
+This helpfile explains the effects of the weapon flags available and
+used in the game.
+
+{c*{RF{rlaming{D:
+ The flaming flag might occasionally blind your opponents. This type
+ of blindness is similar to the one inflicted by fire breath and
+ can be removed by using the {WRUB{D skill.
+ The flaming flag also burns potions and other items in your opponent's
+ inventory, unless they are protected by the {WFIREPROOF{D spell.
+{c*{RF{rrost{D:
+ The frost flag lowers your opponent's armor class and might make potions
+ and other items in your opponent's inventory shatter/freeze (items can be
+ protected with the {WFIREPROOF{D spell though).
+{c*{RV{rampiric{D:
+ The vampiric flag draws life (hit points) from your opponent and transfers
+ a small amount to you.
+{c*{RS{rharp{D:
+ The sharp flag increases the damage a weapon does.
+{c*{RV{rorpal{D:
+ Currently, the vorpal flag has exactly the same effect as the sharp flag.
+ They don't add up though.
+{c*{RT{rwohands{D:
+ Weapons with this flag have to be wielded in two hands.
+{c*{RS{rhocking{D:
+ The shocking flag shocks your opponents and might occasionally disrupt
+ their concentration, i.e. inflict skill/spell daze.
+{c*{RP{roison{D:
+ The poison flag poisons your opponents and decreases their strength
+ (can be cured with {WCURE POISON{D).
+{c*{RR{rotting{D:
+ The rotting flag decreases your opponents dexterity by infecting
+ them with plague (can be cured with {WCURE DISEASE{D).
+{c*{RL{right{D:
+ The light flag blinds your opponents. This type of blindness can not
+ be removed by using rub but has to be cured by the spell {WCURE BLINDNESS{D
+ (or potions containing it).
+{c*{RD{rrowning{D:
+ The drowning flag might occasionally slow your opponents.
+{c*{RU{rnholy{D:
+ The unholy flag occasionally affects your opponents with the 'curse' spell,
+ increasing their saves and therefore making them more vulnerable to
+ magic.
+
+Last updated by Fade, 09/12/2001
+~
+
+102 IFLAGS~
+Syntax: iflag [combat/aggressive/reset/norecall/nogate]
+
+Type iflag alone to see the current status.
+
+{c*{WIFLAG COMBAT{D allows players with an iquest flag to attack other players
+with an iquest flag; range, clan status, gamestate, etc. are ignored.
+If a player with an iquest flag dies, he is restored and transported to
+the loser's room. The death is announced to all questors. The player keeps
+all his gear, loses no pk points, bounty, etc.
+Players in a combat quest are not restored on gamestate changes and fights
+are not stopped either.
+
+{c*{WIFLAG AGGRESSIVE{D sets whether aggressive mobiles attack players with an
+iquest flag or not.
+
+{c*{WIFLAG RESET{D resets all flags/options.
+
+{c*{WIFLAG NORECALL{D prevents questors from using the recall command for the
+duration of the quest.
+
+{c*{WIFLAG NOGATE{D prevents questors from using the gate spell for the
+duration of the quest.
+
+{RA{rttention{D:
+You have to set the flags before closing the quest. They can NOT be changed
+during a running/closed quest.
+
+Last updated by Fade, 09/13/2001
+~
+
+0 AMBUSH SKILL_AMBUSH~
+Syntax: ambush
+	ambush <target>
+
+
+Experienced striders and guardians have such an intimate relationship to
+nature that they find it very easy to hide in almost every situation.
+Some also develop the ability to use their hidden state as an advantage
+when initiating combat, often resulting in a fearsome number of unexpected
+blows hitting their unwary opponents.
+
+{cOOC{D:
+Ambush has two different uses (which are linked though). If you type ambush
+the first time (without an argument), you will hide in the current room.
+Only people who are on your {WVIEW{D list (or in the same clan) can see you then.
+As soon as you leave the room or start combat, you are no longer lying in
+ambush.
+If you are lying in ambush (and only then), you can use '{Wambush {D<{Wtarget{D>' to
+strike the specified target with a surprise attack.
+Ambush can not be used while your pk timer is on and is detectable by {WFAERIE
+FOG{D. To turn ambush off without moving, use {WVISIBLE{D.
+~
+
+0 $~
+#$

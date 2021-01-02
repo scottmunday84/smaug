@@ -1,0 +1,955 @@
+#AREADATA
+Name Waterfalls~
+Builders None~
+VNUMs 1050 1099
+Credits {20  60} Sha/Kat Waterfalls~
+Security 9
+End
+
+
+
+#MOBILES
+#1051
+salmon~
+a salmon~
+A salmon is swimming upstream.
+~
+As it moves silently upstream, its tail moving powerfully, you feel that this is a miracle of nature.
+With its sleek streamlined body, it can overcome any obstacle in the water.
+~
+water fowl~
+AG b 0 0 0
+50 35 10d10+1300 10d10+1300 4d7+11 none
+-18 -18 -18 -18
+FH 0 R 0
+stand stand none 1250
+AGHMVW ABCDEFGHIJKP medium unknown
+F aff T
+#1053
+sparrow~
+a sparrow~
+A brown sparrow is chirping happily.
+~
+Flapping its wings furiously, it manages to rise in the air and soar.
+Catching an updraft, it glides in the air freely without a care.
+~
+song bird~
+AG T 0 1000 0
+45 33 10d10+1100 10d10+1100 6d4+10 none
+-16 -16 -16 -16
+FH 0 0 BL
+stand stand none 2250
+AGHMVW ABCDEFGHIJKP medium unknown
+#1061
+grizzly bear~
+grizzly bear~
+A bear looms over you.
+~
+You look up, and all you can see is the shaggy head of the grizzly bear. In a corner are many skulls of brave adventurers who have come to see the 'fabled' grizzly bear for themselves. You might be next...
+~
+bear~
+AB V H 0 0
+50 50 50d10+4500 50d10+4500 5d8+20 none
+-30 -30 -30 -30
+DEO 0 EI 0
+stand stand none 1250
+AGHMV ABCDEFGHIJKUV medium unknown
+#1064
+salmon eggs~
+some salmon eggs~
+Some salmon eggs are floating in the water.
+~
+Some unhatched salmon eggs are floating in the water peacefully.
+They look so peaceful, you decide not to disturb them.
+~
+water fowl~
+AB Tb BC 222 0
+55 45 25d10+3000 25d10+3000 8d4+16 none
+-26 -26 -26 -26
+0 0 R 0
+stand stand none 2750
+AGHMVW ABCDEFGHIJKP medium unknown
+#1080
+grizzly bear~
+A Grizzly bear~
+A grizzly bear is flexing its claws.
+~
+Roaring and growling, it exacts fear in every creature it meets.
+With its sharp gleaming claws, it has the ability to rip any creature, big or small, into any amount of pieces.
+~
+bear~
+AB 0 H -400 0
+60 60 50d10+9500 50d10+9500 8d6+27 none
+-38 -38 -38 -38
+DEO 0 EI 0
+stand stand none 3000
+AGHMV ABCDEFGHIJKUV medium unknown
+#0
+
+
+
+#OBJECTS
+#1061
+bear paw~
+{3P{#aw{3s {2of the {1Gri{!zz{1ly {x~
+Cruel people have chopped off this bear's hands.~
+unknown~
+armor MT AH
+19 20 18 20 0
+50 5 1000 P
+A
+18 6
+A
+19 6
+A
+13 100
+A
+20 -2
+#1062
+shimmering portal shadun~
+a shimmering portal~
+A {Ws{xh{Ri{rm{Wm{xe{Rr{ri{Wn{xg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#1080
+grizzly claw~
+{3G{#ri{3zz{#l{3Y {3c{#la{3w{#s{x~
+Some pointed claws are gleaming.~
+unknown~
+weapon MS AN
+exotic 8 9 slash DGH
+50 3 2000 P
+A
+18 12
+A
+19 12
+A
+1 2
+A
+13 150
+S 'haste'
+#0
+
+
+
+#ROOMS
+#1050
+Entrance to the Waterfalls~
+You can hear the rushing sound of water falling in front of you. 
+Greenery and shrubs surround it, getting splattered by the water.  It seems
+like the only way out is the way you came from.  
+~
+0 0 6
+D4
+~
+~
+1 0 1051
+S
+#1051
+On the waterfalls~
+In the crystal-clear stream, as you struggle to swim with the salmons,
+you wonder how they manage this.  There is no time to enjoy the beautiful
+scenery, with the lush green bushes on each side on the rocky cliffs.  The
+salmon are all swimming around you.  
+~
+0 0 6
+D0
+~
+~
+0 0 1052
+D5
+~
+~
+1 0 1050
+S
+#1052
+On the waterfalls~
+In the crystal-clear stream, as you struggle to swim with the salmons,
+you wonder how they manage this.  There is no time to enjoy the beautiful
+scenery, with the lush green bushes on each side on the rocky cliffs.  The
+salmon are all swimming around you.  
+~
+0 0 6
+D0
+~
+~
+0 0 1055
+D1
+~
+~
+0 0 1053
+D2
+~
+~
+0 0 1051
+D3
+~
+~
+0 0 1054
+S
+#1053
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1057
+D3
+~
+~
+0 0 1052
+S
+#1054
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1058
+D1
+~
+~
+0 0 1052
+S
+#1055
+On the waterfalls~
+In the crystal-clear stream, as you struggle to swim with the salmons,
+you wonder how they manage this.  There is no time to enjoy the beautiful
+scenery, with the lush green bushes on each side on the rocky cliffs.  The
+salmon are all swimming around you.  
+~
+0 0 6
+D1
+~
+~
+0 0 1057
+D2
+~
+~
+0 0 1052
+D3
+~
+~
+0 0 1058
+D4
+~
+~
+0 0 1056
+S
+#1056
+On the waterfalls~
+In the crystal-clear stream, as you struggle to swim with the salmons,
+you wonder how they manage this.  There is no time to enjoy the beautiful
+scenery, with the lush green bushes on each side on the rocky cliffs.  The
+salmon are all swimming around you.  
+~
+0 0 6
+D0
+~
+~
+0 0 1062
+D1
+~
+~
+0 0 1059
+D3
+~
+~
+0 0 1060
+D5
+~
+~
+0 0 1055
+S
+#1057
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D2
+~
+~
+0 0 1053
+D3
+~
+~
+0 0 1055
+D4
+~
+~
+0 0 1059
+S
+#1058
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D1
+~
+~
+0 0 1055
+D2
+~
+~
+0 0 1054
+D4
+~
+~
+0 0 1060
+S
+#1059
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1061
+D3
+~
+~
+0 0 1056
+D5
+~
+~
+0 0 1057
+S
+#1060
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D1
+~
+~
+0 0 1056
+D5
+~
+~
+0 0 1058
+S
+#1061
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1064
+D1
+~
+~
+0 0 1072
+D2
+~
+~
+0 0 1059
+D3
+~
+~
+0 0 1062
+S
+#1062
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1063
+D1
+~
+~
+0 0 1061
+D2
+~
+~
+0 0 1056
+D3
+~
+~
+0 0 1085
+S
+#1063
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1065
+D1
+~
+~
+0 0 1064
+D2
+~
+~
+0 0 1062
+D3
+~
+~
+0 0 1066
+S
+#1064
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1069
+D1
+~
+~
+0 0 1073
+D2
+~
+~
+0 0 1061
+D3
+~
+~
+0 0 1063
+S
+#1065
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1070
+D1
+~
+~
+0 0 1069
+D2
+~
+~
+0 0 1063
+D3
+~
+~
+0 0 1067
+S
+#1066
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1067
+D1
+~
+~
+0 0 1063
+D2
+~
+~
+0 0 1085
+D3
+~
+~
+0 0 1083
+S
+#1067
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1068
+D1
+~
+~
+0 0 1065
+D2
+~
+~
+0 0 1066
+D3
+~
+~
+0 0 1082
+S
+#1068
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1079
+D1
+~
+~
+0 0 1070
+D2
+~
+~
+0 0 1067
+D3
+~
+~
+0 0 1081
+S
+#1069
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1071
+D1
+~
+~
+0 0 1074
+D2
+~
+~
+0 0 1064
+D3
+~
+~
+0 0 1065
+S
+#1070
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1078
+D1
+~
+~
+0 0 1071
+D2
+~
+~
+0 0 1065
+D3
+~
+~
+0 0 1068
+S
+#1071
+Spawning grounds~
+This is where the salmon come to lay their eggs.  Many salmon are
+swimming to and fro, deciding on a suitable position to deposit their eggs. 
+This is the grizzly bear's choice feeding spot.  
+~
+0 0 0
+D0
+~
+~
+0 0 1077
+D1
+~
+~
+0 0 1075
+D2
+~
+~
+0 0 1069
+D3
+~
+~
+0 0 1070
+S
+#1072
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1073
+D3
+~
+~
+0 0 1061
+S
+#1073
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1074
+D2
+~
+~
+0 0 1072
+D3
+~
+~
+0 0 1064
+S
+#1074
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1075
+D2
+~
+~
+0 0 1073
+D3
+~
+~
+0 0 1069
+S
+#1075
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1076
+D2
+~
+~
+0 0 1074
+D3
+~
+~
+0 0 1071
+S
+#1076
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D2
+~
+~
+0 0 1075
+D3
+~
+~
+0 0 1077
+S
+#1077
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D1
+~
+~
+0 0 1076
+D2
+~
+~
+0 0 1071
+D3
+~
+~
+0 0 1078
+S
+#1078
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D1
+~
+~
+0 0 1077
+D2
+~
+~
+0 0 1070
+D3
+~
+~
+0 0 1079
+S
+#1079
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D1
+~
+~
+0 0 1078
+D2
+~
+~
+0 0 1068
+D3
+~
+~
+0 0 1080
+S
+#1080
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D1
+~
+~
+0 0 1079
+D2
+~
+~
+0 0 1081
+S
+#1081
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1080
+D1
+~
+~
+0 0 1068
+D2
+~
+~
+0 0 1082
+S
+#1082
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1081
+D1
+~
+~
+0 0 1067
+D2
+~
+~
+0 0 1083
+S
+#1083
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1082
+D1
+~
+~
+0 0 1066
+D2
+~
+~
+0 0 1084
+S
+#1084
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1083
+D1
+~
+~
+0 0 1085
+S
+#1085
+Rocky pathway~
+Sharp black rocks are jutting out from every side of the ground.  You
+tread carefully, making sure that you do not slip and fall accidentally and
+lose your life.  Small colourful birds are flying around freely, singing and
+chirping.  
+~
+0 0 7
+D0
+~
+~
+0 0 1066
+D1
+~
+~
+0 0 1062
+D3
+~
+~
+0 0 1084
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 1062 0 1050
+M 0 1051 100 1051 1
+M 0 1051 100 1052 2
+M 0 1053 100 1053 2
+M 0 1053 100 1054 2
+M 0 1051 100 1055 1
+M 0 1051 100 1056 2
+M 0 1053 100 1057 2
+M 0 1053 100 1058 2
+M 0 1053 100 1059 1
+M 0 1053 100 1060 1
+M 0 1053 100 1061 1
+M 0 1053 100 1061 1
+M 0 1064 100 1063 1
+M 0 1064 100 1064 2
+M 0 1064 100 1065 1
+M 0 1064 100 1066 2
+M 0 1064 100 1067 1
+M 0 1064 100 1068 2
+M 0 1064 100 1069 2
+M 0 1064 100 1070 1
+M 0 1064 100 1071 2
+M 0 1053 100 1072 1
+M 0 1053 100 1074 2
+M 0 1061 100 1076 1
+E 0 1061 0 9
+M 0 1053 100 1077 2
+M 0 1053 100 1079 2
+M 0 1080 100 1080 1
+E 0 1080 0 16
+M 0 1053 100 1080 1
+M 0 1053 100 1082 1
+M 0 1053 100 1083 2
+M 0 1053 100 1085 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

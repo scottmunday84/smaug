@@ -1,0 +1,1343 @@
+#AREADATA
+Name Forest of M'nram~
+Builders None~
+VNUMs 550 599
+Credits {20  40} Sha/Kat Forest of M'nram~
+Security 9
+End
+
+
+
+#MOBILES
+#558
+elf~
+an {@e{2l{@f{x~
+An {@e{2l{@f {xmerrily picks {5be{%rri{5es{x.
+~
+Assigned by its mother to pick berries, the poor elf has no choice but to collect a basketful before returning to home.
+However, in the midst of picking the berries, the elf has been eating about half of what it has picked.
+The basket is still less than half full, and the sun is about to set.
+~
+elf~
+AG J 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 B Z
+stand stand none 2000
+AHMV ABCDEFGHIJK medium unknown
+#559
+dwarf~
+a dwarf~
+A dwarf raises his axe and bellows, "INTRUDER!!"
+~
+These poor homeless dwarves have been allowed temporary residence under the King's watchful eye.
+~
+dwarf~
+AG J 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+R 0 LQ R
+stand stand male 125
+AHMV ABCDEFGHIJK medium unknown
+#566
+guard~
+a guard~
+A guard is fully alert, ready for anything.
+~
+The guard is busy doing crossword puzzles. If he hears a strange sound, he will peer into the darkness in front, hoping to catch an intruder and gain the king's commendation.
+~
+human~
+ABT 0 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 0 0
+stand stand male 125
+AHMV ABCDEFGHIJK medium unknown
+#568
+servant~
+a servant~
+A servant is fanning the {3Ch{#ieft{3ain{x.
+~
+With a smile of happiness on his face, he is excited to be doing the revered Dwarven Chieftain a service by fanning him.
+~
+dwarf~
+AB J 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+R 0 LQ R
+stand stand male 125
+AHMV ABCDEFGHIJK medium unknown
+#569
+dwarven wife~
+a {3dw{#arv{3en {xwife~
+A {3dw{#arv{3en {xwife is here, fussing over the neatness of her house.
+~
+Clad in tiny embroidered shoes and a laced garment, she snatches up a feather duster and dusts furiously.
+Female dwarves are usually shorter in size than the males, and this one is no exception.
+~
+dwarf~
+AB J 0 1000 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 LQ R
+stand stand female 125
+AHMV ABCDEFGHIJK medium unknown
+#570
+dwarven husband~
+a {3dw{#arv{3en {xhusband~
+A {3dw{#arv{3en {xhusband is gulping down {3beer{x.
+~
+Constantly seen in nearby pubs, this sullen-looking dwarf hurls abuses at his long-suffering wife.
+He spots you, and bellows, 'GET OUT OF HERE!'
+~
+dwarf~
+ABT J 0 1000 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 LQ R
+stand stand none 125
+AHMV ABCDEFGHIJK medium unknown
+#571
+dwarven boy~
+a {3dw{#arv{3en {xboy~
+A {3dw{#arv{3en {xboy is playing with his hammer.
+~
+This boy is having lots of fun, banging his hammer repeatedly on the floor.
+With saliva drooling from his mouth, this boy is really a mess!
+~
+dwarf~
+AG J 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 LQ R
+stand stand none 125
+AHMV ABCDEFGHIJK medium unknown
+#573
+dwarven guard~
+a {3dwarven guard{x~
+A {3dwarven guard{x barrs the way to Chieftain's house.
+~
+With an attentive look behind his helmet, this guard does his job dilligently.
+Besides, if he is caught sleeping on the job, the chieftain will be angry...
+~
+dwarf~
+AB J 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 LQ R
+stand stand male 125
+AHMV ABCDEFGHIJK medium unknown
+#574
+dwarven chieftain~
+{3Dw{#ar{3ven {3Ch{#ieft{3ain {x~
+{3Dw{#ar{3ven {3Ch{#ieft{3ain {xcocks his head up proudly.
+~
+The Dwarven Chieftain cocks his head up proudly at you, as if to say that although his place is messy and unkempt, he is still proud of it.
+~
+human~
+ABT 0 H 0 0
+40 35 10d10+1300 10d10+1300 4d7+11 none
+-18 -18 -18 -18
+0 0 0 0
+stand stand male 250
+AHMV ABCDEFGHIJK medium unknown
+#575
+pixie girl~
+a female {%p{7i{#x{7i{%e{x ~
+A female {%p{7i{#x{7i{%e{x dances around in circles.
+~
+One of the younger few generations of pixies to reside within the forest, this pixie is probably oblivious to the feud going on between the pixies and dwarves.
+Though there are wings that have recently sprouted behind her back, she is still rather new to flying.
+~
+pixie~
+AG EJ 0 0 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+R 0 BP Z
+stand stand female 125
+AHMV ABCDEFGHIJKP tiny unknown
+F aff T
+#577
+a circle of mushrooms~
+a circle of mushrooms~
+A circle of mushrooms surround you.
+~
+In the middle of the green plataeu, a small ring of mushrooms and toadstools neatly form a concentric circle.
+The mushrooms seem to differ from other normal mushrooms, with a certain sparkle and glow sprinkled on it.
+It is said that the circle of mushrooms possesses a certain magical quality.
+~
+sareef~
+AB EJTV R 1000 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+0 0 BPT IZ
+stand stand none 125
+AHMV ABCDEFGHIJKP medium unknown
+#579
+male pixie~
+a male {%p{7i{#x{7i{%e{x~
+A male {%p{7i{#x{7i{%e{x is drinking a pint of milk.
+~
+As is usual for pixies, males are smaller than females, and tend to get bullied.
+The males have been forbidden to drink beer, and have resorted to consuming milk in great amounts.
+~
+pixie~
+AB EJT D 200 0
+40 30 6d12+853 6d12+853 4d6+8 pierce
+-14 -14 -14 -14
+FIK 0 BP Z
+stand stand none 2000
+AHMV ABCDEFGHIJKP tiny unknown
+#590
+lady pixie~
+a lady {%p{7i{#x{7i{%e{x~
+A lady {%p{7i{#x{7i{%e{x is applying some makeup.
+~
+Obviously very concerned about her appearence, she {%dresses {^up whenever she leaves the house.
+She has a whole cupboard full of {%pretty {^dresses, and her favourite hobby is going through them one at a time.
+~
+pixie~
+AB EJT C 200 0
+40 50 6d12+853 6d12+853 4d6+8 pound
+-14 -14 -14 -14
+0 0 BP Z
+stand stand female 2000
+AHMV ABCDEFGHIJKP tiny unknown
+#592
+pixie maid~
+a {%p{7i{#x{7i{%e {%m{#a{7i{%d {x~
+A {%p{7i{#x{7i{%e {%m{#a{7i{%d {xtends to the many needs of the princess.
+~
+Although her years are getting on, she still faithfully tends to the pretty pixie princess, like those before her.
+~
+pixie~
+AB EJT 0 1000 0
+40 30 6d12+853 6d12+853 4d6+8 none
+-14 -14 -14 -14
+R 0 BP Z
+stand stand female 500
+AHMV ABCDEFGHIJKP medium unknown
+#593
+pixie princess~
+{%p{7i{#x{7i{%e {%pr{7i{#nc{7e{%ss {x~
+The {%p{7i{#x{7i{%e {%pr{7i{#nc{7e{%ss {xwelcomes you kindly to her village.
+~
+The princess is definitely the prettiest pixie in the village.
+She exudes an aura of kindness, which befits her generous nature.
+~
+pixie~
+ABR EJT H 1000 0
+40 35 10d10+1300 10d10+1300 4d7+11 pound
+-18 -18 -18 -18
+R 0 BP Z
+stand stand female 1000
+AHMV ABCDEFGHIJKP medium unknown
+#594
+dwarven girl~
+a {3dw{#arv{3en {xgirl~
+A {3dw{#arv{3en {xgirl is playing with her doll.
+~
+The girl is enjoying herself tremendously, fussing over her doll and dressing it up repeatedly over and over again.
+She sits her dolls by the table for a tea party, and pours them small cups of tea and slices of brownies.
+~
+dwarf~
+AG J E -100 0
+40 30 6d12+853 6d12+853 4d6+8 slash
+-14 -14 -14 -14
+P 0 LQ R
+stand stand female 2000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#560
+shimmering portal shadun~
+a shimmering portal~
+A {Gs{gh{Wi{xm{Gm{ge{Wr{xi{Gn{gg{x portal is leading to {DShadun{x.~
+unknown~
+portal AO 0
+0 0 0 20100 0
+0 0 0 P
+#563
+berries~
+some {5be{%rri{5es{x~
+A bunch of {5be{%rri{5es{x are making your mouth {^sa{6liva{^te{x.~
+unknown~
+food 0 A
+3 4 0 0 0
+0 10 10 P
+#573
+banana leaf~
+a {3ba{#na{3na {2l{@ea{2f{x~
+A elegant-looking fan has been misplaced.~
+unknown~
+armor 0 AO
+10 9 11 12 0
+30 40 1000 P
+A
+19 3
+A
+18 3
+A
+13 50
+#574
+chieftain's axe~
+{3Chi{#eft{3ain's {8A{7x{8e of {!Sl{1au{!gh{1ter{!s{x~
+The axe of a fallen Chieftain lies here.~
+unknown~
+weapon TY AN
+axe 5 12 acbite AJ
+30 50 1000 P
+A
+20 -2
+A
+19 4
+A
+18 4
+#593
+tiny pixie wand~
+a tiny {%p{7i{#x{7i{%e {xwand~
+A pixie wand is quivering with energy.~
+unknown~
+wand TY AO
+60 20 20 'frost breath' 0
+30 20 1000 P
+#0
+
+
+
+#ROOMS
+#550
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 553
+D1
+~
+~
+0 0 551
+D3
+~
+~
+0 0 552
+S
+#551
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 554
+D3
+~
+~
+0 0 550
+S
+#552
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 555
+D1
+~
+~
+0 0 550
+S
+#553
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 556
+D1
+~
+~
+0 0 554
+D2
+~
+~
+0 0 550
+D3
+~
+~
+0 0 555
+S
+#554
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 557
+D2
+~
+~
+0 0 551
+D3
+~
+~
+0 0 553
+S
+#555
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 558
+D1
+~
+~
+0 0 553
+D2
+~
+~
+0 0 552
+S
+#556
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 559
+D1
+~
+~
+0 0 557
+D2
+~
+~
+0 0 553
+D3
+~
+~
+0 0 558
+S
+#557
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 560
+D2
+~
+~
+0 0 554
+D3
+~
+~
+0 0 556
+S
+#558
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 561
+D1
+~
+~
+0 0 556
+D2
+~
+~
+0 0 555
+S
+#559
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 564
+D1
+~
+~
+0 0 560
+D2
+~
+~
+0 0 556
+D3
+~
+~
+0 0 561
+S
+#560
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 563
+D1
+~
+~
+0 0 562
+D2
+~
+~
+0 0 557
+D3
+~
+~
+0 0 559
+S
+#561
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 565
+D1
+~
+~
+0 0 559
+D2
+~
+~
+0 0 558
+D3
+~
+~
+0 0 575
+S
+#562
+Path along the Dwarven Village~
+The path to the Dwarven Village is small and rugged, specially made for
+dwarves or people of a short stature.  All around you, you can hear the
+hustle and bustle of movement as busy dwarves move around, arranging to
+their neat little homes.  
+~
+0 0 0
+D0
+~
+~
+0 0 569
+D1
+~
+~
+0 0 568
+D2
+~
+~
+0 0 570
+D3
+~
+~
+0 0 560
+S
+#563
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D2
+~
+~
+0 0 560
+D3
+~
+~
+0 0 564
+S
+#564
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D0
+~
+~
+0 0 450
+D1
+~
+~
+0 0 563
+D2
+~
+~
+0 0 559
+D3
+~
+~
+0 0 565
+S
+#565
+The forests of M'nram~
+The clear, {^blue{x, sky above M'nram temporarily blinds you.  The path
+leading around M'nram is clean and free of any loose {8rubble{x.  The fruits
+and berries which hang on the trees are a luscious {1red{x which makes your
+mouth {$water{x.  
+~
+0 524289 3
+D1
+~
+~
+0 0 564
+D2
+~
+~
+0 0 561
+S
+#566
+Guard house~
+This strong, wooden shelter serves as a temporary 'house' to the guards
+who house beneath.  On the small desk is a book of crossword puzzles.  Looks
+like they have been lazing around.  
+~
+0 4 0
+S
+#567
+Guard house~
+This strong, wooden shelter serves as a temporary 'house' to the guards
+who house beneath.  On the small desk is a book of crossword puzzles.  Looks
+like they have been lazing around.  
+~
+0 4 0
+S
+#568
+Path along the Dwarven Village~
+The path to the Dwarven Village is small and rugged, specially made for
+dwarves or people of a short stature.  All around you, you can hear the
+hustle and bustle of movement as busy dwarves move around, arranging to
+their neat little homes.  
+~
+0 0 0
+D0
+~
+~
+0 0 571
+D1
+~
+~
+0 0 573
+D2
+~
+~
+0 0 572
+D3
+~
+~
+0 0 562
+S
+#569
+Dwarven house~
+This is one of the small and neat houses which most dwarven wives love to
+fuss over, and to compare which is the neatest.  Items are arranged tidily
+along shelves, and everything is in their right places.  The occupants of
+this house obviously care much about their house.  
+~
+0 0 0
+D2
+~
+~
+0 0 562
+D5
+~
+~
+0 0 596
+S
+#570
+Dwarven house~
+This is one of the small and neat houses which most dwarven wives love to
+fuss over, and to compare which is the neatest.  Items are arranged tidily
+along shelves, and everything is in their right places.  The occupants of
+this house obviously care much about their house.  
+~
+0 0 0
+D0
+~
+~
+0 0 562
+D5
+~
+~
+0 0 597
+S
+#571
+Dwarven house~
+This is one of the small and neat houses which most dwarven wives love to
+fuss over, and to compare which is the neatest.  Items are arranged tidily
+along shelves, and everything is in their right places.  The occupants of
+this house obviously care much about their house.  
+~
+0 0 0
+D2
+~
+~
+0 0 568
+D5
+~
+~
+0 0 594
+S
+#572
+Dwarven house~
+This is one of the small and neat houses which most dwarven wives love to
+fuss over, and to compare which is the neatest.  Items are arranged tidily
+along shelves, and everything is in their right places.  The occupants of
+this house obviously care much about their house.  
+~
+0 0 0
+D0
+~
+~
+0 0 568
+D5
+~
+~
+0 0 595
+S
+#573
+Path to the Dwarven Chieftain's house~
+This path leads away from the hustle and bustle of the dwarven village,
+and leads to the Dwarven Chieftain's home.  Many cut trees have fallen on
+the road, symbolising the Chieftain's ferocity.  
+~
+0 0 0
+D1
+~
+~
+0 0 574
+D3
+~
+~
+0 0 568
+S
+#574
+The Dwarven Chieftain's house~
+There is a homemade fan hung on the ceiling, blowing a gentle, cool
+breeze down to the hot Chieftain.  Barrels of beer lie stacked next to the
+walls, ready for consumption.  With no wife to take care of the house, this
+place is messy and unkempt.  
+~
+0 0 0
+D3
+~
+~
+0 0 573
+S
+#575
+Path to the Pixie Village~
+There is no path at all here, as the residents of the village can fly,
+and they do not welcome unfriendly intruders.  You can hear the soft
+whispering of wings as the pixies go about doing their daily chores,
+arranging the tidy little village.  
+~
+0 0 9
+D1
+~
+~
+0 0 561
+D3
+~
+~
+0 0 576
+S
+#576
+Path through the Pixie Village~
+There is no path at all here, as the residents of the village can fly,
+and they do not welcome unfriendly intruders.  You can hear the soft
+whispering of wings as the pixies go about doing their daily chores,
+arranging the tidy little village.  
+~
+0 0 9
+D0
+~
+~
+0 0 577
+D1
+~
+~
+0 0 575
+D2
+~
+~
+0 0 581
+D3
+~
+~
+0 0 578
+S
+#577
+A patch of grass~
+Here, wild grass thrives, growing in every nook and cranny.  The grass is
+lush {@green{x, and you tread carefully on it to avoid crshing the delicate
+miracle of Nature.  Dragonflies skip from flower to flower, collecting
+clear, {#yellow nectar{x.  
+~
+0 0 9
+D2
+~
+~
+0 0 576
+D4
+~
+~
+0 0 579
+S
+#578
+Path through the Pixie Village~
+There is no path at all here, as the residents of the village can fly,
+and they do not welcome unfriendly intruders.  You can hear the soft
+whispering of wings as the pixies go about doing their daily chores,
+arranging the tidy little village.  
+~
+0 0 9
+D0
+~
+~
+0 0 583
+D1
+~
+~
+0 0 576
+D2
+~
+~
+0 0 584
+D3
+~
+~
+0 0 587
+S
+#579
+A pixie house~
+This is one of the many small and neat houses which most pixies live in. 
+Items are arranged in a neat manner along the shelves of cupboards, and
+everything is in their right places.  The occupants obviously care much
+about their house.  
+~
+0 0 9
+D5
+~
+~
+0 0 577
+S
+#580
+A pixie house~
+This is one of the many small and neat houses which most pixies live in. 
+Items are arranged in a neat manner along the shelves of cupboards, and
+everything is in their right places.  The occupants obviously care much
+about their house.  
+~
+0 4 9
+S
+#581
+A patch of grass~
+Here, wild grass thrives, growing in every nook and cranny.  The grass is
+lush {@green{x, and you tread carefully on it to avoid crshing the delicate
+miracle of Nature.  Dragonflies skip from flower to flower, collecting
+clear, {#yellow nectar{x.  
+~
+0 0 9
+D0
+~
+~
+0 0 576
+D4
+~
+~
+0 0 582
+S
+#582
+A pixie house~
+This is one of the many small and neat houses which most pixies live in. 
+Items are arranged in a neat manner along the shelves of cupboards, and
+everything is in their right places.  The occupants obviously care much
+about their house.  
+~
+0 0 9
+D5
+~
+~
+0 0 581
+S
+#583
+A patch of grass~
+Here, wild grass thrives, growing in every nook and cranny.  The grass is
+lush {@green{x, and you tread carefully on it to avoid crshing the delicate
+miracle of Nature.  Dragonflies skip from flower to flower, collecting
+clear, {#yellow nectar{x.  
+~
+0 0 9
+D2
+~
+~
+0 0 578
+D4
+~
+~
+0 0 585
+S
+#584
+A patch of grass~
+Here, wild grass thrives, growing in every nook and cranny.  The grass is
+lush {@green{x, and you tread carefully on it to avoid crshing the delicate
+miracle of Nature.  Dragonflies skip from flower to flower, collecting
+clear, {#yellow nectar{x.  
+~
+0 0 9
+D0
+~
+~
+0 0 578
+D4
+~
+~
+0 0 586
+S
+#585
+A pixie house~
+This is one of the many small and neat houses which most pixies live in. 
+Items are arranged in a neat manner along the shelves of cupboards, and
+everything is in their right places.  The occupants obviously care much
+about their house.  
+~
+0 0 9
+D5
+~
+~
+0 0 583
+S
+#586
+A pixie house~
+This is one of the many small and neat houses which most pixies live in. 
+Items are arranged in a neat manner along the shelves of cupboards, and
+everything is in their right places.  The occupants obviously care much
+about their house.  
+~
+0 0 9
+D5
+~
+~
+0 0 584
+S
+#587
+Path through the Pixie Village~
+There is no path at all here, as the residents of the village can fly,
+and they do not welcome unfriendly intruders.  You can hear the soft
+whispering of wings as the pixies go about doing their daily chores,
+arranging the tidy little village.  
+~
+0 0 9
+D0
+~
+~
+0 0 588
+D1
+~
+~
+0 0 578
+D2
+~
+~
+0 0 589
+D3
+~
+~
+0 0 592
+S
+#588
+A patch of grass~
+Here, wild grass thrives, growing in every nook and cranny.  The grass is
+lush {@green{x, and you tread carefully on it to avoid crshing the delicate
+miracle of Nature.  Dragonflies skip from flower to flower, collecting
+clear, {#yellow nectar{x.  
+~
+0 0 9
+D2
+~
+~
+0 0 587
+D4
+~
+~
+0 0 591
+S
+#589
+A patch of grass~
+Here, wild grass thrives, growing in every nook and cranny.  The grass is
+lush {@green{x, and you tread carefully on it to avoid crshing the delicate
+miracle of Nature.  Dragonflies skip from flower to flower, collecting
+clear, {#yellow nectar{x.  
+~
+0 0 9
+D0
+~
+~
+0 0 587
+D4
+~
+~
+0 0 590
+S
+#590
+A pixie house~
+This is one of the many small and neat houses which most pixies live in. 
+Items are arranged in a neat manner along the shelves of cupboards, and
+everything is in their right places.  The occupants obviously care much
+about their house.  
+~
+0 0 9
+D5
+~
+~
+0 0 589
+S
+#591
+A pixie house~
+This is one of the many small and neat houses which most pixies live in. 
+Items are arranged in a neat manner along the shelves of cupboards, and
+everything is in their right places.  The occupants obviously care much
+about their house.  
+~
+0 0 9
+D5
+~
+~
+0 0 588
+S
+#592
+Beneath the oak tree~
+The branches of this tree are gnarled, because this oak tree is one of
+the oldest objects in this village.  Thick, leafy leaves are sprouting out
+of the newly grown buds.  As you examine the tree, you spot a hole leading
+into the crown of the tree.  The tree exudes a healthy manner, and it is the
+crest of the Pixie Village.  
+~
+0 0 0
+D1
+~
+~
+0 0 587
+D4
+~
+~
+0 0 593
+S
+#593
+The princess's chambers~
+The four walls of this room are onset with sparkling jewels.  Although
+the princess is vain, she is well known throughout the village for her
+legendary kindness.  Although this is actually a hole in the tree, the
+princess has refurnished it such that it looks entirely different from its
+exterior.  
+~
+0 0 0
+D5
+~
+~
+0 0 592
+S
+#594
+Childcare Centre~
+This is where the adult dwarves leave their chlidren while they are
+working.  It is littered with toys of all different kinds, from rattles to
+toy axes.  Dwarven children can be seen crawling around with happy smiles on
+their face.  
+~
+0 1 0
+D2
+~
+~
+0 0 599
+D3
+~
+~
+0 0 596
+D4
+~
+~
+0 0 571
+S
+#595
+Childcare Centre~
+This is where the adult dwarves leave their chlidren while they are
+working.  It is littered with toys of all different kinds, from rattles to
+toy axes.  Dwarven children can be seen crawling around with happy smiles on
+their face.  
+~
+0 1 0
+D0
+~
+~
+0 0 599
+D3
+~
+~
+0 0 597
+D4
+~
+~
+0 0 572
+S
+#596
+Childcare Centre~
+This is where the adult dwarves leave their chlidren while they are
+working.  It is littered with toys of all different kinds, from rattles to
+toy axes.  Dwarven children can be seen crawling around with happy smiles on
+their face.  
+~
+0 1 0
+D1
+~
+~
+0 0 594
+D2
+~
+~
+0 0 598
+D4
+~
+~
+0 0 569
+S
+#597
+Childcare Centre~
+This is where the adult dwarves leave their chlidren while they are
+working.  It is littered with toys of all different kinds, from rattles to
+toy axes.  Dwarven children can be seen crawling around with happy smiles on
+their face.  
+~
+0 1 0
+D0
+~
+~
+0 0 598
+D1
+~
+~
+0 0 595
+D4
+~
+~
+0 0 570
+S
+#598
+Childcare Centre~
+This is where the adult dwarves leave their chlidren while they are
+working.  It is littered with toys of all different kinds, from rattles to
+toy axes.  Dwarven children can be seen crawling around with happy smiles on
+their face.  
+~
+0 1 0
+D0
+~
+~
+0 0 596
+D1
+~
+~
+0 0 599
+D2
+~
+~
+0 0 597
+S
+#599
+Childcare Centre~
+This is where the adult dwarves leave their chlidren while they are
+working.  It is littered with toys of all different kinds, from rattles to
+toy axes.  Dwarven children can be seen crawling around with happy smiles on
+their face.  
+~
+0 1 0
+D0
+~
+~
+0 0 594
+D2
+~
+~
+0 0 595
+D3
+~
+~
+0 0 598
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 558 100 550 2
+O 0 563 0 550
+O 0 560 0 550
+M 0 558 100 551 2
+O 0 563 0 551
+O 0 563 0 552
+M 0 558 100 552 1
+O 0 563 0 553
+M 0 558 100 553 1
+O 0 563 0 554
+M 0 558 100 554 1
+O 0 563 0 555
+M 0 558 100 555 1
+M 0 558 100 556 2
+O 0 563 0 556
+O 0 563 0 557
+M 0 558 100 557 1
+O 0 563 0 558
+M 0 558 100 558 1
+M 0 558 100 559 2
+O 0 563 0 559
+O 0 563 0 560
+M 0 558 100 560 1
+M 0 558 100 561 2
+O 0 563 0 561
+M 0 558 100 563 2
+O 0 563 0 563
+M 0 558 100 564 2
+O 0 563 0 564
+O 0 563 0 565
+M 0 558 100 565 1
+M 0 566 100 566 1
+M 0 566 100 567 1
+M 0 569 100 569 1
+M 0 570 100 569 1
+M 0 569 100 570 1
+M 0 570 100 570 1
+M 0 570 100 571 1
+M 0 569 100 571 1
+M 0 570 100 572 1
+M 0 569 100 572 1
+M 0 573 100 573 2
+M 0 574 100 574 1
+E 0 574 0 16
+M 0 568 100 574 2
+E 0 573 0 17
+M 0 575 100 575 1
+M 0 575 100 576 1
+M 0 577 100 577 1
+M 0 575 100 577 1
+M 0 575 100 578 2
+M 0 590 100 579 1
+M 0 579 100 579 1
+M 0 575 100 581 2
+M 0 590 100 582 1
+M 0 579 100 582 1
+M 0 575 100 583 1
+M 0 575 100 584 2
+M 0 590 100 585 1
+M 0 579 100 585 1
+M 0 590 100 586 1
+M 0 579 100 586 1
+M 0 575 100 587 2
+M 0 575 100 588 1
+M 0 575 100 589 1
+M 0 590 100 590 1
+M 0 579 100 590 1
+M 0 590 100 591 1
+M 0 579 100 591 1
+M 0 593 100 593 1
+E 0 593 0 17
+M 0 592 100 593 1
+M 0 571 100 594 1
+M 0 594 100 594 1
+M 0 571 100 595 1
+M 0 594 100 595 1
+M 0 571 100 596 1
+M 0 594 100 596 1
+M 0 571 100 597 1
+M 0 594 100 597 1
+M 0 571 100 598 1
+M 0 594 100 598 1
+M 0 571 100 599 1
+M 0 594 100 599 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

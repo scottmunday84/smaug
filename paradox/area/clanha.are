@@ -1,0 +1,381 @@
+#AREADATA
+Name Clanhalls~
+Builders None~
+VNUMs 9800 9999
+Credits {01 101} Sha/Kat Clanhalls~
+Security 9
+End
+
+
+
+#MOBILES
+#9801
+Nalixor~
+Nalixor~
+Nalixor nimbly mixes potions.
+~
+Nalixor hobbles about, with a frown on his face.
+When he sees you, the frown lifts slightly. A customer at last!
+~
+human~
+AB 0 0 0 0
+200 1 2d6+10 2d6+10 1d4+0 none
+9 9 9 9
+0 0 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#9802
+greydon~
+Greydon~
+Greydon utters a few healing spells.
+~
+Since young, he has been blessed by Fade with the powers of healing.
+Now, he has been commanded by Fade to serve as healer for Immortals for time immemorial.
+~
+human~
+ABa LTUVc ACDEH 1000 0
+102 102 12d584+2860 12d584+2860 5d20+51 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand none 10000000
+AHMV ABCDEFGHIJK medium unknown
+#9805
+renahs~
+Renahs~
+Renahs is flexing his bulging muscles.
+~
+With a sweaty body and bulging muscles, he is like a girl magnet.
+He has been hired by Fade to train Immortals, and that really counts for something.
+ 
+~
+human~
+ABJKb JLTUVc ACDEH 1000 0
+102 102 12d584+2860 12d584+2860 5d20+51 none
+-73 -73 -73 -73
+0 0 0 0
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#9810
+Hederick~
+Hederick~
+{DHederick, {Wh{xe{Wa{xl{We{xr{D of the {rS{Dh{xa{rd{Wo{Dw{rB{Da{xn{re{D.{x
+~
+{DHederick is a short man enshrouded in black robes, beware for he
+practices in the ways of black magic.  {x 
+~
+human~
+ABa 0 H 0 0
+150 150 13d1166+5190 13d1166+5190 6d25+75 none
+-103 -103 -103 -103
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#9800
+hot geyser~
+a hot geyser~
+A {1h{!o{1t {2ge{@ys{2er {xis spouting out {6w{^ate{6r. {x~
+unknown~
+fountain 0 0
+0 0 'water' 0 0
+0 4 0 P
+#9801
+sugar-covered doughnut~
+{!-{7S{&u{7ga{&R{!-{8covered{!-{3d{#o{3ug{#h{3nu{#t{!-{x~
+A half-eaten doughnut has sugar sprinkled all over it.~
+unknown~
+food OT A
+-1 1 0 0 0
+0 0 1 P
+#9802
+bean bag~
+a {8bean bag {x~
+A {8bean bag {xis lying crumpled on the floor.~
+unknown~
+furniture O 0
+12 1000 CFIL 4000 4000
+0 5 0 P
+#9803
+donation pit~
+the donation pit~
+The donation pit of The Twelve is here.~
+unknown~
+pit 0 0
+1000 0 0 10000 25
+0 5 0 P
+#9804
+jukebox~
+a jukebox~
+A {RJ{Gu{Yk{Me{Cb{Wo{Dx{x is blaring out music.~
+unknown~
+jukebox O 0
+0 0 0 0 0
+0 5 1 P
+#9805
+coca cola~
+{!C{&oc{!a {!C{&ol{!a{x~
+A fizzy drink is here.~
+unknown~
+drink T A
+-1 1 'coke' 0 0
+0 0 1 P
+#9806
+fridge~
+a fridge~
+A fridge is open, with its contents revealed.~
+unknown~
+container 0 0
+10000 0 0 1000000 0
+0 10000 0 P
+#9810
+pool shadows~
+{DA Pool Of {WS{wh{Wa{wd{Wo{ww{Ws{x~
+{DA Pool Of {WS{wh{Wa{wd{Wo{ww{Ws{x {Dis here.{x~
+unknown~
+furniture O 0
+1000 30000 CFIL 2000 2000
+0 0 0 P
+#9811
+pit large chest emblem shadowbane~
+a large chest~
+{DA large chest with the emblem of the {rS{Dh{xa{rd{Wo{Dw{rB{Da{xn{re{D.{x~
+unknown~
+pit O 0
+10000 0 0 10000 1
+0 0 0 P
+#9820
+pool light~
+{Da p{xoo{Wl o{Df l{xig{Wht{x~
+{DA p{xoo{Wl o{Df {Dl{xig{Wht{D is {yg{Yl{Weami{Yn{yg{x here{x.~
+unknown~
+furniture 0 0
+10000 10000 CFIL 2000 2000
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#9800
+The Center~
+All pictures of the Twelve depicting their heroic acts are hung on the
+wall.  This is the clan where only immortals are allowed, puny mortals will
+not be able to enter.  The lucky Twelve chosen by Fade, their leader, will
+be given great authority.  Use it well, or face the dire consequences.  
+~
+0 0 0
+D0
+~
+~
+0 0 9804
+D1
+~
+~
+0 0 9801
+D2
+~
+~
+0 0 9805
+D3
+~
+~
+0 0 9802
+D4
+~
+~
+0 0 20109
+C The Twelve~
+S
+#9801
+Nalixor's room~
+The mystical smell of strange herbs are drifting from a pot.  You peer
+closely, and realize that a figure is stretching out a gnarled hand to mix
+the components together.  Suddenly, the figure turns to you and says, 
+              'What would you like?'
+~
+0 0 0
+D3
+~
+~
+0 0 9800
+C The Twelve~
+S
+#9802
+The healing room~
+This is where tired immortals come for a rest and a good night's sleep. 
+Pillars polished black obsidian are surrounding you, and a beautifully
+carved statue of Fade is in front of you.  An atrium is at the back, from
+which can be seen a beautiful rainbow.  
+~
+0 1024 0
+D1
+~
+~
+0 0 9800
+D2
+~
+~
+0 0 9803
+D3
+~
+~
+0 0 9806
+C The Twelve~
+S
+#9803
+Donation pit~
+You are in a small room south of the healing room.  A small sign on the
+wall notifies you that any unwanted items should be left here for others to
+use.  The only exit is north to where you came from.  
+~
+0 0 0
+D0
+~
+~
+0 0 9802
+C The Twelve~
+S
+#9804
+Relaxation room~
+This room is for immortals who are weary to the bone from all the things
+that immortals have to do.  Loud noise can be heard blaring from a jukebox
+nearby.  Aaah....  This is the life!  
+~
+0 0 0
+D2
+~
+~
+0 0 9800
+C The Twelve~
+S
+#9805
+Training room~
+This is the training room, where Immortals come to train their body. 
+Pictures of muscular Immortals can be seen hanging on the walls, even Fade
+can be seen showing off.  The trainer shows no mercy, if you are not ready
+for this then leave.  
+~
+0 0 0
+D0
+~
+~
+0 0 9800
+C The Twelve~
+S
+#9806
+Food Storage~
+This is where all the food is kept.  Shelves and shelves of them.  From
+ordinary food like apples to exotic food like icy pies, this is a food
+lovers delight.  This is the Immortal's favourite haunt!  
+~
+0 0 0
+D1
+~
+~
+0 0 9802
+C The Twelve~
+S
+#9810
+Center of The StrongHold~
+{DStanding in the center of the StrongHold, you feel a bit of wind cross
+your brow.  The walls are built of a gray stone, and seem to be well built. 
+The walls themselves rise rather high off the ground.  You can see a walk
+way upon the top of the walls, where guards protect this chamber.  As you
+take steps, the ground turns under your feet, although the dirt is rather
+rough.  You look to the corner of the StrongHold to see a few doors leading
+inward.  There is a large Banner hanging on the wall, holding the colors of
+the mighty {rS{Dh{xa{rd{Wo{Dw{rB{Da{xn{re{D.  {x 
+~
+0 1024 0
+D3
+~
+~
+0 0 9811
+D5
+~
+~
+0 0 20109
+C ShadowBane~
+S
+#9811
+Donation Pit~
+{DThe room is dark, the only light coming from the open door on the side
+of the room. In the middle of this room lies a large chest, with the emblem
+of {rS{Dh{xa{rd{Wo{Dw{rB{Da{xn{re{D. The design on the chest doesn't seem to be of this time.
+The chest seems to be made of a very sturdy metal, there is a large lock
+on the chest, preventing unwanted people from viewing its contents.
+On the wall, behind the chest, rests a picture of a mighty warrior,
+towering over his fallen foe.{x
+~
+0 0 0
+D1
+~
+~
+0 0 9810
+C ShadowBane~
+S
+#9820
+The Church of Strife~
+{DThese are the halls of the clan called {DSt{xri{Wfe, the clan striving for
+{Dbalance, for equality, searching for a w{xay {Wto end the battles, at the same
+{Dtime knowing their goal can not be achieved {xea{Wsily and without almost
+{Dendless bloodshed, and balance being obta{xin{Wed just to be destroyed in the
+{Dnext moment. You stand in front of a small al{xta{Wr covered with a piece
+{Dof shimmering cloth, rays of light filter {Dth{xro{Wugh windows framed by finely
+{Dwrought iron. A sense of peace and serenity {xper{Wmeates the whole room and
+{Dat the same time you sense tension and pressure, {xun{Wrest and uneasiness
+{Dlurking in every corner of the room. {xGr{Weat deeds are done, great battles
+{Dare slain, and still, balance is as far {xaw{Way as ever.{x
+~
+0 0 0
+D5
+~
+~
+0 0 20109
+S
+#0
+
+
+
+#SPECIALS
+M 9810 spec_cast_adept
+S
+
+
+
+#RESETS
+O 0 9800 0 9800
+M 0 9801 100 9801 1
+O 0 9802 0 9802
+M 0 9802 100 9802 1
+O 0 9803 0 9803
+O 0 9804 0 9804
+M 0 9805 100 9805 1
+O 0 9806 0 9806
+P 0 9805 10 9806 10
+P 0 9801 10 9806 10
+P 0 1003 10 9806 10
+P 0 107 10 9806 10
+P 0 108 10 9806 10
+O 0 9810 0 9810
+M 0 9810 1 9810 1
+O 0 9811 0 9811
+O 0 9820 0 9820
+S
+
+
+
+#SHOPS
+9801 10 0 0 0 0 100 10 0 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

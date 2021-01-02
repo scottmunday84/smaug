@@ -1,0 +1,8 @@
+Mista !all!~ 3
+Atorn !all!~ 3
+Fade localhost~ 2
+Fade 127.0.0.1~ 2
+Atorn playtester~ 2
+Fadetest !all!~ 3
+End
+
