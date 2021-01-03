@@ -4,4 +4,5 @@ services:
     build:
       context: ./
     ports:
-      - 4000:4000
+      - 8080:8080
+      - 8081:8081
