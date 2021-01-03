@@ -1,6 +1,7 @@
 version: '3'
 services:
   paradox:
+    image: smmunday01/paradox:latest
     build:
       context: ./
     ports:
