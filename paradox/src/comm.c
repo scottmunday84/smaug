@@ -185,7 +185,7 @@ int	socket		args( ( int domain, int type, int protocol ) );
 int	close		args( ( int fd ) );
 /*int	getpeername	args( ( int s, struct sockaddr *name, int *namelen ) );
 int	getsockname	args( ( int s, struct sockaddr *name, int *namelen ) );*/
-int	gettimeofday	args( ( struct timeval *tp, struct timezone *tzp ) );
+// int	gettimeofday	args( ( struct timeval *tp, struct timezone *tzp ) );
 /*int	listen		args( ( int s, int backlog ) );*/
 int	read		args( ( int fd, char *buf, int nbyte ) );
 int	select		args( ( int width, fd_set *readfds, fd_set *writefds,

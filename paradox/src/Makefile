@@ -17,7 +17,7 @@ all:: rot
 
 rot: $(ROT_FILES)
 	rm -f rot
-	$(CC) $(L_FLAGS) -o rot $(ROT_FILES)
+	$(CC) $(L_FLAGS) -o rot $(ROT_FILES) -lm -lcrypt
 
 .c.o: merc.h
 	$(CC) -c $(C_FLAGS) $<

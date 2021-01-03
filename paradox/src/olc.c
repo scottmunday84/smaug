@@ -23,7 +23,7 @@
 #include <time.h>
 #include "merc.h"
 #include "olc.h"
-
+#include "tables.h"
 
 
 /*

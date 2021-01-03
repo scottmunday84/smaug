@@ -928,7 +928,6 @@ void scribe_func(CHAR_DATA *ch, char *argument,const char *verb)
    case 1: sprintf(number,"first"); break;
    case 2: sprintf(number,"second"); break;
    case 3: sprintf(number,"third"); break;
-   default:
   }
   if ( ( sn[i-1] = find_spell( ch,arg[i] ) ) < 0
     || ( !IS_NPC(ch) && (ch->level < skill_table[sn[i-1]].skill_level[ch->class]
@@ -959,7 +958,6 @@ void scribe_func(CHAR_DATA *ch, char *argument,const char *verb)
    case 1: sprintf(number,"first"); break;
    case 2: sprintf(number,"second"); break;
    case 3: sprintf(number,"third"); break;
-   default:
   }
   for(obj=ch->carrying; obj!=NULL;obj=obj_next)
   {
