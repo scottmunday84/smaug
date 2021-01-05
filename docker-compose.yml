@@ -4,6 +4,14 @@ services:
     image: smmunday01/paradox:latest
     build:
       context: ./
+    volumes:
+      - ./paradox/area:/paradox/area
+      - ./paradox/gods:/paradox/gods
+      - ./paradox/player:/paradox/player
+      - paradox_log:/paradox/log
     ports:
       - 8080:8080
       - 8081:8081
+
+volumes:
+  paradox_log:

@@ -8,8 +8,6 @@ RUN make
 FROM ubuntu
 COPY --from=builder /paradox /paradox
 WORKDIR /paradox/area
-RUN mv /paradox/src/rot /paradox/area
-CMD ./rot
+CMD ln -s /paradox/src/rot /paradox/area/rot && ./rot
 EXPOSE 8080
 EXPOSE 8081
-
